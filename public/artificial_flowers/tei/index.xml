@@ -16,15 +16,186 @@
           </fileDesc>
       </teiHeader>
 
-      <facsimile sameAs="https://app.coredata.cloud//core_data/public/v1/items/7802d29a-f8ab-46a4-ad62-b9d796166d95/manifests/2d7080c9-7829-4bb1-a1b2-1fa8b4ddb8df">
-                    
+            <facsimile sameAs="https://app.coredata.cloud//core_data/public/v1/items/7802d29a-f8ab-46a4-ad62-b9d796166d95/manifests/2d7080c9-7829-4bb1-a1b2-1fa8b4ddb8df">
+                    <surface xml:id="f000" ulx="0" uly="0" lrx="4007" lry="5282" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ee6e084f-e499-41cf-b731-e263028ec9ae/canvas/1" ><label xml:lang="en">0001.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ee6e084f-e499-41cf-b731-e263028ec9ae;1"/></surface>
+          <surface xml:id="f001" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9149cbed-8eb8-4235-a7de-5c8af629e1d5/canvas/1" ><label xml:lang="en">0002.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9149cbed-8eb8-4235-a7de-5c8af629e1d5;1"/></surface>
           <surface xml:id="f002" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/efd6e3c3-c564-4984-8c13-83d25a08f7d3/canvas/1" ><label xml:lang="en">0003.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/efd6e3c3-c564-4984-8c13-83d25a08f7d3;1"/></surface>
           <surface xml:id="f003" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cbbe0d53-344b-49ee-ab2b-090326c11527/canvas/1" ><label xml:lang="en">0004.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cbbe0d53-344b-49ee-ab2b-090326c11527;1"/></surface>
           <surface xml:id="f004" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/19791d3d-8353-4a59-8e82-1d0b5a9bfd45/canvas/1" ><label xml:lang="en">0005.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/19791d3d-8353-4a59-8e82-1d0b5a9bfd45;1"/></surface>
-    
+          <surface xml:id="f005" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d15bd544-4976-4f12-9a67-723f73a45145/canvas/1" ><label xml:lang="en">0006.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d15bd544-4976-4f12-9a67-723f73a45145;1"/></surface>
+          <surface xml:id="f006" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f609259f-50b8-4667-b374-d5ba0feaeefe/canvas/1" ><label xml:lang="en">0007.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f609259f-50b8-4667-b374-d5ba0feaeefe;1"/></surface>
+          <surface xml:id="f007" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c5c432d6-8749-4c46-a58d-def754f456cd/canvas/1" ><label xml:lang="en">0008.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c5c432d6-8749-4c46-a58d-def754f456cd;1"/></surface>
+          <surface xml:id="f008" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9978164a-c52a-4238-9ffa-6c3673793f28/canvas/1" ><label xml:lang="en">0009.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9978164a-c52a-4238-9ffa-6c3673793f28;1"/></surface>
+          <surface xml:id="f009" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c3915155-1e1d-427f-8640-548d50718b42/canvas/1" ><label xml:lang="en">0010.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c3915155-1e1d-427f-8640-548d50718b42;1"/></surface>
+          <surface xml:id="f010" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c7079ee0-5fe3-49e3-8910-af1905a3d098/canvas/1" ><label xml:lang="en">0011.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c7079ee0-5fe3-49e3-8910-af1905a3d098;1"/></surface>
+          <surface xml:id="f011" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/52f2876f-271b-4a1f-aaa1-a12c6aa34832/canvas/1" ><label xml:lang="en">0012.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/52f2876f-271b-4a1f-aaa1-a12c6aa34832;1"/></surface>
+          <surface xml:id="f012" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f2f097d0-b421-4bfd-9467-07492a267845/canvas/1" ><label xml:lang="en">0013.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f2f097d0-b421-4bfd-9467-07492a267845;1"/></surface>
+          <surface xml:id="f013" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/552b6886-ed1f-48e1-b724-1d4ca36dfd36/canvas/1" ><label xml:lang="en">0014.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/552b6886-ed1f-48e1-b724-1d4ca36dfd36;1"/></surface>
+          <surface xml:id="f014" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1ffb5cdb-9bcc-4402-a67d-51d95a32898a/canvas/1" ><label xml:lang="en">0015.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1ffb5cdb-9bcc-4402-a67d-51d95a32898a;1"/></surface>
+          <surface xml:id="f015" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e3ae17fb-5eea-4926-8c94-a1312eb1d6fa/canvas/1" ><label xml:lang="en">0016.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e3ae17fb-5eea-4926-8c94-a1312eb1d6fa;1"/></surface>
+          <surface xml:id="f016" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f26e020a-d344-4ba4-966d-50e9c806eb14/canvas/1" ><label xml:lang="en">0017.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f26e020a-d344-4ba4-966d-50e9c806eb14;1"/></surface>
+          <surface xml:id="f017" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/5bad9d71-a0ab-432c-8ec2-88b679250b74/canvas/1" ><label xml:lang="en">0018.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/5bad9d71-a0ab-432c-8ec2-88b679250b74;1"/></surface>
+          <surface xml:id="f018" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/74fd722f-6b9d-425e-b261-f5f6a7b70cf8/canvas/1" ><label xml:lang="en">0019.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/74fd722f-6b9d-425e-b261-f5f6a7b70cf8;1"/></surface>
+          <surface xml:id="f021" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/43bcadba-5654-4a39-8c68-be8d743cc486/canvas/1" ><label xml:lang="en">0020.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/43bcadba-5654-4a39-8c68-be8d743cc486;1"/></surface>
+          <surface xml:id="f022" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9895c5a0-f3c5-4bba-a51c-13756e01dfec/canvas/1" ><label xml:lang="en">0021.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9895c5a0-f3c5-4bba-a51c-13756e01dfec;1"/></surface>
+          <surface xml:id="f023" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e0735666-21ea-43e6-a564-195c08866134/canvas/1" ><label xml:lang="en">0022.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e0735666-21ea-43e6-a564-195c08866134;1"/></surface>
+          <surface xml:id="f024" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/607c388e-8886-42a8-aa5d-7a46dfcf8a1e/canvas/1" ><label xml:lang="en">0023.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/607c388e-8886-42a8-aa5d-7a46dfcf8a1e;1"/></surface>
+          <surface xml:id="f025" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/da42f623-f823-4921-a910-07aba086f39d/canvas/1" ><label xml:lang="en">0024.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/da42f623-f823-4921-a910-07aba086f39d;1"/></surface>
+          <surface xml:id="f026" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d81bb293-e38f-46a4-bae7-4db09fd0d034/canvas/1" ><label xml:lang="en">0025.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d81bb293-e38f-46a4-bae7-4db09fd0d034;1"/></surface>
+          <surface xml:id="f027" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1ad8b0d6-8b80-427c-a89b-f823b2127070/canvas/1" ><label xml:lang="en">0026.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1ad8b0d6-8b80-427c-a89b-f823b2127070;1"/></surface>
+          <surface xml:id="f028" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a9b307d4-8844-43d6-bbee-b36c3f468cb4/canvas/1" ><label xml:lang="en">0027.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a9b307d4-8844-43d6-bbee-b36c3f468cb4;1"/></surface>
+          <surface xml:id="f029" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/14c2f1ad-e8d7-4faa-b0a8-3f6d63cd1c61/canvas/1" ><label xml:lang="en">0028.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/14c2f1ad-e8d7-4faa-b0a8-3f6d63cd1c61;1"/></surface>
+          <surface xml:id="f030" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1fe02568-4a8f-4c4a-b632-1e5de566e30f/canvas/1" ><label xml:lang="en">0029.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1fe02568-4a8f-4c4a-b632-1e5de566e30f;1"/></surface>
+          <surface xml:id="f033" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7877b7ff-be3a-450c-bf90-b7e77f91919b/canvas/1" ><label xml:lang="en">0030.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7877b7ff-be3a-450c-bf90-b7e77f91919b;1"/></surface>
+          <surface xml:id="f034" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e8bfddca-917a-462b-a513-978f9756eea5/canvas/1" ><label xml:lang="en">0031.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e8bfddca-917a-462b-a513-978f9756eea5;1"/></surface>
+          <surface xml:id="f035" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f20e2c7a-9a15-4011-a81d-94ba174484b4/canvas/1" ><label xml:lang="en">0032.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f20e2c7a-9a15-4011-a81d-94ba174484b4;1"/></surface>
+          <surface xml:id="f036" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b3cfa657-80fa-4e42-af0c-cfaae977bddf/canvas/1" ><label xml:lang="en">0033.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b3cfa657-80fa-4e42-af0c-cfaae977bddf;1"/></surface>
+          <surface xml:id="f037" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a1c18704-cce9-4788-96d0-34645d46acfb/canvas/1" ><label xml:lang="en">0034.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a1c18704-cce9-4788-96d0-34645d46acfb;1"/></surface>
+          <surface xml:id="f038" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1bcf4c2a-1eb6-42d6-83a1-6145b69bdd72/canvas/1" ><label xml:lang="en">0035.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1bcf4c2a-1eb6-42d6-83a1-6145b69bdd72;1"/></surface>
+          <surface xml:id="f039" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8d5cde3f-80a0-4674-aadf-27d24b954e19/canvas/1" ><label xml:lang="en">0036.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8d5cde3f-80a0-4674-aadf-27d24b954e19;1"/></surface>
+          <surface xml:id="f040" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d4ad8515-e14f-492e-aff1-e72d373af432/canvas/1" ><label xml:lang="en">0037.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d4ad8515-e14f-492e-aff1-e72d373af432;1"/></surface>
+          <surface xml:id="f041" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c6fcc994-9ecd-412b-9e0d-e5aea6eabce1/canvas/1" ><label xml:lang="en">0038.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c6fcc994-9ecd-412b-9e0d-e5aea6eabce1;1"/></surface>
+          <surface xml:id="f042" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c4c8e79f-04ea-4bfa-904d-fcef9e51e471/canvas/1" ><label xml:lang="en">0039.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c4c8e79f-04ea-4bfa-904d-fcef9e51e471;1"/></surface>
+          <surface xml:id="f045" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/de9e4caa-018b-4ebc-b70b-1aedb3e7b86a/canvas/1" ><label xml:lang="en">0040.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/de9e4caa-018b-4ebc-b70b-1aedb3e7b86a;1"/></surface>
+          <surface xml:id="f046" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/4f4da5cb-2134-42b1-9900-b0b54875b1ae/canvas/1" ><label xml:lang="en">0041.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/4f4da5cb-2134-42b1-9900-b0b54875b1ae;1"/></surface>
+          <surface xml:id="f047" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d3297fb3-d279-4c64-85d0-d8e5ce5df3db/canvas/1" ><label xml:lang="en">0042.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d3297fb3-d279-4c64-85d0-d8e5ce5df3db;1"/></surface>
+          <surface xml:id="f048" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/46e5d087-110c-4d9d-a32b-0a87467a4c8d/canvas/1" ><label xml:lang="en">0043.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/46e5d087-110c-4d9d-a32b-0a87467a4c8d;1"/></surface>
+          <surface xml:id="f049" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/bb6cd410-fb20-4ae4-84a2-66ebb15d1728/canvas/1" ><label xml:lang="en">0044.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/bb6cd410-fb20-4ae4-84a2-66ebb15d1728;1"/></surface>
+          <surface xml:id="f050" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/dd1af954-2d74-4a48-bed5-9c0c5c3cc6ee/canvas/1" ><label xml:lang="en">0045.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/dd1af954-2d74-4a48-bed5-9c0c5c3cc6ee;1"/></surface>
+          <surface xml:id="f051" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/29e3c910-5b0b-442b-bcdd-a297bb015dda/canvas/1" ><label xml:lang="en">0046.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/29e3c910-5b0b-442b-bcdd-a297bb015dda;1"/></surface>
+          <surface xml:id="f052" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/631b1a14-69ce-4d21-b780-8c754e15b667/canvas/1" ><label xml:lang="en">0047.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/631b1a14-69ce-4d21-b780-8c754e15b667;1"/></surface>
+          <surface xml:id="f053" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/da9a9279-6418-48a5-8272-2dbfa7783caa/canvas/1" ><label xml:lang="en">0048.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/da9a9279-6418-48a5-8272-2dbfa7783caa;1"/></surface>
+          <surface xml:id="f054" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b0860c76-0012-429e-8057-326f1b3a58ea/canvas/1" ><label xml:lang="en">0049.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b0860c76-0012-429e-8057-326f1b3a58ea;1"/></surface>
+          <surface xml:id="f057" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c111dc3f-8032-41ef-9368-4c46dcc28865/canvas/1" ><label xml:lang="en">0050.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c111dc3f-8032-41ef-9368-4c46dcc28865;1"/></surface>
+          <surface xml:id="f058" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/94ce2838-afca-41b4-b13e-b8332f32ddb2/canvas/1" ><label xml:lang="en">0051.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/94ce2838-afca-41b4-b13e-b8332f32ddb2;1"/></surface>
+          <surface xml:id="f059" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ed52e1d3-c1b0-4418-af8e-e4019a9d294f/canvas/1" ><label xml:lang="en">0052.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ed52e1d3-c1b0-4418-af8e-e4019a9d294f;1"/></surface>
+          <surface xml:id="f060" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/59c0a729-2bfe-4cb6-8af9-f4c0fa92a82a/canvas/1" ><label xml:lang="en">0053.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/59c0a729-2bfe-4cb6-8af9-f4c0fa92a82a;1"/></surface>
+          <surface xml:id="f061" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/76cd1c15-cdef-4209-9932-2dd459d7acb8/canvas/1" ><label xml:lang="en">0054.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/76cd1c15-cdef-4209-9932-2dd459d7acb8;1"/></surface>
+          <surface xml:id="f062" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8c8e5669-7281-4bfe-9851-938adee91729/canvas/1" ><label xml:lang="en">0055.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8c8e5669-7281-4bfe-9851-938adee91729;1"/></surface>
+          <surface xml:id="f063" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/437b4775-a39b-467b-be3d-5b7a221f97a7/canvas/1" ><label xml:lang="en">0056.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/437b4775-a39b-467b-be3d-5b7a221f97a7;1"/></surface>
+          <surface xml:id="f064" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/fda3a79f-74aa-4fa5-9010-5dadb396e65a/canvas/1" ><label xml:lang="en">0057.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/fda3a79f-74aa-4fa5-9010-5dadb396e65a;1"/></surface>
+          <surface xml:id="f065" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/867545af-82b1-4d03-8c38-525495d3a69b/canvas/1" ><label xml:lang="en">0058.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/867545af-82b1-4d03-8c38-525495d3a69b;1"/></surface>
+          <surface xml:id="f066" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/39765df0-aae3-42bd-b21d-77179756adb3/canvas/1" ><label xml:lang="en">0059.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/39765df0-aae3-42bd-b21d-77179756adb3;1"/></surface>
+          <surface xml:id="f069" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c7636de5-342a-49fb-828b-8372dc901c6f/canvas/1" ><label xml:lang="en">0060.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c7636de5-342a-49fb-828b-8372dc901c6f;1"/></surface>
+          <surface xml:id="f070" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/fd5d7c0a-632b-4c18-a408-9d60b7f70b39/canvas/1" ><label xml:lang="en">0061.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/fd5d7c0a-632b-4c18-a408-9d60b7f70b39;1"/></surface>
+          <surface xml:id="f071" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/54b1ef3b-304e-46b9-9f86-481c0ba7d4e2/canvas/1" ><label xml:lang="en">0062.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/54b1ef3b-304e-46b9-9f86-481c0ba7d4e2;1"/></surface>
+          <surface xml:id="f072" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/5e0e42bf-52bc-498f-8b2c-676aca1cf7a0/canvas/1" ><label xml:lang="en">0063.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/5e0e42bf-52bc-498f-8b2c-676aca1cf7a0;1"/></surface>
+          <surface xml:id="f073" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/080ae305-505d-4e01-bc9b-a21e556f8a1d/canvas/1" ><label xml:lang="en">0064.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/080ae305-505d-4e01-bc9b-a21e556f8a1d;1"/></surface>
+          <surface xml:id="f074" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/941ea81d-89d2-4380-afb9-926612528759/canvas/1" ><label xml:lang="en">0065.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/941ea81d-89d2-4380-afb9-926612528759;1"/></surface>
+          <surface xml:id="f075" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e9b3730f-3c28-4087-b650-7825a85a2476/canvas/1" ><label xml:lang="en">0066.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e9b3730f-3c28-4087-b650-7825a85a2476;1"/></surface>
+          <surface xml:id="f076" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8a79ca9e-6617-4070-9bc2-9edcd6346de0/canvas/1" ><label xml:lang="en">0067.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8a79ca9e-6617-4070-9bc2-9edcd6346de0;1"/></surface>
+          <surface xml:id="f077" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e31896ef-0a9f-4ecb-a76c-0ae0d0e9ad2c/canvas/1" ><label xml:lang="en">0068.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e31896ef-0a9f-4ecb-a76c-0ae0d0e9ad2c;1"/></surface>
+          <surface xml:id="f078" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/bf58dd15-dbd4-4441-b0eb-4da4a95a090a/canvas/1" ><label xml:lang="en">0069.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/bf58dd15-dbd4-4441-b0eb-4da4a95a090a;1"/></surface>
+          <surface xml:id="f081" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/efcf5352-927d-4957-a52a-827dff034ed5/canvas/1" ><label xml:lang="en">0070.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/efcf5352-927d-4957-a52a-827dff034ed5;1"/></surface>
+          <surface xml:id="f082" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0bc537a7-b005-468b-a127-41853107871c/canvas/1" ><label xml:lang="en">0071.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0bc537a7-b005-468b-a127-41853107871c;1"/></surface>
+          <surface xml:id="f083" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d542c046-0ec8-433a-a56b-ffcd42e9a5b4/canvas/1" ><label xml:lang="en">0072.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d542c046-0ec8-433a-a56b-ffcd42e9a5b4;1"/></surface>
+          <surface xml:id="f084" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/2347c275-0374-4ea6-bac6-dc40bf973173/canvas/1" ><label xml:lang="en">0073.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/2347c275-0374-4ea6-bac6-dc40bf973173;1"/></surface>
+          <surface xml:id="f085" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/90a0ed88-a1df-47b6-bf93-839d37aa755e/canvas/1" ><label xml:lang="en">0074.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/90a0ed88-a1df-47b6-bf93-839d37aa755e;1"/></surface>
+          <surface xml:id="f086" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e50bf712-9f93-44d3-b950-6c4aea365a90/canvas/1" ><label xml:lang="en">0075.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e50bf712-9f93-44d3-b950-6c4aea365a90;1"/></surface>
+          <surface xml:id="f087" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7393a13a-3479-471c-a3c9-2bc577241453/canvas/1" ><label xml:lang="en">0076.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7393a13a-3479-471c-a3c9-2bc577241453;1"/></surface>
+          <surface xml:id="f088" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/6ce59ede-9989-41cd-8abb-eb9bfd72a72a/canvas/1" ><label xml:lang="en">0077.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/6ce59ede-9989-41cd-8abb-eb9bfd72a72a;1"/></surface>
+          <surface xml:id="f089" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0ba54ec6-5bb8-43b9-8bc4-6fcf1c314741/canvas/1" ><label xml:lang="en">0078.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0ba54ec6-5bb8-43b9-8bc4-6fcf1c314741;1"/></surface>
+          <surface xml:id="f090" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/51604dfa-1fed-4336-8083-e6fa47aba666/canvas/1" ><label xml:lang="en">0079.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/51604dfa-1fed-4336-8083-e6fa47aba666;1"/></surface>
+          <surface xml:id="f093" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/153c1d6b-1979-4975-98f3-2c01454161bd/canvas/1" ><label xml:lang="en">0080.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/153c1d6b-1979-4975-98f3-2c01454161bd;1"/></surface>
+          <surface xml:id="f094" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8f18c59a-336e-4220-bc0b-fa1bc81aea99/canvas/1" ><label xml:lang="en">0081.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8f18c59a-336e-4220-bc0b-fa1bc81aea99;1"/></surface>
+          <surface xml:id="f095" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/95e04af3-ef2e-48bb-a200-cfb03de4f6a0/canvas/1" ><label xml:lang="en">0082.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/95e04af3-ef2e-48bb-a200-cfb03de4f6a0;1"/></surface>
+          <surface xml:id="f096" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f87a5eb3-1516-4749-afdf-75304f1201c4/canvas/1" ><label xml:lang="en">0083.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f87a5eb3-1516-4749-afdf-75304f1201c4;1"/></surface>
+          <surface xml:id="f097" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ca77eeec-47cd-4b5e-85dc-aa4046fd7420/canvas/1" ><label xml:lang="en">0084.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ca77eeec-47cd-4b5e-85dc-aa4046fd7420;1"/></surface>
+          <surface xml:id="f098" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ed791333-6c7d-4963-9351-9cc0d96d56ea/canvas/1" ><label xml:lang="en">0085.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ed791333-6c7d-4963-9351-9cc0d96d56ea;1"/></surface>
+          <surface xml:id="f099" ulx="0" uly="0" lrx="4007" lry="5282" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a54797aa-ce0a-4c50-81dd-4f5ccb199bae/canvas/1" ><label xml:lang="en">0086.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a54797aa-ce0a-4c50-81dd-4f5ccb199bae;1"/></surface>
+          <surface xml:id="f100" ulx="0" uly="0" lrx="4583" lry="6779" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/69197a86-e000-413b-a9c9-1a4a5217940b/canvas/1" ><label xml:lang="en">0087.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/69197a86-e000-413b-a9c9-1a4a5217940b;1"/></surface>
+          <surface xml:id="f101" ulx="0" uly="0" lrx="1323" lry="5469" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d3c396f0-82ff-4e60-bde5-81463bfa631a/canvas/1" ><label xml:lang="en">0088.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d3c396f0-82ff-4e60-bde5-81463bfa631a;1"/></surface>
+          <surface xml:id="f019" ulx="0" uly="0" lrx="6630" lry="5121" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e4990df8-1928-4802-af1e-f373e227dc26/canvas/1" ><label xml:lang="en">001r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e4990df8-1928-4802-af1e-f373e227dc26;1"/></surface>
+          <surface xml:id="f020" ulx="0" uly="0" lrx="6630" lry="5121" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/2505cd03-c6e8-478d-a5ff-58695e3b757f/canvas/1" ><label xml:lang="en">001v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/2505cd03-c6e8-478d-a5ff-58695e3b757f;1"/></surface>
+          <surface xml:id="f031" ulx="0" uly="0" lrx="3256" lry="3209" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cc48eeb7-23ff-445c-9a84-8edb32468b5f/canvas/1" ><label xml:lang="en">002r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cc48eeb7-23ff-445c-9a84-8edb32468b5f;1"/></surface>
+          <surface xml:id="f032" ulx="0" uly="0" lrx="3256" lry="3209" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a81cb154-9184-4ba5-8212-fc44249b99dc/canvas/1" ><label xml:lang="en">002v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a81cb154-9184-4ba5-8212-fc44249b99dc;1"/></surface>
+          <surface xml:id="f043" ulx="0" uly="0" lrx="1953" lry="2387" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/76765853-683a-4084-b3f2-2ad3852a8c5b/canvas/1" ><label xml:lang="en">003r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/76765853-683a-4084-b3f2-2ad3852a8c5b;1"/></surface>
+          <surface xml:id="f044" ulx="0" uly="0" lrx="1953" lry="2387" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e1156d37-b10d-4375-9a04-f25f2b5bcbbe/canvas/1" ><label xml:lang="en">003v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e1156d37-b10d-4375-9a04-f25f2b5bcbbe;1"/></surface>
+          <surface xml:id="f055" ulx="0" uly="0" lrx="2244" lry="2677" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/979720cd-d671-4f30-a385-16070b85e431/canvas/1" ><label xml:lang="en">004r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/979720cd-d671-4f30-a385-16070b85e431;1"/></surface>
+          <surface xml:id="f056" ulx="0" uly="0" lrx="2244" lry="2677" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/97884f41-290c-4562-a068-6b5037d1675f/canvas/1" ><label xml:lang="en">004v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/97884f41-290c-4562-a068-6b5037d1675f;1"/></surface>
+          <surface xml:id="f067" ulx="0" uly="0" lrx="2051" lry="1738" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7a2856ed-41ae-4a8c-ab41-f1af80394ba0/canvas/1" ><label xml:lang="en">005r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7a2856ed-41ae-4a8c-ab41-f1af80394ba0;1"/></surface>
+          <surface xml:id="f068" ulx="0" uly="0" lrx="2051" lry="1738" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/391ca059-d683-45f6-bc37-fd8fb86c73ef/canvas/1" ><label xml:lang="en">005v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/391ca059-d683-45f6-bc37-fd8fb86c73ef;1"/></surface>
+          <surface xml:id="f079" ulx="0" uly="0" lrx="1937" lry="2321" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/71d73753-41fc-494d-85b1-08c7a5433819/canvas/1" ><label xml:lang="en">006r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/71d73753-41fc-494d-85b1-08c7a5433819;1"/></surface>
+          <surface xml:id="f080" ulx="0" uly="0" lrx="1937" lry="2321" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/77e7df02-b7ba-447a-a2a2-540c1007a976/canvas/1" ><label xml:lang="en">006v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/77e7df02-b7ba-447a-a2a2-540c1007a976;1"/></surface>
+          <surface xml:id="f091" ulx="0" uly="0" lrx="1342" lry="1899" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9965b0a6-74d9-4528-bc2f-d377c25a9da1/canvas/1" ><label xml:lang="en">007r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9965b0a6-74d9-4528-bc2f-d377c25a9da1;1"/></surface>
+          <surface xml:id="f092" ulx="0" uly="0" lrx="1342" lry="1899" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cad998fb-0d22-4e1a-aed2-67b60e79cc21/canvas/1" ><label xml:lang="en">007v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cad998fb-0d22-4e1a-aed2-67b60e79cc21;1"/></surface>
+          <surface xml:id="f102" ulx="0" uly="0" lrx="1564" lry="1586" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9886d94e-68f9-4aaa-bc4b-5e5c0a8733d1/canvas/1" ><label xml:lang="en">008r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9886d94e-68f9-4aaa-bc4b-5e5c0a8733d1;1"/></surface>
+          <surface xml:id="f103" ulx="0" uly="0" lrx="1564" lry="1586" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/aea11a04-ef05-43e9-82b2-69130d720923/canvas/1" ><label xml:lang="en">008v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/aea11a04-ef05-43e9-82b2-69130d720923;1"/></surface>
+          <surface xml:id="f104" ulx="0" uly="0" lrx="1441" lry="1549" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/22f6c33c-417c-42ee-9016-1ce775b27fdd/canvas/1" ><label xml:lang="en">009r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/22f6c33c-417c-42ee-9016-1ce775b27fdd;1"/></surface>
+          <surface xml:id="f105" ulx="0" uly="0" lrx="1441" lry="1549" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ab965309-78ba-406d-8527-ffe91c807175/canvas/1" ><label xml:lang="en">009v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ab965309-78ba-406d-8527-ffe91c807175;1"/></surface>
+          <surface xml:id="f106" ulx="0" uly="0" lrx="1421" lry="1827" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/50adb575-64cb-490c-aaaf-4896406eccc6/canvas/1" ><label xml:lang="en">010r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/50adb575-64cb-490c-aaaf-4896406eccc6;1"/></surface>
+          <surface xml:id="f107" ulx="0" uly="0" lrx="1421" lry="1827" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/5c7f80d1-e00f-4f4c-882c-6d6da426ae60/canvas/1" ><label xml:lang="en">010v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/5c7f80d1-e00f-4f4c-882c-6d6da426ae60;1"/></surface>
+          <surface xml:id="f108" ulx="0" uly="0" lrx="1926" lry="4720" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8579238b-6889-4711-9f06-c4c8ab2eec66/canvas/1" ><label xml:lang="en">011r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8579238b-6889-4711-9f06-c4c8ab2eec66;1"/></surface>
+          <surface xml:id="f109" ulx="0" uly="0" lrx="1926" lry="4720" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/bf045862-bf5f-4d99-842e-4fdd73352d2f/canvas/1" ><label xml:lang="en">011v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/bf045862-bf5f-4d99-842e-4fdd73352d2f;1"/></surface>
+          <surface xml:id="f110" ulx="0" uly="0" lrx="1657" lry="2971" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f7a18bf3-6248-40be-be82-131aa9ae525d/canvas/1" ><label xml:lang="en">012r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f7a18bf3-6248-40be-be82-131aa9ae525d;1"/></surface>
+          <surface xml:id="f111" ulx="0" uly="0" lrx="1657" lry="2971" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a7f4696b-1456-4d53-8f4e-9b65a4ea44fa/canvas/1" ><label xml:lang="en">012v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a7f4696b-1456-4d53-8f4e-9b65a4ea44fa;1"/></surface>
+          <surface xml:id="f112" ulx="0" uly="0" lrx="1728" lry="2195" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/37128bf8-d519-47dc-aae5-78a3984514bd/canvas/1" ><label xml:lang="en">013r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/37128bf8-d519-47dc-aae5-78a3984514bd;1"/></surface>
+          <surface xml:id="f113" ulx="0" uly="0" lrx="1728" lry="2195" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ddcd7ef1-4422-412e-bd26-56107eeb7ee6/canvas/1" ><label xml:lang="en">013v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ddcd7ef1-4422-412e-bd26-56107eeb7ee6;1"/></surface>
+          <surface xml:id="f114" ulx="0" uly="0" lrx="5500" lry="5000" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f3c9ba8b-59de-4210-a409-cafcd4996453/canvas/1" ><label xml:lang="en">014r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f3c9ba8b-59de-4210-a409-cafcd4996453;1"/></surface>
+          <surface xml:id="f115" ulx="0" uly="0" lrx="5500" lry="5000" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b694c784-4902-430f-9d91-4714cb4cdf87/canvas/1" ><label xml:lang="en">014v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b694c784-4902-430f-9d91-4714cb4cdf87;1"/></surface>
+          <surface xml:id="f116" ulx="0" uly="0" lrx="3450" lry="3330" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a3234a1e-caa3-49c1-8f57-ee85787baf73/canvas/1" ><label xml:lang="en">015r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a3234a1e-caa3-49c1-8f57-ee85787baf73;1"/></surface>
+          <surface xml:id="f117" ulx="0" uly="0" lrx="3450" lry="3330" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/026716ef-dcf2-46f5-ab51-931cfcc8bff9/canvas/1" ><label xml:lang="en">015v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/026716ef-dcf2-46f5-ab51-931cfcc8bff9;1"/></surface>
+          <surface xml:id="f118" ulx="0" uly="0" lrx="2147" lry="8927" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/4cb180d0-7307-4775-b6ad-ddc4ff07db94/canvas/1" ><label xml:lang="en">016r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/4cb180d0-7307-4775-b6ad-ddc4ff07db94;1"/></surface>
+          <surface xml:id="f119" ulx="0" uly="0" lrx="2038" lry="9093" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9a4b5deb-831d-4de0-a54c-39da7982505d/canvas/1" ><label xml:lang="en">016v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9a4b5deb-831d-4de0-a54c-39da7982505d;1"/></surface>
+          <surface xml:id="f120" ulx="0" uly="0" lrx="6253" lry="2215" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0d606eaa-d60c-4cbc-8276-6129bb8f29a3/canvas/1" ><label xml:lang="en">017r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0d606eaa-d60c-4cbc-8276-6129bb8f29a3;1"/></surface>
+          <surface xml:id="f121" ulx="0" uly="0" lrx="6253" lry="2215" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e7c94dac-05f1-441e-b24e-4e1afc06f666/canvas/1" ><label xml:lang="en">017v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e7c94dac-05f1-441e-b24e-4e1afc06f666;1"/></surface>
+          <surface xml:id="f122" ulx="0" uly="0" lrx="2257" lry="3420" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/5f539bb5-4da4-4a0d-a64e-205cb12676b0/canvas/1" ><label xml:lang="en">018r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/5f539bb5-4da4-4a0d-a64e-205cb12676b0;1"/></surface>
+          <surface xml:id="f123" ulx="0" uly="0" lrx="2257" lry="3420" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/24997284-d985-4480-a562-d14f2dcd722a/canvas/1" ><label xml:lang="en">018v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/24997284-d985-4480-a562-d14f2dcd722a;1"/></surface>
+          <surface xml:id="f124" ulx="0" uly="0" lrx="1905" lry="1079" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b040d9fa-34ae-4fc3-b31c-493dd5b7fed2/canvas/1" ><label xml:lang="en">019r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b040d9fa-34ae-4fc3-b31c-493dd5b7fed2;1"/></surface>
+          <surface xml:id="f125" ulx="0" uly="0" lrx="1905" lry="1079" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a3f36202-8dc9-4f41-ba3a-a5e88a255034/canvas/1" ><label xml:lang="en">019v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a3f36202-8dc9-4f41-ba3a-a5e88a255034;1"/></surface>
+          <surface xml:id="f126" ulx="0" uly="0" lrx="668" lry="2761" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e7bd9834-21cd-411d-ad8f-fdc26f8fe212/canvas/1" ><label xml:lang="en">020r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e7bd9834-21cd-411d-ad8f-fdc26f8fe212;1"/></surface>
+          <surface xml:id="f127" ulx="0" uly="0" lrx="668" lry="2761" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0759d23b-79e3-433b-b14e-f746d18be8ca/canvas/1" ><label xml:lang="en">020v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0759d23b-79e3-433b-b14e-f746d18be8ca;1"/></surface>
+          <surface xml:id="f128" ulx="0" uly="0" lrx="2137" lry="3229" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/68f7a410-bea5-41e8-87d6-85967303088f/canvas/1" ><label xml:lang="en">021r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/68f7a410-bea5-41e8-87d6-85967303088f;1"/></surface>
+          <surface xml:id="f129" ulx="0" uly="0" lrx="2137" lry="3229" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9861a3f6-722d-4184-a644-15ad7b67339f/canvas/1" ><label xml:lang="en">021v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9861a3f6-722d-4184-a644-15ad7b67339f;1"/></surface>
+          <surface xml:id="f130" ulx="0" uly="0" lrx="8307" lry="5759" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/21df295d-e3c6-4073-8940-caecd7943f2a/canvas/1" ><label xml:lang="en">022r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/21df295d-e3c6-4073-8940-caecd7943f2a;1"/></surface>
+          <surface xml:id="f131" ulx="0" uly="0" lrx="8307" lry="5759" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a9bf1af6-2118-448e-b1de-b28d9a82fa1c/canvas/1" ><label xml:lang="en">022v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a9bf1af6-2118-448e-b1de-b28d9a82fa1c;1"/></surface>
+          <surface xml:id="f132" ulx="0" uly="0" lrx="2419" lry="1195" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/74d18391-3bf3-4bf9-9121-4164c77e2e86/canvas/1" ><label xml:lang="en">023r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/74d18391-3bf3-4bf9-9121-4164c77e2e86;1"/></surface>
+          <surface xml:id="f133" ulx="0" uly="0" lrx="2419" lry="1195" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/897a3e70-1067-43c1-8a02-94e277d946ae/canvas/1" ><label xml:lang="en">023v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/897a3e70-1067-43c1-8a02-94e277d946ae;1"/></surface>
+          <surface xml:id="f134" ulx="0" uly="0" lrx="4094" lry="2858" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/fbe7663c-0dd8-4e51-9922-78d27e092739/canvas/1" ><label xml:lang="en">024r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/fbe7663c-0dd8-4e51-9922-78d27e092739;1"/></surface>
+          <surface xml:id="f135" ulx="0" uly="0" lrx="4094" lry="2858" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/2f610bd0-357d-48e1-8cc2-36513adfd4b1/canvas/1" ><label xml:lang="en">024v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/2f610bd0-357d-48e1-8cc2-36513adfd4b1;1"/></surface>
+          <surface xml:id="f136" ulx="0" uly="0" lrx="1371" lry="2602" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/22a53e34-1b1d-42b4-898e-6d760f199643/canvas/1" ><label xml:lang="en">025r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/22a53e34-1b1d-42b4-898e-6d760f199643;1"/></surface>
+          <surface xml:id="f137" ulx="0" uly="0" lrx="1371" lry="2602" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/bf82c28f-2510-4ff2-8a7b-f182cc5d11f1/canvas/1" ><label xml:lang="en">025v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/bf82c28f-2510-4ff2-8a7b-f182cc5d11f1;1"/></surface>
+          <surface xml:id="f138" ulx="0" uly="0" lrx="4781" lry="4085" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e6d0f238-252d-406c-b359-db414e585450/canvas/1" ><label xml:lang="en">026r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e6d0f238-252d-406c-b359-db414e585450;1"/></surface>
+          <surface xml:id="f139" ulx="0" uly="0" lrx="4781" lry="4085" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d93dd1a9-deeb-4d10-ad74-47f302aa3369/canvas/1" ><label xml:lang="en">026v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d93dd1a9-deeb-4d10-ad74-47f302aa3369;1"/></surface>
+          <surface xml:id="f140" ulx="0" uly="0" lrx="4031" lry="4723" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/eddee459-87ec-4200-b714-3185e643c4c0/canvas/1" ><label xml:lang="en">027r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/eddee459-87ec-4200-b714-3185e643c4c0;1"/></surface>
+          <surface xml:id="f141" ulx="0" uly="0" lrx="4031" lry="4723" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/84e033bc-50d4-4bd9-a860-e5c707b7038f/canvas/1" ><label xml:lang="en">027v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/84e033bc-50d4-4bd9-a860-e5c707b7038f;1"/></surface>
+          <surface xml:id="f142" ulx="0" uly="0" lrx="2745" lry="8113" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b52827c8-5739-472a-8741-f5eec0fb6e87/canvas/1" ><label xml:lang="en">028r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b52827c8-5739-472a-8741-f5eec0fb6e87;1"/></surface>
+          <surface xml:id="f143" ulx="0" uly="0" lrx="2745" lry="8113" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e7294d25-0efd-471a-a56e-ac2a3db21e01/canvas/1" ><label xml:lang="en">028v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e7294d25-0efd-471a-a56e-ac2a3db21e01;1"/></surface>
+          <surface xml:id="f144" ulx="0" uly="0" lrx="5726" lry="4663" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7d3c6dc7-2d4f-43fd-8897-b3eac94e3d8b/canvas/1" ><label xml:lang="en">029r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7d3c6dc7-2d4f-43fd-8897-b3eac94e3d8b;1"/></surface>
+          <surface xml:id="f145" ulx="0" uly="0" lrx="5726" lry="4663" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/48068a0b-231f-4468-a0c0-1a1edf14ef7e/canvas/1" ><label xml:lang="en">029v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/48068a0b-231f-4468-a0c0-1a1edf14ef7e;1"/></surface>
+          <surface xml:id="f146" ulx="0" uly="0" lrx="5125" lry="8074" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9ac26cf4-3388-4d6b-82c1-faba55c9af03/canvas/1" ><label xml:lang="en">030r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9ac26cf4-3388-4d6b-82c1-faba55c9af03;1"/></surface>
+          <surface xml:id="f147" ulx="0" uly="0" lrx="5125" lry="8074" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/305efebd-c36b-4f92-b96f-2aa207a24060/canvas/1" ><label xml:lang="en">030v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/305efebd-c36b-4f92-b96f-2aa207a24060;1"/></surface>
+          <surface xml:id="f148" ulx="0" uly="0" lrx="2531" lry="3788" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e89740c4-dc9c-48bc-bb84-84d01ed308c4/canvas/1" ><label xml:lang="en">031r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e89740c4-dc9c-48bc-bb84-84d01ed308c4;1"/></surface>
+          <surface xml:id="f149" ulx="0" uly="0" lrx="3788" lry="2531" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d6cb3de4-3ae2-41d0-a379-bbddecea01d9/canvas/1" ><label xml:lang="en">031v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d6cb3de4-3ae2-41d0-a379-bbddecea01d9;1"/></surface>
+          <surface xml:id="f150" ulx="0" uly="0" lrx="2815" lry="866" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/3efaa0dc-6da9-46cf-be2b-48db5ed320f3/canvas/1" ><label xml:lang="en">032r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/3efaa0dc-6da9-46cf-be2b-48db5ed320f3;1"/></surface>
+          <surface xml:id="f151" ulx="0" uly="0" lrx="2815" lry="866" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f83f5d6d-7442-4d1d-b160-7b25a3bde7f6/canvas/1" ><label xml:lang="en">032v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f83f5d6d-7442-4d1d-b160-7b25a3bde7f6;1"/></surface>
+          <surface xml:id="f152" ulx="0" uly="0" lrx="4030" lry="2132" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7105c3e7-5abf-484b-9078-bf84a4909c63/canvas/1" ><label xml:lang="en">033r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7105c3e7-5abf-484b-9078-bf84a4909c63;1"/></surface>
+          <surface xml:id="f153" ulx="0" uly="0" lrx="4030" lry="2132" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a5f52458-319b-4561-abd1-3b60cf7e6205/canvas/1" ><label xml:lang="en">033v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a5f52458-319b-4561-abd1-3b60cf7e6205;1"/></surface>
+          <surface xml:id="f154" ulx="0" uly="0" lrx="2756" lry="1531" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/79085e40-7a60-4303-a1f9-0a996cd7f707/canvas/1" ><label xml:lang="en">034r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/79085e40-7a60-4303-a1f9-0a996cd7f707;1"/></surface>
+          <surface xml:id="f155" ulx="0" uly="0" lrx="2756" lry="1531" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/eb9755a8-9d21-4b3a-a021-e4e917037228/canvas/1" ><label xml:lang="en">034v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/eb9755a8-9d21-4b3a-a021-e4e917037228;1"/></surface>
+          <surface xml:id="f156" ulx="0" uly="0" lrx="4663" lry="2079" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7ad1af64-79de-4c8b-82d7-ab731fa87a2a/canvas/1" ><label xml:lang="en">035r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7ad1af64-79de-4c8b-82d7-ab731fa87a2a;1"/></surface>
+          <surface xml:id="f157" ulx="0" uly="0" lrx="4663" lry="2079" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/94acf9b8-17e5-4b47-a0b1-f6c541f2fe13/canvas/1" ><label xml:lang="en">035v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/94acf9b8-17e5-4b47-a0b1-f6c541f2fe13;1"/></surface>
+          <surface xml:id="f158" ulx="0" uly="0" lrx="4866" lry="5726" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/67e20f76-a4cd-4e86-9e9a-eedb7f576fbc/canvas/1" ><label xml:lang="en">036r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/67e20f76-a4cd-4e86-9e9a-eedb7f576fbc;1"/></surface>
+          <surface xml:id="f159" ulx="0" uly="0" lrx="4866" lry="5726" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/96c276f3-d3c4-4d29-a2a5-c86e152412fd/canvas/1" ><label xml:lang="en">036v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/96c276f3-d3c4-4d29-a2a5-c86e152412fd;1"/></surface>
+          <surface xml:id="f160" ulx="0" uly="0" lrx="2609" lry="4083" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/81d89b0e-164e-4fda-9175-3e73b1c0a207/canvas/1" ><label xml:lang="en">037r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/81d89b0e-164e-4fda-9175-3e73b1c0a207;1"/></surface>
+          <surface xml:id="f161" ulx="0" uly="0" lrx="2609" lry="4083" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f4d0c207-0c61-44e2-bd2f-8add811e1a37/canvas/1" ><label xml:lang="en">037v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f4d0c207-0c61-44e2-bd2f-8add811e1a37;1"/></surface>
+          <surface xml:id="f162" ulx="0" uly="0" lrx="2621" lry="3579" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e035fde0-616d-458a-afae-3e405894b95b/canvas/1" ><label xml:lang="en">038r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e035fde0-616d-458a-afae-3e405894b95b;1"/></surface>
+          <surface xml:id="f163" ulx="0" uly="0" lrx="2621" lry="3579" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/3d5086f5-23ed-4c2c-8c1f-dd3ebd0d9fdb/canvas/1" ><label xml:lang="en">038v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/3d5086f5-23ed-4c2c-8c1f-dd3ebd0d9fdb;1"/></surface>
+          <surface xml:id="f164" ulx="0" uly="0" lrx="2377" lry="850" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0a396c6f-ac6c-4911-b5ee-7f481e6a90ff/canvas/1" ><label xml:lang="en">039r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0a396c6f-ac6c-4911-b5ee-7f481e6a90ff;1"/></surface>
+          <surface xml:id="f165" ulx="0" uly="0" lrx="2377" lry="850" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d1da4a9a-a65f-4c5f-9f88-cc58afd49cf6/canvas/1" ><label xml:lang="en">039v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d1da4a9a-a65f-4c5f-9f88-cc58afd49cf6;1"/></surface>
+          <surface xml:id="f166" ulx="0" uly="0" lrx="2096" lry="2372" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/31559ccb-e70c-4ee5-b76b-e43c94e73218/canvas/1" ><label xml:lang="en">040r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/31559ccb-e70c-4ee5-b76b-e43c94e73218;1"/></surface>
+          <surface xml:id="f167" ulx="0" uly="0" lrx="2096" lry="2372" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1792a81a-5f1a-4c05-bd95-75e1956566e7/canvas/1" ><label xml:lang="en">040v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1792a81a-5f1a-4c05-bd95-75e1956566e7;1"/></surface>
+          <surface xml:id="f168" ulx="0" uly="0" lrx="4837" lry="3472" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b821238a-829c-4e16-9192-80ba88743d85/canvas/1" ><label xml:lang="en">041r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b821238a-829c-4e16-9192-80ba88743d85;1"/></surface>
+          <surface xml:id="f169" ulx="0" uly="0" lrx="4837" lry="3472" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/32d82b7c-ae01-4256-b0d4-cd5d9f2eac5c/canvas/1" ><label xml:lang="en">041v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/32d82b7c-ae01-4256-b0d4-cd5d9f2eac5c;1"/></surface>
+          <surface xml:id="f170" ulx="0" uly="0" lrx="3901" lry="4783" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c0802375-8182-4ba8-8e1f-b9ec73995779/canvas/1" ><label xml:lang="en">042r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c0802375-8182-4ba8-8e1f-b9ec73995779;1"/></surface>
+          <surface xml:id="f171" ulx="0" uly="0" lrx="3901" lry="4783" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cf9fd568-42a1-4f0f-aa13-179453b0ed0f/canvas/1" ><label xml:lang="en">042v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cf9fd568-42a1-4f0f-aa13-179453b0ed0f;1"/></surface>
+          <surface xml:id="f172" ulx="0" uly="0" lrx="5090" lry="6509" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a0a447e9-16de-4c72-94e9-af4e77a997d0/canvas/1" ><label xml:lang="en">043r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a0a447e9-16de-4c72-94e9-af4e77a997d0;1"/></surface>
+          <surface xml:id="f173" ulx="0" uly="0" lrx="5090" lry="6509" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a9bb4e5c-582b-4072-a72a-87b30a169729/canvas/1" ><label xml:lang="en">043v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a9bb4e5c-582b-4072-a72a-87b30a169729;1"/></surface>
+
       </facsimile>
 
-      <text xml:id="tc">
+
+       <text xml:id="tc">
 <body><div>
     <pb facs="#f002" />
 <ab>
@@ -105,6 +276,2442 @@
 <lb />secqūe, il faūt toūjoūrs l’amortirre, et le ra=
 <lb />=longer aūec de l’eaū de plūis, oū de fontainne;. et sa 
 <lb />jūsqua tans qūe voūs voiez qūe la taintūr et bien
+</ab>
+
+<pb facs="#f005" />
+<ab>
+<lb />a voūs en serūirre aūec le paincaūx, poūr 
+<lb />tracer aūec, desūr le cambraij, et desūrre le papiez;
+<lb />toūte les petit morcaūx de dras incarlacqūe, que les 
+<lb />tallieūrs jette enūoie, ils sons bon poūr sa, il ne pas
+<lb />nesecaire d’aūoir des grand morcaūx, ~~
+</ab>
+
+<pb facs="#f006" />
+<ab>
+<lb />Comme il faūt, accomoder les
+<lb />toilles poūr faire de fleūrs ~
+<lb />Apres qūe les cambraij, moūchelin, et 
+<lb />toilles, sons for bien laūez, et bien saichez, 
+<lb />il faūt prendre, oū faire une belle enpoise 
+<lb />assez epesse, et pūis enpaisez votre toilles, oū
+<lb />cambraij, de la meme maniere, comme long ~ 
+<lb />enpoise les coiffūr, pūis il faūt pendre les 
+<lb />linge aū cordons, estant bien saiqūe, il faūt 
+<lb />passer la main desūr, des deūx coté dū linge, 
+<lb />poūr la rendre bien unie, pūis les plier aūec
+<lb />la main, de la les mettre dans un papié, il 
+<lb />se faūt garder, de ne pas se serūirre dū 
+<lb />ferre comme lons repasse les linge, ni aūtres
+<lb />instrūment poūr cette fin, il faūt obserūer 
+<lb />cette ordre poūr toūtes les aūtres coūleūrs aūsij. 
+<lb />cette sorte de’toilles, ne pūis serūirre qūe 
+<lb />poūr des fleūrs toūte blanche sans estres ~
+<lb />trasez ~~
+<lb />Aūtre cambraij blan, poūr poūūoir estre 
+<lb />trasez, il faūt prendre dū blan d’amidons, 
+<lb />+ plūtot plūs, qūe moin
+<lb />aūtant qūil en pūis dans une petit cūlier + aūec
+<lb />tant soit peūt de bleū d’empois, aūtant qūe 
+<lb />voūs voūlez l’aūoir bleū; pūis il faūt prendre la
+</ab>
+
+<pb facs="#f007" />
+<ab>
+<lb />moitiez dūn ver de la colle de poisson, pūis
+<lb />bien demeler, et rompre le blan d’anpoise, dans la colle, ensūite il 
+<lb />faūt mettre le brūn bleū d’anpoise de dans, et le bien demaler, pūis plonger 
+<lb />citot la cambraij dans la soupe, aūtans qūe la soūpe en soit toūs penetrez
+<lb />dans le cambraij, me tres bien moūlliez, il faut la bien oūūrir, et preser, et
+<lb />retoūrner, et un peūt froter, plūsieūrs fois, afin qūe la blan, soit bien 
+<lb />pentrez dans la cambraij; de la l’atacher aū corde aūec des epeinghe; ~~
+<lb />me si la corde este de crin, il sūfie de la 
+<lb />pendre, en se gardans, qūe la boū qūil pend
+<lb />n’atache pas ensemble, cette ordre doit estre 
+<lb />obserūez dans toūtes les aūtres coūloeūrs. ~
+</ab>
+<ab>
+<lb />Poūr faire des toille jonates, poūr ja=
+<lb />=semein, et aūtres fleūrs, il faūt mettre 
+<lb />aūec ce blan d’empois, et colle de poisson; 
+<lb />trois, oū qūatre goūte, de gommegūte, ~
+<lb />Poūr en faire des roūgates il faūt 
+<lb />prendre dū blan d’amidons, colle de poisson, 
+<lb />et trois oū qūatre goūte de carmin, ces 
+<lb />sorte de cambraij, ser poūr faire des eūliez
+<lb />et aūtres floeūrs, ~~
+<lb />Les toilles temp se peūt verde, long fait 
+<lb />comme deūant, en versant qūelqūe goūte de
+<lb />la boūteille, oū le vers et dedans, et si 
+<lb />voūs voūlez l’aūoir jonates, voūs metez parmij
+<lb />la colle, et la ver, une goūte oū deūx de 
+<lb />gommegūte. ~~
+<lb />Les cambraij bleū se fait aūec dū brūn bleū
+</ab>
+
+<pb facs="#f008" />
+<ab>
+<lb />encorre une aūtre sorte de palle bleū,
+<lb />poūr le commancement de bleuse alimon, et 
+<lb />de rononcūlle bleūse, baūcoūp mieū qūe le 
+<lb />palle bleū danpois; ~ il faut prendre un + morcaūx
+<lb />noūvaūx de toille bleūse, qūe lon apelle la tain =
+<lb />=tūrre de brūges; bien propre, il faūt le mettre
+<lb />un peūt trenper dans de l’aeū froide; ensūite il
+<lb />faūt le laūer qūe la roūsse, oū noir soūpe en 
+<lb />soit sortie; il faūt jeter cette aeū la enūoie; 
+<lb />pūis il faūt prendre une aūtre claire aeū;
+<lb />fraide aūssi; ensūite il faūt le laūer encorre 
+<lb />une fois dans cette aeū; estant bien laūez, et
+<lb />l’aeū tres bien bleūse, il faūt le prendre or de 
+<lb />l’aeū, et le bien tordre; pūis, il faūt leser cette
+</ab>
+
+<pb facs="#f009" />
+<ab>
+<lb />aeū la, comme sa, sans le remūer trois, oū 
+<lb />qūatre heūre; plūs oū moin; ensūite il faūt
+<lb />ieter la claire aeū enūoie, et le fons 
+<lb />garder puis il faūt prendre vostre toille, et cambraij;
+<lb />et la plonger dans une petit partie de cette aeū, 
+<lb />si bien que voūs ne deūez pas preser l’eaū deor; apres 
+<lb />sa, il le faūt pendre aū corde, estens secqūe,
+<lb />il faūt faire encorre un fois de meme; jūs =
+<lb />=qūa tans qūe voūs voiez qūe la coūleur est 
+<lb />comme voūs voūlez l’aūoir, estant saicqūe
+<lb />il faūt l’anpeser dans la colle de cūire; 
+<lb />sans la preser deor, cepoūrqūoij qūil n’en faūt 
+<lb />prendre qūūnne petit partie de la ditte colle, 
+<lb />afin qūe le cambraij en soit tres bien moūlliez 
+<lb />sans poūūoir goūter, estant pendūe aū corde;
+</ab>
+
+<pb facs="#f010" />
+<ab>
+<lb />d’empoise, et de la colle de poisson, il 
+<lb />faūt coūper le cambraij dans la longeūr, de 
+<lb />deūx, oū trois cars, et la largeūr, de trois tails, 
+<lb />oū une demie car, chaqūe piece de cambraij, 
+<lb />oū de moūselin, doit estre laūez piece, a 
+<lb />piece dans la colle, sans prendre plūs de colle
+<lb />qūe la piece en soit tous moūliez, aūec le
+<lb />bleū aūssi, pūis frotez toūs doūsement le bleū dans 
+<lb />le cambraij, et qūand il et bien bleū, il faūt tenier 
+<lb />chaqūūn un boūt dans la main, ensūite passer
+<lb />la main desūe, dūn boū, a laūtre, pūis le re=
+<lb />=toūrner, et en faire de meme; poūr la rendre 
+<lb />bien unie, ensūite voūs l’atachez, oū pandez
+<lb />aū corde, mais qūand le cambraij et saichez, et 
+<lb />qūil ne pas assez bleū, il le faūt plonger encorre 
+<lb />une fois dans la meme soūpe, et faire comme
+<lb />deūant, sans se serūire de blan d’empois, ces 
+<lb />cambraij, et poūr faire des alimon, qūe lons ap=
+<lb />=pella archeūecqūe, comme aūsij des hiacinte, et
+<lb />des bleūels, &amp;c. ~~~ 
+<lb />la colle de cūire est 
+<lb />aūssi bon poūr faire sa; 
+<lb />et encore mieū, qūe l’aūtre;
+<lb />Le palle bleū se fait de la meme maniere, 
+<lb />mais en place de prendre dū brūn bleū d’ampois 
+<lb />il faūt prendre dū palle bleū d’ampois. ~
+<lb />cette moūchelinne, ser poūr le commencement
+<lb />des archeūecqūe 
+<lb />; notez qūe la palle bleū, fait aūec dū brūn bleū
+<lb />d’anpoisse, est le plūs beaūx, de toūs les aūtres; 
+<lb />coūleūrs;
+<lb />notez les archeūecque son des alimon bleūse, oū violet;
+</ab>
+
+<pb facs="#f011" />
+<ab>
+<lb />Le brūn bleū, et le palle bleū, poūr les 
+<lb />archeūecqūe, etant coūpez, il les faūt tracer
+<lb />aūec dū carmin. ~~~
+<lb />Un aūtre bleū qūe long fait serūirre poūr 
+<lb />le desoūs, des archeūecqūe, qūe long en voie qūa=
+<lb />=sie rien, parceqūe la coūloeūrs ne vaūx rien 
+<lb />qūoij qūel soit belle en apparence, il faūt 
+<lb />prendre un caraū, oū deūx, de lecqūemoūse, 
+<lb />qūe lons etampe, bien liez dans une bonne 
+<lb />toille, pūis le mettre, tremper, un joūr et une 
+<lb />nūit, pūis voūs le faite boūlier, aūec une
+<lb />pinte edemis d’au de plūie, plūtot moin qūe
+<lb />plūs; en presans aūec un baton sūr la toille
+<lb />oū le bleū, et dédans, afin qūe toūs le bleū
+<lb />en sorte, pūis il faūt mettre, le cambraij, oū 
+<lb />la toilles, dans la soūpe boūlier ensemble, 
+<lb />estent un peūt boūlie, il la faūt prendre 
+<lb />or de la soūpe, et les pender sūr les corde
+<lb />estant saichez, si elle ne sont point bleūse 
+<lb />assez, on les peūt plonger encorre une fois, 
+<lb />dans la meme soūpe, et sa plūsieūrs fois 
+<lb />sil en et besoin, estant saicqūe, on les 
+<lb />met en colle de poisson, oū en colle de cūire,
+</ab>
+
+<pb facs="#f012" />
+<ab>
+<lb />Poūr faire encorre ponsaū; poūr faire les alimon, 
+<lb />et le rononcūlle; il faūt prendre, trois ecaille de 
+<lb />moūlet plainne de mien roūge, il le faūt bien froter 
+<lb />aūec un morcaū de mabre, desūr dū mabre oū dū grez; 
+<lb />estant bien frotez; il faūt le jeter dans un ver, oū la 
+<lb />troisieme partie dūn ver de la colle de cūire, aūec une 
+<lb />ecaille de moūlet plainne de vermilion; il faūt bien 
+<lb />le toūlier, et meler ensemble; ensūite il faūt jeter,
+<lb />le cambraij blan dans la colle; et le bien toūrner, et 
+<lb />preser, et retoūrner dans les mains, en le frotent une
+<lb />peūt, afin qūe la teintūre soit bien penetrez, et qūe 
+<lb />le cambraij, moūchelinne, et toille soit bien roūge; 
+<lb />apres il sa, il faūt preser la colle, et taintūrre
+<lb />deor, si bien qūel reste resonnablement bien moū=
+<lb />=liez, pūis il faūt le pendre aū gerniez; et estant secqūe, 
+<lb />la toille, cambraij, et moūchelinne; estant coūpez par 
+<lb />feūlles, il faūt mettre un claire cermain desūr; qūe 
+<lb />voūs voiez estre tres belle coūleūr a vostre volontez;
+</ab>
+
+<pb facs="#f013" />
+<ab>
+<lb />Notez si voūs voiez qūe la taintūr est trop epesse, 
+<lb />aūec un ver de colle de cūire; il en faūt prendre da=
+<lb />=ūantage, toūs jūsqūa tans qūe la soūpe soit bien ◆
+<lb />Notez qūand voūs voūlez faire moin, a dont il faūt
+<lb />prendre dū vermillion, et de la mien a vostre volontez, et le
+<lb />bien demeler dans la colle de cūire; ensūite prendre toūte a la 
+<lb />fois ce qūe voūs aūez preparez poūr taindre; et la jeter aūssitot
+<lb />dans la colle, oū aūtrement die dans la soūpe; il faūt tres peūt 
+<lb />froter, me en la place de sa; il faūt le tres bien le preser, et 
+<lb />retorner, l’oūūrire; et apres sa, encore le preser, et retoūr=
+<lb />=ner, toūs jūsqūa tems qūe la taintūr soit bien penetrez dans 
+<lb />le cambraij; a la fin si voūs voiez, qūe voūs aūez trop de ∞
+<lb />soūpe, oū qūe le cambraij est trop moūliez; il faūt mettre ∞
+<lb />encore qūelqūe piece de cambraij dedans, si bien qūe voūs ne ~
+<lb />deūez rien preser deor; il faūt encore preser cela toūte ensem=
+<lb />=bles aūssi; afin de le faire penetrer dans la taintūr aūssi; ∞
+<lb />Me si voūs voiez toūte aū contrairre, qūe voūs n’aūez pas 
+<lb />de colle, et de la taintūrre assez poūr la cantitez qūe voūs aūez 
+<lb />commencez a taindre; a dons; il + faūt prendre toūte letoffe deor, 
+<lb />ensūite verser de la colle, dans la telle, et il faūt demeler de la 
+<lb />taintūrre encore dedans, apres sa jetter toūte la masse dedans; 
+<lb />et faire comme cij deūant; me la colle, et le cambraij, doit estre chaūde
+</ab>
+
+<pb facs="#f014" />
+<ab>
+<lb />Le bleū poūr les floeūrs, qūe lons appelle
+<lb />des areniez, se fait aūec de la cendre d’an=
+<lb />=gleter, de la meme maniere qūe le bleū d’an=
+<lb />pois, me le bleū de la cendre d’angleter, ne doit
+<lb />pas estra frotez dans la toille si for qūe le 
+<lb />bleū d’ampois, parceqūe la coūleūr et plūs finne, 
+<lb />et qūil sūfie, qūe le cambraij a la coūloeūr de
+<lb />ce bleū, ~~~
+<lb />Poūr en faire de roūge il faūt prendre 
+<lb />dū vermilion, et de la colle de cūire,:
+<lb />la toilles coūpez, par foeūlles, il faūt mettre un
+<lb />claire cermin desur,: la colle de poisson est 
+<lb />aūsij bonne, me aūec la colle de cūire, la cermin 
+<lb />et plūs facille a tracer, il faūt dans la dit 
+<lb />soūpe, froter les cambraij, comme long fait ~
+<lb />aūec les cendre d’angleter, cette toille ser ~
+<lb />poūr faire des rononcūlle, allimone, et con=
+<lb />=stantinobble ~~~
+<lb />Les toilles verde se fait, aūec de la colle 
+<lb />de cūire, et dū ver de la boūteille, sans blan
+<lb />d’ampoise; la colle de poisson est aūsi bonne, 
+<lb />me le cambraij saichez, il le faūt plonger
+<lb />encorre une foie dans cette colle; parceqūe 
+<lb />le ver l’amegrie trop, me la colle de cūire
+</ab>
+
+<pb facs="#f015" />
+<ab>
+<lb />il sūfie aūec la premiere foie, et si 
+<lb />voūs voūlez l’aūoir jonnates, il faūt mettre 
+<lb />parmi la colle, et la ver qūelqūe goūte de
+<lb />la gommegūte, cettes sorte de moūchelinne, 
+<lb />&amp;c ser poūr la commencement des rononcūlle, et
+<lb />allimon, &amp;c. ~~~
+<lb />Poūr tindre la couleūr des jonqūille, il 
+<lb />faūt prendre la groseūr d&apos;ūne grosse noie,
+<lb />de la gommegūte, aūec un peūt de safran 
+<lb />entiere, sans estre etempé, qūil faūt 
+<lb />mettre tramper dans un peūt daū, il 
+<lb />sūfie qūe l’aū soit dans le petit post ~
+<lb />l’aūteūr de la gommegūte; et le safran dans 
+<lb />un aūtre petit post; le leser bien tirer sa
+<lb />coūloeūrs, aūec un peūt d’aū chaūde; la
+<lb />gommegūte estant toūs fondūe, il faūt 
+<lb />verser la moitiez, dans la colle de pois=
+<lb />=son, la cantitez de la moitiez d&apos;ūn ver, 
+<lb />aūssanūiron, pūis il faūt prendre un 
+<lb />peūt de la soūpe de ce safran, qūe voūs 
+<lb />toūllerez toūs ensemble, dans la colle, en= 
+<lb />=sūite, il faūt prendre le cambraij, et ~
+<lb />laūer une piece, dans la dit soūpe, poūr 
+<lb />voire si la coūloeūr et a votre agreation, 
+<lb />me si elle et trop haūt jonne, il faūt
+</ab>
+
+<pb facs="#f016" />
+<ab>
+<lb />ij mettre de la gommegūte, dans la meme
+<lb />soūpe, jūsqūa tent qūel soit bien, et ~ 
+<lb />qūand la coūloeūr et trop pal jonne; il faūt 
+<lb />ij mettre plūs de soūpe de safran, et faire 
+<lb />comme cij deūant, comme aūsij aūec un peūt 
+<lb />de colle; Poūr un esqūelein de gommegūte, aūec
+<lb />poūr six liars, de safran, fait une belle
+<lb />coūloeūrs, il faūt mettre aussi pour deux liar olūn 
+<lb />etanpez, et le bien, rompe, et toūlier ensembles, aūec de l’aeū; ~
+<lb />Poūr le palle jonne, il ne faūt prendre
+<lb />qūe de la gommegūte, aūec de la colle de 
+<lb />poisson; me si le jonne est poūr tracer, il 
+<lb />faūt prendre de la colle de cūire; parce=
+<lb />=qūe le cermin, se trace plūs facillement
+<lb />sūr le cambraij, aūec cette sorte de colle.
+<lb />notez, qūe la gomgūte, et la soūpe de safran ensemble est belle
+<lb />sans olūn aūssi, de meme la gomgūte +seulle sans olūn dedans, elle est plūs pūrre;
+<lb />Notez, toūtes les coūloeūrs jonne, et jonnate, 
+<lb />comme aūsij la coūloeūrs roūge de vermilion, 
+<lb />qūand ce poūr tracer, il faūt toūjoūr l’ampeser
+<lb />aūec la colle de cūire, ~~~
+<lb />✹Le cermin se demelle aūec un peūt d’aū de 
+<lb />plūis, oū de fontaine, pūis,ilfaūt le leser 
+<lb />tremper un joūr, et une nūit, aūant de 
+<lb />senserūire poūr tracer; le cermin doit estre
+<lb />rompūe, oū demelez, dans une ecail d’oūstre, oū
+<lb />bien dans un ver, for plas, aūec la valeūrs d’ūne
+</ab>
+
+<pb facs="#f017" />
+<ab>
+<lb />petit cūlier d’aū, plūtot moin qūe plūs, ~ 
+<lb />me qūand cette eaū et qūasie toūs tracez, 
+<lb />il faūt ij verser encorre qūelqūes goūte
+<lb />d’aū, et ainsij continūer jūsqūa temp qūe 
+<lb />le carmin soit toūs tracez, chaqūe fois 
+<lb />qūe voūs plonge le peincaū, dans le carmin, 
+<lb />il ne faūt pas le plonger trop aūant, ~
+<lb />afin de ne pas for remūer ~ le fons; 
+<lb />par ~ ainsij le carmin, voūs sera plūs pro=
+<lb />=fitable. ~~~~
+<lb />Poūr tracer violet, il faūt demeler dans 
+<lb />un petit poet, oū dans une ecaille d’oūstre, 
+<lb />oū bien, dans un plae ver, de cendre d’an=
+<lb />=gleter, aūec qūatre, oū cinq, goūte de claire
+<lb />gomme, le bleū estant bien demelez aūec la 
+<lb />gomme, il faūt ij verser, poūr eclaircir la 
+<lb />soūpe six, oū hūit goūte d’au, de plūis, oū de
+<lb />fontainne, pūis il faūt le leser tremper 
+<lb />ensemble, trois, oū qūatre heure, ensūite
+<lb />voūs poūūez tracer votre cambraij, et comme
+<lb />aūsij dū papiez, comme lons pintūr les floeūrs, 
+<lb />il faūt plonger le paincaūx dans la teintūre
+<lb />en remūant un peūt le font, afin qūe 
+<lb />le bleū, donne sa teintūre; mais qūand la 
+<lb />soūpe et qūasie toūs tracez, et qūe dans le
+</ab>
+
+<pb facs="#f018" />
+<ab>
+<lb />font la teintūre ne pas encorre toūte ~
+<lb />usez, il faūt ij mettre qūelqūe goūte d’aū, 
+<lb />aūec un goūte de gomme ~ ; me non pas a 
+<lb />chaqūe foie qūe voūs ij metez de l’aū; me 
+<lb />seūlement qūand voūs voiez qūe le bleū, ne 
+<lb />se trace pas bien, car qūand ce bleū a trop 
+<lb />de gomme il et en perille de lūire, et sa 
+<lb />gates l’agreation dū bleū; apres qūe le bleū 
+<lb />et tracez, et bien saichez; sūr le cambraij
+<lb />trasaij; il faūt ij tracer sūr ledit bleū un 
+<lb />claire carmin. ~~~ poūr les rosse, 
+<lb />Poūr tindre coūloeūr de rosse; il faūt
+<lb />prendre un cartron de sanfloūr, qūe lons 
+<lb />met dans un petit sac, de toille blanche; 
+<lb />ensūite on le met tremper dans un seaū 
+<lb />d’eaū de plūis, oū de fontainne; aūsitot on
+<lb />laūe un peūt le sanfloūr, en la sangent
+<lb />d’eaū deūx foie; pūis lons le laisse trem=
+<lb />=per, depūis cinq heūrs edemie, dū soir, jūsqūa
+<lb />cinq heūrs edemie, dū matin; il faūt bien 
+<lb />prendre garde; qūe le petit sac soit bon, 
+<lb />et bien liez; afin qūils n&apos;en sorte pas le 
+<lb />sanfloūr; ensūite il faūt le laūer, en 
+<lb />changent d’aū; des tems, en tems; et sa sans
+</ab>
+
+<pb facs="#f021" />
+<ab>
+<lb />tordre le petit sac, me seūllement le preser, 
+<lb />un peūt, aūec la main, l’eaū deor; et qūand
+<lb />l’eaū demeūre claire, s’est signe qūe le 
+<lb />sanfloūr, et laūez assez; la derniere foij, 
+<lb />qūe voūs l’otez de l’eaū, il faūt bien ~
+<lb />preser, et tordre le petit sac, afin qūe
+<lb />+ si voūs voūlez
+<lb />l’eaū en sorte toūtes entierement. me + il faūt
+<lb />garder cette derniere rainsūr, sans le remūer, toūs jūsqūa tans qūe 
+<lb />voūs aūez besoin de la premiere rainsūr poūr la coūleūr de rosse, a dont il 
+<lb />faūt verser la claire aeū deor sans remūer le fons dūne painte. + et voūs jetez
+<lb />cela dans la premiere rainsūr ~~ + et moin encorre
+<lb />Ensūite on le tire dū sac, et on le met 
+<lb />dans une grand terrine bien propre; il 
+<lb />le faūt bien decarpilier, en le mettant ~ 
+<lb />dans la terrine, pūis lon esparde aūec la 
+<lb />main desūr, un peūt d’eaū de plūis, oū de
+<lb />fontainne; ensūite long verse toūte a=
+<lb />=ūant la sanfloūr, et sa toūdoūsement, une 
+<lb />pinte de leciūe; qūe lons fait aūec de ~ 
+<lb />cendre, qūils se fait aūec dū bois de vinne; 
+<lb />ensūite le bien coūūris, aūec une terine de 
+<lb />la meme grandeūr, aūec qūelqūe coūverte, 
+<lb />afin qūe lair nij entre point, le leser ~ 
+<lb />deūx heūrs comme cela; ensūite on le 
+<lb />pertris, comme lons fait le pain, l’espasse
+<lb />d’ūn card’heūr, pūis il faūt le remettre dans 
+<lb />le petit sac, poūr le passer, dans une
+</ab>
+
+<pb facs="#f022" />
+<ab>
+<lb />✠Notez, aūant de verser le sanfloūrre dans 
+<lb />le petit sacqūe, afin de le torde plūs facille=
+<lb />=ment, il faūt prendre dans une main une
+<lb />ponniez de sanfloūre; et le preser comme sa
+<lb />dans la soūpe; ensūite, estant tres bien presez, 
+<lb />toūte la soūpe deor, il faūt continūer comme
+<lb />sa, toūs jūsqūa tens, qūe toūs le sanfloūre est
+<lb />presez; ensūite il faūt le verser aūssi tot dans 
+<lb />dans le petit sacqūe, et le bien preser toūtes 
+<lb />la soūpe deor; ensūite voūs en serūirre aūsitot; 
+<lb />Notez, si voūs aūez de la leciūe un peūt trop, une 
+<lb />painte et demie, plūs oū moin, selon la contitez
+<lb />dū sanfloūre; voūs poūūez verser sūr le sanfloūre
+</ab>
+
+<pb facs="#f023" />
+<ab>
+<lb />qūil a estez presez la soūpe deor, et 
+<lb />cela dans un pot de terre aūssi; ensūite
+<lb />il faūt faire aūec, comme voūs aūez
+<lb />fait aū premiez; cela donne qūelqūe
+<lb />fois coūleūr; apres qūe voūs aūez laūez
+<lb />le cambraij dans cette soūpe; il faūt le 
+<lb />jeter, dans la soūpe de la premiere cou=
+<lb />=leūr; me seūllement, qūand toūtes les 
+<lb />premiere coūleūrs en sons ottez; de
+<lb />meme aūssi, toūte la rainsūrre: ~~
+<lb />si bien, qūe cette coūleūr la, ne
+<lb />doit estre raincez qūapres toūte les 
+<lb />aūtre coūleūrs de rosse, aūssi; ~
+<lb />il faūt le bien laūer. dans la rainsūrre; ~
+</ab>
+
+<pb facs="#f024" />
+<ab>
+<lb />___, il faūt le partager entre fois, sans repeter, ou trois, entre et __,
+<lb />cela  __afin de tans mi sur prises ________
+</ab>
+<ab>
+<lb />terrine bien propre il faūt tordre le 
+<lb />sac, le plūs fort qūe  lon peūt, afin qūe 
+<lb />toūte la soūpe en sorte, ~~~✠
+<lb />Ensūite lons prepare, aūsitot une aūtre
+<lb />terine, aūec un peūt dū vinaigre de vin
+<lb />blan, bien claire, lon plonge le cambraij, 
+<lb />piece, a piece, dans le dit vinaigre, jūsqūa
+<lb />temp, qūil soit bien moūliez, il faūt pren=
+<lb />=dre la pesanteūr, d’ūn cartron, moin, une
+<lb />demie onse de cambraij; les toūs estant ~
+<lb />bien moūliez, il faūt les prendre aūsijtot 
+<lb />dans les main, en bonne ordre, sans ij~
+<lb />leser une piece; il faūt se depecher qūand 
+<lb />lons fait sa, et le cambraij doit estre pre=
+<lb />=tre dans le vinaigre, aū meme temp, qūe 
+<lb />la soūpe et toūs passez par le petit sac, 
+<lb />mais la personne, qūel a pertrie, et passez le 
+<lb />sanfloūr, se doit garder de ne pas moūlier 
+<lb />ses mains dans le vinaigre, aūant qūe la 
+<lb />personne qūi a moūliez les cambraij dans le 
+<lb />vinaigre, lūi donne la masse, entre les main,
+<lb />L’aient recūe, elle plonge aūsitot, toūte a 
+<lb />~ la foie le cambraij dans la dit soūpe; 
+<lb />il faūt bien le laūer, et decarpilier, et
+</ab>
+
+<pb facs="#f025" />
+<ab>
+<lb />sa d’ūne main leger, aūsi vite qūe lon 
+<lb />peū, jūsqūa temp qūe les cambraij soit bien
+<lb />roūge, et bien penetraij dans la teintūre, pūis 
+<lb />on le laūe piece, a piece, un peūt, et on le ~
+<lb />presse aūec la main, aūsi fort qūon peūt, ~
+<lb />pūis ons le jette dans le vergūe piece, a piece, il faūt le bien
+<lb />oūūrire, et plonger, pūis il faūt preser le vergūe deor. ~~
+<lb />Ensūite on les jettes dans un terine, preparez
+<lb />aūec trois pinte d’eaū, poūr les rincer, un piece 
+<lb />a la foie, il le faūt bien oūvrire, me sans fro=
+<lb />=ter, en aūcūnne maniere, de la on le prend de
+<lb />+ un peut 
+<lb />cette eaū, il faūt preser + l’eaū deor, et on le jettes 
+<lb />dans qūatre, oū trois, aūtres terrine de sūitte, 
+<lb />preparez aūec deūx pinte d’eaū, dans chaqūe
+<lb />terrine, ✠ qūand lons et a la derniere eaū, il 
+<lb />faūt preser bien for l’eaū or dū cambraij, ~
+<lb />[deletion begins]ensūite on le mes, et plonges dans une demie
+<lb />pinte de vergū, plūs, oū moin, a laūenant
+<lb />qūe lon voie, la cantitez dū cambraij, en 
+<lb />tirant le cambraij, piece, a piece, or dū vergū
+<lb />~on le presse dans la main, point si fort
+<lb />~qūe si deūant,[deletion ends] ensūite on le mes dans une
+<lb />terrine for propre, et bien saiqūe, en atten=
+<lb />=dent qūe toūs les aūtres palle coūloeūrs soit 
+<lb />tain, poūr les pendre, toūs ensemble aū ger=
+<lb />=niez, aūec les fenet fermez
+<lb />comme aūsij toutes les aūtres, 
+<lb />coūloeūrs jonqūille, etc. 
+<lb />Cela fait, on laūe encorre une piece ~
+<lb />de cambraij, dans la soūpe en le moūlant ~ 
+<lb />dans le vinaigre aūsi, si il li en a encorre, 
+</ab>
+<ab>
+<lb />✠me sans preser l’eaū deor, si non qūa la 
+<lb />derniere raincūrre; ~
+</ab>
+
+<pb facs="#f026" />
+<ab>
+<lb />Notez une demie pinte de vergūe, plūs oū moin;∞ 
+<lb />a laūenant, qūe lon voie la cantitez dū cambraij, est~
+<lb />assez poūr plonger le cambraij de la coūleūrs de rosse; ∞
+<lb />et si voūs aūez la soūpe d’ūn citron, oū deūx, voūs ∞
+<lb />poūūez bien preser la soūpe toūs deor, dans le vergūe~
+<lb />aūssi; Cmeil faūt se bien garder de ne jamais trenper le 
+<lb />cambraij dans le vergūe apres qūil est rancez, a caūse 
+<lb />qūe cela gate les coūleūrs dans peūt de tems; Cie croie=
+</ab>
+
+<pb facs="#f027" />
+<ab>
+<lb />qūe voūs conprendez bien; qūand voūs faite ∞
+<lb />une demie liūre de sanfloūr; qūil voūs faūt ~
+<lb />prendre deūx painte de leciūe, fait aūec de 
+<lb />cendre de vinne; et poūr trois cartron, trois ∞
+<lb />painte; et poūr une liūre, qūatre painte,◆
+<lb />notez qūand voūs n’aūez pas des citron; il ne pas 
+<lb />necesaire de voūs en serūirre, en aūcūnne maniere; ~
+</ab>
+
+<pb facs="#f028" />
+<ab>
+<lb />car aūterment il ne pas necessaire de le mettre 
+<lb />dans le vinaigre, parceqūe la soūpe, et sūre dū 
+<lb />premiez cambraij, pūis on laūe encorre une aūtre
+<lb />piece, si lon voie qūe la soūpe donne encorre 
+<lb />coūloeūr, pūis on fait, comme cij deūant, ce cambraij
+<lb />doit estre gardez poūr les alimon, parceqūe la coūloeūr
+<lb />ne pas si pūre qūe la premiere et qūel se tache
+<lb />dans soit meme, ~~~ Notez; qūand ons veūx
+<lb />aūoir les cambraij for roūge, il faūt les raincer, seūllement 
+<lb />dans trois terrinne d’eaū ◆
+<lb />Notez, une liūre de sanfloūr, poūr une 
+<lb />liūre de cambraij fait une belle coūloeūrs; me
+<lb />un onsse, oū une onsse edemie moin, fait une 
+<lb />plūs belle coūloeūrs; et qūand lons veūx aūoir 
+<lb />plūsieūrs coūloeūrs brūn roūge; il faūt dis=
+<lb />=perser la soūpe, en trois partie; et prendre 
+<lb />dū cambraij a la bonne veūx, une fois 
+<lb />un peūt plūs, et l’aūtre foie un peūt 
+<lb />moin; a l’aūenant qūe lon voie qūe la 
+<lb />coūloeūr et comme on veūx l’aūoir, ~~~
+<lb />ce qūil sūis est poūr faire, plūsieūrs palle coūleūrs 
+<lb />pour les rosse &amp;c. ~~
+<lb />Apres qūe le premiez cambraij et rincez, 
+<lb />lons prend, deūx, ou trois piece de cambraij, oū de ~ 
+<lb />moūselinne, toūte secqūe, et bien blanche, 
+<lb />sans la mettre dans le vinaigre; et on le laūe
+<lb />:+: le vergūe, pūis on le presse deor, et on le jette dans:+:toūte aūsitot dans :+:
+<lb />la premiere rincūr, on le 
+<lb />laūe aūssi + 
+<lb />+ long temp, qūel deūien roūge, ensūite on le
+<lb />laūe for aūsij, dans les aūtres rinsūr, de
+</ab>
+
+<pb facs="#f029" />
+<ab>
+<lb />sūite, a la derniere, il faūt bien 
+<lb />preser l’eaū deor, [deletion begins] de la on le met dans 
+<lb />le vergū [deletion ends] ; ensūite lon prend encorre une 
+<lb />aūtres piece, et lon fait comme la premiere, 
+<lb />et lon continūe les aūtres piece de cambraij ~
+<lb />comme cela, jūsqūa temp qūe la rinsūr, ne 
+<lb />donne plūs de coūloeūrs, qūils conūient, et ~
+<lb />[deletion begins] qūand on otte le cambraij or dū vergū il 
+<lb />ne faūt pas le preser for dans la main; [deletion ends]
+<lb />Notez le derniez vergūe: peūt de tems apres, gate les 
+<lb />coūleūrs, cepoūrqūoij qūil est efacez:
+<lb />Notez, qūe toūs les pot de terre, doit estre 
+<lb />noūūaūx, et bien propre, ensūite gar=
+<lb />=dez poūr cela,.~~~ ✠
+<lb />✠
+<lb />Le cambraij estant bien saiqūe, on les ~ 
+<lb />plonge dans la colle de poisson, il ne faūt 
+<lb />pas prandre plūs de colle qūe la premiere 
+<lb />coūloeūrs en soit bien moūliez; lon fait de meme
+<lb />aūec les palle coūloeūrs aūsi, le cambraij estant 
+<lb />bien saiqūe, on les pollie aūec la main, de
+<lb />deūx cotez, et lon plis, chaqūe coūloeūrs dans 
+<lb />un papiez blan, et qūand lons veūx senser=
+<lb />=vire, lon ne prend qūūn piece, oū deūx a 
+<lb />la foie. ~~~~ Note comme i’ai die cij deūant,
+<lb />qūe les corde doient estre de
+<lb />crin afin de ne pas attacher, aūec des espinghe les cambraij 
+<lb />aū corde,
+<lb />Notez, le temp le plūs faūorable, poūr ~ 
+<lb />tindre la coūloeūr de rosse, et comme aūsi ~
+<lb />toūte les aūtres coūloeūrs, meme aūsij poūr laūer
+</ab>
+
+<pb facs="#f030" />
+<ab>
+<lb />et imprimer, le parchemain, ce les mois de
+<lb />maij, oū bien le commancement dū mois de 
+<lb />jūin, comme aūsi le commencement dū mois + d’aoūt et
+<lb />de septembre; poūr verdir aūsij le velain, 
+<lb />oū aūterment die, le parchemain. ~~ 
+<lb />Maniere poūr laūer le velain, il faūt le
+<lb />mettre tremper la soir, et le l’andemain, on 
+<lb />le laūe, comme on laūe le linge, piece, a piece, 
+<lb />dans l’eaū de plūis, oū de fontaine, toūte
+<lb />fraide, sans jamais le chaūfer, non pas aūsie
+<lb />poūr le tremper, car le velain, oū parche=
+<lb />=main, deūiendroits aūsie facille a dechirer 
+<lb />qūe le papiez en chaūfans l’eaū; on le laūe 
+<lb />de cette maniere deūx fois la joūr, en chan=
+<lb />=gen d’eaū chaqūe fois, et sa bien hūit joūr de 
+<lb />sūite, me qūan le parchemain est ecrie aūec des 
+<lb />lettres roūge, il faūt ecraper les dit lettre, apres ~
+<lb />aūoir laūe le parchemain, deūx oū trois joūrs, on
+<lb />le prend or de l’eaū, et ons l’epar sūr un planche
+<lb />bien unie, toūs moūliez comme il est, ons d’egrape les 
+<lb />lettre roūge, aūec le tranchan d’ūn canif oū d’ūn coūtaū, 
+<lb />en d’egratans, il faūt tenirre la main for leger, et 
+<lb />retoūrner le parchemain de deūx coté, si ij li a des ~ 
+<lb />lettre roūge aūsie, il faūt si bien d’egrater qūe lons 
+<lb />ne voie rien de roūge, parceqūe le ver, ne pas for assez 
+<lb />poūr coūūerire ce roūge, non pas aūsie, les nottes de 
+<lb />la mūsiqūe, cepoūrqūoij il faūt se garder de ne jarnais, 
+<lb />laūer dū parchemain, aūec des notte de la mūsiqūe
+<lb />car il ne pas propre a verdire.. ~~~
+</ab>
+
+<pb facs="#f033" />
+<ab>
+<lb />Apres qūe le parchemain, et egrapez on
+<lb />les jette dans l’eaū aūsitot, ensūite estant bien 
+<lb />laūez, et le hūit joūrs passez, si l’eaū reste
+<lb />claire s’est signe qūil et laūez assez. ~~
+<lb />Ensūite on le prend or de l’aeū, en le pre=
+<lb />=sent tant soit peūt dans la main, et on 
+<lb />lepar bien polie, dessūs un morceaū de coū=
+<lb />=verte; et lons apliqūe aūsitot dessūs les ~
+<lb />foeūlles dū jardin, aūec l’enūer dessūs le ~
+<lb />velin; cela estant fait, lon met une planche 
+<lb />desūs de la meme grandeūr qūe la planche dis=
+<lb />=posez a cette effect, ensūite lons met encorre 
+<lb />un aūtre morceaū de coūūerte sūr la dit
+<lb />planche, pūis dū parchemin, et des foeuilles, 
+<lb />toūs comme la premiere planche, lon continūe
+<lb />cinq, oū six, planche l’ūne sūr l’aūtre, si 
+<lb />lon veūt, mais a la derniere planche lons 
+<lb />met des poix bien pessant dessūs, le temp de 
+<lb />sept oū hūit joūrs, ~~~
+<lb />Notez qūan le parchemain et otez de la 
+<lb />passe, et qūil ne pas bien imprimez par 
+<lb />toūs, on moūlle aūec un morceaū deponge 
+<lb />la place qūil ne pas bien imprimez, aūsi 
+<lb />frez qūe lon peūt, me il faūt se garder qūe 
+<lb />l’eaū ne coūr pas sūr le velin, ensūite lons
+</ab>
+
+<pb facs="#f034" />
+<ab>
+<lb />apliqūe les foeūilles dū jardin dessūs, et 
+</ab>
+<ab>
+<lb />lons fait comme cij deūant, on ne fait 
+<lb />cecij, qū&apos;ūn joūr, oū deūx, apres qūe le par=
+<lb />=chemin et or de la passe, parceqūe les mor=
+<lb />=ceaū des coūūerte doit estre pendūe a l’aire, 
+<lb />qūand on na pas, la commoditez d’aūoir des mor=
+<lb />=ceaū, lons prend une coūūerte toūte entiere, a 
+<lb />demie usez, plūtot plūs usez qūe moin; mais 
+<lb />qūand la coūūerte est toūte afait usez, on 
+<lb />le plis en deūx poūr sens serūir. ~~
+<lb />En ottant le parchemain de la passe il 
+<lb />faūt le leser checher sūr sa planche, et en=
+<lb />=sūite otter les foeūlles, ~~~
+<lb />Aūtre maniere poūr secher le velin, apres
+<lb />l’aūoir lauez, sans le voūloir imprimer, on le
+<lb />prend or de l’eaū, et on le plaqūe aūsitot sūr 
+<lb />des planche, bien propre. ~~~
+<lb />Poūr faire dū ver, il faūt prendre un 
+<lb />cartron de ver de grie; il doit estre bien ~ 
+<lb />estrampez, on le met le soir, dans un qūoūet
+<lb />bien net, ensūite ij mettre un peūt d’eaū, et
+<lb />le demeler comme sa tres bien, ensūite ij mettre encorre un peūt d’eaū
+<lb />de sorte qūe l’eaū ne preūale point aū 
+<lb />ver de grie, on le lesse ainsi tremper toūte
+<lb />la nūit, le lendemain, on semme dessūs
+</ab>
+
+<pb facs="#f035" />
+<ab>
+<lb />∞ une onsse de tartre blanche, bien
+<lb />+ et poūr deūx liar olūn etanpez 
+<lb />etampez + ensūite l’on verse toūdoūsement 
+<lb />trois pinte d’eaū de plūis, oū de fontaine, 
+<lb />en versant l’aeū dessūs le ver, il le faūt 
+<lb />bien toūlier aūec une petit palet de bois, 
+<lb />a longūe manche
+<lb />+ qūe lons fait poūr cette fin, de la, on le
+<lb />met boūlire et lons continūe de toūlier, jūsqūa 
+<lb />temp qūe le ver commance a boūlire, assez
+<lb />for; il faūt toūjoūr se garder, de ne pas ~
+<lb />atraper la vapeūr de la fūmez qūil sorte 
+<lb />dū ver; parceqūe se dū venin; on le
+<lb />&gt;+en toūlian toūjoūrs
+<lb />laisse boūlire +&lt;/sub jūsqūa temp qūil soit frain 
+<lb />aū s’enūiront de la moitiez; ensūite ~
+<lb />on le laisse refroidir, pūis on le fait
+<lb />passer par un linge for claire; comme 
+<lb />lons fait le fromage, en versant il faūt 
+<lb />se garder de ne pas remūer le fon, me 
+<lb />qūand le claire ver est toūs versez, et 
+<lb />entonnez dans une boūtelle, a la reserūe
+<lb />de trois, oū qūatre cūlier, plūs oū moin 
+<lb />qūon laisse dans le coūet, poūr toūlier 
+<lb />aūec le fon, estant bien toūliez, on le 
+<lb />passe aūsi par le meme linge, dans ūne
+<lb />ecūelle toūs seūlle, ce ver ser poūr verdir les 
+<lb />qūeūs des fleūrs. 
+<lb />notez, le qūoūet de terre, 
+<lb />ne pūis plūs jamais serūir a aūtre chose,
+<lb />il faut qūil soit noūūaūx, et gardez poūr 
+<lb />sa
+</ab>
+
+<pb facs="#f036" />
+<ab>
+<lb />Maniere poūr verdir les qūeūs des fleūrs, 
+<lb />long met dans une ecūelle, une bon cūlier 
+<lb />de petit blan, comme les paintre + qūe lons demelle aūec
+<lb />se serūe, poūr la premiere coūleūr +
+<lb />de la claire gomme, poūr cette fin, long ~
+<lb />met tremper cinq ou six joūrs deūant, une 
+<lb />grosse ponniez de gomme, aūtant qūon pūis 
+<lb />teniere dans une main plūtot plūs, que moin; 
+<lb />aūant de demeler le petit blan on passe 
+<lb />la gomme, par une fort claire linge, comme
+<lb />jaij die poūr le ver, ensūite on demelle aūec, 
+<lb />deūx, oū trois cūlier, de la gommegūt fort 
+<lb />claire, pūis on verse la ver dessūs, et la 
+<lb />reste de la gomme aūsi, mais qūand le ver 
+<lb />espez, ne sūfie pas, poūr bien verdir, on 
+<lb />verse dū ver de la boūtelle; jūsqūa temp 
+<lb />qūe le toūs soit bien a sa volontez, ensūite
+<lb />on le laisse deūenire espez comme dū papein, 
+<lb />en la toūlliant deūx, oū trois fois, le joūr, 
+<lb />cela estant fait; on l’apliqūe sūr les qūeūs 
+<lb />de fleūrs, aūec un pinceaū, les qūeūs estant
+<lb />saiche, si il ne sons pas unie, on le paint
+<lb />aūec la pinceaū, encorre une fois, et sa plū=
+<lb />=sieūrs fois, s&apos;il en est besoin.
+<lb />me une fois est la mieū;
+<lb />est si les qūeūs ne lūite
+<lb />point assez a vostre
+<lb />volontez il faūt passer desūr aūec le paincaū dū
+<lb />blan d’oeūf, bien frapper; ~~~
+<lb />On faist de la meme maniere, poūr les qūeūs 
+<lb />des eūliez, et sa sans se serūirre de gomme=
+</ab>
+
+<pb facs="#f037" />
+<ab>
+<lb />=gūt, si non qūe cinq, oū six goūtes, il faūt 
+<lb />toūjoūrs obserūer, de ne verser jamais le jonne
+<lb />sūr le ver, me bien le ver sūr le jonne. ~
+<lb />Maniere poūr taindre le velin, oū parchemin, 
+<lb />poūr les eūliez, on met dans une petit ecūelle, 
+<lb />cinq, oū six goūtes de la gommegūt, for claire, 
+<lb />comme poūr les qūeūs, des dit fleūrs, ensūite 
+<lb />on verse dessūs en toūllient, le ver de la 
+<lb />boūtelle, la moitiez, oū les trois partie d’ūne 
+<lb />ecūelle, cela fait, on prend un petit morceaū
+<lb />deponge, lon moūlle le boūt dans cette soūpe, 
+<lb />et on le passe dessūs le velin, assez mai=
+<lb />=grement, pūis on le l’aisse saicher, ensūite on 
+<lb />le verdie encorre une fois, et sa, trois, oū qūa=
+<lb />=tre fois, de sūite, cela faist, et estant
+<lb />bien saichez, on le toūrne de l’aūtre côté,
+<lb />et l’on en fait de meme, si l’ons voie apres
+<lb />cela, qūe le velin, est ver assez, on le laisse
+<lb />encorre bien saicher, ensūite l’on plonge un 
+<lb />morceaū d’eponge, bien nette, dans dū blan
+<lb />d’oeūf, bien batūe, et on passe dessūs le velin 
+<lb />assez maigerment aūsi, me il faūt faire son 
+<lb />possible, qūe le velin, en soit par toūs, toūs 
+<lb />moūlliez, estant bien saiqūe, on le toūrne
+<lb />de l’aūtre côté, et l’on en fait de meme, il
+</ab>
+
+<pb facs="#f038" />
+<ab>
+<lb />sūfie, de faire sa une fois a chaqūe
+<lb />côté. notez, qūil faūt, verdir, le parchemien, 
+<lb />et le papiez, cinq, oū 6. fois, a chaqūe coté, p[ou]r estre bien
+<lb />Maniere, poūr verdir le velin, oū parchemin, 
+<lb />poūr les feūille de rose, les alimon, rononcūl, 
+<lb />et aūtres fleūrs, long fait comme jaij die, cij
+<lb />deūant, me en place de cinq, oū six goūte, 
+<lb />de gommegūt, lons prend la valeūr de deūx 
+<lb />petit cūlier de la dit gom[me]gūt, plūs, oū moin, 
+<lb />a l’aūenant qūon veūx aūoir le ver jonnat, 
+<lb />me la jonne doit estre for claire. le pa=
+<lb />=piez ver, se fait de la meme maniere aūsi, 
+<lb />Le papier ver, se fait encorre, de cette 
+<lb />maniere, l’ons prendre de foeūlles des choūsfleūrs, 
+<lb />lons otte les costes, de la on les estampe dans 
+<lb />un mortiez, pūis on les mest dans un petit
+<lb />sacqūe, ensūite, on mest le dit sac, dans 
+<lb />un pressoir, aūec une telle dessoūs poūr ~
+<lb />receūoir la soūp, me si lons na pas de pressoir
+<lb />on tor le petit sac de toille aūec les mains, 
+<lb />+ fort 
+<lb />aūsi + qūe long peūt, lon prend une pinte 
+<lb />de cette soūpe, et lons tulle dans ditte
+<lb />soūpe une demie cartron, de ver de grie
+<lb />bien pille; et si long veū, apres qūe la ver ~ 
+<lb />et bien estampe, on la passe encorre par un
+</ab>
+
+<pb facs="#f039" />
+<ab>
+<lb />tamie, cesij se fait, aūant de le mettre dans la 
+<lb />soūpe; le ver de grie, estant bien demelaij ~
+<lb />et toūliez dans la dit soūpe on le met trois
+<lb />oū qūatre heūre dans le soleil, ensūite ~
+<lb />l’ons prend un petit morcaū deponge, et long ~ 
+<lb />verdie le papiez de la meme maniere, qūe 
+<lb />le ver precedant. il faūt remūer le fons, de temp, 
+<lb /> en temp. ~
+<lb />notez faūte de soleil on sans passe;
+<lb />Le papier roūge se fait de la meme maniere 
+<lb />aūsi, lons prend de la claire gomme, aūec un 
+<lb />petit + demie paqūez de vermilion, qūe lons demelle bien 
+<lb />ensemble, le vermilion estant bien demelaij, lons 
+<lb />versse encorre une cūlier, de la 
+<lb />dit gomme, aūec deūx oū trois cūlieraij d’eaū, 
+<lb />il faūt toūlier les toūs bien ensemble, ensūite 
+<lb />on le laisse comme sa, deūx, oū trois heūre
+<lb />plūs, oū moins, aūant de sans serūire, ✠ pūis 
+<lb />l’ons roūgie le papiez aūec, il faūt remūer le 
+<lb />fons, aūant de roūgir, et la deūsieme fois qūe 
+<lb />l’ons roūgie le papier, il faūt passer l’eponge 
+<lb />for legerrement, et faire son posible afin qūe
+<lb />le papiez soit baūx roūge assez, estant roūgie 
+<lb />deūx fois a chaqūe côté,. lons passe desūr aūsi, 
+<lb />deūx fois a chaqūe côtez, le blan d’oeūf, for 
+<lb />legerrement; Me poūr les papier ver; et jonne, &amp;.c
+<lb />il sūfie de passer desūr, aūec le blan~
+<lb />d’oeūf, a chaqūe côté, une fois. ~~~
+</ab>
+
+<pb facs="#f040" />
+<ab>
+<lb />Notez, le papiez roūge, se fait encorre, 
+<lb />de cette maniene; lons prend un paqūez de 
+<lb />vermilion, oū la valeūr dūne ecaille de 
+<lb />moūlet; aūec deūx ecaille de moūlet, de 
+<lb />la mein, cela est une grosse teintūr 
+<lb />roūge; cepoūrqūoij, qūil faūt bien le froter
+<lb />desūr le marbre; aūant de la demeler 
+<lb />aūec le vermilion; apres sa il faūt prendre 
+<lb />de la claire gomme, et le vermilion, est la 
+<lb />mein estant mis ensemble dans une eqūelle, il
+<lb />faūt verser un peūt de cette claire gomme
+<lb />desūr, et lons demelle bien ensamble la deūx 
+<lb />taintūr aūec in petit baton, la taintūr estant
+<lb />bien demelez; il faūt verser dans la taintūr un
+<lb />de mie ver d’eaū, il faūt toūlier les toūs bien 
+<lb />ensembles; et apres il faūt prendre un=
+<lb />notez sans gomme, de l’aeū seūlement poūr
+<lb />faire dū papiez;
+</ab>
+
+<pb facs="#f041" />
+<ab>
+<lb />petit morcaūx. d’eponge, et roūgir le papiez aūec; 
+<lb />il faūt faire vostre posible, afin qūe le papiez
+<lb />soit baūx roūge assez, estant roūgie deūx fois, 
+<lb />a chaqūe cotez; lons passe desūr aūssi, estant 
+<lb />sesqūe, aūec un petit morcaūx d’eponge le blan
+<lb />d’oeūf; for legerrement, deūx fois a chaqūe
+<lb />côtez; le blan d’oeūf, doit estre bien batūe, aūant
+<lb />de voūs en serūir; et sa generallement poūr toūtes
+<lb />les coūleūrs, qūe voūs faite aūec; ~~
+<lb />Notez qūand voūs voiez, qūe la taintūr deūien
+<lb />trop epess, il faūt verser un peūt d’eaū desūr; 
+<lb />et faire comme sa de tans, en tans; si voūs le 
+<lb />troūūez necessaire; il faūt faire comme sa aūssi 
+<lb />aūec le papiez fait aūec dū vermillion seūlle; 
+<lb />Notez a cette ✠ ce qūils est ecrie dans les neūf 
+<lb />premiere ling, poūr faire dū papiez roūge aūec dū
+<lb />vermilion; cela est poūr paintūrer de fleūrs desūr le 
+<lb />papiez et cela sans sa serūirre de blan d’oeūf; Me
+<lb />poūr faire le papiez roūge aūec dū vermilion seūlle;
+<lb />il faūt faire toūs comme il est melez, aūec de la mein ◆
+</ab>
+
+<pb facs="#f042" />
+<ab>
+<lb />Poūr faire le papier jonne, lons prend la
+<lb />grosseūr de deūx, oū trois grosse nois, de la
+<lb />gommegūt qūe lons mest tremper dans un petit
+<lb />pot aūec de l’eaū de fontainne, oū de plūis ~
+<lb />et sa la cantitez qūe le jonne en soit bien
+<lb />coūūert, et un peūt aū desūr; lons m’est aūsij
+<lb />tremper poūr cinq, oū six liars, de safran, 
+<lb />entierre, sans estre pille, estent bien trempé
+<lb />on le pūis faire boūlir si lons veūx, ensūite 
+<lb />lons versse un peūt de cette soūpe, dans la 
+<lb />gommegūt, qūe lons demelle bien ensemble; de la 
+<lb />on jonnie le papier, me si long voie qūe le ~
+<lb />papiez ne pas baūx, oū haūt jonne assez, lons ~
+<lb />ij verse encorre de la soūpe de safran, jūs=
+<lb />=qūa temp, qūe les toūs soit a sa volonté, me
+<lb />qūand la soūpe et trop epesse, il faūt ij mettre
+<lb />un peūt d’eaū d’aūantage, le papier jonnie deūx 
+<lb />fois, a chaqūe côté, qūand la coūleūrs est bien; 
+<lb />faits un tres baūx papiez,
+<lb />et meme qūūne fois aussi; ~ 	
+<lb />Notez qūe le blan d’oeūf doit
+<lb />estre bien batūe aūant
+<lb />de voūs en serūirre; ~
+<lb />Maniere poūr accomoder la taintūre, poūr pin=
+<lb />=tūrer de fleūrs sūr les papiez, la gommegūt ~
+<lb />se demelle, et on le fais tremper de la meme ma=
+<lb />=niere, qūe jaij dit cij deūant, me en place de 
+<lb />prendre si grosse qūantité de la gommegūt, on 
+<lb />ne met tremper qūe la grosseūr d&apos;ūne + grosse nois; et 
+<lb />de l’eaū a l’aūenant; ensūite ons trace aūec le 
+<lb />pincaūx, sans se serūire de safran. ~
+</ab>
+
+<pb facs="#f045" />
+<ab>
+<lb />Le vermilion se demelle, aūec de la claire 
+<lb />gomme, estant bien demelaij, on verse dessūs un 
+<lb />petit peūt d’eaū, et qūelqūe goūtes de gomme ~ 
+<lb />pūis on le laisse, deūx, oū trois heūrs, comme sa, 
+<lb />ensūite on paintūre, aūec le pincaūx, sūr les papier, 
+<lb />me qūand le vermilion deūient trop espez, il faūt 
+<lb />toūjoūrs le d’epecir aūec un peūt d’eaū, et de la ~
+<lb />claire gomme. ~~~
+<lb />Le carmin se demelle, comme jaij die cij deūant, 
+<lb />a la quatrieme feūlles, aū commencement de ce 
+<lb />liūre, a cette marqūe, ✹ on retoūrne la feūille, 
+<lb />et long voie la maniere, de demeler le bleu qūe
+<lb />lons appelle de cendre d’angleter, cette tintūre ser, 
+<lb />poūr pintūrer des fleūrs bleūse, et violet aūsij, 
+<lb />poūr sa, il sūfie de passer le pincaūx roūge, sūr la fleūr bleūse
+<lb />Poūr accomoder le ver, poūr pintūrer les feūlles 
+<lb />et les qūeūs des fleūrs, sūr le papier, oū parche=
+<lb />=min, lons prend dū ver de gris preparez, la
+<lb />valeūr d’ūne demie onsse, plūs, oū moin, a la=
+<lb />=venant qūe lons veūx beaūcoūp, oū peūt tracer, on 
+<lb />le met tramper dans un petit pot aūec un 
+<lb />peūt de vinaigre, il sūfie qūand le vinaigre, 
+<lb />et un peūt aū dessūs dū ver, ensūite on le ~ 
+<lb />laisse tremper un joūr, et une nūit, de la on 
+<lb />sans ser aūec le pincaūx, en le plongent a 
+<lb />chaqūe fois, un peūt dans l’epez de la tintūre, 
+<lb />qūand la tintūre deūient trop espesse, il faūt ij
+</ab>
+
+<pb facs="#f046" />
+<ab>
+<lb />Notez qūand voūs ne voūlez pas acheter le ver 
+<lb />chez le peintre; ~ ✠✠✠● ● a ces marqūe, lisez, 
+<lb />Voila la maniere comme il faūt le preparer; 
+<lb />il faūt prendre une demie cartron; oū un onse, 
+<lb />de verdegrie, il doit estre bien etampez, pūis le 
+<lb />passer par un gros petit tamie; pūis il faūt le froter, 
+<lb />aūec de la claire gomme, et qūelqūe goūte de vineigre; 
+<lb />desūr un caraūx de marbe, oū de grez; estant frotez 
+<lb />assez; il le faūt mettre dans un petit pot, et le desse=
+<lb />=pesirre aūec dū vinaigre; et de tens, en tens, le ralonger
+<lb />toūjoūr comme sa; en ij metans qūelqūe fois qūelqūe
+<lb />goūte de gomme, sans jamais mettre de l’eaū dedans;
+<lb />parce qūe le vinaigre et le melieūre
+<lb />apres sa voūs en serūez aūec le peincaūx, poūr tracer 
+<lb />sūr le papier, &amp;.c ~~~
+<lb />Me qūand voūs voūlez aūoir le ver un peūt plūs 
+<lb />brūn, il faūt ij mettre de la gomme un peūt plūs; ~
+</ab>
+
+<pb facs="#f047" />
+<ab>
+<lb />Notez, encorre une aūtre maniere, poūr le meme roūge; 
+<lb />✠ Prenez poūr un patar de bois ferneboūcqūe, et poūr 
+<lb />deūx liar olūn, aūec deūx peinte de vielle bier, la plūs
+<lb />vielle, et la meileūr; laisez sa boūlier ensemble, jūsqūa
+<lb />la moitiez; ensūite on passe la soūpe par un clair
+<lb />linge, et on le verse dans une boūteille; et qūand
+<lb />lons veūx sens serūirre, et pintūrer aūec; lons verse 
+<lb />de cette tintūr roūge, dans une ecaille de moūlet, ou
+<lb />bien dans une ecaille d’oūster, et le leseirre comme sa
+<lb />5. oū 6. heūre. et si voūs poūūez la mettre qūelqūe
+<lb />heūre dans le soleil, la tintūr sera plūtot pretre a sens
+<lb />serūirre, poūr veū qūe le soleil ne soit pas trop ardans; 
+<lb />car la teintūre seroit dans peūt de tems, toūs diminūez, et
+<lb />secqūe dans l’ecaille; apres sa, il faūt verser la claire dans 
+<lb />une aūtres ecaille bien propre aūsi, et qūelqūe heūre apres, 
+<lb />encorre le verser dans une aūtre ecaille; il faūt continuer
+<lb />comme sa, deūx oū trois fois, s’il en est besoin; car qūan la 
+<lb />tintūr deūien un peūt epesse, ce marqūe qūel est bien poūr tracer 
+<lb />sūr le cambraij, et sūr le papier; voūs poūūez eproūūer aūec le
+<lb />peincaūx si la coūleūr est bien, poūr voūs en serūirre; Notez,
+<lb />De la meme maniere aūsi lons aprette, oū preparre la coūleūr 
+<lb />violet; me en place de bois ferneboūcqūe; il faūt prendre dū
+<lb />bois de bresil; Notez qūil faūt qūe ce soit de la bon bier, sans
+<lb />estre melez, qūand elle seroit dix. et 20. ans vielle) lons fait dū
+<lb />papiez roūge aūsi, aūec ce deūx roūge, et dū violet aūsi ~~
+</ab>
+
+<pb facs="#f048" />
+<ab>
+<lb />verser un peūt dū vinaigre, et qūelque fois 
+<lb />aūsi un peūt d’eaū, en place de vinaigre, me 
+<lb />la premiere fois, il faūt toūjoūr le mettre tram=
+<lb />=per aūec dū vinaigre, et cinq, oū six goūtes, 
+<lb />de claire gomme, on achette ce ver de gris 
+<lb />preparez, chez le pintre, en disans qūe le 
+<lb />die ver, et poūr pindre sūr le papier, qūil ne
+<lb />doit pas estre preparez, aūec de l’hūile; ~
+<lb />✠✠✠ ..
+<lb />Un aūtre maniere encorre, a faire dū
+<lb />roūge poūr pintūrer, dessūs le papier, lons~
+<lb />prend un cartron de bois ferneboūcqūe, aūec
+<lb />deūx pinte de vinaigre, et une demie car=
+<lb />=tron d’oleūn, on laisse boūlier sa, jūsqua la 
+<lb />moitiez, ensūite, on passe la soūpe par un 
+<lb />linge, et on le verse, dans une boūteille, 
+<lb />cela demeūre trois aen, bon, poūr sens 
+<lb />serūire, ~~~~~~ lisez a cette ✠
+<lb />Me qūand long veūx, pintūrer aūec le 
+<lb />dit roūge, lons verse de ce roūge, dans une
+<lb />ecaille de moūlet, oū bien, dans une ecaille 
+<lb />d’oūstre, il faūt le mettre dans le soleil
+<lb />l’espasse de sept, oū hūit heūre, ensūite
+<lb />on verse le claire dans une aūtres~
+<lb />ecaille bien propre aūsi; et le l’andemain
+</ab>
+
+<pb facs="#f049" />
+<ab>
+<lb />on le verse encorre dans une aūtre, s’il 
+<lb />en est besoin, me qūand le soleil ne 
+<lb />lūijs pas, on met l’ecaille sūr une chaū=
+<lb />=fet for tiede, et ensūite l’on faist com[m]e
+<lb />cij deūant, pūis l’on plonge le pincaū dans 
+<lb />la tintūrre, et long trace sūr le papier 
+<lb />aūec, poūr voire si la coūloeūr et bien, 
+<lb />me, si l’ons voie, qūe la coūloeūr ne pas
+<lb />encorre bien, et un peūt epesse, il faūt 
+<lb />attendre un joūr plūs longtemp a s&apos;enser=
+<lb />=ūire, ensūite l’ons fait son mieū poūr 
+<lb />user cette tintūre dans un joūr, oū deūx, 
+<lb />parce’qūel deūien trop espesse a sens ser=
+<lb />=virre, si bien qūon est contrain, die
+<lb />verser deūx, oū trois goūte d’eaū, et sa 
+<lb />est caūse, qūe la tintūre tracez dessūs
+<lb />le papiez, se passe for facilement, et
+<lb />ne dūre pas si long temp aūsi, ~~
+<lb />De la meme maniere aūsi, lons ap=
+<lb />=prette la coūleūr violet, mais en place
+<lb />de ferneboūcqūe, il faūt prendre, dū
+<lb />bois de bresil. ~~~
+<lb />La maniere poūr fondre la gomme de sois, comme
+<lb />cij deūant; retoūrnez qūatorze foeūls; ~~~
+</ab>
+
+<pb facs="#f050" />
+<ab>
+<lb />dū damae 
+<lb />Maniere poūr tindre de la soie, + et
+<lb />dū satain, si la soie blanche, ne pas 
+<lb />bien propre, et fort soūlliez, oū aūec 
+<lb />de taches, il faūt le laūer aūec de l’eaū 
+<lb />de plūis froide, et dū saūons blan, oū 
+<lb />bien aūec dū saūons comme on laūe le
+<lb />+ me le saūons blan et mieū
+<lb />linge + ensūite on le rincé, et on le fait 
+<lb />secher;
+<lb />ensūite, estant secqūe, si ce poūr rester
+<lb />blanche, lon demel dans la gomme de sois, un peūt 
+<lb />dū palle bleū danpoise, il faūt faire le reste com[m]e il sūit.
+<lb />La tintūre roūge, et violet, poūr la sois,
+<lb />se boūlle, comme jaij die cij deūant, il faūt 
+<lb />mettre la sois dedans, et le leser bien boū=
+<lb />=lier, dela on prend la sois, or de la soūpe
+<lb />aūec un baton, ons loūūre et on le pend
+<lb />aū cordons, estant saichez, on laūe la 
+<lb />dit soie dans une siepez de saūons 
+<lb />blan, poūr l’eclaircijr, estant laūé, on 
+<lb />le raince dans de l’aeū de plūis, et on 
+<lb />le pend aū corde, ✠ estant saiqūe: [deletion begins] on
+<lb />le plaqūe, dessūr une planche, ensūite 
+<lb />~ons le fait saicher, dela on la repasse 
+<lb />comme l’ons faist le lainge,. Notez
+<lb />cette marqūe trois lingnes plūs haūt, [deletion ends]
+<lb />✠ estant saiqūe: il faūt l’enpeser aūec de
+</ab>
+
+<pb facs="#f051" />
+<ab>
+<lb />la gomme de sois, estant bien gommez, 
+<lb />on le placqūe dessūr une planche, l’ons 
+<lb />tache de le polier aūsi unie qūe long 
+<lb />peūt, ensūite on le pend aūx corde, estant 
+<lb />qūasie saiqūe, on la repasse aūec un
+<lb />fer comme l’ons repasse le linge. ~~
+<lb />Notez, si l’ons ne veūx pas, aūoir la ~
+<lb />sois si brūn roūge en place de vinaigre 
+<lb />il faūt faire boūlier la taintūre aūec
+<lb />+ me deūx painte de vielle biere, et encorre mieū;
+<lb />de l’eaū de plūis,+ la sois estant bien ~
+<lb />boūlie, on le prend or de la taintūre, et on 
+<lb />le pend aū corde, apres sa, on le pūis tremper encorre dans la soūpe; 
+<lb />et le jetter, estant secqūe, dans la siepez, elle ~
+<lb />doit estre froide, sans jamer le chaūfer, 
+<lb />me si toūtes les coūleūrs son bien, a sa volonté, il ne les faūt
+<lb />point laūer, en ocūcūnne m’aniere .:. ~~~~~
+<lb />Comme aūsi poūr laūer toūte sorte 
+<lb />da tafta, l’eaū na doit jamais estre chaūde, 
+<lb />on laūe toūte sorte de coūleūrs, comme 
+<lb />ons laūe le blan tafta, il faūt le
+<lb />leser tremper un joūr, et une nūit, estant 
+<lb />fort bien siepez, aūant de la laūer, pūis
+<lb />on le laūe aūsi propre qūe l’ong peūt, 
+<lb />l’ons fait
+<lb />et comme le blan tafta,
+<lb />me sans bleū dans la 
+<lb />gomme de sois; ~
+<lb />La sois violet, se fait de la meme
+</ab>
+
+<pb facs="#f052" />
+<ab>
+<lb />Notez la toile jonqūille, et aūtres plūs palle coūleūrs 
+<lb />jonne; se fait comme lon fait aūec de la soie, oū dū 
+<lb />tafta, et dū satain blan; estant propre, et bien nette, 
+<lb />et comme aussi bien secqūe; il le faūt mettre tramper dans la 
+<lb />taintūr, &amp;.c me qūand elle et boūlie assez, et qūe la coūleūr
+<lb />et bien; il le faūt prendre or de la taintūr, et bien preser
+<lb />la taintūr deor; ensūite si voūs voūlez, oū si voūs le troūūez
+<lb />bon, apres aūoir eproūūez de plonger qūelqūes piece dans le 
+<lb />vergūe, et par la qūe la coūleūr et plūs agreable, a vostre
+<lb />me elle ne pas de dūrez aūec le vergūe, elle changes de coūleūrs +
+<lb />volontez + mettez aūssi piece, a piece, en le bien oūūrant
+<lb />dans le vergūe, toūs le reste dū cambraij, moūchelinne, 
+<lb />et toille qūe vous aūez boūlie dans la taintūrre; apres
+<lb />sa; apres l’aūoir presez, et oūūert deūx oū trois fois, dans 
+<lb />le vergūe, comme lons faits la coūleūrs de rosse, il faūt
+<lb />le bien preser or dū vergūe; aūsitot ensūite, il faūt
+</ab>
+
+<pb facs="#f053" />
+<ab>
+<lb />le jeter dans la siepez de saūons blan; ensūite ons 
+<lb />le laūe aūsi claire, qūe lons voie estre assez, pūis il 
+<lb />faūt le raincer, dans deūx aeū de plūis, a la derniere
+<lb />il faūt bien preser l’aeū deor; de la, le faire secher; et
+<lb />estant secqūe; il faūt le bien plonger, et enpeser dans 
+<lb />la colle de cūire; apres sa il faūt le pendre aū gerniez
+<lb />desūr une corde de crain, et cela aūsi unie qūe voūs poūūez
+<lb />il faūt bien prendre gaerde qūe la boū, et le reste natache
+<lb />pas ensemble, car qūand elle est secqūe, il voūs faūdroit le
+<lb />dechirer poūr le deplaqūer l’ūn de l’aūtre; il ne faūt pas
+<lb />preser la colle de cūire for or de vostre cambraij &amp;.c me
+<lb />le leser un peūt bien moūliez; il faūt faire de meme aūec toūte
+<lb />le coūleūrs qūe voūs faite aūec; de meme aūssi aūec la colle
+<lb />de poisson; Notez, qūand voūs voūlez aūoir la coūleūr encorre
+<lb />plūs haūt, qūe la coūleūr jonqūille, en place de la leser trenper
+<lb />une demie heūr; il faūt le leser tranper trois qūar d’heūr, et il faūt
+<lb />le leser boūlier plūs long tans aūssi; me si ce poūr faire de fleurs; 
+<lb />la gommegūte, et le safran, est encorre mieū; com[m]e cij deūant;
+</ab>
+
+<pb facs="#f054" />
+<ab>
+<lb />maniere aūsi, comme l’ons tains la sois 
+<lb />roūge, me en place de bois ferneboūcqūe, 
+<lb />long prend dū bois de bresil ~~
+<lb />Notez, qūe la biere, ne peūt pas estre trop vielle, qūand elle seroit doūze, et 
+<lb />20. ans vielle; et elle est beaucoūp mieu, qūe le vinaigre, et l’eaū de plūis; ~
+</ab>
+<ab>
+<lb />Maniere poūr de la sois, et de la toille 
+<lb />jonqūille, il faūt prendre une demie cartron 
+<lb />+ et poūr trois liar olūn etanpez
+<lb />de ganez de boūlanger + qūe l’ons faist boūlier
+<lb />aūec deūx pinte d’eaū de plūis; l’ons met 
+<lb />+ dans la taintūr
+<lb />la sois tremper + aūs-enūiron une demie
+<lb />heūre, ensūite on le fait boūlier ensem=
+<lb />=ble, estant un peūt boūlie; lons prend la 
+<lb />+ poūr voire si elle
+<lb />et bien
+<lb />soie, oū la toille or de la teintūre; + on
+<lb />le presse aūec les mains, et on la jette dans 
+<lb />si elle et bien;
+<lb />une siepez de saūons blan + en-sūite on le 
+<lb />laūe, aūsie claire, qūe lons voie estre assez, 
+<lb />pūis il faūt le raincer aūec de l’eaū de
+<lb />plūis et bien preser l’eaū deor, de la il 
+<lb />+ le faire secheser, et apres sa
+<lb />faūt + l’enpeser, aūec de la gomme de soie, bien
+<lb />trempez, et forte espesse, ensūite on le plaqūe 
+<lb />dessūr une planche, aūsij unie qūe lons peūt, 
+<lb />l’ūn sūr laūtre, dela ons le pend aū corde, 
+<lb />estant saiqūe, on le repassa comme lons
+<lb />fait le lainge., 
+<lb />∞ Notez, poūr faire des fleūrs 
+<lb />de cambraij, il ne faūt 
+<lb />jamais rien repasser, aūec le fer;
+<lb />Maniere poūr aūoir dū plūs palle jonne, 
+<lb />il sūfie de mettre la soie, dans la tintūrre
+</ab>
+
+<pb facs="#f057" />
+<ab>
+<lb />un peūt trenper, apres sa il faūt le faire boūlier, et
+<lb />qūan la tintūre commance a boūlier;
+<lb />estant un peūt boūlie, on le prend or
+<lb />de la tintūre, et l&apos;ons fait comme jaij
+<lb />die cij deūant, aū brūn jonne, jonqūille ~~~
+<lb />La toille qūe lons tain jonne comme de la sois; estant
+<lb />tranpez une demie heūr, oū trois quar-d’heūr; estant bien boūlie, 
+<lb />et la coūleūr a sa volontez; il faūt bien preser la taintūr deor, 
+<lb />ensūite il faūt le bien oūūrire, et plonger dans la vergūe, si
+<lb />voūs le troūūez bon; pūis le bien preser le vergūe deor, et
+<lb />le jeter aūssi dans la siepez de saūons blans; estant bien 
+<lb />laūez a sa volontez, il faūt le raincer dans deūx, oū trois, 
+<lb />aūtres aeū de plūis, oū de fontainne, a la derniere, il 
+<lb />faūt bien preser l’aeū deor; pūis on le pend aū gerniez
+<lb />aūec le fenet fermez; estant secqūe; on le plonge, 
+<lb />et enpoise dans la colle de cūire; me il ne faūt pas 
+<lb />preser la colle, si fort qūe l’eaū; me le cambraij &amp;.c
+<lb />doit estre un peūt bien moūliez; comme i’ai die cij deūant, 
+<lb />pūis on le pand encorre une fois aū gerniez, aūec le 
+<lb />fenet fermez, toūs comme lons faits aūec toūs les aūtres
+<lb />coūleūrs; estant secqūe; si se poūr faire de fleūrs il 
+<lb />faūt le polier aūec les mains seūllement; pūis les
+<lb />plier, et les mettre dans un papiez; il faūt faire
+<lb />comme sa aūssi, aūec toūtes le couleūrs qūe voūs faite, 
+<lb />poūr faire de fleūrs; Me qūand ce ne pas poūr faire 
+<lb />de fleūrs aūec, il faūt toūjoūrs repasser le toūs aūec 
+<lb />un fer comme ons repasse le linge; ~
+<lb />La toille roūge, et violet, se fait comme
+<lb />la sois roūge, et violet, me en place de
+<lb />vinaigre, l&apos;ons pūis prendre de l&apos;eaū de
+</ab>
+
+<pb facs="#f058" />
+<ab>
+<lb />plūis, si l’ons troūūe bon, car aūterment
+<lb />le vinaigre et bon aūsi, il faūt l’enpeser 
+<lb />et faire en toūs, comme la toille jonne. 
+<lb />cette sorte de toille, ne pas bonne poūr
+<lb />faire de fleūrs. ~ la vielle bier, et encorre mieū,
+<lb />qūand elle seroit 8. et 20. ans vielle; 
+<lb />me il faūt qūe ce soit bonne bier, il ne faūt pas qūe se soit petit bier;
+<lb />Maniere poūr faire de la colle de pois=
+<lb />=son il faūt prendre une demie cartron 
+<lb />de colle de poisson, il faūt le bien fraper
+<lb />aūec le marteaū, estant bien d’ecarpiliez
+<lb />on le coūpe, par petit morcaū, ensūite
+<lb />l’ons prend trois pinte d’eaū de plūis, oū
+<lb />de fontainne, plūtot moin, qūe plūs; dela
+<lb />on le met tremper un joūr, apres sa :+:
+<lb />:+: on le met boūlier dans un pot oū bien
+<lb />dans un coūez de terre bien net, et ~
+<lb />noūūeaū sans aūoir serūie a aūtre chose, 
+<lb />il faūt le toūllier fort soūūent, affin
+<lb />qūe la colle ne brūlle pas aū fons
+<lb />dū pot, il faūt le leser boūlier, jūsqūa
+<lb />temp, qūe l’eaū soit diminūez aū’senūiron
+<lb />de la moitiez, lons prend qūelqūe goūte
+<lb />en boūlan aūec les dois, poūr voire, si la 
+<lb />soūpe, est crasse assez, si elle attache 
+<lb />aū dois, ensūite on le prend dū fūe, et 
+<lb />on le passe aūsitot par un linge, dans
+</ab>
+
+<pb facs="#f059" />
+<ab>
+<lb />une aūtre terrinne, qūand la colle ~
+<lb />deūient geleaij, il faūt toūjoūr le degeler 
+<lb />dessūr un rechaū, aūant d’empeser le 
+<lb />cambraij aūec, il en faūt faire de meme
+<lb />aūsi, aūec la colle de cūirre, ~~
+<lb />Maniere poūr faire de la colle de ~
+<lb />cūire, il faūt prendre une demie liūre
+<lb />de cūire blan, comme lons coūpe les la=
+<lb />=niere, les petit morcaū qūil en tombe
+<lb />seūllement,) [deletion begins] qūand l’ons va l’acheter, il 
+<lb />faūt toūjoūr s’expliqūer, qūe ce poūr ~
+<lb />faire de la colle de cūire aūec, et 
+<lb />qū [deletion ends] me il faūt se garder de prendre des ~
+<lb />petit morcaū de cūire roūge, oū bien jonne, 
+<lb />oū bleū, 
+<lb />parce qūe cela gatte la colle, poūr enpeser 
+<lb />le cambraij poūr faire de fleūrs; il faūt 
+<lb />laūer le cūire, aūsi propre qūe l’ons peūt, 
+<lb />ensūite il faūt le prendre or de l’eaū,
+<lb />+ oū trois
+<lb />et preser l’eaū deor, pūis l’ons prend deūx +
+<lb />+ plūtot plūs, qūe moin +
+<lb />pinte d’eaū + dans un pot de terre, dela
+<lb />l’ons met le cūire aūsitot dans la dit eaū, 
+<lb />+ met          + oū chaūfet
+<lb />ensūite on le + dessūr un rechaū + il faūt 
+<lb />le l’aiser chaūfer, ausi fort qūe l’ons peūt 
+<lb />me
+</ab>
+
+<pb facs="#f060" />
+<ab>
+<lb />Notez a cette marcqūe ) le petit morcaū qūils tombe des soūliez, 
+<lb />blan, et de la doūblūre blanche des soūliez; toūs ces petit morcaūx
+<lb />la, sons tres bon poūr sa aūssi; me il faūt mettre trenper le cūire
+<lb />un joūr; aūent de le laūer; Notez qūand la colle est faite, et qūe
+<lb />le cūire et presez un peūt or de la colle; voūs poūūez mettre encorre
+<lb />une fois la cūire dans la meme petit pot de terre, aūec trois ∞
+<lb />~~ painte d’aeū;  plūtot moin, qūe plūs; il faūt le leser tirrer; 
+<lb />toūs comme la premiere colle; il faūt le mettre desūr le fūe; me 
+<lb />sans jamais boūlier, depūis le matin, toūs jūsqūa le lendemain le 
+<lb />matin; il faūt faire de meme aūssi, aūec la premiere colle=
+</ab>
+
+<pb facs="#f061" />
+<ab>
+<lb />apres sa; il faūt le passer par un linge aūssi, et le
+<lb />meler aūec la premiere colle; ensūite il faūt enpeser, et
+<lb />faire les couleūrs aūec, qūe voūs soūhaitez de faire; Me
+<lb />aūant de le passer toūs la deūx par un linge; il faūt le leser
+<lb />refroidirre, poūr voire si elle est gelaij assez, qūon le poūdroit
+<lb />coūper aūec un coūtaūx; si cela ne pas, il faūt encorre le 
+<lb />leser tirer desūr le fūe; toūs jūsqūa qūel soit bien; me la 2. me
+<lb />colle ne pas ordinairrement si forte, qūe la premiere, cepoūrquoij, 
+<lb />qūil faūt le meler ensembles; Me qūand voūs aūez besoin de plūs grand 
+<lb />cantitez, en place d’ūne demie liūre; il faūt prendre une liūre de cūire, 
+<lb />et encorre plūs sil en est besoin; et il faūt prendre de l’aeū a laūenent; 
+<lb />il en faūt faire de meme, aūec la colle de poisson aūssi; ~
+</ab>
+
+<pb facs="#f062" />
+<ab>
+<lb />il faūt se garder de ne pas le leser boūlier, 
+<lb />ensūite, on le laisse tirer comme cela, dessūr 
+<lb />le rechaūd + + oū chaūfet jūsqūa temp qūe la soūpe deūient 
+<lb />crase, et qūel attache aū dois, et qūel et ge=
+<lb />=laeij, cela fait, ons le met chaūfer, poūr le 
+<lb />degeler, pūis, l’ons prend le cūire or de la 
+<lb />soūpe, poūr le preser aūec les mains, jūsqūa
+<lb />temp qūe la soūpe soit un peūt de’or, ensūite 
+<lb />l’on passe ladit soūpe par un linge, et 
+<lb />l’ons enpaisse le cambraij aūec, il faūt l’en=
+<lb />=tertenirre toūjoūr chaūdement, affin qūe le
+<lb />cambraij, et la colle ne deūient point gelaij 
+<lb />dans les mains, il ne faūt plonger, qūe deūx 
+<lb />oū trois piece a la fois, et le pendre aūsitot, 
+<lb />poūr eūiter cette inconūenient, le cambraij estant 
+<lb />saiqūe, si lons voie qūil est trop ferme a 
+<lb />s’enserūier, aūant de plonger les aūtres piece 
+<lb />de cambraij, il faūt dans la colle verser, 
+<lb />trois oū qūatre, cūlier d’eaū, plūs oū moin 
+<lb />selon qūe l’ons voie la cantitez de la colle, 
+<lb />me le mieū est, de ne pas mettre de l’aū dans la colle, a caūse qūe letoffe, 
+<lb />oū cambraij deūien en apres pliable ...
+<lb />Notez, qūil ne faūt jamais verser de l’eaū, 
+<lb />dans la colle de poisson, ~~~~
+<lb />iai malle die, cij deūant, comme voūs voiez; ~~~
+<lb />Maniere poūr detindre la coūleūr de rosse
+</ab>
+
+<pb facs="#f063" />
+<ab>
+<lb />qūand elle est gatez, il faūt le boūlier 
+<lb />aūec de la leciūe faite aūec de cendre des
+<lb />vinne, la leciūe doit estre fort claire, 
+<lb />ensūite lons met le cambraij dedans, et on 
+<lb />le faist boūlier, jūsqūa temp qūe le cambraij 
+<lb />soit bien blan, ensūite ons le prend dū fūe 
+<lb />toūs boūlans, aūsij tot lons prend ūn baton, 
+<lb />et l’ons otte le cambraij, il faūt les jetter ~ 
+<lb />aūsijtot dans un seaūt d’eaū de plūis oū de 
+<lb />fontaine, estant raincé, on le jettes encorre 
+<lb />dans un aūtre seaū d’eaū, de la ons les ~
+<lb />met blanchir un joūr, et une nūit, ensūite 
+<lb />on le raince, aūec la main leger sans froter, 
+<lb />les aūtres rainsūr doit estre faist de la meme
+<lb />maniere aūsi, ensūite il faūt le faire sai=
+<lb />=cher, et qūand l’ons fait la leciūe il ~
+<lb />faūt l’ensiepper un peūt, et le mettre boū=
+<lb />=leir, et blanchir, aūec le fein linges, estant 
+<lb />saiqūe, ce cambraij pūis serūirre poūr tin=
+<lb />=dre toūte sorte de coūleūrs, mes poūr tain=
+<lb />=dre le rose il faūt toūjoūr choisiere le plūs 
+<lb />blan cambraij qūe l’ons a,
+<lb />La coūleūr bleūse, tain aūec de la lecmoūs, se 
+<lb />detain de la meme maniere aūsi, comme
+</ab>
+
+<pb facs="#f064" />
+<ab>
+<lb />aūsi les coūleūrs jonqūille, et jonne, tain 
+<lb />aūec dū ganez de boūlangez. ~~~
+<lb />Me le cambraij jonqūille, et jonne tain 
+<lb />aūec de la gommegūt me se detain pas, me 
+<lb />qūand elle est gattez, oū bien pas belle
+<lb />assez a sans serūire, on le pūis tindre
+<lb />roūge, aūec dū vermilion, et de la colle
+<lb />de poisson, oū aūec de la colle de cūire.
+<lb />retoūrnez cij deūant a la 3. feūls, aū commancement. 
+<lb />Les bleū tain aūec dū breūn, et dū 
+<lb />palle bleū dempois, le cambraij se detain 
+<lb />aūec de l’eaū for chaūde, la valeūr dūne
+<lb />pinte, il faūt le changer dans trois oū 
+<lb />qūatre eaū chaūde, et on le raince une
+<lb />foie dans l’eaū froide, ensūite on verse
+<lb />toūs le eaū ensemble en les toūlliant ~
+<lb />for en versent, affin qūe le bleū soit ~
+<lb />toūtes amasez dans une eaū, ensūite ons ~
+<lb />laisse cette eaū une heūre, oū deūx, sans 
+<lb />le remūer, afin qūe le bleū soit toūs tombez ~
+<lb />dans la fons, pūis l’ons verse l’eaū toūs doū=
+<lb />=cement en se gardant de remūer le fons, me 
+<lb />sūr la fin, qūand l’ong voie qūe le bleū 
+<lb />vien aūec l’eaū, aūant de la toūs jetter enūoie
+</ab>
+
+<pb facs="#f065" />
+<ab>
+<lb />il faūt le lesser encorre tomber dans le 
+<lb />fons, de la jetter toūs l’eaū enūoie; ce 
+<lb />bleū pūis encorre serūirre, comme deūant; 
+<lb />Notez qūon ne detain jamais ce cambraij
+<lb />bleū si non qūe l’ons voie qūe le cambraij 
+<lb />et trop gros a senserūire, parceqūe la coū=
+<lb />=leūr et toūjoūr bonne, cepoūrqūoij qūil faūt 
+<lb />toūjoūr prendre dū fin cambraij, a la ~
+<lb />premiere foie, parceqūe le bleū grossie 
+<lb />letoffe, me qūand l’ons et contrain de le 
+<lb />detaindre, il faūt detaindre le palle bleū
+<lb />seūlle, et le brūn bleū seūlle, afin de 
+<lb />faire encorre serūirre ces bleū comme la 
+<lb />premiere fois. ~~~
+<lb />Maniere poūr faire de cendre de vinne
+<lb />qūand l’ons coūpe les vinne il faūt ramas=
+<lb />=ser toūs le bois coūpez. il faūt le mettre
+<lb />brūler dans une cheminez, oū dans un foūrre, 
+<lb />bien nette, sans bois, et sans cendre daū=
+<lb />=tres sorte de bois, le bois de vinne estant ~
+<lb />toūs brūlez, il faūt prendre toūs le fūe, et ~
+<lb />cendre, dans un mechan pot, qūil ne vaū
+</ab>
+
+<pb facs="#f066" />
+<ab>
+<lb />rien, a senserūire a aūtre chose, ensūite 
+<lb />il faūt l’entertenier de l’atiser, de temp, 
+<lb />en temp, jūsqūatent, qūe les toūs, soit con=
+<lb />=sommez en cendre. ~~~
+<lb />Maniere poūr faire la l’eciūe de ~
+<lb />cendre de vinnes, il faūt prendre trois 
+<lb />ponniez de deūx mains de cendre, aūec
+<lb />sept oū hūit pinte d’eaū de plūis, oū de
+<lb />fontainne, il faūt le leser boūlier, jūs=
+<lb />=qūa qūatre, oū cinq pinte, toūte aū plūs, 
+<lb />si on les boūlle dans une marmite, + + bien recūrrez il faūt
+<lb />aūsitot qūe la marmite est ottez dū fūe, 
+<lb />le verser dans un pot de terre bien 
+<lb />nette, et sans aūoir a aūtres chose serūie, 
+<lb />si non qūe poūr taindre le rose, il faūt 
+<lb />leser les cendre aū font de la marmite, 
+<lb />aūtant qūe l’ons peūt, ensūite le lande=
+<lb />=main, il faūt passer la leciūe par un 
+<lb />linge, dans un aūtre pot, en versans 
+<lb />toūs doūcement, sans remūer le cendre, 
+<lb />qūils sont aū font dū pot, de la, lons
+<lb />pūis s’enserūirre, poūr toūs ce qūe l’ons 
+<lb />veūx faire, aūec la dit leciūe. ~~
+</ab>
+
+<pb facs="#f069" />
+<ab>
+<lb />Notez les non de taintūre en flament;
+</ab>
+<ab>
+<lb />de la fleūrs d’amidon.			stijfpap bloom;
+<lb />de lanpois,. stijfpap 		|,.	roomenie .~*
+<lb />dū brūn bleū d’empois.	|	brūne blaū van 
+<lb />				|	stijfpap.
+<lb />dū palle bleū d’empois.	|	bleck blaū van 
+<lb />de la menie.~*			|	stijfpap.
+<lb />de la gomme gūte.		|	gūitte gomme.
+<lb />dū safran entiere.		|	gheheel saūfraen.
+<lb />dū vermilion.			|	vermelioen.
+<lb />dū sanfloūr.			|	sanfloūr.
+<lb />dū vinaigre de vin		|	wit wijn asijn.
+<lb />blan. De tartre crūe.		|	raūwe wit wijnsteen.
+<lb />de feūlles de choūs=		|	blaeren van bloom
+<lb />=fleūrs, sans les cottes.	|	coolen, sonder de
+<lb />				|	ribben.
+<lb />dū ver de gris.			|	spaens groen.
+<lb />dū bois de ferne=		|	fernebockx hoūdt.
+<lb />=boūcqūe.			|
+<lb />dū bois de bersil.		|	bresil hoūdt.
+<lb />des cendre d’angleter.	|	inghelschen asschen.
+<lb />~carmin. olūn.			|	carmin. olūn.
+<lb />de la colle des poisson.	|	vieslim.
+<lb />de la colle de cūire.		|	lim van-leer.
+<lb />de cendre, des branche, des	|	asschen van wingar rancken.
+<lb />vinnes				|
+</ab>
+
+<pb facs="#f072" />
+<ab>
+<lb />Patron poūr pintūrer dessūr
+<lb />Le papier; notez aūsi, qūe ce ~
+<lb />petit liūre, ne pūis jamais estre
+<lb />donné, et pas pretez, a personne,
+<lb />or de nostre coūūent de Ste. godelieūe.
+</ab>
+<ab>
+<lb />IHS          MR
+<lb />Dit boūxkens, en magh niet ghegeūen, ~
+<lb />noch gheleent worden, aen eennighte ~~~
+<lb />personnen, būijten ons clooster van St. godelieūe.
+<lb />Ora pro Sr. Marie Placida Bens. 1743.
+</ab>
+
+<pb facs="#f074" />
+<ab>
+<lb />patron
+<lb />IHS          MR
+<lb />il faūt toūjoūrs, mettre toūtes les sorte des fleūrs
+<lb />qūe lon peintūre aūec le Sts. non de jesūs, et de Marie,
+<lb />les mettre dans un coeūr, aūec qūelqūe pinsez aū toūr.
+</ab>
+
+<pb facs="#f076" />
+<ab>
+<lb />patron          patron
+<lb />IHS
+<lb />a l’aūtre cotez dū tablaū le St.
+<lb />non de Marie, il faūt toūjoūrs pintūrer, chaqūe
+<lb />cotez, l’ūn, comme l’aūtre, egallement .. ~~
+</ab>
+
+<pb facs="#f078" />
+<ab>
+<lb />Maniere om te vergūlden, met goūdt, ofte silūer.
+<lb />het geene datmen brūneeren wilt, t’sij goūdt,
+<lb />ofte silūer, moet voor eerst den gront doen,
+<lb />met stercken lijm, drooge sijnde leght daen
+<lb />een laeghe lijm met wit cerūse, onderhoūdende
+<lb />altijdt dat ghij de t’weede laeghe noijt en leght,
+<lb />ten sij dat de eerste gheheel drooghe is, ende en
+<lb />leght het noijt te drooghen daer het groote sonne
+<lb />maeckt, en leght het wit niet te dicke, men
+<lb />moet het legghen tot 9. oft 10. keeren, sūijūer=
+<lb />=et alsdaen, en maecket wel effūen met een
+<lb />wūlfs tant, oft met water van spaensche
+<lb />seepe, ende vrift het daer mede tot dat het
+<lb />effen is, doen moet men ten minsten eenen
+<lb />dagh laeten rūsten, eer ghij het gaet vergūlden,
+<lb />ofte versilūeren, Maer onder het goūt, doetmen
+<lb />de t’wee laest keeren met lijm, wat witte
+<lb />cerūse en orannie verweijen, om den gront,
+<lb />goūdt coūleūr te hebben ~~~~
+<lb />Gal van een palinck, in wat brandewijn ghe=
+<lb />smolten, is goet voor te verlichten, goūdt, oft silūer,
+<lb />inde naervolghende coūleūrs, groeūn, swart, grise,
+<lb />en geelūe,
+<lb />het doet de verweijen vloeijen, en maecht dat sij
+<lb />niet afschelferen; dit klienne cantiteijdt van het
+<lb />gal van eennen palinck en is maer om te traceren
+<lb />met eennen peinceelle op beeldekens, maer als sij grooter
+</ab>
+
+<pb facs="#f081" />
+<ab>
+<lb />werchken maecken, soo moetmen grooter
+<lb />cantiteijdt van gal, ende brandewijn neemen,
+<lb />nootert, als ghij maer lichte wercken en wielt
+<lb />maecken, met 4. oft 5. gronden te leeghtgen
+<lb />t’is al ghenoūgh; ~~~~
+<lb />nota, dat den palinck gal, maer en
+<lb />is om te verlichten, maer niet om
+<lb />te traceren met een peinceel op
+<lb />beeldekens, daer + + tou is den brandewijn
+<lb />wel alleen; als oock een dreūpelken, oft
+<lb />twee reghen, oft fontainne waters, dit is het best, om
+<lb />te doen inde goūdt, oft selūere shelpe, en daer mede
+<lb />te verghūlden, ende te traceren met den peinceel; maer
+<lb />om te verghūlden met schūm goūdt, oft selūere; den
+<lb />gront moet magre naet ghemaeckt worden, met wijtte van
+<lb />heijren wel ghesleeghen, maer oūer al wel naet, daer
+<lb />naer, leghtmen daer op, het goūdt, oft selūere schūm;
+<lb />finne oft groūf, men deūt het toū, met een kliennen
+<lb />brockskens spongie; van te voor wel gewaeschen;
+<lb />daer naer vijt ghedeūt in eennen doūcken, ende daer
+<lb />naer, daer mede vergūlden; ende als de spongie wat
+<lb />te droghen worde, doetmen als voor; ~~
+<lb />Nota, als het met olie is, men neemt ghebrant
+<lb />olie, ende men machket naet met die olie, ende
+<lb />selūere, oft goūdt schūm daer op; ende men
+<lb />doet met de spongie als voor; ~~
+</ab>
+
+<pb facs="#f084" />
+<ab>
+<lb />patron
+<lb />MR
+<lb />le saint non de jesūs, pūis
+<lb />estre pintūrez, a l’aūtre coté dū tablaū, de
+<lb />la meme maniere, aūec d’aūtres fleūrs s’il en et
+<lb />besoin..~
+</ab>
+
+<pb facs="#f086" />
+<ab>
+<lb />chaqūe sorte de fleūres doit estres tirez dans sa branche, et le
+<lb />St. non de jesūs de l’aūtres coté dū tabelaūx, egallement
+<lb />MR
+</ab>
+
+<pb facs="#f088" />
+<ab>
+<lb />patron
+<lb />IHS
+<lb />boūcqūé poūr
+<lb />mettre dessūr
+<lb />des coeūr, qūil sons
+<lb />enplie aūec de la
+</ab>
+<ab>
+<lb />leinne, il faūt
+<lb />decoūpper chaqūe
+<lb />boūcqūez, tenent le toūs
+<lb />dans sa branche, sans
+<lb />rien separer, l’ūn de l’aūtres.
+</ab>
+
+<pb facs="#f090" />
+<ab>
+<lb />patron
+</ab>
+
+<pb facs="#f094" />
+<ab>
+<lb />patron
+</ab>
+
+<pb facs="#f096" />
+<ab>
+<lb />patron
+</ab>
+
+<pb facs="#f108" />
+<ab>
+<lb />patron
+</ab>
+
+<pb facs="#f110" />
+<ab>
+<lb />patroon
+<lb />van eenen Remon=
+<lb />=strantie 1757.
+</ab>
+
+<pb facs="#f112" />
+<ab>
+<lb />MAR
+</ab>
+
+<pb facs="#f122" />
+<ab>
+<lb />[O]fcia 2a ad 
+<lb />p[salm]a[rum]
+<lb />Beat[us]
+<lb />v[ir] q[ui] n[on] abi
+<lb />it i[n] [con]silio
+<lb />i[m]pio[rum]: et i[n] 
+<lb />via p[e]cc[at]o[rum] 
+<lb />n[on] stetit: et 
+<lb />i[n] cathedra 
+<lb />pestile[nti]ae n[on] sedit. Sed i[n] lege do[mini] vo
+<lb />lu[n]tas ei[us]: [et] i[n] le[ge] e[us] medi[tabitur] die ac nocte.
+<lb />Et e[r]it ta[m]q[uam] lig[num] q[uo]d pla[ntatum] e[st] sec[us] dec[ur]s[us] aq[ua][rum]: 
+<lb />q[uo]d fr[uc]t[u]m suu[m] dabit i[n] t[em]p[or]e suo. Et foliu[m] 
+<lb />ei[us] n[on] defluet: [et] o[mn]ia q[uae]cu[m]q[ue] faciet p[ro]sp[er]abu[ntur].
+<lb />No[n] sic i[m]pii n[on] sic [sed] t[am][quam] pulvis q[uem] p[ro]i
+<lb />cit ve[n]t[us] a facie t[e]r[ra]e. Ideo no[n] r[e]surg[e]nt 
+<lb />i[m]pii i[n] iudicio: n[eque] p[e]c[ca]to[r]es i[n] [con]si[li]o iusto[rum].
+</ab>
+
+<pb facs="#f123" />
+<ab>
+<lb />Q[uonia]m nov[i]t d[omi]n[u]s via[m] iusto[rum]: [et] it[er] i[m]pio[rum] 
+<lb />Qua[r]e fremuer[un]t ge[n]tes: ( p[er]ibit. 
+<lb />[et] p[o]p[u]li meditati su[n]t inania.
+<lb />Astiter[un]t r[e]ges t[e]r[ra]e [et] p[ri]ncipes [con]vener[unt]
+<lb />i[n] unu[m]: adv[er]s[us] d[omi]n[um] [et] adv[er]s[us] [christum] eius.
+<lb />Disru[m]pam[us] vi[n]cula eo[rum]: [et] p[ro]iciam[us]
+<lb />a nob[is] iugu[m] ip[s]o[rum]. Qui habitat in
+<lb />c[a]el[is] irrideb[it] eos: [et] d[omi]n[u]s s[u]bsan[n]abit eos.
+<lb />Tu[n]c loq[ue]t[ur] ad eos i[n] ira sua: [et] i[n] furo[r]e
+<lb />suo [con]t[ur]bab[it] eos. Ego a[u]t[em] [con]stitut[us] su[m]
+<lb />rex ab eo s[upe]r syon monte[m] san[ctum] ei[us]: p[rae]di
+<lb />ca[n]s p[rae]ceptu[m] ei[us]. D[omi]n[u]s dixit ad me
+<lb />fili[us] meu[s] es tu: e[go] hodie genui te.
+<lb />Postula a me [et] dabo tibi ge[n]tes h[aer]e
+<lb />ditate[m] tua[m]: [et] possessio[n]e[m] tua[m] t[er]minos
+<lb />t[e]r[ra]e. Reges eos i[n] v[ir]ga ferrea: [et] t[am]q[uam]
+</ab>
+
+<pb facs="#f128" />
+<ab>
+<lb />s: Augustinus.
+</ab>
+
+<pb facs="#f130" />
+<ab>
+<lb />JESUS, MARIA, AUGUSTINUS.
+<lb />PUIS que l’Esprit Saint permet de loüer, aprés la mort les personnes, qui meritent
+<lb />de l&apos;être; il est trop juste, de rendre un devoir si legitime à la memoire de la 
+<lb />REVERENDE MERE 
+<lb />MERE ADRIENE TERESE DE MALDEGHEM, 
+<lb />Chanoinesse Reguliere de l’Ordre de St. Augustin, qui mourut à Tournay dans le Monastere de Nôtre Dame de Sion
+<lb />le 28. de l’an 1680. parmy les prieres &amp; regrez de ses cheres Consoeurs, aprés avoir reçû les SS. Sacremens de l’Eglise
+<lb />avec autant de pieté, que de resignation aux volontez Divines. Agée de 65. ans, &amp; Professe de 48. une vie aussi Re-
+<lb />ligieuse qu’a été la sienne l&apos;espace de tant d&apos;années, ne pouvoit promettre une fin moins Heureuse: la grace per-
+<lb />fectionant les avantages tires de son Illustre Extraction, l’avoit renduë un exemple animé de toutes les vertus, 
+<lb />&amp; un sujet tout fait pour le gouvernement des autres; ce qui a paru avec éclat en toute sa Vie, &amp; dans les fon-
+<lb />ctions qu’elle a exercées de Maîtresse des Novices; de Sou-prieure &amp; de Prieure avec cette sage, prudente, ferme
+<lb />&amp; Sainte Conduite qui en a été Inseparable: MAIS, aprés que Saint Paul à dit; quoy que sa conscience ne 
+<lb />luy reprochât rien, qu’il n’étoit pourtant pas Justifié, qu’elle Sainteté se peut delivrer de cette crainte salutaire des
+<lb />Jugemens de Dieu! Ainsi quoy que nous ayons tant d’lndices de son eternelle felicité, l’on implore les Sacrifices
+<lb />&amp; prieres; Afin que si la Justice divine exigeoit d’elle des restes que le Purgatoire dût encore expier, elle puisse
+<lb />étre au plûtôt en état de joüir des chastes embrassemens de sòn celeste Epoux, Ce sont ces offices charitables que
+<lb />l’on demande des Communautez Religieuses, &amp; de tous les fidels. 
+<lb />Requiescat in pace.
+</ab>
+
+<pb facs="#f132" />
+<ab>
+<lb />St godelieve
+<lb />17 ½ 	Steen Boter.
+</ab>
+
+<pb facs="#f134" />
+<ab>
+<lb />voor 3 stūivers berlins blaūw
+<lb />voor 3 stūivers florentins root
+<lb />voor een illeg stūiver roose root
+<lb />voor 2 stūivers blaūwe Engels asken
+<lb />voor een stūiver schelpe wit
+<lb />voor een stūiver bleeck geūlwe
+<lb />voor 2 stūivers orainie orainie verwe
+<lb />voor een stūiver boūck groen
+<lb />v ses penceelen van ortiens
+<lb />voor een stūiver indego
+</ab>
+
+<pb facs="#f136" />
+<ab>
+<lb />nichte belieft
+<lb />de goũtheijt te hebbe
+<lb />van hier te tiecken
+<lb />tot een vierendeel
+<lb />van het gheen dat
+<lb />het van nooet is
+<lb />oũ veel
+<lb />root olũn
+<lb />van Co
+<lb />en van wijnsten
+<lb />ick sal vl: dancbar
+<lb />sijn
+</ab>
+
+<pb facs="#f138" />
+<ab>
+<lb />Mr joris Drogist vercopt fernabocken
+<lb />houdt dat heel goedt is om root papier
+<lb />te schilderen men doet dit als volght
+<lb />voor twee stuijvers of vijf groote van
+<lb />dit houdt navolgens den plas dat men wilt
+<lb />maeken en om het sekerste nemt maer
+<lb />D’elft hier van; en doet het in een pot met
+<lb />een kanne of drie pinten regen water
+<lb />laete het wat trecken en dan een alf uren coken
+<lb />of wat meer dan een stuck rooden allun kloppen
+<lb />fijn maer moet eerst in een schotel of panne
+<lb />smilten apart maer moet verstaen dat dit niet root
+<lb />schindt maer is wit maer woort soo genomt en bij
+<lb />den voorseijden oock verkoght als t’hout soo lange ge=
+<lb />suddert heeft dan giet gij dat sop van den allun in den
+<lb />ersten pot en om roert het met een stocktien dan woort
+<lb />het heel root en laet het wat t’saemen sudderen giet dan wat
+<lb />sop in een potteken en als het coel is nemt wit papier leght het op
+</ab>
+
+<pb facs="#f139" />
+<ab>
+<lb />een tafel begint te schilderen maer moet sleghte
+<lb />of jets dat niet bederven can onder leggen en jder
+<lb />bladt op een cordeken hangen alwaert maer een
+<lb />pack cordeken dan laeten drogen en soo continueren
+<lb />tot dat het root genogh is naer uw gouste alwaert
+<lb />tot ses a seven mal wilt gij het blinckende
+<lb />hebben gaet het eens over met wijt van heyeren fijn
+<lb />geslegen dit sop is oock goedt om sijde root te maeken
+<lb />besonderlijck witten gront of gelve maer moet eerst suijver
+<lb />gewasschen sijn of linten maer moet een weijnigh hier
+<lb />in kocken tis oock goet om wit hout root te maeken
+<lb />en als het root genog is met wasch gevreven dat blinckt
+<lb />en is gelijck Bois d’acasou de gront van dit can meer
+<lb />als eens dienen met ander waeter en nog weijnig hout
+<lb />daer in en allun is wederan goet sap
+<lb />maer de groote van den allum soo een dobbelen
+<lb />bocket jmers het leert sijn selven
+</ab>
+
+<pb facs="#f140" />
+<ab>
+<lb />Om’t root laecken af te recken
+<lb />Men moet de loogh maecken nemt wijngaer
+<lb />koudt en brandt &apos;t tôt asschen nemt twee potten
+<lb />regen waeren en stelt de looghe en giet de
+<lb />looghe claer af in eene nieuwen arder pot
+<lb />en nemt ‘t root laecken en doet ‘t in de looge
+<lb />tôt ‘t oversopt is, en stelt den pot wel gedeck
+<lb />met een arde pot decksel s’avons van te voor
+<lb />in den lauwen oven en laet ‘t trecken tôt
+<lb />sanderdagh ten zy furen nemt als dan
+<lb />den selven pot en set hem op een contoor
+<lb />met vier en laet ‘t een ure lanck koken en ‘t laet ‘t
+<lb />geduerigh om keeren met een nieuwe pot
+<lb />lepen dat ‘t niet en b[r]andt, nemt als dan
+<lb />nagh een nieuwe arder pot en nemt den eerst[en]
+<lb />van ‘t vier en begiint ‘t laeck uijt te douwen
+<lb />in tweeden pot en al ‘t sop daer uijt synde nemt
+<lb />een alf pinte wijn azijn en roert dien lanck
+<lb />saem duer in en laet ‘t koken op een stil
+<lb />vier en roer ‘t dat ‘t niet en brandt tot een kanne
+<lb />en laet ‘t dan staen tot dat ‘t gesoncken is, en
+<lb />giet ‘t opperste an af en nemt ‘t lack en giet
+<lb />‘t op tenflooren en laet alsoo droogen
+</ab>
+
+<pb facs="#f141" />
+<ab>
+<lb />En ‘t Claerste is an papier te verwen
+</ab>
+
+<pb facs="#f142" />
+<ab>
+<lb />Manire om rood pampier
+<lb />te verwen
+<lb />Doet een onse pottasschen in
+<lb />eenen aerden pot, kokt dan
+<lb />een stoop regen waeter en|
+<lb />giet dat al kockende op de
+<lb />pottasschen, laet dit stille
+<lb />staen tot s’aenderdags giet dan
+<lb />stillekens sonder roeren de claere
+<lb />looge af in eenen aenderen pot,
+<lb />die suyver is, nemt dan een kanne
+<lb />van dese looge stelt die te kocken
+<lb />en nemt een pont rood lacken
+<lb />doet dit in een suyver pot en als
+<lb />de looge kokt giet die op het
+<lb />laecken, laet dit wat trecken
+<lb />op het vier van tijd tot tijd
+<lb />keerende het laeken als het al
+<lb />wel dordronken is stelt het af
+<lb />en laet het wat verkoelen steld
+<lb />dan de aender kanne looge op het
+<lb />vier laet het kooken douwd dan
+<lb />het laeken uijt soo stijf als gij
+<lb />kont en als de looge kokt doet
+<lb />dan het laeken daer in, keert
+<lb />en wend het wel laet een quar-
+<lb />-tier koken laet het dan wat
+<lb />verkoelen douwt het wederom
+<lb />uijt, doet dan al het sop bij een
+<lb />stelt dit op het vier doet daer
+<lb />een susijn witten alluijn in
+<lb />laet dit een weijnig koken het
+<lb />moet wel geschuijmt, worden, ze
+<lb />en moght het schuijm niet wegh
+<lb />worpen want daer komt noch
+<lb />goede verwe van, doet dan wat
+<lb />witten wijnsteen in eenen pot
+<lb />en giet de kokende verwe daer op,
+<lb />als ze siet dat daer noch schuijm
+<lb />op komt nemt het af, en doet
+<lb />niet bij het aender schuijm laet
+<lb />het dan twee a drij daegen staen
+<lb />sonder roeren, giet dan al stille-
+<lb />-kens de verwe af, en siet of den
+<lb />gront vuijl is offer swaerte brox-
+<lb />-kens in sijn, alser in sijn ten
+<lb />is niet goet, als den gront suij-
+<lb />-ver is doet het bij de verwe, stelt
+<lb />dan werderom op het vier, als het
+<lb />violet is, het is dat’er geen wijn-
+<lb />-steen genoegh in is, ook alser
+<lb />te veel wijnsteen in is, is het
+<lb />te bleek doet dan wat stijf blome
+<lb />of ameldonk in eenen pot brekt
+</ab>
+
+<pb facs="#f143" />
+<ab>
+<lb />die met het koudt sop dat van
+<lb />het schuijm komt en als de ver-
+<lb />-we kokt doet die dan in den pot 
+<lb />daer de blome in is al roerende
+<lb />dat de blomme niet en klontert
+<lb />als de verwe te violet is doet dan
+<lb />nog wat wijnsteen bij de blomme
+<lb />tot dat ze siet dat het schoon
+<lb />van coleur is, noteert dat de verwe
+<lb />niet en mag gestopt zijn ook en
+<lb />kan niet lang bewaeren, maer
+<lb />kan erkokt zijn als sij violet
+<lb />geworden is laet die een weijnig
+<lb />koken doet dan wat wijnsteen in
+<lb />een aender pot, giet de verwe daer
+<lb />op doet het schuijm af en als
+<lb />het nog te violet is doet&apos;er nog
+<lb />wat wijnsteen bij tot dat ze siet
+<lb />dat het schoon is en alsser geen
+<lb />schuijm op en komt moet het
+<lb />laeten staen tot dat het geson-
+<lb />-ken is, giet het dan stillekens
+<lb />af siet op den gront goet is als
+<lb />vooren, en doet het in eenen pot
+<lb />laet het tot kooken kommen
+<lb />nemt wat blome als vooren
+<lb />geseijt is, hoe drooger de plaet-
+<lb />-se is daer de verwe staet hoe
+<lb />beter sij kan bewaeren,
+<lb />men kan daer mede ook schil-
+<lb />-deren en als men geel bleek
+<lb />wilt hebben moet men wat
+<lb />regen watter daer bij doen
+<lb />~~~~~~~
+</ab>
+
+<pb facs="#f144" />
+<ab>
+<lb />✠
+<lb />Maniere om Root pampier te verwen
+<lb />men moet eene once potasschen doen in een
+<lb />suyveren aerden pot die niet vet en is, en
+<lb />kokt alsdan een stoop regen water giet dat
+<lb />al kokende op den potasschen, laet dit stille
+<lb />staen tot s’anderdaeghs giet dan stillekes
+<lb />sonder roeren de klaere looghe af in een
+<lb />ander pot die suyver is, neemt dan een kanne
+<lb />van dese looghe, stelt die te koken, doet een
+<lb />pont root laecken in eenen suyveren pot, en
+<lb />als de looghe kokt giet die op het laeken,
+<lb />laet dit wat staen trecken op het vier, van
+<lb />tyt tot tyt keerende het laeken, als het al
+<lb />wel doordronken is steld het af en laet wat
+<lb />verkoelen steld dan de ander looghe te koken
+<lb />dauwt het laeken in den pot daer het in is,
+<lb />soo styf als ge kont en als de looghe kokt doet
+<lb />dit laeken daer wederom in keert en went
+<lb />het wel laet het een &apos;quartier heurs koken
+<lb />laet wat verkoelen douwt het wederom uyt
+<lb />soo styf als ‘t mogelyk is, doet dan al het sop
+<lb />by een en steld dit op het vier doet daer een
+<lb />sisein witten alluyn laet dit een weynig
+<lb />koken, als het begint te koken moet het
+<lb />schuym afgenomen worden, maer en moght
+<lb />het schuym niet weg worpen want daer komt
+<lb />noch goede verwe van, doet dan wat witten
+<lb />wynsteen in eenen pot, en giet de kokende
+<lb />verwe daer op, alsser noch schuym op komt
+<lb />neemt het af doet het by het ander schuym
+<lb />laet de verwe twee a dry daeghen staen
+<lb />sonder ^ roeren en giet die al stillekes af siet oft de
+<lb />gront vuyl is offer swarte brocxkes in syn
+<lb />en doet die uyt als den gront schoon en suyver
+<lb />doet het by de verwe steld dan wederom op het
+<lb />vier als het te violet is het is datter geen wyn=
+<lb />steen genoeg in en is oock alser te vele wynsteen
+<lb />in is dan is het te bleek doet dan wat styfbloeme
+<lb />in een pot breekt die met het kout sop dat van
+<lb />het schuym gekomen is en als de verwe kokt
+<lb />doet die dan in den pot daer de bloeme in
+<lb />gebroken is al roerende dat de bloeme niet en
+<lb />klontert als de verwe te violet is doet dan nog
+<lb />wat wyn steen by de bloeme tot dat ul siet dat
+<lb />het schoon van couleur is
+</ab>
+
+<pb facs="#f146" />
+<ab>
+<lb />Om Roose Coūleūr te Verwen moet men nemen een groote handt-vol
+<lb />fijn linwaet ende dan neemt men een alf pont soūfloers de welcke
+<lb />soūfleūrs gedaen moet worden in een linwaete saeckjen ende dan leght
+<lb />men die soūfloors die in het saecxkien ^ is in reghen waeter ses of seven ūren
+<lb />te weecke, en dan somwijlen eens het saecxkien omgekeert in het water
+<lb />en als het langhe genoegh geweeckt heeft dan moet men het saecx=
+<lb />=kien wasschen sonder open de doen soo langhe tot dat den sack root
+<lb />wort; Nū om de looghe te maecken, moet ghij nemen wijngaert hoūt
+<lb />en dat verbrandt tot asschen van welcke asschen men moet nemen
+<lb />een pot vol en die asschen doetmen in eenen ketel met twee potten
+<lb />reghen waeter en alsoo laet ‘et een aleene alf ūre koken, en dan neemt
+<lb />den ketel van het vier en laet ‘et sijncken want de looghe moet
+<lb />claer sijn; en dan begint te verwen, ende dan leght het sackxjen.
+<lb />met soūfloors in een schotel ende schūdt daer over een cleen bier
+<lb />glaeskien ontrent alf vol looghe schūdt het over het sackxkien ende
+<lb />wascht het sackxkien daer mede ende vrijnght dan het sackxken
+<lb />alf ūijt, ende doet dan het claerste linwaet daer in en als het nat is
+<lb />dan doūw-et ūijt, dan neemt een scholtelken azijn ende doet dat stūckxken
+<lb />linwaet inden azijn ontrent een glasken dan doūw-et ūijt neemt weder het
+<lb />selve stūckxken linwaet dat inde verwe heeft geweest, doet het weder[-]
+<lb />-om in die selve verwe soo doūw-et ūijt en doet het wederom in dien
+<lb />selven azijn dan doūw-et ūijt soo werpt dan dien azijn ūijt en doet
+<lb />dan weder s[cho]onen azijn in het schotelken, en werpt dan oock ūijt de
+<lb />verwe, soo vrijnght ‘dat sackxken voors ūijt, dan neemt dat voorgaende
+<lb />stūck dat noch geverwt is en doet &apos;et weer daer in, soo dan doūw-et
+<lb />weer ūijt en leght-et weder in den azijn, soo doūw-et weer ūijt dan
+<lb />is dat stūck roodt genoegh; soo moet ghij weder een ander claer stūckxken
+<lb />linwaet nemen, en leght-et inde verwe en dan weder in den azijn gelijck
+<lb />als vooren; en als de verwe claer wort dan werpse ūijt; en leght dan het
+<lb />sackxken inde schotel giet dan weder een half glasken looghe over het
+<lb />sackxken, en dan vrijnght het daer mede, doen vrijnght het sackxken half
+<lb />ūijt, en begint dan wederom te verwen, op die selve maniere als vooren,
+<lb />en als ghij bemerckt dat daer gheen verwe meer ūijt en comt dan claer
+<lb />soo moet ghij dan ophoūden van te verwen, dan moet ghij het roodt linwaet
+<lb />wasschen, met wat spaensche seepe, maer ghij moet de seepe in een doeckx[=]
+<lb />=ken doen, en slaet dan het doeckxken met de seepe daer in het water, soo
+<lb />moet ghij dan stūck voor stūck wasschen, in een heemer, en dan met schoon
+<lb />water gespoelt, soo vrijnget ūijt en leght het in een schotet [corr: schotel] en doet dan
+<lb />azijn daer over soo laet het een geheelen nacht staen daer in, sanderdaeghs
+<lb />vrijnght-et dan ūijt, en leght het dan te drooghen op een sargie en dat in
+<lb />het doncker; en als-et dan drooghe is moet ghij het stijven met wit stijf[=]
+<lb />=sel, ghij moet nemen een vierendeel van een pondt en dan laeten koūdt worden
+<lb />soo moet ghij dan het linwaet stijven, en dan ūijt malcander doen oock op een
+<lb />sargie en dat in’t doncker laeten soo drooghen;
+<lb />Nū om witte roosen te maecken soo moet ghij nemen wit linwaet en doet
+<lb />het in het seep water daer het roodt linwaet in gewasschen is geweest,
+<lb />en door het claer water gespoelt, maer en doet het in gheenen azijn, maer 
+<lb />stijv’et als vooren,
+</ab>
+
+<pb facs="#f148" />
+<ab>
+<lb />om wijt hooren, roose coūleūr te
+<lb />verūe, tot eenen vierrendeel
+<lb />hooren: neemen wij, voor 9. groot
+<lb />consenille met een alūe onse olūn rood
+<lb />met 3. pinte fontaine waeter
+<lb />dat moetmen sieden te saem tot
+<lb />dat het sopt root worde, al daen
+<lb />doet men, het vierendeel hooren
+<lb />daer in, in goet order, ende men
+<lb />laetse sienden tot datse schone
+<lb />roose coūleūr is, als daen moetmen
+<lb />se nemen vijt het sop; ende laeten
+<lb />drooghe sonder te spoūllen, ende op
+<lb />een laeten tot dat wat ghedroght is;
+<lb />_________________________
+<lb />ende al daen open doen
+<lb />la manier poūr taindre la horne
+<lb />blanche, le faire la coūleūr de rosse
+<lb />qūe voūs voiez icij le patron,
+<lb />long acheste cela chez la marchan
+<lb />et chez les coiffeūsse, et les aū-
+<lb />tres personnes qūils fons de fleūrs
+<lb />dans le monde
+</ab>
+
+<pb facs="#f149" />
+<ab>
+<lb />Tot Brūgghe
+<lb />Port met rest: staen
+<lb />acht stūij[ver]s en halfven
+</ab>
+
+<pb facs="#f150" />
+<ab>
+<lb />l olun rouge, consenille tarte, le toūs bien etanpez
+<lb />p[ou]r taindre la coūleūr de
+<lb />rosse desūr lhorne blanche qūe voūs voiez icij
+<lb />cela se van ordinairement chez le marchan ~
+</ab>
+
+<pb facs="#f152" />
+<ab>
+<lb />[deletion begins] om geluwe verrwen te maecken
+<lb />nemt voor een schellijnck
+<lb />guitte gomme en en voor een
+<lb />stúiver ghehel soufraen ende
+<lb />een stúiver olun ende dat
+<lb />tsaement wel ghebrocken
+<lb />in waeter [deletion ends]
+<lb />Maniere om root te sch[il-]
+<lb />deren
+<lb />Neemt een vierendeel
+<lb />fernebockx een pinte asijn
+<lb />en een half vierendeel olun
+<lb />en laet dat zieden tot op
+<lb />de helf en giet dan dat sop
+<lb />af in een flessche dat
+<lb />blijft drie jaer goet en als
+<lb />men dat wilt ghebruicken
+<lb />soo giet wat van dat sop in
+<lb />een oester schelpe en vergie[t]
+<lb />dat 3 a 4 mael het claer af
+</ab>
+
+<pb facs="#f153" />
+<ab>
+<lb />en dan laet dat een dagh
+<lb />a 2 inde sonne staen of op
+<lb />een lauwe vier ketel dat
+<lb />het een weinigh dick wert
+<lb />en dan is het goet om te
+<lb />ghebrucken
+<lb />op de selve maniere bereit
+<lb />men oock violette verwe
+<lb />maer inde plaetse van
+<lb />fernebockx neemt men
+<lb />bresil houdt
+<lb />om groene veruwe te
+<lb />maecken
+<lb />neemt blaeren van bloom
+<lb />coolen sonder de ribben en
+<lb />stampt die en duit dat
+<lb />sop uit door een doeck en
+<lb />tot een pot van dat sop
+<lb />neemt een vierendeel spaens
+<lb />groen en dat wel onder
+<lb />malcanderen ghebrocken
+<lb />ende een dagh inde sonne
+<lb />laeten staen en dan met
+<lb />en sponsie het papiert
+<lb />3 a 4 mael over stroken
+</ab>
+
+<pb facs="#f154" />
+<ab>
+<lb />nota alsmen schoon violet
+<lb />wilt hebben, moet men in de
+<lb />oūester schelpe bij de verwe wat
+<lb />ongheblūghsche calken doen ~
+</ab>
+<ab>
+<lb />nota, ende inde root oūester
+<lb />schelpe inde verwe wat
+<lb />sijtroon sop doen, dat machken
+<lb />schoon hoogh geelūe
+</ab>
+
+<pb facs="#f155" />
+<ab>
+<lb />lescivve melieulle vielle bier la plūs vielle et la
+<lb />te maecken, neemt een caen hoūt goet
+<lb />stūūer fernebockx hoūdt, ende voor
+<lb />[?]at meer tot op d’helft, ende als daen
+<lb />ende als men dat wilt ghebrūicken, soo
+<lb />[??]r schelpe, ende vergiet dat 2. oft 3.
+<lb />nigh [dick wert, als daen is
+<lb />[?]ren op papieren, als oock op
+<lb />[??]ck violette verwe maer inde
+<lb />[??]mt men bersil hoūdt ~
+</ab>
+
+<pb facs="#f156" />
+<ab>
+<lb />om geel pampier te verwen
+<lb />men neemt een sisein safran het welck men laet trecken in de quantitey[t]
+<lb />van een pinte water als het redelyck getrocken is men giet het af
+<lb />en doet noch wat water op het safran om voorder af te trecken, men
+<lb />moet oock hebben een once gambe t’welcke eenige daegen te vooren
+<lb />moet weeken ende in het getrocken safran gieten als het cout is
+</ab>
+
+<pb facs="#f158" />
+<ab>
+<lb />om groen Papier te maeken
+<lb />Nemt het groen van siederi het jeugdigste al de rebben
+<lb />uyt gedaen dan gestampt in Mortier dan uyt
+<lb />gevrongen en dan wederom gestampt toe drye mal
+<lb />toe, nemt dan spaens groen en doet het in het sop
+<lb />tot dat het gesmoltens is, doet daer soo veele in als
+<lb />dat het ue wilt groene hebben hoe meer groen hoe
+<lb />ooger couleur ook een weinig wijn steen van tyd
+<lb />tot tyd roeren tot dat het heel gesmolten is, nemt
+<lb />dan het papier en legt het op een tafel of bert, nemt
+<lb />dan een schilder c[ou]s[t]elken en strick het daer over
+<lb />den eenen kant gedaen sijnde ank het te drogen
+<lb />en wel droge synde doet dan en anderen kant en
+<lb />dat soo dikmals tot dat het groene genoeg is
+<lb />volgens ue gouste d nemt dan wit van eyeren en
+<lb />strikt het daer over om den glans te geven als
+<lb />het wel drooge is
+</ab>
+
+<pb facs="#f160" />
+<ab>
+<lb />w
+<lb />om Groene Verwe te macken
+<lb />Voor een alf pont spans groen
+<lb />men nempt twee kannen reghen
+<lb />water, en doet daer in, een alf
+<lb />vierendeel witte wijnsteen, en
+<lb />een teenne lepel gestamten olūn
+<lb />laet dat soo eenen nacht wecken
+<lb />in eenen coperen acker ofte panne, en het
+<lb />moet geschūmt wesen, het
+<lb />moet vercoken tot op den helft,
+<lb />en men doet het sap groen daer
+<lb />in als het maer bloet waerme
+<lb />en is
+<lb />het spans groen is van sij selven
+<lb />bloūw men nemt het sap groen op den
+<lb />point van een mes,
+<lb />en vriest dat an den kant
+<lb />van ū panne, in het spans groen tot dat
+<lb />het groene genouch is, maer en moght
+<lb />daer niet te veele in doen, ghij moet
+<lb />dat proberen op pampier tot dat het
+<lb />couleūr naer ul gouste is,
+<lb />~~~~~~
+<lb />en waertsacke dat in het verūwen
+<lb />van ul pampier ghij saght dat het
+<lb />wat te blouwendigh is ul en moet
+<lb />maer wat groene verwe in een schote[-]
+<lb />lken doen en wat laeten
+</ab>
+
+<pb facs="#f161" />
+<ab>
+<lb />en als ul verwe, alsoo gekockt is
+<lb />doedt die in een flessche, ghij condt
+<lb />die bewaeren, en ghebrucken als het
+<lb />belijeft maer het is beter in den somer
+<lb />als nū
+</ab>
+
+<pb facs="#f162" />
+<ab>
+<lb />warmen en doet daer in noch wat sap
+<lb />groen
+<lb />~~~~~~
+<lb />nota het pampier dat ghij daer toe
+<lb />ghebruckt, moet fijn en ghesloten sijn
+<lb />en dat pampier moet gepaept sijn al
+<lb />eenen kant met witten stijf pap die
+<lb />warme is, en niet dicke, ghij moet den
+<lb />pap wel en effen in v[e]rwen met eenen
+<lb />sochten bustel, anght dan te droeghen
+<lb />en als het wel drooghe is leght het dan te
+<lb />passen om dat het soude effen commen
+<lb />nemt dan uwe groen verwe, en
+<lb />een deel van een spontie om alsoo
+<lb />u pampier te verwen, al den
+<lb />gepapten kant eerst, maer naer den
+<lb />eersten en 2 keer, moet dat met een
+<lb />lijcht handt doen en magher dat
+<lb />het niet vloijdt, als ghij u blat 
+<lb />pampier met een lijcht handt over
+<lb />gaen hebt en sijnde datter noch
+<lb />striepen sijn die ghij over geschreckelt
+<lb />hebt en moght daer niet meer an
+</ab>
+
+<pb facs="#f163" />
+<ab>
+<lb />kommen want ghij soudt meer af
+<lb />vaghen als dat het soude annemen
+<lb />het pampier en magh niet anghen
+<lb />om te drooghen, maer men leght het
+<lb />op een leeder of op stocken, en het
+<lb />moet wel droeghe sijn, eer ghij het
+<lb />noch eens over gaet, en het moet
+<lb />schoon weder sijn om dat doen,
+<lb />ghij moet het wel 6 keeren over
+<lb />gaen al den rechteren kandt en al
+<lb />den anderen kant 3 a 4 keeren
+<lb />~~~
+<lb />ick soude raeden van maer
+<lb />een vierendeel spans groen te
+<lb />stellen voor den eersten keer, en
+<lb />het moet gestampt sijn, en dan en
+<lb />moet ghij maer een kanne reghen
+<lb />water hebben en wat meer als
+<lb />een once wijnsteen, en eenen
+<lb />alven lepel gestamten olun
+</ab>
+
+<pb facs="#f164" />
+<ab>
+<lb />rinschen hast een alle pont
+<lb />wasschen een alle pont
+<lb />een honse spanche groūn
+</ab>
+
+<pb facs="#f166" />
+<ab>
+<lb />un onsse spanschen groūn,
+<lb />une demie liūre de cirre blanche,
+<lb />un demie liūre, et une demie
+<lb />cartron rinschen hast;
+<lb />et toullier
+<lb />le toūs bien fondūe ensemble sans
+<lb />boūlier; pūis faūt plonger le
+<lb />papier dedans une bande a la fois
+<lb />la largeūr de trois taille, aūssanūirons
+<lb />me la meme longeūr qūe le papier est
+<lb />dans son longeur
+<lb />cecij est pour le sūcqūiriez
+<lb />qūil fons de deser, et p[ou]r ce qūe
+<lb />voūs voūlez faire aūec
+<lb />me si v[ou]s voiez qūe le papier
+<lb />ne pas bien ver a vostre volonté
+<lb />a dont il voūs faūt mettre plūs
+<lb />de ver despangne, oū aūtrem[en]t die
+<lb />spanschan groūn
+</ab>
+
+<pb facs="#f167" />
+<ab>
+<lb />cette Remonstrance, repre=
+<lb />=sante la pastion de jesūs
+<lb />christ, aūec le Coūronnement
+<lb />trionphalle dū tres St. Sacre=
+<lb />=ment; ~~~
+<lb />Cette Remonstrance represan=
+<lb />=te le bateme de jesūs-christ,
+<lb />qūe nostre doūx saūūeūr, a ~
+<lb />recū de St. jean baptiste, ∞
+<lb />le St. esprit, aūec se raions,
+<lb />mest desūr la tette de jesūs-
+<lb />-christ, la Croix, aūec la
+<lb />Coūronne depinne; ~~~
+<lb />Cette Remonstrance repre=
+</ab>
+
+<pb facs="#f168" />
+<ab>
+<lb />[NB: top line has been cut off; descenders visible]
+<lb />en een vierendeel Cooperoot en laet
+<lb />het sien naer ū ghenoegen
+<lb />om Blaūw
+<lb />Doet drije hemers pisse warme gietet
+<lb />het dan in een vat dat wel schoon is
+<lb />neemt dan thien oncen Indigo en drije
+<lb />vierendeel pot asschen fin gestooten
+<lb />doet het troocken in een nieūwe pot, met
+<lb />twee pinten regen waeter, giet het daen
+<lb />in, doet daer ses oncen crap in doet daer
+<lb />twee handen vol calck in laet het daen
+<lb />rūsten acht of neghen daghen, soo het
+<lb />dan niet en weercht doeter dan een
+<lb />alf pinte Brandwin en een stūijver weit
+<lb />om swaert
+<lb />tot 14 een alf pont galnooten, een alf
+<lb />pont crap en 2 pont smack laet het
+<lb />koocke en heūr, ~ Neemt de wollen vyt
+<lb />om te vercoelen, neemt met het selfde
+<lb />waeter een alf pont provintie hoūdt
+<lb />met 3 pont cooperoot en laet het noch
+<lb />ander alūe heūre kocke ~~
+</ab>
+
+<pb facs="#f170" />
+<ab>
+<lb />Maniere om afschen van wingaert ranken te macken
+<lb />men brant die, op eenen suijveren hert, sonder ander afschen in
+<lb />te mengelen, nū gebrant sijnde, men doet t’vier en d’afschen
+<lb />al te saemen in eenen schlechten aerden pot, die men van tijdt
+<lb />tot tijdt opsteeckt, tot dat al verteirt is.
+<lb />om looghe van wingaert ranken afschen te macken
+<lb />neemt drije hants=veūllen afschen met twee handen, en 7. of 8.
+<lb />pinten regen of fonteijne waeter, laet die koken tot op 4. of 5.
+<lb />pinten, wort die gekockt in eene sūijver marmijte, als die vant’
+<lb />vier genomen wort, moet gegoten sijn in eenen aerden pot, die
+<lb />tot geen ander sacken gedient en heeft als om roosen te verwen,
+<lb />laetende d’afschen soo veel alst mogelijck is op den gront van de
+<lb />marmijte, des anderdags men giet de looghe door eenen doeck
+<lb />in eenen anderen pot, nochtans voorsichtig sonder den gront te
+<lb />roeren, de looge is dan bequaem om te gebrūijcken om roose-koleūr
+<lb />te verwen, soo als hier volgt
+<lb />neemt een vierendeel of alf pont sanfloūr, doet het in een wit
+<lb />linwaten sacxken versekert toe gebonden, stelt het te wecken
+<lb />in regen of fonteijne waeter, men wast een weijnig het sanfloūr
+<lb />t’selve twee keeren van waeter veranderende; en dan laeten wecken
+<lb />van den vijf heūren en-alf s’avonts tot den vijf uren en-alf s’mor
+<lb />gens. en dan wort het gewaschen, en van tijdt, tot tijdt, van
+<lb />waeter verandert, tot dat het klaer wort, den sack en magh
+<lb />niet gevrongen sijn, maer ūijtgedogen met de handen, ten sij
+<lb />den laetsten keer, dan moet het sacxken soo sterck uijtgevrongen
+<lb />sijn alst mogelijck is
+</ab>
+
+<pb facs="#f171" />
+<ab>
+<lb />daer naer men treckt het sanfloer ūijt den sack, en doet het
+<lb />in eenen grooten platten pot, en alst al wel van een gepluckt
+<lb />is men sproeijt er en weijnig regen of fonteijne waeter
+<lb />over. dan giet me[n] int sanfloūr een pinte looghe gemachts
+<lb />van afschen van wijngaert ranken; dan woort de pot ge=
+<lb />deckt met eenen anderen van de selve groote, om dat hij
+<lb />locht en soūde vatten stelt hem in een dūijster plaetse
+<lb />uel noch een deckkleet daer op, en alsoo laeten trecken
+<lb />2. heūren, en moet dan gekne[uz]t worden een quaertier lanck
+<lb />men deūgt het met hantsvollen ūijt, als men niet meer 
+<lb />nemen en kan giet de reste wederom in den sack, die ūijt
+<lb />gevrongen wort, in eenen suijveren pot, men bereijt terstont
+<lb />eenen anderen pot met wat asijn van witte win, daer de stoffe
+<lb />in wort nat gemackt, wel doordroncken sijnde, men neemt die
+<lb />altesaemen, geeft die in handen van de persoone die t’sanfloer
+<lb />gekne&apos;et en ūijtgevrongen heeft; welcke geheel masse haette
+<lb />lijck in de verwe steekt, de selve wel waschen en&apos;van een
+<lb />trecken, met eene lichte hant soo gaūw alst mogelijck is.
+<lb />de stoffe haer coleūr hebbende, wort wederom van stūck tot stūk
+<lb />gewaschen naer die wel ūijtgedogen t’hebben, steekt ^ die in verjūis 
+<lb />naer alsvooren uijt gedoūwen sijnde, wort gespoelt in drie of 4. 
+<lb />potten vervolgende te vooren bereijt met 2. of 3. pinten schoon
+<lb />regen of fonteine waeter; waer naer men eenige stūcken stoffe
+<lb />wascht daert t’eeste coleūr in gespoelt is, t’welcke dient
+<lb />voor bleek coleūr, en wort dan samen gedroogt op den solder.
 </ab>
 
   </div></body>
