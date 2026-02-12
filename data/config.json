@@ -3,7 +3,8 @@
   "documentName": "Artificial Flowers",
   "iiifManifest": "/ArtificialFlowers/artificial_flowers/iiif/manifest.json",
   "transcriptionTypes": {
-    "tc": "Transcription"
+    "tc": "Transcription",
+    "tl": "Working Translation"
   },
   "viewerUrl": "/ArtificialFlowers"
 }
