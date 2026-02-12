@@ -1,9 +1,9 @@
 {
   "id": "ec",
-  "documentName": "<DOCUMENT_NAME>",
-  "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
+  "documentName": "Artificial Flowers",
+  "iiifManifest": "/ArtificialFlowers/artificial_flowers/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "tc": "Transcription"
   },
-  "viewerUrl": "/<BASE_DIR>"
+  "viewerUrl": "/ArtificialFlowers"
 }

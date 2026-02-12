@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+          <fileDesc>
+              <titleStmt>
+                  <title>
+                      <!-- Your Title Here -->
+                  </title>
+              </titleStmt>
+              <publicationStmt>
+                  <p></p>
+              </publicationStmt>
+              <sourceDesc>
+                  <p></p>
+              </sourceDesc>
+          </fileDesc>
+      </teiHeader>
+
+      <facsimile sameAs="https://app.coredata.cloud//core_data/public/v1/items/7802d29a-f8ab-46a4-ad62-b9d796166d95/manifests/2d7080c9-7829-4bb1-a1b2-1fa8b4ddb8df">
+        
+          <surface xml:id="f002" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/efd6e3c3-c564-4984-8c13-83d25a08f7d3/canvas/1" ><label xml:lang="en">0003.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/efd6e3c3-c564-4984-8c13-83d25a08f7d3;1"/></surface>
+          <surface xml:id="f003" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cbbe0d53-344b-49ee-ab2b-090326c11527/canvas/1" ><label xml:lang="en">0004.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cbbe0d53-344b-49ee-ab2b-090326c11527;1"/></surface>
+          <surface xml:id="f004" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/19791d3d-8353-4a59-8e82-1d0b5a9bfd45/canvas/1" ><label xml:lang="en">0005.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/19791d3d-8353-4a59-8e82-1d0b5a9bfd45;1"/></surface>
+          
+      </facsimile>
+
+      <text xml:id="text">
+
+          <body>
+            <div>
+              <p>Modify xml:id as desired and replace this with your text.</p>
+            </div>
+          </body>
+
+      </text>
+  </TEI>
