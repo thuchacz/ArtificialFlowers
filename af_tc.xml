@@ -16,7 +16,7 @@
           </fileDesc>
       </teiHeader>
 
-            <facsimile sameAs="https://app.coredata.cloud//core_data/public/v1/items/7802d29a-f8ab-46a4-ad62-b9d796166d95/manifests/2d7080c9-7829-4bb1-a1b2-1fa8b4ddb8df">
+      <facsimile sameAs="https://app.coredata.cloud//core_data/public/v1/items/7802d29a-f8ab-46a4-ad62-b9d796166d95/manifests/2d7080c9-7829-4bb1-a1b2-1fa8b4ddb8df">
                     <surface xml:id="f000" ulx="0" uly="0" lrx="4007" lry="5282" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ee6e084f-e499-41cf-b731-e263028ec9ae/canvas/1" ><label xml:lang="en">0001.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ee6e084f-e499-41cf-b731-e263028ec9ae;1"/></surface>
           <surface xml:id="f001" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9149cbed-8eb8-4235-a7de-5c8af629e1d5/canvas/1" ><label xml:lang="en">0002.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9149cbed-8eb8-4235-a7de-5c8af629e1d5;1"/></surface>
           <surface xml:id="f002" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/efd6e3c3-c564-4984-8c13-83d25a08f7d3/canvas/1" ><label xml:lang="en">0003.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/efd6e3c3-c564-4984-8c13-83d25a08f7d3;1"/></surface>
@@ -36,6 +36,8 @@
           <surface xml:id="f016" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f26e020a-d344-4ba4-966d-50e9c806eb14/canvas/1" ><label xml:lang="en">0017.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f26e020a-d344-4ba4-966d-50e9c806eb14;1"/></surface>
           <surface xml:id="f017" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/5bad9d71-a0ab-432c-8ec2-88b679250b74/canvas/1" ><label xml:lang="en">0018.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/5bad9d71-a0ab-432c-8ec2-88b679250b74;1"/></surface>
           <surface xml:id="f018" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/74fd722f-6b9d-425e-b261-f5f6a7b70cf8/canvas/1" ><label xml:lang="en">0019.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/74fd722f-6b9d-425e-b261-f5f6a7b70cf8;1"/></surface>
+          <surface xml:id="f019" ulx="0" uly="0" lrx="6630" lry="5121" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e4990df8-1928-4802-af1e-f373e227dc26/canvas/1" ><label xml:lang="en">001r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e4990df8-1928-4802-af1e-f373e227dc26;1"/></surface>
+          <surface xml:id="f020" ulx="0" uly="0" lrx="6630" lry="5121" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/2505cd03-c6e8-478d-a5ff-58695e3b757f/canvas/1" ><label xml:lang="en">001v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/2505cd03-c6e8-478d-a5ff-58695e3b757f;1"/></surface>
           <surface xml:id="f021" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/43bcadba-5654-4a39-8c68-be8d743cc486/canvas/1" ><label xml:lang="en">0020.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/43bcadba-5654-4a39-8c68-be8d743cc486;1"/></surface>
           <surface xml:id="f022" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9895c5a0-f3c5-4bba-a51c-13756e01dfec/canvas/1" ><label xml:lang="en">0021.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9895c5a0-f3c5-4bba-a51c-13756e01dfec;1"/></surface>
           <surface xml:id="f023" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e0735666-21ea-43e6-a564-195c08866134/canvas/1" ><label xml:lang="en">0022.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e0735666-21ea-43e6-a564-195c08866134;1"/></surface>
@@ -46,6 +48,8 @@
           <surface xml:id="f028" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a9b307d4-8844-43d6-bbee-b36c3f468cb4/canvas/1" ><label xml:lang="en">0027.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a9b307d4-8844-43d6-bbee-b36c3f468cb4;1"/></surface>
           <surface xml:id="f029" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/14c2f1ad-e8d7-4faa-b0a8-3f6d63cd1c61/canvas/1" ><label xml:lang="en">0028.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/14c2f1ad-e8d7-4faa-b0a8-3f6d63cd1c61;1"/></surface>
           <surface xml:id="f030" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1fe02568-4a8f-4c4a-b632-1e5de566e30f/canvas/1" ><label xml:lang="en">0029.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1fe02568-4a8f-4c4a-b632-1e5de566e30f;1"/></surface>
+          <surface xml:id="f031" ulx="0" uly="0" lrx="3256" lry="3209" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cc48eeb7-23ff-445c-9a84-8edb32468b5f/canvas/1" ><label xml:lang="en">002r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cc48eeb7-23ff-445c-9a84-8edb32468b5f;1"/></surface>
+          <surface xml:id="f032" ulx="0" uly="0" lrx="3256" lry="3209" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a81cb154-9184-4ba5-8212-fc44249b99dc/canvas/1" ><label xml:lang="en">002v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a81cb154-9184-4ba5-8212-fc44249b99dc;1"/></surface>
           <surface xml:id="f033" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7877b7ff-be3a-450c-bf90-b7e77f91919b/canvas/1" ><label xml:lang="en">0030.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7877b7ff-be3a-450c-bf90-b7e77f91919b;1"/></surface>
           <surface xml:id="f034" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e8bfddca-917a-462b-a513-978f9756eea5/canvas/1" ><label xml:lang="en">0031.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e8bfddca-917a-462b-a513-978f9756eea5;1"/></surface>
           <surface xml:id="f035" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f20e2c7a-9a15-4011-a81d-94ba174484b4/canvas/1" ><label xml:lang="en">0032.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f20e2c7a-9a15-4011-a81d-94ba174484b4;1"/></surface>
@@ -56,6 +60,8 @@
           <surface xml:id="f040" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d4ad8515-e14f-492e-aff1-e72d373af432/canvas/1" ><label xml:lang="en">0037.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d4ad8515-e14f-492e-aff1-e72d373af432;1"/></surface>
           <surface xml:id="f041" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c6fcc994-9ecd-412b-9e0d-e5aea6eabce1/canvas/1" ><label xml:lang="en">0038.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c6fcc994-9ecd-412b-9e0d-e5aea6eabce1;1"/></surface>
           <surface xml:id="f042" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c4c8e79f-04ea-4bfa-904d-fcef9e51e471/canvas/1" ><label xml:lang="en">0039.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c4c8e79f-04ea-4bfa-904d-fcef9e51e471;1"/></surface>
+          <surface xml:id="f043" ulx="0" uly="0" lrx="1953" lry="2387" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/76765853-683a-4084-b3f2-2ad3852a8c5b/canvas/1" ><label xml:lang="en">003r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/76765853-683a-4084-b3f2-2ad3852a8c5b;1"/></surface>
+          <surface xml:id="f044" ulx="0" uly="0" lrx="1953" lry="2387" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e1156d37-b10d-4375-9a04-f25f2b5bcbbe/canvas/1" ><label xml:lang="en">003v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e1156d37-b10d-4375-9a04-f25f2b5bcbbe;1"/></surface>
           <surface xml:id="f045" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/de9e4caa-018b-4ebc-b70b-1aedb3e7b86a/canvas/1" ><label xml:lang="en">0040.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/de9e4caa-018b-4ebc-b70b-1aedb3e7b86a;1"/></surface>
           <surface xml:id="f046" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/4f4da5cb-2134-42b1-9900-b0b54875b1ae/canvas/1" ><label xml:lang="en">0041.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/4f4da5cb-2134-42b1-9900-b0b54875b1ae;1"/></surface>
           <surface xml:id="f047" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d3297fb3-d279-4c64-85d0-d8e5ce5df3db/canvas/1" ><label xml:lang="en">0042.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d3297fb3-d279-4c64-85d0-d8e5ce5df3db;1"/></surface>
@@ -66,6 +72,8 @@
           <surface xml:id="f052" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/631b1a14-69ce-4d21-b780-8c754e15b667/canvas/1" ><label xml:lang="en">0047.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/631b1a14-69ce-4d21-b780-8c754e15b667;1"/></surface>
           <surface xml:id="f053" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/da9a9279-6418-48a5-8272-2dbfa7783caa/canvas/1" ><label xml:lang="en">0048.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/da9a9279-6418-48a5-8272-2dbfa7783caa;1"/></surface>
           <surface xml:id="f054" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b0860c76-0012-429e-8057-326f1b3a58ea/canvas/1" ><label xml:lang="en">0049.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b0860c76-0012-429e-8057-326f1b3a58ea;1"/></surface>
+          <surface xml:id="f055" ulx="0" uly="0" lrx="2244" lry="2677" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/979720cd-d671-4f30-a385-16070b85e431/canvas/1" ><label xml:lang="en">004r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/979720cd-d671-4f30-a385-16070b85e431;1"/></surface>
+          <surface xml:id="f056" ulx="0" uly="0" lrx="2244" lry="2677" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/97884f41-290c-4562-a068-6b5037d1675f/canvas/1" ><label xml:lang="en">004v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/97884f41-290c-4562-a068-6b5037d1675f;1"/></surface>
           <surface xml:id="f057" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c111dc3f-8032-41ef-9368-4c46dcc28865/canvas/1" ><label xml:lang="en">0050.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c111dc3f-8032-41ef-9368-4c46dcc28865;1"/></surface>
           <surface xml:id="f058" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/94ce2838-afca-41b4-b13e-b8332f32ddb2/canvas/1" ><label xml:lang="en">0051.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/94ce2838-afca-41b4-b13e-b8332f32ddb2;1"/></surface>
           <surface xml:id="f059" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ed52e1d3-c1b0-4418-af8e-e4019a9d294f/canvas/1" ><label xml:lang="en">0052.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ed52e1d3-c1b0-4418-af8e-e4019a9d294f;1"/></surface>
@@ -76,6 +84,8 @@
           <surface xml:id="f064" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/fda3a79f-74aa-4fa5-9010-5dadb396e65a/canvas/1" ><label xml:lang="en">0057.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/fda3a79f-74aa-4fa5-9010-5dadb396e65a;1"/></surface>
           <surface xml:id="f065" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/867545af-82b1-4d03-8c38-525495d3a69b/canvas/1" ><label xml:lang="en">0058.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/867545af-82b1-4d03-8c38-525495d3a69b;1"/></surface>
           <surface xml:id="f066" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/39765df0-aae3-42bd-b21d-77179756adb3/canvas/1" ><label xml:lang="en">0059.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/39765df0-aae3-42bd-b21d-77179756adb3;1"/></surface>
+          <surface xml:id="f067" ulx="0" uly="0" lrx="2051" lry="1738" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7a2856ed-41ae-4a8c-ab41-f1af80394ba0/canvas/1" ><label xml:lang="en">005r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7a2856ed-41ae-4a8c-ab41-f1af80394ba0;1"/></surface>
+          <surface xml:id="f068" ulx="0" uly="0" lrx="2051" lry="1738" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/391ca059-d683-45f6-bc37-fd8fb86c73ef/canvas/1" ><label xml:lang="en">005v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/391ca059-d683-45f6-bc37-fd8fb86c73ef;1"/></surface>
           <surface xml:id="f069" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c7636de5-342a-49fb-828b-8372dc901c6f/canvas/1" ><label xml:lang="en">0060.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c7636de5-342a-49fb-828b-8372dc901c6f;1"/></surface>
           <surface xml:id="f070" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/fd5d7c0a-632b-4c18-a408-9d60b7f70b39/canvas/1" ><label xml:lang="en">0061.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/fd5d7c0a-632b-4c18-a408-9d60b7f70b39;1"/></surface>
           <surface xml:id="f071" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/54b1ef3b-304e-46b9-9f86-481c0ba7d4e2/canvas/1" ><label xml:lang="en">0062.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/54b1ef3b-304e-46b9-9f86-481c0ba7d4e2;1"/></surface>
@@ -86,6 +96,8 @@
           <surface xml:id="f076" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8a79ca9e-6617-4070-9bc2-9edcd6346de0/canvas/1" ><label xml:lang="en">0067.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8a79ca9e-6617-4070-9bc2-9edcd6346de0;1"/></surface>
           <surface xml:id="f077" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e31896ef-0a9f-4ecb-a76c-0ae0d0e9ad2c/canvas/1" ><label xml:lang="en">0068.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e31896ef-0a9f-4ecb-a76c-0ae0d0e9ad2c;1"/></surface>
           <surface xml:id="f078" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/bf58dd15-dbd4-4441-b0eb-4da4a95a090a/canvas/1" ><label xml:lang="en">0069.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/bf58dd15-dbd4-4441-b0eb-4da4a95a090a;1"/></surface>
+          <surface xml:id="f079" ulx="0" uly="0" lrx="1937" lry="2321" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/71d73753-41fc-494d-85b1-08c7a5433819/canvas/1" ><label xml:lang="en">006r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/71d73753-41fc-494d-85b1-08c7a5433819;1"/></surface>
+          <surface xml:id="f080" ulx="0" uly="0" lrx="1937" lry="2321" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/77e7df02-b7ba-447a-a2a2-540c1007a976/canvas/1" ><label xml:lang="en">006v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/77e7df02-b7ba-447a-a2a2-540c1007a976;1"/></surface>
           <surface xml:id="f081" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/efcf5352-927d-4957-a52a-827dff034ed5/canvas/1" ><label xml:lang="en">0070.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/efcf5352-927d-4957-a52a-827dff034ed5;1"/></surface>
           <surface xml:id="f082" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0bc537a7-b005-468b-a127-41853107871c/canvas/1" ><label xml:lang="en">0071.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0bc537a7-b005-468b-a127-41853107871c;1"/></surface>
           <surface xml:id="f083" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d542c046-0ec8-433a-a56b-ffcd42e9a5b4/canvas/1" ><label xml:lang="en">0072.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d542c046-0ec8-433a-a56b-ffcd42e9a5b4;1"/></surface>
@@ -96,6 +108,8 @@
           <surface xml:id="f088" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/6ce59ede-9989-41cd-8abb-eb9bfd72a72a/canvas/1" ><label xml:lang="en">0077.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/6ce59ede-9989-41cd-8abb-eb9bfd72a72a;1"/></surface>
           <surface xml:id="f089" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0ba54ec6-5bb8-43b9-8bc4-6fcf1c314741/canvas/1" ><label xml:lang="en">0078.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0ba54ec6-5bb8-43b9-8bc4-6fcf1c314741;1"/></surface>
           <surface xml:id="f090" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/51604dfa-1fed-4336-8083-e6fa47aba666/canvas/1" ><label xml:lang="en">0079.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/51604dfa-1fed-4336-8083-e6fa47aba666;1"/></surface>
+          <surface xml:id="f091" ulx="0" uly="0" lrx="1342" lry="1899" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9965b0a6-74d9-4528-bc2f-d377c25a9da1/canvas/1" ><label xml:lang="en">007r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9965b0a6-74d9-4528-bc2f-d377c25a9da1;1"/></surface>
+          <surface xml:id="f092" ulx="0" uly="0" lrx="1342" lry="1899" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cad998fb-0d22-4e1a-aed2-67b60e79cc21/canvas/1" ><label xml:lang="en">007v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cad998fb-0d22-4e1a-aed2-67b60e79cc21;1"/></surface>
           <surface xml:id="f093" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/153c1d6b-1979-4975-98f3-2c01454161bd/canvas/1" ><label xml:lang="en">0080.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/153c1d6b-1979-4975-98f3-2c01454161bd;1"/></surface>
           <surface xml:id="f094" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8f18c59a-336e-4220-bc0b-fa1bc81aea99/canvas/1" ><label xml:lang="en">0081.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8f18c59a-336e-4220-bc0b-fa1bc81aea99;1"/></surface>
           <surface xml:id="f095" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/95e04af3-ef2e-48bb-a200-cfb03de4f6a0/canvas/1" ><label xml:lang="en">0082.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/95e04af3-ef2e-48bb-a200-cfb03de4f6a0;1"/></surface>
@@ -105,20 +119,6 @@
           <surface xml:id="f099" ulx="0" uly="0" lrx="4007" lry="5282" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a54797aa-ce0a-4c50-81dd-4f5ccb199bae/canvas/1" ><label xml:lang="en">0086.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a54797aa-ce0a-4c50-81dd-4f5ccb199bae;1"/></surface>
           <surface xml:id="f100" ulx="0" uly="0" lrx="4583" lry="6779" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/69197a86-e000-413b-a9c9-1a4a5217940b/canvas/1" ><label xml:lang="en">0087.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/69197a86-e000-413b-a9c9-1a4a5217940b;1"/></surface>
           <surface xml:id="f101" ulx="0" uly="0" lrx="1323" lry="5469" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d3c396f0-82ff-4e60-bde5-81463bfa631a/canvas/1" ><label xml:lang="en">0088.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d3c396f0-82ff-4e60-bde5-81463bfa631a;1"/></surface>
-          <surface xml:id="f019" ulx="0" uly="0" lrx="6630" lry="5121" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e4990df8-1928-4802-af1e-f373e227dc26/canvas/1" ><label xml:lang="en">001r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e4990df8-1928-4802-af1e-f373e227dc26;1"/></surface>
-          <surface xml:id="f020" ulx="0" uly="0" lrx="6630" lry="5121" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/2505cd03-c6e8-478d-a5ff-58695e3b757f/canvas/1" ><label xml:lang="en">001v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/2505cd03-c6e8-478d-a5ff-58695e3b757f;1"/></surface>
-          <surface xml:id="f031" ulx="0" uly="0" lrx="3256" lry="3209" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cc48eeb7-23ff-445c-9a84-8edb32468b5f/canvas/1" ><label xml:lang="en">002r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cc48eeb7-23ff-445c-9a84-8edb32468b5f;1"/></surface>
-          <surface xml:id="f032" ulx="0" uly="0" lrx="3256" lry="3209" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a81cb154-9184-4ba5-8212-fc44249b99dc/canvas/1" ><label xml:lang="en">002v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a81cb154-9184-4ba5-8212-fc44249b99dc;1"/></surface>
-          <surface xml:id="f043" ulx="0" uly="0" lrx="1953" lry="2387" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/76765853-683a-4084-b3f2-2ad3852a8c5b/canvas/1" ><label xml:lang="en">003r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/76765853-683a-4084-b3f2-2ad3852a8c5b;1"/></surface>
-          <surface xml:id="f044" ulx="0" uly="0" lrx="1953" lry="2387" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e1156d37-b10d-4375-9a04-f25f2b5bcbbe/canvas/1" ><label xml:lang="en">003v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e1156d37-b10d-4375-9a04-f25f2b5bcbbe;1"/></surface>
-          <surface xml:id="f055" ulx="0" uly="0" lrx="2244" lry="2677" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/979720cd-d671-4f30-a385-16070b85e431/canvas/1" ><label xml:lang="en">004r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/979720cd-d671-4f30-a385-16070b85e431;1"/></surface>
-          <surface xml:id="f056" ulx="0" uly="0" lrx="2244" lry="2677" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/97884f41-290c-4562-a068-6b5037d1675f/canvas/1" ><label xml:lang="en">004v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/97884f41-290c-4562-a068-6b5037d1675f;1"/></surface>
-          <surface xml:id="f067" ulx="0" uly="0" lrx="2051" lry="1738" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7a2856ed-41ae-4a8c-ab41-f1af80394ba0/canvas/1" ><label xml:lang="en">005r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7a2856ed-41ae-4a8c-ab41-f1af80394ba0;1"/></surface>
-          <surface xml:id="f068" ulx="0" uly="0" lrx="2051" lry="1738" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/391ca059-d683-45f6-bc37-fd8fb86c73ef/canvas/1" ><label xml:lang="en">005v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/391ca059-d683-45f6-bc37-fd8fb86c73ef;1"/></surface>
-          <surface xml:id="f079" ulx="0" uly="0" lrx="1937" lry="2321" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/71d73753-41fc-494d-85b1-08c7a5433819/canvas/1" ><label xml:lang="en">006r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/71d73753-41fc-494d-85b1-08c7a5433819;1"/></surface>
-          <surface xml:id="f080" ulx="0" uly="0" lrx="1937" lry="2321" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/77e7df02-b7ba-447a-a2a2-540c1007a976/canvas/1" ><label xml:lang="en">006v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/77e7df02-b7ba-447a-a2a2-540c1007a976;1"/></surface>
-          <surface xml:id="f091" ulx="0" uly="0" lrx="1342" lry="1899" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9965b0a6-74d9-4528-bc2f-d377c25a9da1/canvas/1" ><label xml:lang="en">007r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9965b0a6-74d9-4528-bc2f-d377c25a9da1;1"/></surface>
-          <surface xml:id="f092" ulx="0" uly="0" lrx="1342" lry="1899" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cad998fb-0d22-4e1a-aed2-67b60e79cc21/canvas/1" ><label xml:lang="en">007v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cad998fb-0d22-4e1a-aed2-67b60e79cc21;1"/></surface>
           <surface xml:id="f102" ulx="0" uly="0" lrx="1564" lry="1586" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9886d94e-68f9-4aaa-bc4b-5e5c0a8733d1/canvas/1" ><label xml:lang="en">008r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9886d94e-68f9-4aaa-bc4b-5e5c0a8733d1;1"/></surface>
           <surface xml:id="f103" ulx="0" uly="0" lrx="1564" lry="1586" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/aea11a04-ef05-43e9-82b2-69130d720923/canvas/1" ><label xml:lang="en">008v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/aea11a04-ef05-43e9-82b2-69130d720923;1"/></surface>
           <surface xml:id="f104" ulx="0" uly="0" lrx="1441" lry="1549" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/22f6c33c-417c-42ee-9016-1ce775b27fdd/canvas/1" ><label xml:lang="en">009r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/22f6c33c-417c-42ee-9016-1ce775b27fdd;1"/></surface>
@@ -194,8 +194,7 @@
 
       </facsimile>
 
-
-       <text xml:id="tc">
+      <text xml:id="text">
 <body><div>
     <pb facs="#f002" />
 <ab>
@@ -2712,90 +2711,6 @@
 <lb />regen of fonteine waeter; waer naer men eenige stūcken stoffe
 <lb />wascht daert t’eeste coleūr in gespoelt is, t’welcke dient
 <lb />voor bleek coleūr, en wort dan samen gedroogt op den solder.
-</ab>
-
-  </div></body>
-      </text>
-
-           <text xml:id="tl">
-<body><div>
-    <pb facs="#f002" />
-<ab>
-<lb />Way for melting silk gum, or other-
-<lb />wise said tragacanth gum;
-<lb />One takes for this one patar of the said gum; it
-<lb />is necessary to put it to soak, in a half pint
-<lb />of rainwater, better more than less. One needs to
-<lb />leave it like that for two days, then one needs to take
-<lb />a spoon and stir it well, and hit it with it
-<lb />until such time it becomes a clear glue-pap, and if
-<lb />one sees that the soup is too thick, one needs
-<lb />to pour in a bit of water, until such time that it
-<lb />is good; then one needs to make it boil, a
-<lb />bit, and that while stirring it still. After that,
-<lb />one needs to pass it through a cloth, and after that,
-<lb />use it to starch silk with it.
-<lb />Way to make silk flowers
-<lb />Note: when the silk is very well peniez, put it on top
-<lb />of glass, very flat, the size of one window pane,
-<lb />reasonably big enough. Next, one needs to take the flat side of a knife,
-<lb />and take the silk gum with it. Next, one needs to spread it on top
-<lb />of the silk with it, and that also for a long time, that the silk becomes very well
-<lb />moistened, and fatty. After that, one needs to turn it over, and
-<lb />one needs to do the same. After that, one needs to put it on top of a
-<lb />towel, to let it dry in the wind, and or otherwise also.
-<lb />Next one needs to apply it, and put it on top of the form; and 
-<lb />go over it with a pierre liquoire. And dry it near to
-<lb />the fire, and or else above a stove. Next, remove it
-<lb />from there. And then cut flowers from it, of all kinds
-<lb />that you want to make. But one needs always to keep
-<lb />silk prepared for making flowers between white paper.
-<lb />The same also for silk that is not yet prepared for making flowers.
-</ab>
-
-<pb facs="#f003" />
-<ab>
-<lb />Way to undye cambric dyed with gamboge
-<lb />One needs to tie up the
-<lb />piece of cambric [to a rod?] quasi all as large as
-<lb />the piece and, next to wet it a bit,
-<lb />and rub it between the hands, well enough, then
-<lb />one needs to plunge it and wash it in hot water,
-<lb />or else in lye, like one
-<lb />washes white cambric, changing the water
-<lb />from time to time, until such that the
-<lb />cambric becomes perfectly white. One needs to tie up
-<lb />the piece of cambric two or three times for
-<lb />this end.
-<lb />Cambric, dyed with saffron and
-<lb />gamboge, is undyed in the same manner also
-<lb />The way to undye crimson or incarlacque fabric
-<lb />One needs to take two pints of lye, made from vine
-<lb />ashes, with a half pint of rainwater or fountain water.
-<lb />One must boil that together with some small pieces of
-<lb />crimson fabric, which you all let boil until such that the
-<lb />dye becomes boiled out of the fabric and it becomes all undyed. Next one
-<lb />needs to take it out of the earthenware pot, which you keep for this use, and
-<lb />after having pressed the lye out, one + needs to take yet an other piece
-<lb />of incarlacque and make it boil in the same manner. But
-<lb />each time that you press the lye out, one needs always to re-cast
-<lb />it into the pot. One needs to continue like that all until such that you
-<lb />see that the incarlacque does not undye further and that it remains beautiful. A dont
-<lb />is the dye good, a dont one needs to take the gum that you have 
-<lb />soaked and melted for a space of 24 hours. In stirring from time
-<lb />to time, being still rather thick, one needs to pass it through a very white
-<lb />cloth. Next one needs to throw the gum in the said dye and let it
-<lb />boil all together until such time that the soup becomes very thick, a
-<lb />dont you can use it to draw with a paintbrush. ✠
-</ab>
-
-<pb facs="#f004" />
-<ab>
-<lb />read at this ✠ But when the dye
-<lb />is too fatty, or too thick, and or too
-<lb />dry, one needs always to amortirre [quench/temper?] and
-<lb />stretch it out with rainwater or fountain water. And that
-<lb />until such that you see that the dye is good
 </ab>
 
   </div></body>
