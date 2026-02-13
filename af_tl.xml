@@ -1,0 +1,2578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+          <fileDesc>
+              <titleStmt>
+                  <title>
+                      <!-- Your Title Here -->
+                  </title>
+              </titleStmt>
+              <publicationStmt>
+                  <p></p>
+              </publicationStmt>
+              <sourceDesc>
+                  <p></p>
+              </sourceDesc>
+          </fileDesc>
+      </teiHeader>
+
+      <facsimile sameAs="https://app.coredata.cloud//core_data/public/v1/items/7802d29a-f8ab-46a4-ad62-b9d796166d95/manifests/2d7080c9-7829-4bb1-a1b2-1fa8b4ddb8df">
+                    <surface xml:id="f000" ulx="0" uly="0" lrx="4007" lry="5282" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ee6e084f-e499-41cf-b731-e263028ec9ae/canvas/1" ><label xml:lang="en">0001.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ee6e084f-e499-41cf-b731-e263028ec9ae;1"/></surface>
+          <surface xml:id="f001" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9149cbed-8eb8-4235-a7de-5c8af629e1d5/canvas/1" ><label xml:lang="en">0002.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9149cbed-8eb8-4235-a7de-5c8af629e1d5;1"/></surface>
+          <surface xml:id="f002" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/efd6e3c3-c564-4984-8c13-83d25a08f7d3/canvas/1" ><label xml:lang="en">0003.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/efd6e3c3-c564-4984-8c13-83d25a08f7d3;1"/></surface>
+          <surface xml:id="f003" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cbbe0d53-344b-49ee-ab2b-090326c11527/canvas/1" ><label xml:lang="en">0004.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cbbe0d53-344b-49ee-ab2b-090326c11527;1"/></surface>
+          <surface xml:id="f004" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/19791d3d-8353-4a59-8e82-1d0b5a9bfd45/canvas/1" ><label xml:lang="en">0005.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/19791d3d-8353-4a59-8e82-1d0b5a9bfd45;1"/></surface>
+          <surface xml:id="f005" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d15bd544-4976-4f12-9a67-723f73a45145/canvas/1" ><label xml:lang="en">0006.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d15bd544-4976-4f12-9a67-723f73a45145;1"/></surface>
+          <surface xml:id="f006" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f609259f-50b8-4667-b374-d5ba0feaeefe/canvas/1" ><label xml:lang="en">0007.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f609259f-50b8-4667-b374-d5ba0feaeefe;1"/></surface>
+          <surface xml:id="f007" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c5c432d6-8749-4c46-a58d-def754f456cd/canvas/1" ><label xml:lang="en">0008.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c5c432d6-8749-4c46-a58d-def754f456cd;1"/></surface>
+          <surface xml:id="f008" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9978164a-c52a-4238-9ffa-6c3673793f28/canvas/1" ><label xml:lang="en">0009.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9978164a-c52a-4238-9ffa-6c3673793f28;1"/></surface>
+          <surface xml:id="f009" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c3915155-1e1d-427f-8640-548d50718b42/canvas/1" ><label xml:lang="en">0010.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c3915155-1e1d-427f-8640-548d50718b42;1"/></surface>
+          <surface xml:id="f010" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c7079ee0-5fe3-49e3-8910-af1905a3d098/canvas/1" ><label xml:lang="en">0011.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c7079ee0-5fe3-49e3-8910-af1905a3d098;1"/></surface>
+          <surface xml:id="f011" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/52f2876f-271b-4a1f-aaa1-a12c6aa34832/canvas/1" ><label xml:lang="en">0012.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/52f2876f-271b-4a1f-aaa1-a12c6aa34832;1"/></surface>
+          <surface xml:id="f012" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f2f097d0-b421-4bfd-9467-07492a267845/canvas/1" ><label xml:lang="en">0013.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f2f097d0-b421-4bfd-9467-07492a267845;1"/></surface>
+          <surface xml:id="f013" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/552b6886-ed1f-48e1-b724-1d4ca36dfd36/canvas/1" ><label xml:lang="en">0014.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/552b6886-ed1f-48e1-b724-1d4ca36dfd36;1"/></surface>
+          <surface xml:id="f014" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1ffb5cdb-9bcc-4402-a67d-51d95a32898a/canvas/1" ><label xml:lang="en">0015.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1ffb5cdb-9bcc-4402-a67d-51d95a32898a;1"/></surface>
+          <surface xml:id="f015" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e3ae17fb-5eea-4926-8c94-a1312eb1d6fa/canvas/1" ><label xml:lang="en">0016.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e3ae17fb-5eea-4926-8c94-a1312eb1d6fa;1"/></surface>
+          <surface xml:id="f016" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f26e020a-d344-4ba4-966d-50e9c806eb14/canvas/1" ><label xml:lang="en">0017.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f26e020a-d344-4ba4-966d-50e9c806eb14;1"/></surface>
+          <surface xml:id="f017" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/5bad9d71-a0ab-432c-8ec2-88b679250b74/canvas/1" ><label xml:lang="en">0018.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/5bad9d71-a0ab-432c-8ec2-88b679250b74;1"/></surface>
+          <surface xml:id="f018" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/74fd722f-6b9d-425e-b261-f5f6a7b70cf8/canvas/1" ><label xml:lang="en">0019.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/74fd722f-6b9d-425e-b261-f5f6a7b70cf8;1"/></surface>
+          <surface xml:id="f019" ulx="0" uly="0" lrx="6630" lry="5121" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e4990df8-1928-4802-af1e-f373e227dc26/canvas/1" ><label xml:lang="en">001r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e4990df8-1928-4802-af1e-f373e227dc26;1"/></surface>
+          <surface xml:id="f020" ulx="0" uly="0" lrx="6630" lry="5121" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/2505cd03-c6e8-478d-a5ff-58695e3b757f/canvas/1" ><label xml:lang="en">001v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/2505cd03-c6e8-478d-a5ff-58695e3b757f;1"/></surface>
+          <surface xml:id="f021" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/43bcadba-5654-4a39-8c68-be8d743cc486/canvas/1" ><label xml:lang="en">0020.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/43bcadba-5654-4a39-8c68-be8d743cc486;1"/></surface>
+          <surface xml:id="f022" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9895c5a0-f3c5-4bba-a51c-13756e01dfec/canvas/1" ><label xml:lang="en">0021.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9895c5a0-f3c5-4bba-a51c-13756e01dfec;1"/></surface>
+          <surface xml:id="f023" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e0735666-21ea-43e6-a564-195c08866134/canvas/1" ><label xml:lang="en">0022.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e0735666-21ea-43e6-a564-195c08866134;1"/></surface>
+          <surface xml:id="f024" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/607c388e-8886-42a8-aa5d-7a46dfcf8a1e/canvas/1" ><label xml:lang="en">0023.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/607c388e-8886-42a8-aa5d-7a46dfcf8a1e;1"/></surface>
+          <surface xml:id="f025" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/da42f623-f823-4921-a910-07aba086f39d/canvas/1" ><label xml:lang="en">0024.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/da42f623-f823-4921-a910-07aba086f39d;1"/></surface>
+          <surface xml:id="f026" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d81bb293-e38f-46a4-bae7-4db09fd0d034/canvas/1" ><label xml:lang="en">0025.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d81bb293-e38f-46a4-bae7-4db09fd0d034;1"/></surface>
+          <surface xml:id="f027" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1ad8b0d6-8b80-427c-a89b-f823b2127070/canvas/1" ><label xml:lang="en">0026.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1ad8b0d6-8b80-427c-a89b-f823b2127070;1"/></surface>
+          <surface xml:id="f028" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a9b307d4-8844-43d6-bbee-b36c3f468cb4/canvas/1" ><label xml:lang="en">0027.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a9b307d4-8844-43d6-bbee-b36c3f468cb4;1"/></surface>
+          <surface xml:id="f029" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/14c2f1ad-e8d7-4faa-b0a8-3f6d63cd1c61/canvas/1" ><label xml:lang="en">0028.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/14c2f1ad-e8d7-4faa-b0a8-3f6d63cd1c61;1"/></surface>
+          <surface xml:id="f030" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1fe02568-4a8f-4c4a-b632-1e5de566e30f/canvas/1" ><label xml:lang="en">0029.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1fe02568-4a8f-4c4a-b632-1e5de566e30f;1"/></surface>
+          <surface xml:id="f031" ulx="0" uly="0" lrx="3256" lry="3209" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cc48eeb7-23ff-445c-9a84-8edb32468b5f/canvas/1" ><label xml:lang="en">002r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cc48eeb7-23ff-445c-9a84-8edb32468b5f;1"/></surface>
+          <surface xml:id="f032" ulx="0" uly="0" lrx="3256" lry="3209" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a81cb154-9184-4ba5-8212-fc44249b99dc/canvas/1" ><label xml:lang="en">002v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a81cb154-9184-4ba5-8212-fc44249b99dc;1"/></surface>
+          <surface xml:id="f033" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7877b7ff-be3a-450c-bf90-b7e77f91919b/canvas/1" ><label xml:lang="en">0030.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7877b7ff-be3a-450c-bf90-b7e77f91919b;1"/></surface>
+          <surface xml:id="f034" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e8bfddca-917a-462b-a513-978f9756eea5/canvas/1" ><label xml:lang="en">0031.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e8bfddca-917a-462b-a513-978f9756eea5;1"/></surface>
+          <surface xml:id="f035" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f20e2c7a-9a15-4011-a81d-94ba174484b4/canvas/1" ><label xml:lang="en">0032.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f20e2c7a-9a15-4011-a81d-94ba174484b4;1"/></surface>
+          <surface xml:id="f036" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b3cfa657-80fa-4e42-af0c-cfaae977bddf/canvas/1" ><label xml:lang="en">0033.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b3cfa657-80fa-4e42-af0c-cfaae977bddf;1"/></surface>
+          <surface xml:id="f037" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a1c18704-cce9-4788-96d0-34645d46acfb/canvas/1" ><label xml:lang="en">0034.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a1c18704-cce9-4788-96d0-34645d46acfb;1"/></surface>
+          <surface xml:id="f038" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1bcf4c2a-1eb6-42d6-83a1-6145b69bdd72/canvas/1" ><label xml:lang="en">0035.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1bcf4c2a-1eb6-42d6-83a1-6145b69bdd72;1"/></surface>
+          <surface xml:id="f039" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8d5cde3f-80a0-4674-aadf-27d24b954e19/canvas/1" ><label xml:lang="en">0036.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8d5cde3f-80a0-4674-aadf-27d24b954e19;1"/></surface>
+          <surface xml:id="f040" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d4ad8515-e14f-492e-aff1-e72d373af432/canvas/1" ><label xml:lang="en">0037.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d4ad8515-e14f-492e-aff1-e72d373af432;1"/></surface>
+          <surface xml:id="f041" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c6fcc994-9ecd-412b-9e0d-e5aea6eabce1/canvas/1" ><label xml:lang="en">0038.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c6fcc994-9ecd-412b-9e0d-e5aea6eabce1;1"/></surface>
+          <surface xml:id="f042" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c4c8e79f-04ea-4bfa-904d-fcef9e51e471/canvas/1" ><label xml:lang="en">0039.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c4c8e79f-04ea-4bfa-904d-fcef9e51e471;1"/></surface>
+          <surface xml:id="f043" ulx="0" uly="0" lrx="1953" lry="2387" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/76765853-683a-4084-b3f2-2ad3852a8c5b/canvas/1" ><label xml:lang="en">003r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/76765853-683a-4084-b3f2-2ad3852a8c5b;1"/></surface>
+          <surface xml:id="f044" ulx="0" uly="0" lrx="1953" lry="2387" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e1156d37-b10d-4375-9a04-f25f2b5bcbbe/canvas/1" ><label xml:lang="en">003v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e1156d37-b10d-4375-9a04-f25f2b5bcbbe;1"/></surface>
+          <surface xml:id="f045" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/de9e4caa-018b-4ebc-b70b-1aedb3e7b86a/canvas/1" ><label xml:lang="en">0040.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/de9e4caa-018b-4ebc-b70b-1aedb3e7b86a;1"/></surface>
+          <surface xml:id="f046" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/4f4da5cb-2134-42b1-9900-b0b54875b1ae/canvas/1" ><label xml:lang="en">0041.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/4f4da5cb-2134-42b1-9900-b0b54875b1ae;1"/></surface>
+          <surface xml:id="f047" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d3297fb3-d279-4c64-85d0-d8e5ce5df3db/canvas/1" ><label xml:lang="en">0042.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d3297fb3-d279-4c64-85d0-d8e5ce5df3db;1"/></surface>
+          <surface xml:id="f048" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/46e5d087-110c-4d9d-a32b-0a87467a4c8d/canvas/1" ><label xml:lang="en">0043.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/46e5d087-110c-4d9d-a32b-0a87467a4c8d;1"/></surface>
+          <surface xml:id="f049" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/bb6cd410-fb20-4ae4-84a2-66ebb15d1728/canvas/1" ><label xml:lang="en">0044.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/bb6cd410-fb20-4ae4-84a2-66ebb15d1728;1"/></surface>
+          <surface xml:id="f050" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/dd1af954-2d74-4a48-bed5-9c0c5c3cc6ee/canvas/1" ><label xml:lang="en">0045.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/dd1af954-2d74-4a48-bed5-9c0c5c3cc6ee;1"/></surface>
+          <surface xml:id="f051" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/29e3c910-5b0b-442b-bcdd-a297bb015dda/canvas/1" ><label xml:lang="en">0046.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/29e3c910-5b0b-442b-bcdd-a297bb015dda;1"/></surface>
+          <surface xml:id="f052" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/631b1a14-69ce-4d21-b780-8c754e15b667/canvas/1" ><label xml:lang="en">0047.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/631b1a14-69ce-4d21-b780-8c754e15b667;1"/></surface>
+          <surface xml:id="f053" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/da9a9279-6418-48a5-8272-2dbfa7783caa/canvas/1" ><label xml:lang="en">0048.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/da9a9279-6418-48a5-8272-2dbfa7783caa;1"/></surface>
+          <surface xml:id="f054" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b0860c76-0012-429e-8057-326f1b3a58ea/canvas/1" ><label xml:lang="en">0049.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b0860c76-0012-429e-8057-326f1b3a58ea;1"/></surface>
+          <surface xml:id="f055" ulx="0" uly="0" lrx="2244" lry="2677" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/979720cd-d671-4f30-a385-16070b85e431/canvas/1" ><label xml:lang="en">004r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/979720cd-d671-4f30-a385-16070b85e431;1"/></surface>
+          <surface xml:id="f056" ulx="0" uly="0" lrx="2244" lry="2677" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/97884f41-290c-4562-a068-6b5037d1675f/canvas/1" ><label xml:lang="en">004v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/97884f41-290c-4562-a068-6b5037d1675f;1"/></surface>
+          <surface xml:id="f057" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c111dc3f-8032-41ef-9368-4c46dcc28865/canvas/1" ><label xml:lang="en">0050.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c111dc3f-8032-41ef-9368-4c46dcc28865;1"/></surface>
+          <surface xml:id="f058" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/94ce2838-afca-41b4-b13e-b8332f32ddb2/canvas/1" ><label xml:lang="en">0051.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/94ce2838-afca-41b4-b13e-b8332f32ddb2;1"/></surface>
+          <surface xml:id="f059" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ed52e1d3-c1b0-4418-af8e-e4019a9d294f/canvas/1" ><label xml:lang="en">0052.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ed52e1d3-c1b0-4418-af8e-e4019a9d294f;1"/></surface>
+          <surface xml:id="f060" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/59c0a729-2bfe-4cb6-8af9-f4c0fa92a82a/canvas/1" ><label xml:lang="en">0053.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/59c0a729-2bfe-4cb6-8af9-f4c0fa92a82a;1"/></surface>
+          <surface xml:id="f061" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/76cd1c15-cdef-4209-9932-2dd459d7acb8/canvas/1" ><label xml:lang="en">0054.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/76cd1c15-cdef-4209-9932-2dd459d7acb8;1"/></surface>
+          <surface xml:id="f062" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8c8e5669-7281-4bfe-9851-938adee91729/canvas/1" ><label xml:lang="en">0055.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8c8e5669-7281-4bfe-9851-938adee91729;1"/></surface>
+          <surface xml:id="f063" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/437b4775-a39b-467b-be3d-5b7a221f97a7/canvas/1" ><label xml:lang="en">0056.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/437b4775-a39b-467b-be3d-5b7a221f97a7;1"/></surface>
+          <surface xml:id="f064" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/fda3a79f-74aa-4fa5-9010-5dadb396e65a/canvas/1" ><label xml:lang="en">0057.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/fda3a79f-74aa-4fa5-9010-5dadb396e65a;1"/></surface>
+          <surface xml:id="f065" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/867545af-82b1-4d03-8c38-525495d3a69b/canvas/1" ><label xml:lang="en">0058.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/867545af-82b1-4d03-8c38-525495d3a69b;1"/></surface>
+          <surface xml:id="f066" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/39765df0-aae3-42bd-b21d-77179756adb3/canvas/1" ><label xml:lang="en">0059.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/39765df0-aae3-42bd-b21d-77179756adb3;1"/></surface>
+          <surface xml:id="f067" ulx="0" uly="0" lrx="2051" lry="1738" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7a2856ed-41ae-4a8c-ab41-f1af80394ba0/canvas/1" ><label xml:lang="en">005r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7a2856ed-41ae-4a8c-ab41-f1af80394ba0;1"/></surface>
+          <surface xml:id="f068" ulx="0" uly="0" lrx="2051" lry="1738" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/391ca059-d683-45f6-bc37-fd8fb86c73ef/canvas/1" ><label xml:lang="en">005v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/391ca059-d683-45f6-bc37-fd8fb86c73ef;1"/></surface>
+          <surface xml:id="f069" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c7636de5-342a-49fb-828b-8372dc901c6f/canvas/1" ><label xml:lang="en">0060.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c7636de5-342a-49fb-828b-8372dc901c6f;1"/></surface>
+          <surface xml:id="f070" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/fd5d7c0a-632b-4c18-a408-9d60b7f70b39/canvas/1" ><label xml:lang="en">0061.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/fd5d7c0a-632b-4c18-a408-9d60b7f70b39;1"/></surface>
+          <surface xml:id="f071" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/54b1ef3b-304e-46b9-9f86-481c0ba7d4e2/canvas/1" ><label xml:lang="en">0062.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/54b1ef3b-304e-46b9-9f86-481c0ba7d4e2;1"/></surface>
+          <surface xml:id="f072" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/5e0e42bf-52bc-498f-8b2c-676aca1cf7a0/canvas/1" ><label xml:lang="en">0063.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/5e0e42bf-52bc-498f-8b2c-676aca1cf7a0;1"/></surface>
+          <surface xml:id="f073" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/080ae305-505d-4e01-bc9b-a21e556f8a1d/canvas/1" ><label xml:lang="en">0064.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/080ae305-505d-4e01-bc9b-a21e556f8a1d;1"/></surface>
+          <surface xml:id="f074" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/941ea81d-89d2-4380-afb9-926612528759/canvas/1" ><label xml:lang="en">0065.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/941ea81d-89d2-4380-afb9-926612528759;1"/></surface>
+          <surface xml:id="f075" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e9b3730f-3c28-4087-b650-7825a85a2476/canvas/1" ><label xml:lang="en">0066.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e9b3730f-3c28-4087-b650-7825a85a2476;1"/></surface>
+          <surface xml:id="f076" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8a79ca9e-6617-4070-9bc2-9edcd6346de0/canvas/1" ><label xml:lang="en">0067.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8a79ca9e-6617-4070-9bc2-9edcd6346de0;1"/></surface>
+          <surface xml:id="f077" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e31896ef-0a9f-4ecb-a76c-0ae0d0e9ad2c/canvas/1" ><label xml:lang="en">0068.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e31896ef-0a9f-4ecb-a76c-0ae0d0e9ad2c;1"/></surface>
+          <surface xml:id="f078" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/bf58dd15-dbd4-4441-b0eb-4da4a95a090a/canvas/1" ><label xml:lang="en">0069.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/bf58dd15-dbd4-4441-b0eb-4da4a95a090a;1"/></surface>
+          <surface xml:id="f079" ulx="0" uly="0" lrx="1937" lry="2321" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/71d73753-41fc-494d-85b1-08c7a5433819/canvas/1" ><label xml:lang="en">006r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/71d73753-41fc-494d-85b1-08c7a5433819;1"/></surface>
+          <surface xml:id="f080" ulx="0" uly="0" lrx="1937" lry="2321" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/77e7df02-b7ba-447a-a2a2-540c1007a976/canvas/1" ><label xml:lang="en">006v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/77e7df02-b7ba-447a-a2a2-540c1007a976;1"/></surface>
+          <surface xml:id="f081" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/efcf5352-927d-4957-a52a-827dff034ed5/canvas/1" ><label xml:lang="en">0070.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/efcf5352-927d-4957-a52a-827dff034ed5;1"/></surface>
+          <surface xml:id="f082" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0bc537a7-b005-468b-a127-41853107871c/canvas/1" ><label xml:lang="en">0071.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0bc537a7-b005-468b-a127-41853107871c;1"/></surface>
+          <surface xml:id="f083" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d542c046-0ec8-433a-a56b-ffcd42e9a5b4/canvas/1" ><label xml:lang="en">0072.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d542c046-0ec8-433a-a56b-ffcd42e9a5b4;1"/></surface>
+          <surface xml:id="f084" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/2347c275-0374-4ea6-bac6-dc40bf973173/canvas/1" ><label xml:lang="en">0073.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/2347c275-0374-4ea6-bac6-dc40bf973173;1"/></surface>
+          <surface xml:id="f085" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/90a0ed88-a1df-47b6-bf93-839d37aa755e/canvas/1" ><label xml:lang="en">0074.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/90a0ed88-a1df-47b6-bf93-839d37aa755e;1"/></surface>
+          <surface xml:id="f086" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e50bf712-9f93-44d3-b950-6c4aea365a90/canvas/1" ><label xml:lang="en">0075.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e50bf712-9f93-44d3-b950-6c4aea365a90;1"/></surface>
+          <surface xml:id="f087" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7393a13a-3479-471c-a3c9-2bc577241453/canvas/1" ><label xml:lang="en">0076.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7393a13a-3479-471c-a3c9-2bc577241453;1"/></surface>
+          <surface xml:id="f088" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/6ce59ede-9989-41cd-8abb-eb9bfd72a72a/canvas/1" ><label xml:lang="en">0077.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/6ce59ede-9989-41cd-8abb-eb9bfd72a72a;1"/></surface>
+          <surface xml:id="f089" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0ba54ec6-5bb8-43b9-8bc4-6fcf1c314741/canvas/1" ><label xml:lang="en">0078.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0ba54ec6-5bb8-43b9-8bc4-6fcf1c314741;1"/></surface>
+          <surface xml:id="f090" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/51604dfa-1fed-4336-8083-e6fa47aba666/canvas/1" ><label xml:lang="en">0079.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/51604dfa-1fed-4336-8083-e6fa47aba666;1"/></surface>
+          <surface xml:id="f091" ulx="0" uly="0" lrx="1342" lry="1899" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9965b0a6-74d9-4528-bc2f-d377c25a9da1/canvas/1" ><label xml:lang="en">007r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9965b0a6-74d9-4528-bc2f-d377c25a9da1;1"/></surface>
+          <surface xml:id="f092" ulx="0" uly="0" lrx="1342" lry="1899" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cad998fb-0d22-4e1a-aed2-67b60e79cc21/canvas/1" ><label xml:lang="en">007v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cad998fb-0d22-4e1a-aed2-67b60e79cc21;1"/></surface>
+          <surface xml:id="f093" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/153c1d6b-1979-4975-98f3-2c01454161bd/canvas/1" ><label xml:lang="en">0080.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/153c1d6b-1979-4975-98f3-2c01454161bd;1"/></surface>
+          <surface xml:id="f094" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8f18c59a-336e-4220-bc0b-fa1bc81aea99/canvas/1" ><label xml:lang="en">0081.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8f18c59a-336e-4220-bc0b-fa1bc81aea99;1"/></surface>
+          <surface xml:id="f095" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/95e04af3-ef2e-48bb-a200-cfb03de4f6a0/canvas/1" ><label xml:lang="en">0082.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/95e04af3-ef2e-48bb-a200-cfb03de4f6a0;1"/></surface>
+          <surface xml:id="f096" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f87a5eb3-1516-4749-afdf-75304f1201c4/canvas/1" ><label xml:lang="en">0083.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f87a5eb3-1516-4749-afdf-75304f1201c4;1"/></surface>
+          <surface xml:id="f097" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ca77eeec-47cd-4b5e-85dc-aa4046fd7420/canvas/1" ><label xml:lang="en">0084.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ca77eeec-47cd-4b5e-85dc-aa4046fd7420;1"/></surface>
+          <surface xml:id="f098" ulx="0" uly="0" lrx="3800" lry="5300" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ed791333-6c7d-4963-9351-9cc0d96d56ea/canvas/1" ><label xml:lang="en">0085.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ed791333-6c7d-4963-9351-9cc0d96d56ea;1"/></surface>
+          <surface xml:id="f099" ulx="0" uly="0" lrx="4007" lry="5282" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a54797aa-ce0a-4c50-81dd-4f5ccb199bae/canvas/1" ><label xml:lang="en">0086.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a54797aa-ce0a-4c50-81dd-4f5ccb199bae;1"/></surface>
+          <surface xml:id="f100" ulx="0" uly="0" lrx="4583" lry="6779" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/69197a86-e000-413b-a9c9-1a4a5217940b/canvas/1" ><label xml:lang="en">0087.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/69197a86-e000-413b-a9c9-1a4a5217940b;1"/></surface>
+          <surface xml:id="f101" ulx="0" uly="0" lrx="1323" lry="5469" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d3c396f0-82ff-4e60-bde5-81463bfa631a/canvas/1" ><label xml:lang="en">0088.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d3c396f0-82ff-4e60-bde5-81463bfa631a;1"/></surface>
+          <surface xml:id="f102" ulx="0" uly="0" lrx="1564" lry="1586" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9886d94e-68f9-4aaa-bc4b-5e5c0a8733d1/canvas/1" ><label xml:lang="en">008r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9886d94e-68f9-4aaa-bc4b-5e5c0a8733d1;1"/></surface>
+          <surface xml:id="f103" ulx="0" uly="0" lrx="1564" lry="1586" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/aea11a04-ef05-43e9-82b2-69130d720923/canvas/1" ><label xml:lang="en">008v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/aea11a04-ef05-43e9-82b2-69130d720923;1"/></surface>
+          <surface xml:id="f104" ulx="0" uly="0" lrx="1441" lry="1549" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/22f6c33c-417c-42ee-9016-1ce775b27fdd/canvas/1" ><label xml:lang="en">009r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/22f6c33c-417c-42ee-9016-1ce775b27fdd;1"/></surface>
+          <surface xml:id="f105" ulx="0" uly="0" lrx="1441" lry="1549" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ab965309-78ba-406d-8527-ffe91c807175/canvas/1" ><label xml:lang="en">009v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ab965309-78ba-406d-8527-ffe91c807175;1"/></surface>
+          <surface xml:id="f106" ulx="0" uly="0" lrx="1421" lry="1827" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/50adb575-64cb-490c-aaaf-4896406eccc6/canvas/1" ><label xml:lang="en">010r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/50adb575-64cb-490c-aaaf-4896406eccc6;1"/></surface>
+          <surface xml:id="f107" ulx="0" uly="0" lrx="1421" lry="1827" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/5c7f80d1-e00f-4f4c-882c-6d6da426ae60/canvas/1" ><label xml:lang="en">010v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/5c7f80d1-e00f-4f4c-882c-6d6da426ae60;1"/></surface>
+          <surface xml:id="f108" ulx="0" uly="0" lrx="1926" lry="4720" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8579238b-6889-4711-9f06-c4c8ab2eec66/canvas/1" ><label xml:lang="en">011r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/8579238b-6889-4711-9f06-c4c8ab2eec66;1"/></surface>
+          <surface xml:id="f109" ulx="0" uly="0" lrx="1926" lry="4720" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/bf045862-bf5f-4d99-842e-4fdd73352d2f/canvas/1" ><label xml:lang="en">011v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/bf045862-bf5f-4d99-842e-4fdd73352d2f;1"/></surface>
+          <surface xml:id="f110" ulx="0" uly="0" lrx="1657" lry="2971" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f7a18bf3-6248-40be-be82-131aa9ae525d/canvas/1" ><label xml:lang="en">012r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f7a18bf3-6248-40be-be82-131aa9ae525d;1"/></surface>
+          <surface xml:id="f111" ulx="0" uly="0" lrx="1657" lry="2971" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a7f4696b-1456-4d53-8f4e-9b65a4ea44fa/canvas/1" ><label xml:lang="en">012v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a7f4696b-1456-4d53-8f4e-9b65a4ea44fa;1"/></surface>
+          <surface xml:id="f112" ulx="0" uly="0" lrx="1728" lry="2195" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/37128bf8-d519-47dc-aae5-78a3984514bd/canvas/1" ><label xml:lang="en">013r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/37128bf8-d519-47dc-aae5-78a3984514bd;1"/></surface>
+          <surface xml:id="f113" ulx="0" uly="0" lrx="1728" lry="2195" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ddcd7ef1-4422-412e-bd26-56107eeb7ee6/canvas/1" ><label xml:lang="en">013v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/ddcd7ef1-4422-412e-bd26-56107eeb7ee6;1"/></surface>
+          <surface xml:id="f114" ulx="0" uly="0" lrx="5500" lry="5000" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f3c9ba8b-59de-4210-a409-cafcd4996453/canvas/1" ><label xml:lang="en">014r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f3c9ba8b-59de-4210-a409-cafcd4996453;1"/></surface>
+          <surface xml:id="f115" ulx="0" uly="0" lrx="5500" lry="5000" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b694c784-4902-430f-9d91-4714cb4cdf87/canvas/1" ><label xml:lang="en">014v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b694c784-4902-430f-9d91-4714cb4cdf87;1"/></surface>
+          <surface xml:id="f116" ulx="0" uly="0" lrx="3450" lry="3330" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a3234a1e-caa3-49c1-8f57-ee85787baf73/canvas/1" ><label xml:lang="en">015r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a3234a1e-caa3-49c1-8f57-ee85787baf73;1"/></surface>
+          <surface xml:id="f117" ulx="0" uly="0" lrx="3450" lry="3330" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/026716ef-dcf2-46f5-ab51-931cfcc8bff9/canvas/1" ><label xml:lang="en">015v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/026716ef-dcf2-46f5-ab51-931cfcc8bff9;1"/></surface>
+          <surface xml:id="f118" ulx="0" uly="0" lrx="2147" lry="8927" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/4cb180d0-7307-4775-b6ad-ddc4ff07db94/canvas/1" ><label xml:lang="en">016r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/4cb180d0-7307-4775-b6ad-ddc4ff07db94;1"/></surface>
+          <surface xml:id="f119" ulx="0" uly="0" lrx="2038" lry="9093" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9a4b5deb-831d-4de0-a54c-39da7982505d/canvas/1" ><label xml:lang="en">016v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9a4b5deb-831d-4de0-a54c-39da7982505d;1"/></surface>
+          <surface xml:id="f120" ulx="0" uly="0" lrx="6253" lry="2215" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0d606eaa-d60c-4cbc-8276-6129bb8f29a3/canvas/1" ><label xml:lang="en">017r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0d606eaa-d60c-4cbc-8276-6129bb8f29a3;1"/></surface>
+          <surface xml:id="f121" ulx="0" uly="0" lrx="6253" lry="2215" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e7c94dac-05f1-441e-b24e-4e1afc06f666/canvas/1" ><label xml:lang="en">017v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e7c94dac-05f1-441e-b24e-4e1afc06f666;1"/></surface>
+          <surface xml:id="f122" ulx="0" uly="0" lrx="2257" lry="3420" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/5f539bb5-4da4-4a0d-a64e-205cb12676b0/canvas/1" ><label xml:lang="en">018r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/5f539bb5-4da4-4a0d-a64e-205cb12676b0;1"/></surface>
+          <surface xml:id="f123" ulx="0" uly="0" lrx="2257" lry="3420" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/24997284-d985-4480-a562-d14f2dcd722a/canvas/1" ><label xml:lang="en">018v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/24997284-d985-4480-a562-d14f2dcd722a;1"/></surface>
+          <surface xml:id="f124" ulx="0" uly="0" lrx="1905" lry="1079" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b040d9fa-34ae-4fc3-b31c-493dd5b7fed2/canvas/1" ><label xml:lang="en">019r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b040d9fa-34ae-4fc3-b31c-493dd5b7fed2;1"/></surface>
+          <surface xml:id="f125" ulx="0" uly="0" lrx="1905" lry="1079" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a3f36202-8dc9-4f41-ba3a-a5e88a255034/canvas/1" ><label xml:lang="en">019v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a3f36202-8dc9-4f41-ba3a-a5e88a255034;1"/></surface>
+          <surface xml:id="f126" ulx="0" uly="0" lrx="668" lry="2761" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e7bd9834-21cd-411d-ad8f-fdc26f8fe212/canvas/1" ><label xml:lang="en">020r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e7bd9834-21cd-411d-ad8f-fdc26f8fe212;1"/></surface>
+          <surface xml:id="f127" ulx="0" uly="0" lrx="668" lry="2761" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0759d23b-79e3-433b-b14e-f746d18be8ca/canvas/1" ><label xml:lang="en">020v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0759d23b-79e3-433b-b14e-f746d18be8ca;1"/></surface>
+          <surface xml:id="f128" ulx="0" uly="0" lrx="2137" lry="3229" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/68f7a410-bea5-41e8-87d6-85967303088f/canvas/1" ><label xml:lang="en">021r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/68f7a410-bea5-41e8-87d6-85967303088f;1"/></surface>
+          <surface xml:id="f129" ulx="0" uly="0" lrx="2137" lry="3229" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9861a3f6-722d-4184-a644-15ad7b67339f/canvas/1" ><label xml:lang="en">021v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9861a3f6-722d-4184-a644-15ad7b67339f;1"/></surface>
+          <surface xml:id="f130" ulx="0" uly="0" lrx="8307" lry="5759" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/21df295d-e3c6-4073-8940-caecd7943f2a/canvas/1" ><label xml:lang="en">022r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/21df295d-e3c6-4073-8940-caecd7943f2a;1"/></surface>
+          <surface xml:id="f131" ulx="0" uly="0" lrx="8307" lry="5759" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a9bf1af6-2118-448e-b1de-b28d9a82fa1c/canvas/1" ><label xml:lang="en">022v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a9bf1af6-2118-448e-b1de-b28d9a82fa1c;1"/></surface>
+          <surface xml:id="f132" ulx="0" uly="0" lrx="2419" lry="1195" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/74d18391-3bf3-4bf9-9121-4164c77e2e86/canvas/1" ><label xml:lang="en">023r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/74d18391-3bf3-4bf9-9121-4164c77e2e86;1"/></surface>
+          <surface xml:id="f133" ulx="0" uly="0" lrx="2419" lry="1195" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/897a3e70-1067-43c1-8a02-94e277d946ae/canvas/1" ><label xml:lang="en">023v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/897a3e70-1067-43c1-8a02-94e277d946ae;1"/></surface>
+          <surface xml:id="f134" ulx="0" uly="0" lrx="4094" lry="2858" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/fbe7663c-0dd8-4e51-9922-78d27e092739/canvas/1" ><label xml:lang="en">024r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/fbe7663c-0dd8-4e51-9922-78d27e092739;1"/></surface>
+          <surface xml:id="f135" ulx="0" uly="0" lrx="4094" lry="2858" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/2f610bd0-357d-48e1-8cc2-36513adfd4b1/canvas/1" ><label xml:lang="en">024v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/2f610bd0-357d-48e1-8cc2-36513adfd4b1;1"/></surface>
+          <surface xml:id="f136" ulx="0" uly="0" lrx="1371" lry="2602" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/22a53e34-1b1d-42b4-898e-6d760f199643/canvas/1" ><label xml:lang="en">025r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/22a53e34-1b1d-42b4-898e-6d760f199643;1"/></surface>
+          <surface xml:id="f137" ulx="0" uly="0" lrx="1371" lry="2602" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/bf82c28f-2510-4ff2-8a7b-f182cc5d11f1/canvas/1" ><label xml:lang="en">025v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/bf82c28f-2510-4ff2-8a7b-f182cc5d11f1;1"/></surface>
+          <surface xml:id="f138" ulx="0" uly="0" lrx="4781" lry="4085" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e6d0f238-252d-406c-b359-db414e585450/canvas/1" ><label xml:lang="en">026r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e6d0f238-252d-406c-b359-db414e585450;1"/></surface>
+          <surface xml:id="f139" ulx="0" uly="0" lrx="4781" lry="4085" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d93dd1a9-deeb-4d10-ad74-47f302aa3369/canvas/1" ><label xml:lang="en">026v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d93dd1a9-deeb-4d10-ad74-47f302aa3369;1"/></surface>
+          <surface xml:id="f140" ulx="0" uly="0" lrx="4031" lry="4723" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/eddee459-87ec-4200-b714-3185e643c4c0/canvas/1" ><label xml:lang="en">027r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/eddee459-87ec-4200-b714-3185e643c4c0;1"/></surface>
+          <surface xml:id="f141" ulx="0" uly="0" lrx="4031" lry="4723" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/84e033bc-50d4-4bd9-a860-e5c707b7038f/canvas/1" ><label xml:lang="en">027v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/84e033bc-50d4-4bd9-a860-e5c707b7038f;1"/></surface>
+          <surface xml:id="f142" ulx="0" uly="0" lrx="2745" lry="8113" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b52827c8-5739-472a-8741-f5eec0fb6e87/canvas/1" ><label xml:lang="en">028r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b52827c8-5739-472a-8741-f5eec0fb6e87;1"/></surface>
+          <surface xml:id="f143" ulx="0" uly="0" lrx="2745" lry="8113" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e7294d25-0efd-471a-a56e-ac2a3db21e01/canvas/1" ><label xml:lang="en">028v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e7294d25-0efd-471a-a56e-ac2a3db21e01;1"/></surface>
+          <surface xml:id="f144" ulx="0" uly="0" lrx="5726" lry="4663" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7d3c6dc7-2d4f-43fd-8897-b3eac94e3d8b/canvas/1" ><label xml:lang="en">029r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7d3c6dc7-2d4f-43fd-8897-b3eac94e3d8b;1"/></surface>
+          <surface xml:id="f145" ulx="0" uly="0" lrx="5726" lry="4663" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/48068a0b-231f-4468-a0c0-1a1edf14ef7e/canvas/1" ><label xml:lang="en">029v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/48068a0b-231f-4468-a0c0-1a1edf14ef7e;1"/></surface>
+          <surface xml:id="f146" ulx="0" uly="0" lrx="5125" lry="8074" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9ac26cf4-3388-4d6b-82c1-faba55c9af03/canvas/1" ><label xml:lang="en">030r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/9ac26cf4-3388-4d6b-82c1-faba55c9af03;1"/></surface>
+          <surface xml:id="f147" ulx="0" uly="0" lrx="5125" lry="8074" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/305efebd-c36b-4f92-b96f-2aa207a24060/canvas/1" ><label xml:lang="en">030v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/305efebd-c36b-4f92-b96f-2aa207a24060;1"/></surface>
+          <surface xml:id="f148" ulx="0" uly="0" lrx="2531" lry="3788" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e89740c4-dc9c-48bc-bb84-84d01ed308c4/canvas/1" ><label xml:lang="en">031r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e89740c4-dc9c-48bc-bb84-84d01ed308c4;1"/></surface>
+          <surface xml:id="f149" ulx="0" uly="0" lrx="3788" lry="2531" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d6cb3de4-3ae2-41d0-a379-bbddecea01d9/canvas/1" ><label xml:lang="en">031v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d6cb3de4-3ae2-41d0-a379-bbddecea01d9;1"/></surface>
+          <surface xml:id="f150" ulx="0" uly="0" lrx="2815" lry="866" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/3efaa0dc-6da9-46cf-be2b-48db5ed320f3/canvas/1" ><label xml:lang="en">032r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/3efaa0dc-6da9-46cf-be2b-48db5ed320f3;1"/></surface>
+          <surface xml:id="f151" ulx="0" uly="0" lrx="2815" lry="866" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f83f5d6d-7442-4d1d-b160-7b25a3bde7f6/canvas/1" ><label xml:lang="en">032v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f83f5d6d-7442-4d1d-b160-7b25a3bde7f6;1"/></surface>
+          <surface xml:id="f152" ulx="0" uly="0" lrx="4030" lry="2132" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7105c3e7-5abf-484b-9078-bf84a4909c63/canvas/1" ><label xml:lang="en">033r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7105c3e7-5abf-484b-9078-bf84a4909c63;1"/></surface>
+          <surface xml:id="f153" ulx="0" uly="0" lrx="4030" lry="2132" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a5f52458-319b-4561-abd1-3b60cf7e6205/canvas/1" ><label xml:lang="en">033v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a5f52458-319b-4561-abd1-3b60cf7e6205;1"/></surface>
+          <surface xml:id="f154" ulx="0" uly="0" lrx="2756" lry="1531" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/79085e40-7a60-4303-a1f9-0a996cd7f707/canvas/1" ><label xml:lang="en">034r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/79085e40-7a60-4303-a1f9-0a996cd7f707;1"/></surface>
+          <surface xml:id="f155" ulx="0" uly="0" lrx="2756" lry="1531" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/eb9755a8-9d21-4b3a-a021-e4e917037228/canvas/1" ><label xml:lang="en">034v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/eb9755a8-9d21-4b3a-a021-e4e917037228;1"/></surface>
+          <surface xml:id="f156" ulx="0" uly="0" lrx="4663" lry="2079" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7ad1af64-79de-4c8b-82d7-ab731fa87a2a/canvas/1" ><label xml:lang="en">035r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/7ad1af64-79de-4c8b-82d7-ab731fa87a2a;1"/></surface>
+          <surface xml:id="f157" ulx="0" uly="0" lrx="4663" lry="2079" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/94acf9b8-17e5-4b47-a0b1-f6c541f2fe13/canvas/1" ><label xml:lang="en">035v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/94acf9b8-17e5-4b47-a0b1-f6c541f2fe13;1"/></surface>
+          <surface xml:id="f158" ulx="0" uly="0" lrx="4866" lry="5726" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/67e20f76-a4cd-4e86-9e9a-eedb7f576fbc/canvas/1" ><label xml:lang="en">036r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/67e20f76-a4cd-4e86-9e9a-eedb7f576fbc;1"/></surface>
+          <surface xml:id="f159" ulx="0" uly="0" lrx="4866" lry="5726" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/96c276f3-d3c4-4d29-a2a5-c86e152412fd/canvas/1" ><label xml:lang="en">036v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/96c276f3-d3c4-4d29-a2a5-c86e152412fd;1"/></surface>
+          <surface xml:id="f160" ulx="0" uly="0" lrx="2609" lry="4083" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/81d89b0e-164e-4fda-9175-3e73b1c0a207/canvas/1" ><label xml:lang="en">037r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/81d89b0e-164e-4fda-9175-3e73b1c0a207;1"/></surface>
+          <surface xml:id="f161" ulx="0" uly="0" lrx="2609" lry="4083" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f4d0c207-0c61-44e2-bd2f-8add811e1a37/canvas/1" ><label xml:lang="en">037v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/f4d0c207-0c61-44e2-bd2f-8add811e1a37;1"/></surface>
+          <surface xml:id="f162" ulx="0" uly="0" lrx="2621" lry="3579" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/e035fde0-616d-458a-afae-3e405894b95b/canvas/1" ><label xml:lang="en">038r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/e035fde0-616d-458a-afae-3e405894b95b;1"/></surface>
+          <surface xml:id="f163" ulx="0" uly="0" lrx="2621" lry="3579" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/3d5086f5-23ed-4c2c-8c1f-dd3ebd0d9fdb/canvas/1" ><label xml:lang="en">038v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/3d5086f5-23ed-4c2c-8c1f-dd3ebd0d9fdb;1"/></surface>
+          <surface xml:id="f164" ulx="0" uly="0" lrx="2377" lry="850" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/0a396c6f-ac6c-4911-b5ee-7f481e6a90ff/canvas/1" ><label xml:lang="en">039r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/0a396c6f-ac6c-4911-b5ee-7f481e6a90ff;1"/></surface>
+          <surface xml:id="f165" ulx="0" uly="0" lrx="2377" lry="850" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d1da4a9a-a65f-4c5f-9f88-cc58afd49cf6/canvas/1" ><label xml:lang="en">039v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/d1da4a9a-a65f-4c5f-9f88-cc58afd49cf6;1"/></surface>
+          <surface xml:id="f166" ulx="0" uly="0" lrx="2096" lry="2372" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/31559ccb-e70c-4ee5-b76b-e43c94e73218/canvas/1" ><label xml:lang="en">040r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/31559ccb-e70c-4ee5-b76b-e43c94e73218;1"/></surface>
+          <surface xml:id="f167" ulx="0" uly="0" lrx="2096" lry="2372" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1792a81a-5f1a-4c05-bd95-75e1956566e7/canvas/1" ><label xml:lang="en">040v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/1792a81a-5f1a-4c05-bd95-75e1956566e7;1"/></surface>
+          <surface xml:id="f168" ulx="0" uly="0" lrx="4837" lry="3472" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b821238a-829c-4e16-9192-80ba88743d85/canvas/1" ><label xml:lang="en">041r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/b821238a-829c-4e16-9192-80ba88743d85;1"/></surface>
+          <surface xml:id="f169" ulx="0" uly="0" lrx="4837" lry="3472" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/32d82b7c-ae01-4256-b0d4-cd5d9f2eac5c/canvas/1" ><label xml:lang="en">041v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/32d82b7c-ae01-4256-b0d4-cd5d9f2eac5c;1"/></surface>
+          <surface xml:id="f170" ulx="0" uly="0" lrx="3901" lry="4783" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c0802375-8182-4ba8-8e1f-b9ec73995779/canvas/1" ><label xml:lang="en">042r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/c0802375-8182-4ba8-8e1f-b9ec73995779;1"/></surface>
+          <surface xml:id="f171" ulx="0" uly="0" lrx="3901" lry="4783" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cf9fd568-42a1-4f0f-aa13-179453b0ed0f/canvas/1" ><label xml:lang="en">042v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/cf9fd568-42a1-4f0f-aa13-179453b0ed0f;1"/></surface>
+          <surface xml:id="f172" ulx="0" uly="0" lrx="5090" lry="6509" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a0a447e9-16de-4c72-94e9-af4e77a997d0/canvas/1" ><label xml:lang="en">043r.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a0a447e9-16de-4c72-94e9-af4e77a997d0;1"/></surface>
+          <surface xml:id="f173" ulx="0" uly="0" lrx="5090" lry="6509" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/a9bb4e5c-582b-4072-a72a-87b30a169729/canvas/1" ><label xml:lang="en">043v.jpg</label><graphic mimeType="application/json" url="https://iiif-cloud-production.herokuapp.com/public/resources/a9bb4e5c-582b-4072-a72a-87b30a169729;1"/></surface>
+
+      </facsimile>
+
+      <text xml:id="text">
+<body><div>
+    <pb facs="#f002" />
+<ab>
+<lb />Way for melting silk gum, or other-
+<lb />wise said tragacanth gum;
+<lb />One takes for this one patar of the said gum; it
+<lb />is necessary to put it to soak, in a half pint
+<lb />of rainwater, better more than less. One needs to
+<lb />leave it like that for two days, then one needs to take
+<lb />a spoon and stir it well, and hit it with it
+<lb />until such time it becomes a clear glue-pap, and if
+<lb />one sees that the soup is too thick, one needs
+<lb />to pour in a bit of water, until such time that it
+<lb />is good; then one needs to make it boil, a
+<lb />bit, and that while stirring it still. After that,
+<lb />one needs to pass it through a cloth, and after that,
+<lb />use it to starch silk with it.
+<lb />Way to make silk flowers
+<lb />Note: when the silk is very well peniez, put it on top
+<lb />of glass, very flat, the size of one window pane,
+<lb />reasonably big enough. Next, one needs to take the flat side of a knife,
+<lb />and take the silk gum with it. Next, one needs to spread it on top
+<lb />of the silk with it, and that also for a long time, that the silk becomes very well
+<lb />moistened, and fatty. After that, one needs to turn it over, and
+<lb />one needs to do the same. After that, one needs to put it on top of a
+<lb />towel, to let it dry in the wind, and or otherwise also.
+<lb />Next one needs to apply it, and put it on top of the form; and 
+<lb />go over it with a pierre liquoire. And dry it near to
+<lb />the fire, and or else above a stove. Next, remove it
+<lb />from there. And then cut flowers from it, of all kinds
+<lb />that you want to make. But one needs always to keep
+<lb />silk prepared for making flowers between white paper.
+<lb />The same also for silk that is not yet prepared for making flowers.
+</ab>
+
+<pb facs="#f003" />
+<ab>
+<lb />Way to undye cambric dyed with gamboge
+<lb />One needs to tie up the
+<lb />piece of cambric [to a rod?] quasi all as large as
+<lb />the piece and, next to wet it a bit,
+<lb />and rub it between the hands, well enough, then
+<lb />one needs to plunge it and wash it in hot water,
+<lb />or else in lye, like one
+<lb />washes white cambric, changing the water
+<lb />from time to time, until such that the
+<lb />cambric becomes perfectly white. One needs to tie up
+<lb />the piece of cambric two or three times for
+<lb />this end.
+<lb />Cambric, dyed with saffron and
+<lb />gamboge, is undyed in the same manner also
+<lb />The way to undye crimson or incarlacque fabric
+<lb />One needs to take two pints of lye, made from vine
+<lb />ashes, with a half pint of rainwater or fountain water.
+<lb />One must boil that together with some small pieces of
+<lb />crimson fabric, which you all let boil until such that the
+<lb />dye becomes boiled out of the fabric and it becomes all undyed. Next one
+<lb />needs to take it out of the earthenware pot, which you keep for this use, and
+<lb />after having pressed the lye out, one + needs to take yet an other piece
+<lb />of incarlacque and make it boil in the same manner. But
+<lb />each time that you press the lye out, one needs always to re-cast
+<lb />it into the pot. One needs to continue like that all until such that you
+<lb />see that the incarlacque does not undye further and that it remains beautiful. A dont
+<lb />is the dye good, a dont one needs to take the gum that you have 
+<lb />soaked and melted for a space of 24 hours. In stirring from time
+<lb />to time, being still rather thick, one needs to pass it through a very white
+<lb />cloth. Next one needs to throw the gum in the said dye and let it
+<lb />boil all together until such time that the soup becomes very thick, a
+<lb />dont you can use it to draw with a paintbrush. ✠
+</ab>
+
+<pb facs="#f004" />
+<ab>
+<lb />read at this ✠ But when the dye
+<lb />is too fatty, or too thick, and or too
+<lb />dry, one needs always to amortirre [quench/temper?] and
+<lb />stretch it out with rainwater or fountain water. And that
+<lb />until such that you see that the dye is good
+</ab>
+
+<pb facs="#f005" />
+<ab>
+<lb />for you to use with the paintbrush, to
+<lb />draw with, on cambric, and on paper.
+<lb />All the little pieces of crimson fabric, which the
+<lb />tailors throw aside, they are good for that. It is not
+<lb />necessary to have large pieces.
+</ab>
+
+<pb facs="#f006" />
+<ab>
+<lb />How one needs to accommodate cloths to make flowers
+<lb />After cambrics, muslins, and 
+<lb />cloths are very well washed and well dried,
+<lb />one needs to take, or make, a nice starch
+<lb />fairly thick, and then starch your canvases or
+<lb />cambrics in the same manner, just as one
+<lb />starches coiffures. Then one needs to hang the
+<lb />cloth by cords. Being well dry, one needs
+<lb />to pass the hand over it, on both sides of the cloth,
+<lb />to render it very uniform, then fold them by
+<lb />hand; from there, put them in a paper. One
+<lb />needs to keep oneself from using the
+<lb />iron, as one [commonly] passes over cloths, nor other
+<lb />instruments for this end. One needs to observe
+<lb />this command for all other colors too.
+<lb />This sort of canvas can only serve
+<lb />for completely white flowers without being
+<lb />drawn upon.
+<lb />Another white cambric, to be able to be 
+<lb />drawn upon
+<lb />One needs to take starch white,
+<lb />as much as can fit in a small spoon, better more than less, with
+<lb />as much as can be of starch blue, as much as
+<lb />you would like to have blue. Then one needs to take
+</ab>
+
+<pb facs="#f007" />
+<ab>
+<lb />half a glass of fish glue, then
+<lb />mix well and break the starch white into the glue. Next one
+<lb />needs to put the starch brown-blue in it, and mix it well. Then plunge
+<lb />the cambric immediately into the soup, until the soup becomes completely penetrated
+<lb />into the cambric but very well wet. One needs to open it well, and press, and
+<lb />turn it over, and rub it a bit, many times, so that the white becomes well
+<lb />penetrated into the cambric. From there, attach it to a cord with pins.~~
+<lb />but if the cord is made of horse hair, it is enough to
+<lb />hang it, taking care that the end from which it hangs
+<lb />does not attach itself together. This command must be
+<lb />observed for all other colors.
+<lb />To make yellowish cloths for 
+<lb />jasmine and other flowers, one needs to put
+<lb />with this starch white and fish glue
+<lb />three or four drops of gamboge
+<lb />To make some reddish ones
+<lb />One needs
+<lb />to take starch white, fish glue,
+<lb />and three or four drops of carmine. This
+<lb />kind of cambric is used to make carnations
+<lb />and other flowers
+<lb />Cloths of this sort can be green
+<lb />One makes them
+<lb />as above, by pouring a few drops from
+<lb />the bottle in which there is green. And if
+<lb />you want to have yellowish color, you put throughout
+<lb />the glue and the green one drop or two of
+<lb />gamboge.
+<lb />Blue cambric is made with starch brown-blue
+</ab>
+
+<pb facs="#f008" />
+<ab>
+<lb />Yet another kind of pale blue
+<lb />for the beginning of blue alimon and
+<lb />blue ranunculus, much better than
+<lb />starch pale-blue; ~
+<lb />One needs to take a piece [of]
+<lb />new blue cloth, which one calls the
+<lb />dye of Bruges, very clean. One needs to put
+<lb />it to soak for a bit in cold water. Next one
+<lb />needs to wash [until?] only the red or black soup
+<lb />removes itself. One needs to throw this water away,
+<lb />then one needs to take another clear water,
+<lb />cold also. Next one needs to wash it once 
+<lb />more in this water. Being well washed and
+<lb />the water being very blue, one needs to take it out of
+<lb />the water and wring it out well. Next, one needs to leave this
+</ab>
+
+<pb facs="#f009" />
+<ab>
+<lb />water there like that, without stirring it, for three or
+<lb />four hours, more or less. Next, one needs
+<lb />to throw  the clear water away and keep the bottom.
+<lb />Then one needs to take your cloth and cambric
+<lb />and plunge it into a small part of this water
+<lb />so well that you shouldn’t press the water out. After
+<lb />that, one needs to hang it from a cord. Being dry,
+<lb />one needs to do the same thing again until
+<lb />the moment that you see that the color is
+<lb />as you want to have it. Being dry,
+<lb />one needs to starch it in hide glue
+<lb />without pressing it out. This is why one needs
+<lb />to take only a small amount of the said glue
+<lb />so that the cambric becomes very well wetted
+<lb />without dripping once being hung by a cord.
+</ab>
+
+<pb facs="#f010" />
+<ab>
+<lb />and fish glue. One
+<lb />needs to cut the cambric in the length of
+<lb />two or three quarters and the width of three tailes [full sizes?]
+<lb />or a half square. Each piece of cambric
+<lb />or muslin must be washed piece by
+<lb />piece in the glue without taking more glue
+<lb />than that needed for the piece to be completely wet with the
+<lb />blue too. Then rub the blue very gently into
+<lb />the cambric, and when it is very blue, one needs to hold
+<lb />each one by the end in the hand and next pass
+<lb />the hand over it, from one end to the other, then back
+<lb />again, and so forth to make it 
+<lb />very even. Next, you attach it or hang it 
+<lb />by cord. But if the cambric is dry and
+<lb />it is not blue enough, one needs to plunge it again
+<lb />once more in the same soup, and do as
+<lb />above but without using starch white. These
+<lb />cambrics and[=are?] for making alimon, which one
+<lb />calls archbishops, as also for hyacinths and
+<lb />bleuels, &amp;c. ~~~ hide glue is
+<lb />		also good for making that
+<lb />		and is even better than the other
+<lb />Pale blue is made in the same way
+<lb />but instead of taking starch brown-blue
+<lb />one needs to take starch pale-blue. ~
+<lb />This muslin is used for the beginning
+<lb />of archbishops; note that pale blue is made with
+<lb />		starch brown-blue
+<lb />		[and] is the most beautiful of all the other
+<lb />		colors
+<lb />Note: archbishops are blue or violet alimon;
+</ab>
+
+<pb facs="#f011" />
+<ab>
+<lb />The brown-blue and pale blue for
+<lb />archbishops, once cut, one needs to trace
+<lb />them with carmine.
+<lb />Another blue that one uses for
+<lb />the underside of archbishops, which one sees
+<lb />hardly at all because the colors are not worth anything
+<lb />even though they are beautiful in appearance. 
+<lb />One needs to take a square or two of lacmus
+<lb />that one pounds, well bound in a good
+<lb />cloth, then put it to soak for one day and one
+<lb />night. Next, you boil it with a
+<lb />pint and a half of rainwater, better too little than
+<lb />too much. Pressing the cloth with a stick
+<lb />where it is blue, and inside, so that all of the blue
+<lb />leaves it. Then one needs to put the cambric or
+<lb />the cloths in the soup to boil together.
+<lb />Being boiled a little, one needs to take it
+<lb />out of the soup and hang it over cords.
+<lb />Being dry, if they are plainly not blue
+<lb />enough, one can plunge them again
+<lb />in the same soup, and that several times
+<lb />if there is need. Being dry, one
+<lb />puts them in fish glue or hide glue.
+</ab>
+
+<pb facs="#f012" />
+<ab>
+<lb />For making more pansy; for making alimon,
+<lb />and ranunculus; one needs to take, three mussel shells
+<lb />full of mien rouge [my red? Same red?], one needs to rub it well
+<lb />with a piece of marble, on top of some marble or some gres [sandstone?];
+<lb />being well rubbed; one needs to throw it in a glass, or the 
+<lb />third part of a glass, of the hide glue, with a 
+<lb />mussel shell full of vermillion, one needs to 
+<lb />stir it well, and to mix it together; next on needs to throw
+<lb />the white cambric into the glue, and turn it well, and
+<lb />press it well, and return it in the hands, rubbing it a 
+<lb />little, in order that the dye will be well penetrated, and that
+<lb />the cambric, muslin; and toile will be a good red;
+<lb />after that, one needs to squeeze the glue, and dye
+<lb />within, so well that it stays reasonably well wetted,
+<lb />then one needs to hang in the attic; and being dry,
+<lb />the toile, cambric, and muslin; being cut into
+<lb />leaves, one needs to put a clear carmine on it; that 
+<lb />you see to be a very beautiful color to your liking;
+</ab>
+
+<pb facs="#f013" />
+<ab>
+<lb />Note if you see that the dye is too thick
+<lb />with a glass of hide glue; one needs to take
+<lb />more still, all until such time that the soup is good ◆
+<lb />Note when you would like to make less a dont [which?] one needs to 
+<lb />take some vermillion, and some mien [mine?] to your liking,
+<lb />and mix them well in hide glue; next take all at 
+<lb />once that which you have prepared for dyeing; and throw it right away 
+<lb />into the glue, or otherwise said in the soup; one needs to rub it very little,
+<lb />but instead of this, one needs to press it very well, and 
+<lb />put it back, and open it up; and after that press it again, and put it back,
+<lb />all until such time that the dye is well penetrated in 
+<lb />the cambric; in the end, if you see that you have too much
+<lb />soup, or that the cambric is too wetted, one needs to put
+<lb />still more pieces of cambric inside, so well that you 
+<lb />should not have to press anything out; one still needs to press it all 
+<lb />together; so that it penetrates in the dye also;
+<lb />But if you see to the contrary, that you do not have 
+<lb />enough glue and dye for the quantity that you have
+<lb />started to dye; a dons [then?], one needs to take all of the fabric out,
+<lb />next pour the glue, in the saucer; and one needs to mix 
+<lb />in still more dye, after that throw it the mass inside;
+<lb />and do as here before; but the glue, and the cambric, must be hot
+</ab>
+
+<pb facs="#f014" />
+<ab>
+<lb />The blue for flowers, which one calls
+<lb />areniez, is made with English ash, 
+<lb />in the same manner as the starch blue, 
+<lb />but the blue of English ash does not 
+<lb />have to be rubbed into the toile as strongly as the 
+<lb />starch blue, because the color is finer
+<lb />and it suffices, that the cambric has the color of 
+<lb />this blue, ~~~
+<lb />For making red ones one needs to take
+<lb />some vermillion, and hide glue,;
+<lb />the toiles being cut, in leaves, one needs to put a 
+<lb />clear carmine on top,: fish glue is
+<lb />also good, but with hide glue, the carmine
+<lb />is easier to trace, one needs to rub the cambric
+<lb />in the said soup, as you did
+<lb />with the English ash, this toile is useful 
+<lb />for making ranunculus, allimone, and Constantinople tulip ~~~
+<lb />The green toiles are made with hide glue,
+<lb />and some green from the bottle, without white
+<lb />starch; fish glue is also good,
+<lb />but dried cambric, one needs to plunge it 
+<lb />again into this glue because
+<lb />the green thins it too much, but hide glue
+</ab>
+
+<pb facs="#f015" />
+<ab>
+<lb />it is sufficient with the first time, and if 
+<lb />you would like to have it yellowish, one needs to put
+<lb />amongst the glue, and the green a few drops of
+<lb />gamboge, these kinds of muslin,
+<lb />etc are useful for the beginnings of ranunculi, and
+<lb />allimon? &amp;.c ~~~
+<lb />To dye jonquil color, one
+<lb />needs to take the size of a big nut
+<lb />of gamboge, with a little whole saffron,
+<lb />without being pounded, which one needs to
+<lb />put to soak in a little water, it 
+<lb />is enough that the water in the little pot ~
+<lb />will be around height of the gamboge; and the saffron in
+<lb />another little pot; leave it to extract its colour well,
+<lb />with a little hot water; the 
+<lb />gamboge being melted, one needs to 
+<lb />pour out half, into the fish glue,
+<lb />the quantity of half a glass,
+<lb />approximately, then one needs to take a 
+<lb />little of this saffron soup, that you
+<lb />stir all together, in the glue, next,
+<lb />one needs to take the cambric, and ~
+<lb />wash one piece, in the said soup, to see 
+<lb />if the color is to your agreement,
+<lb />but if it is too high yellow, one needs
+</ab>
+
+<pb facs="#f016" />
+<ab>
+<lb />to put there into the gamboge, in the same
+<lb />soup, until it is good, and ~ 
+<lb />when the color is too pale yellow; one needs to 
+<lb />put more saffron soup there, and to make
+<lb />as I said above, as also with a little bit of 
+<lb />glue, For an escalin of gamboge, with
+<lb />for six liards of saffron, makes a beautiful 
+<lb />color, one needs to put also for two liards alum
+<lb />ground, and that well done, break up, and stir together, with water; ~
+<lb />&gt;For light yellow, one only needs to take 
+<lb />the gamboge, with fish
+<lb />glue; but if the yellow is for tracing, one
+<lb />needs to take some hide glue; because
+<lb />the carmine traces more easily 
+<lb />on cambric, with this sort of glue.
+<lb />Note, that gamboge, and saffron soup is beautiful together
+<lb />without alum also the same for gamboge +alone without alum inside, it is purer; 
+<lb />Note, all yellow colors, and yellowish,
+<lb />as also red colors of vermillion,
+<lb />when it is for tracing, one needs to always starch
+<lb />with hide glue, ~ ~ ~
+</ab>
+<ab>
+<lb />✹Carmine is mixed with a little rain,
+<lb />or fountain, water, then one needs to leave it
+<lb />to soak for one day, and one night, before
+<lb />using it to trace; carmine must be 
+<lb />broken up, or separated, in an oyster shell, or 
+<lb />else in a glass, very flat, with the amount of a
+</ab>
+
+<pb facs="#f017" />
+<ab>
+<lb />little spoon, better more than less, ~
+<lb />but when this water is almost all traced,
+<lb />one needs to pour into it several drops
+<lb />of water, and continue thus until such time that
+<lb />the carmine is all traced, each time
+<lb />that you plunge your paintbrush, in the carmine,
+<lb />one does not need to plunge it too far in, ~
+<lb />in order to not strongly move ~ the bottom;
+<lb />by ~ thus the carmine; will be more profitable for you. ~~~~
+<lb />For tracing violet, one needs to mix in 
+<lb />a little pot, or in an oyster shell,
+<lb />or else, in a flat glass, some English
+<lb />ashes, with four, or five, drops of clear
+<lb />gum, the blue being well mixed with the 
+<lb />gum, one needs to pour into it, in order to brighten the
+<lb />soup six, or eight drops of rain, or fountain,
+<lb />water, then one needs to let it soak 
+<lb />together, three, or four hours, then,
+<lb />you can trace your cambric, and likewise
+<lb />paper, as one paints the flowers,
+<lb />one needs to plunge the paintbrush in the dye
+<lb />stirring the bottom a little, in order that
+<lb />the blue, gives its dye; but when the 
+<lb />soup is almost all traced, and that in the
+</ab>
+
+<pb facs="#f018" />
+<ab>
+<lb />bottom the dye is not yet all ~
+<lb />used, one needs to put in it a few drops of water,
+<lb />with one drop of gum ~; but not
+<lb />each time that you put in water; but
+<lb />only when you see that the blue
+<lb />is not tracing well, for when this blue has too much
+<lb />gum it is in danger of shining, and it 
+<lb />spoils the harmony of blue; after the blue
+<lb />is traced, and very dry; on the traced
+<lb />cambric; one needs to trace there on top of the said blue a 
+<lb />light carmine. ~~~ for pinks,
+<lb />For dyeing pink color; one needs to
+<lb />take a quarter of safflower, which one
+<lb />puts in a little bag, of white cloth; 
+<lb />then one puts it to soak in a bucket 
+<lb />of rain, or fountain, water; immediately one
+<lb />washes the safflower a little, by changing its
+<lb />water two times, then leaves it to soak,
+<lb />from five thirty, at night, until
+<lb />five thirty, in the morning; one needs to
+<lb />take great care; that the little bag is good 
+<lb />and well tied; in order that the safflower does not leave it;
+<lb />next one needs to wash it, by
+<lb />changing the water; from time to time, and that without
+</ab>
+
+<pb facs="#f021" />
+<ab>
+<lb />wringing the little bag, but only pressing it,
+<lb />a little, with the hand, the water out from it; and when
+<lb />the water remains clear, it&apos;s a sign that the
+<lb />safflower is washed enough; the last time
+<lb />that you remove water from it, one needs to ~
+<lb />press it well, and wring the little bag in order that
+<lb />the water leaves from there entirely. but + + if you want one needs to
+<lb />keep the last rinse without moving it, all until the time that
+<lb />you have need of the first rinse for the pink color for which one
+<lb />needs to pour the clear water out, without moving the bottom, [the quantity] of a pint  +  + and more still and you throw
+<lb />this in the first rinse ~~
+<lb />Next one pulls it from the sack, and puts it
+<lb />in a large terrine, very clean; one needs to clear it well [from the little sac] in putting it ~
+<lb />in the terrine, then one breaks it up with the
+<lb />hand above, a little rain or fountain 
+<lb />water; next one pours right
+<lb />before the safflower, and this very gently, a 
+<lb />pint of lye; which one makes with ~
+<lb />ashes, which are made with vine wood;
+<lb />next cover it well, with a terrine of 
+<lb />the same size, [or] with some cover,
+<lb />in order that air does not enter there at all, leave it ~
+<lb />two hours like this; next one
+<lb />kneads it like one does bread, for the space
+<lb />of a quarter of an hour, then one needs to put it again in
+<lb />the little sac, to move it, into a
+</ab>
+
+<pb facs="#f022" />
+<ab>
+<lb />✠
+<lb />Note, before pouring the safflower into 
+<lb />the little sack, in order to wring it more easily,
+<lb />one needs to take in one hand a
+<lb />handful of safflower; and press it like that
+<lb />in the soup; next, being very well pressed,
+<lb />all of the soup [being] outside, one needs to continue like
+<lb />that, all until the time, that all of the safflower is
+<lb />pressed; next one needs to pour it immediately into 
+<lb />into the little sack, and press well all of
+<lb />the soup outside; next you make use of it immediately;
+<lb />Note, if you have a little too much lye, a
+<lb />pint and a half, more or less, according to the quantity
+<lb />of safflower; you can pour on the safflower
+</ab>
+
+<pb facs="#f023" />
+<ab>
+<lb />the soup that has been pressed outside of it, and 
+<lb />that into an earthenware pot also; next
+<lb />one needs to do with [this], as you have
+<lb />done at first; that sometimes gives
+<lb />color; after you have washed
+<lb />the cambric in this soup; one needs to 
+<lb />throw it, in the soup of the first color;
+<lb />but only, when all the
+<lb />first colors have been removed; likewise
+<lb />also, all of the rinse : ~~
+<lb />so well, that this color there, does
+<lb />not need to be rinsed until after all the
+<lb />other pink colors, also;~
+<lb />one needs to wash it well, in the rinse;~
+</ab>
+
+<pb facs="#f024" />
+<ab>
+<lb />___ il faut le partager entre fois, sans repeter, ou trois, entre et __,
+<lb />cela  __afin de tans mi sur prises ________
+<lb />very clean terrine, one needs to wring the
+<lb />sack, as hard as one can, in order that
+<lb />all of the soup leaves it. ~~~ ✠
+<lb />Next, one prepares, right away another
+<lb />terrine, with a pint of white wine vinegar,
+<lb />very clear, one plunges the cambric,
+<lb />piece by piece, in the said vinegar, until
+<lb />such time, that it is very wet, on needs to take
+<lb />the weight, of a quarter [of a pound], less, a 
+<lb />half ounce of cambric; all being ~
+<lb />very wet, one needs to take them immediately
+<lb />in the hand, in good order, without ~
+<lb />leaving a single piece behind; one needs to hurry when
+<lb />one does this, and the cambric must be ready
+<lb />in the vinegar, at the same time, as
+<lb />the soup has passed all through the little sack,
+<lb />but the person who had kneaded, and passed the
+<lb />safflower, needs to take care not to wet
+<lb />their hands in the vinegar, before the
+<lb />person who had wetted the cambric in the
+<lb />vinegar, he gives to him the mass, between the hands,
+<lb />Having received it, she plunges it immediately, all
+<lb />~ the cambric at the same time in the said soup;
+<lb />one needs to wash it well, and clear it, and
+</ab>
+
+<pb facs="#f025" />
+<ab>
+<lb />that with a light hand, as quickly as one
+<lb />can, until such time as the cambric is very
+<lb />red, and well penetrated in the dye, then
+<lb />one washes it piece, by piece, a little, and one ~
+<lb />presses it with the hand, as hard as one can, ~
+<lb />then one throws it in the verjus piece, by piece, one needs to 
+<lb />work it well, and plunge, then one needs to press the verjus outside. ~~
+<lb />Next one throws them in a terrine, prepared 
+<lb />with three pints of water, to rinse them, one piece
+<lb />at a time, one needs to work it well, but without
+<lb />rubbing, in any way, from there one takes it from
+<lb />this water, one needs to + a little press + the water outside, and one throws it
+<lb />in four, or three, other terrines in succession,
+<lb />prepared with two pints of water, in each
+<lb />terrine, ✠ when one is at the final water, one
+<lb />needs to press the water very hard out of the cambric, ~
+<lb /> next one puts it, and plunges in a half
+<lb />pint of verjus, more, or less, hauling it up
+<lb />so that one can see, the quantity of cambric, in
+<lb />pulling the cambric, piece, by piece, out of the verjus
+<lb />~ one presses it in the hand, not quite as strongly
+<lb />~ as before, next on puts it in a
+<lb />very clean terrine, and very dry, waiting
+<lb />for all the other pale colors to be
+<lb />dyed, to hang them, all together in
+<lb />the attic, with the windows closed, likewise all the other
+<lb />yellowish colors, etc.,
+<lb />This done, one washes again one piece ~
+<lb />of cambric, in the soup wetting it ~
+<lb />in the vinegar also, if there is any left, 
+<lb />✠but without pressing the water outside, except at the 
+<lb />last rinse;~
+</ab>
+
+<pb facs="#f026" />
+<ab>
+<lb />Note a half pint of verjus, more or less; ∞&amp;
+<lb />in hauling it up, so that one sees the quantity of cambric, is ~
+<lb />enough to plunge the cambric of the pink color;∞
+<lb />and if you have the soup of a lemon, or two, you∞
+<lb />can press the soup all out of it, into the verjus~
+<lb />also; ( but one needs to take care to never soak the 
+<lb />cambric in verjus after it is rinsed, for reason
+<lb />that this spoils the colors in little time; ( I believe =
+</ab>
+
+<pb facs="#f027" />
+<ab>
+<lb />that you understand well; when you make ∞
+<lb />a half pound of safflower; that you need ~
+<lb />to take two pints of lye, made with 
+<lb />vine ashes; and for three quarters [of a pound], three ∞
+<lb />pints; and for a pound, four pints, ◆
+<lb />note, when you do not have do not have any lemons; it is not
+<lb />necessary for you to use them, in any way; ~
+</ab>
+
+<pb facs="#f028" />
+<ab>
+<lb />for otherwise it is not necessary to put it
+<lb />in the vinegar, because the soup, is sour from the
+<lb />first cambric, then one washes again another 
+<lb />piece, if one sees that the soup is giving color
+<lb />still, then one does, as here before, this cambric
+<lb />must be kept from the elements, because the color
+<lb />is not so pure as the first, and it sticks
+<lb />to itself, ~~~  Note; when one wants
+<lb />to have very red cambrics, one needs to rinse them, only
+<lb />in three terrines of water ◆
+<lb />Note, one pound of safflower, for one 
+<lb />pound of cambric makes a beautiful color; but
+<lb />one ounce, or an ounce and a half less, makes a
+<lb />more beautiful color; and when one wants to have
+<lb />several red brown colors; one needs to divide
+<lb />the soup, in three parts; and take
+<lb />some cambric as you wish, one time
+<lb />a little more, and the other time a little 
+<lb />less; and hauling it up such that you see that the
+<lb />color is as one wants to have it, ~~~
+<lb /> that which follows is to make, several pale colors
+<lb />for pinks &amp;c. ~~ 
+<lb />After the first cambric is rinsed,
+<lb />one takes, two, or three pieces of cambric, or of ~
+<lb />muslin, all dry, and very white,
+<lb />without putting it in the vinegar; and one washes it
+<lb />all immediately in :+: :+:: the verjus, then one presses it outside, and one throws it in:+: the first rinse, one 
+<lb />washes it also + + a long time, that it becomes red, next one
+<lb />washes it strongly also, in the three other rinses, in
+</ab>
+
+<pb facs="#f029" />
+<ab>
+<lb />succession, to the last, one needs to 
+<lb />press the water outside well, from there one puts it in
+<lb />the verjus; next one takes again 
+<lb />another piece, and one does as the first,
+<lb />and one continues it [with] the other pieces of cambric ~
+<lb />Like that, until the time that the rinse, 
+<lb />gives no more colors, as appropriate and ~
+<lb />when one removes the cambric out of the verjus, one
+<lb />does not need to strongly press it in the hand;
+<lb />Note the last [point on] verjus: shortly after, [it] spoils the
+<lb />colors, this is why it is effaced [above]:
+<lb />Note, that all of the earthenware pots, must be 
+<lb />new, and very clean, next take
+<lb />care about this ,.~~~
+<lb />Note✠ ✠
+<lb />The cambric being quite dry, one plunges it
+<lb />into the fish glue. One needs not to
+<lb />take more glue than that the first
+<lb />colors should be well moistened; one does the same
+<lb />with pale colors as well. The cambric being
+<lb />quite dry, one polishes them with the hand, from
+<lb />both sides, and one folds them, each color inside
+<lb />a white paper. And when one wants to use
+<lb />them, one takes only one or two pieces of them at
+<lb />a time. ~~~~ Note: as I said before this,
+<lb />that the cords must be of
+<lb />horsehair in order to not attach, with the pins the cambrics
+<lb />to the cord.
+<lb />Note, the most favourable weather, for ~
+<lb />dyeing pink, and like [this] too ~
+<lb />all the other colors, even also for washing
+</ab>
+
+<pb facs="#f030" />
+<ab>
+<lb />and printing parchment, is the month of
+<lb />May, or just as well the start of the month of
+<lb />June, and like [this] too, the start of the month of + August and
+<lb />of September, also for making velum green,
+<lb />or otherwise said, parchment. ~~
+<lb />Way to wash the velum. One needs to
+<lb />put to soak in the evening, and the next day, one
+<lb />washes it, as one washes the laundry, piece by piece,
+<lb />in rain water or fountain water, entirely
+<lb />cold, without ever heating it. Nor
+<lb />for the soaking, because the velum or parchment,
+<lb />will become as easy to tear
+<lb />as paper in heating the water. One washes it
+<lb />in this way, twice a day, changing
+<lb />the water each time, and this thusly eight days in
+<lb />a row. But when the parchment is written [upon] with
+<lb />red letters, one needs to scrape the said letter. After ~
+<lb />having washed the parchment, two or three days, one
+<lb />takes it out of the water, and one spreads it out on a
+<lb />very smooth board, all wet like it is, one scrapes the
+<lb />red letters with the sharp edge of a pen-knife or a knife,
+<lb />grating [it]. One needs to hold one&apos;s hand very lightly, and
+<lb />turn the parchment on both sides. If there are ~
+<lb />red letters there too, one needs to scrape so well that one
+<lb />cannot see anything of the red, because the green doesn&apos;t have enough strength
+<lb />to cover the red, nor musical notes,
+<lb />as it is not appropriate for making green. . ~~~
+</ab>
+
+<pb facs="#f033" />
+<ab>
+<lb />After the parchment, is scraped one
+<lb />throws them into water immediately, next being well
+<lb />washed, and eight days have passed, if the water remains
+<lb />clear it is a sign that it is washed enough. ~~
+<lb />Next one takes it outside of the water, pressing it
+<lb />in the hand as much as one can, and one
+<lb />spreads it, well polished, on top of a piece of 
+<lb />coverlet; and one applies immediately on ~
+<lb />leaves from the garden, with the underside on top of the
+<lb />velum; this being done, one puts there a board on top
+<lb />of the same size as a board
+<lb />suitable for this work, next one puts there again
+<lb />another piece of coverlet on the said
+<lb />board, then some parchment, and some leaves,
+<lb />all as the first board, one continues this
+<lb />five, or six, boards one on the other, if
+<lb />one wants it, but at the last board one puts there
+<lb />on top very heavy weights, [for] the time of
+<lb />seven or eight days, ~~~
+<lb />Note when the parchment is removed from the
+<lb />pass, and it is not well printed
+<lb />everywhere, one wets with a piece of sponge
+<lb />the place that is not well printed, as
+<lb />closely as one can, but one needs to take care that
+<lb />the water does not run on the velum, next one
+</ab>
+
+<pb facs="#f034" />
+<ab>
+<lb />applies the flowers from the garden on top, and
+<lb />one does as here before, one does this 
+<lb />only, for one day, or two, after the parchment
+<lb />is outside of the pass, because the pieces
+<lb />of coverlet must be hung in the open air,
+<lb />when one does not have the convenience of having the
+<lb />pieces, one takes the whole entire coverlet,
+<lb />half-worn, better more worn than less; but
+<lb />when the coverlet is entirely worn, one
+<lb />folds it in two to make use of it. ~~
+<lb />In removing the parchment from the pass one
+<lb />needs to leave it to dry on the board, and
+<lb />next remove the leaves, ~~~
+<lb />Another way to dry the velum, after
+<lb />having washed it, without wanting to print it, one
+<lb />takes it out of the water, and one lays it flat immediately on
+<lb />the board, very clean. ~~~
+<lb />To make green, one needs to take a
+<lb />quarter [pound] of verdigris; it must be well ~
+<lb />ground, one puts it in the evening, in a cruet
+<lb />very clean, next put there a little water, and
+<lb />mix it like this very well, next put there again a little water
+<lb />such that the water does not overpower the verdigris
+<lb />at all, one leaves it to soak thus all
+<lb />night, the next day, one sprinkles on top
+</ab>
+
+<pb facs="#f035" />
+<ab>
+<lb />∞ one ounce of white tartar, well
+<lb />ground + + and for two liards ground alum next one pours very gently
+<lb />three pints of rain, or fountain, water
+<lb />in pouring the water on top of the green, one needs to 
+<lb />stir well with a little wooden palette knife,
+<lb />with a long handle
+<lb />+ that one makes for this end, from there, one puts it
+<lb />to boil and one continues to stir it, until
+<lb />such time that the green starts to boil, very
+<lb />strongly; one needs to always take care, to not ~
+<lb />trap the vapor of the fumes that escape
+<lb />from the green; because it is venom; one 
+<lb />leaves it to boil + + stirring always until such time as it is reduced
+<lb />roughly by half; next ~
+<lb />one leaves it to cool, then one passes
+<lb />it through a very white cloth; like
+<lb />one does cheese, pouring one needs to
+<lb />take care not to move the bottom, but
+<lb />when the bright green is all poured [out], and 
+<lb />bottled in a bottle, with three or four
+<lb />spoons reserved, more or less
+<lb />that one leaves in the cruet, to stir
+<lb />with the bottom, being well stirred, one 
+<lb />passes it also through the same cloth, in a
+<lb />dish all by itself, this green is useful for greening
+<lb />the stems of flowers.
+<lb />Note, the earthenware cruet,
+<lb />can never be used for another thing, _
+<lb />it is necessary that it be new; and kept for
+<lb />that [use]
+</ab>
+
+<pb facs="#f036" />
+<ab>
+<lb />Way to green the stems of flowers,
+<lb />one puts in a dish, a good spoon
+<lb />of little white, like the painter +uses, for the firstcolor + that one mixes with
+<lb />clear/white gum, for this end, one ~
+<lb />puts it to soak five or six days in advance, a
+<lb />large handful of gum, as much as one can hold in one hand, better more, than less;
+<lb />before mixing the little white one passes
+<lb />the gum, through a very white cloth, like
+<lb />I said for the green, next one mixes with,
+<lb />two, or three spoons, of very white gamboge,
+<lb />then one pours the green on top, and the
+<lb />rest of the gum also, but when the thick
+<lb />green, is not sufficient, to green well, one
+<lb />pours some green from the bottle; until such time
+<lb />that the whole is just as you wish, next
+<lb />one leaves it to become thick like pap,
+<lb />stirring it two, or three times, each day,
+<lb />this having been done; one applies it on the stems
+<lb />of flowers, with a paintbrush, the stems being
+<lb />dry, if they are not even, one paints them
+<lb />with the paintbrush, once more, and that
+<lb />several times, if there is need. but once is best;
+<lb />and if the stems do not shine
+<lb />enough at all to your
+<lb />wishes one needs to pass over with the paintbrush of egg white, well beaten; ~~~
+<lb />One does the same way, for the stems of
+<lb />carnations, and that without using gamboge,
+</ab>
+
+<pb facs="#f037" />
+<ab>
+<lb />otherwise only five, or six drops, one needs to
+<lb />always watch, to not ever pour yellow
+<lb />over green, but aptly green over yellow. ~
+<lb />Way to dye velum, or parchment,
+<lb />for carnations, one puts in a little dish,
+<lb />five, or six drops of gamboge, very clear,
+<lb />like for stems, of the said flowers, next
+<lb />one pours on top while stirring, the green from the
+<lb />bottle, half, or the three parts of a
+<lb />dish, that done, one takes a little piece
+<lb />of sponge, one wets the end of it in this soup,
+<lb />and one passes it over the velum, rather
+<lb />thinly, then one leaves it to dry, next one
+<lb />greens it again once more, and that, three, or four
+<lb />times, in succession, that done, and being
+<lb />very dry, one turns it on its other side,
+<lb />and one does the same thing, if one sees after
+<lb />that, that the velum, is green enough, one leaves it
+<lb />to dry again well, next one plunges a
+<lb />piece of sponge, very clean, in some egg
+<lb />white, well beaten, and one passes over the velum
+<lb />rather thinly also, but one needs to do one&apos;s [best as]
+<lb />possible, that the velum, is everywhere, very
+<lb />wet, being well dried, one turns it
+<lb />to its other side, and one does the same, it
+</ab>
+
+<pb facs="#f038" />
+<ab>
+<lb />is enough, to do that one time, on each
+<lb />side.
+<lb />note, that one needs, to green, the parchment,
+<lb />and the paper, five, or 6. times, on each side, to be good
+<lb />Way, to green velum, or parchment,
+<lb />for rose leaves, les alimons, ranunculus,
+<lb />and other flowers, one does as I said, here
+<lb />before, but in place of five, or six drops,
+<lb />of gamboge, one takes the amount of two
+<lb />little spoons of the said gamboge, more, or less,
+<lb />hauling up as much as one wants to have the yellow-green,
+<lb />but the yellow must be very bright.
+<lb />green paper is made in the same way also,
+<lb />Green paper, again is made, in this
+<lb />way, one takes cauliflower leaves,
+<lb />one removes the ribs, from there one pounds them in
+<lb />a mortar, then one puts them in a little
+<lb />sac, next, one puts the said sac, in
+<lb />a press, with a saucer beneath to ~
+<lb />receive the soup, but if one does not have a press,
+<lb />one wrings the little cloth sack with the hands,
+<lb />as + + hard as one can, one takes a pint
+<lb />of this soup, and one stirs in the said
+<lb />soup a half quarter [of a pound], of verdigris
+<lb />well pestled; and if one wants, after the green ~
+<lb />is well ground, one passes it again through a
+</ab>
+
+<pb facs="#f039" />
+<ab>
+<lb />sieve, this being done, before putting it into the
+<lb />soup; the verdigris, being well mixed ~
+<lb />and stirred in the said soup one puts it three
+<lb />or four hours in the sun, next ~
+<lb />one takes a little piece of sponge, and one ~
+<lb />greens the paper in the same way, as
+<lb />the preceding green. one needs to move the bottom, from time,
+<lb />note: if there is no sun, one skips this step; to time. ~
+<lb />Red paper is made in the same way
+<lb />also, one takes clear gum, with a
+<lb />little + half packet of vermillion, that one mixes well
+<lb />together, the vermillion being well mixed, one
+<lb />pours once more a little half spoon, of the
+<lb />said gum, with two or three spoonfuls of water,
+<lb />one needs to stir the whole together well, next
+<lb />one leaves it like that, two, or three hours
+<lb />more, or less, before using it, ✠ then
+<lb />one reddens the paper with it, one needs to move the
+<lb />bottom, before reddening, and the second time that
+<lb />one reddens the paper, one needs to pass the sponge
+<lb />very lightly, and do one&apos;s [best] possible in order that
+<lb />the paper will be beautiful red enough, being reddened
+<lb />twice on each side,. one passes over it also,
+<lb />twice on each side, egg white, very 
+<lb />lightly ; But for green paper ; and yellow, etc.
+<lb />It suffices to pass over, with the egg ~
+<lb />white, on each side, once. ~~~
+</ab>
+
+<pb facs="#f040" />
+<ab>
+<lb />Note, red paper, is made again,
+<lb />in this way; one takes a packet of
+<lb />vermillion, or the amount of a mussel
+<lb />shell,; with two mussel shells, of
+<lb />minium, this is a coarse red dyestuff;
+<lb />that is why, one needs to rub it well
+<lb />on the marble; before mixing it
+<lb />with the vermillion; after that one needs to take
+<lb />clear gum, and vermillion, and 
+<lb />minium, being mixed together in a dish, one
+<lb />needs to pour a little of this clear gum
+<lb />on top, and one mixes well together the two
+<lb />dyes with a little stick, the dye being
+<lb />well mixed; one needs to pour in the dye a
+<lb />half glass of water, one needs to stir it all well
+<lb />together; and after one needs to take a =
+<lb />note without gum, water only [suffices] for 
+<lb />making paper
+</ab>
+
+<pb facs="#f041" />
+<ab>
+<lb />little piece of sponge, and redden the paper with [it];
+<lb />one needs to do your [best] possible, in order that the paper
+<lb />becomes beautiful red enough, being reddened two times,
+<lb />on each side; one passes over it also, being
+<lb />dry, with a little piece of sponge the egg
+<lb />white; very lightly, two times on each
+<lb />size; the egg white, must be well beaten, before
+<lb />you use it; and that generally for all
+<lb />the colors, that you make with [it]; ~~
+<lb />Note when you see, that the dye becomes
+<lb />too thick, one needs to pour a little water on top;
+<lb />and do like that from time, to time; if you
+<lb />find it necessary; one needs to do that also
+<lb />with paper made with vermillion alone;
+<lb />Note at this ✠ that which is written in the nine
+<lb />first lines, to make paper red with 
+<lb />vermillion; that is for painting flowers on
+<lb />paper, and that without using egg white; but
+<lb />for making paper red with vermillion alone;
+<lb />one needs to do all as it is [described,] mixed, with minium◆
+</ab>
+
+<pb facs="#f042" />
+<ab>
+<lb />For making paper yellow, one takes the
+<lb />size of two, or three big nuts, of
+<lb />gamboge that one puts to soak in a little
+<lb />pot with fountain, or rain, water ~
+<lb />and that [is] the quantity for covering in yellow
+<lb />well, and a bit on top [of that]; one puts there also
+<lb />to soak for five, or six liards, of saffron,
+<lb />whole, without being pestled, being well soaked
+<lb />one could boil it if one wanted, next
+<lb />one pours a little of this soup, in the
+<lb />gamboge, which one mixes well together; from there
+<lb />one yellows the paper, but if one sees that the ~
+<lb />paper is not beautiful, or high yellow enough, one ~
+<lb />there pours again some saffron soup, until such
+<lb />time as, that the whole is to your liking, but
+<lb />when the soup is too thick, one needs to put there
+<lb />a little more water, the paper yellowed two
+<lb />times, on each side, when the colors are good;
+<lb />makes a very beautiful paper,
+<lb />and even once also; ~
+<lb />note that the egg white must
+<lb />be well beaten before
+<lb />you use it; ~
+<lb />Way for accommodating dye, for 
+<lb />painting flowers on paper, gamboge ~
+<lb />mixes itself, and one puts it to soak in the same
+<lb />way, as I said here before, but instead of
+<lb />taking so large a quantity of gamboge, one
+<lb />only puts to soak the size of one + big nut; and
+<lb />water. In hauling it out; next one traces with the
+<lb />paintbrush, without the use of saffron. ~
+</ab>
+
+<pb facs="#f045" />
+<ab>
+<lb />Vermillion is mixed, with clear
+<lb />gum, being well mixed, one pours on top a
+<lb />little bit of water, and some drops of gum ~
+<lb />then on leaves it, two, or three hours, like that,
+<lb />next one paints, with the paintbrush, on paper,
+<lb />but when the vermillion becomes too thick, one needs
+<lb />always to thin it with a little water, and some ~
+<lb />clear gum. ~~~
+<lb />Carmine is mixed, as I have said here before,
+<lb />on the fourth folio, at the beginning of this
+<lb />book, at this mark * one returns the folio,
+<lb />and one sees the way, to mix the blue that
+<lb />one calls the ashes of England, this dye is used,
+<lb />for painting blue flowers, and violet also,
+<lb />for that, it is sufficient to pass the red paintbrush, over the blue flower
+<lb />For accommodating the green, for painting leaves
+<lb />and stems of flowers on paper, or parchment,
+<lb />one takes some prepared verdigris, the
+<lb />amount of one half ounce, more, or less, 
+<lb />hauling it up  such that  one wants much, or less to trace, one
+<lb />puts it to soak in a little, pot, with a
+<lb />little vinegar, it suffices when the vinegar,
+<lb />is a little on top of the green, next one ~
+<lb />leaves it to soak for one day, and one night, from there
+<lb />one uses it with the paintbrush, plunging it
+<lb />each time, a little in the thickness of the dye,
+<lb />when the dye becomes too thick, one needs there
+</ab>
+
+<pb facs="#f046" />
+<ab>
+<lb />Note when you don&apos;t want to buy the green
+<lb />at the painter&apos;s; ~ ✠ ✠ ✠ .. to this line, read
+<lb />Behold the way that one needs to prepare it;
+<lb />one needs to take a half quarter [of a pound]; or an ounce,
+<lb />of verdigris, it must be well pounded, then
+<lb />pass it through a thick little sieve; then one needs to rub it,
+<lb />with some clear gum, and a few drops of vinegar;
+<lb />on top of a marble slab, or of sandstone; being rubbed
+<lb />enough; one needs to put it in a little pot, and thin
+<lb />it with some vinegar; and from time, to time, stretch it
+<lb />always like that; putting in some times some
+<lb />drops of gum, without ever putting water in it;
+<lb />because vinegar is the best
+<lb />after that you use it with the paintbrush, for tracing
+<lb />on paper, etc. ~~~
+<lb />But when you want to have the green a little more
+<lb />brown, one needs to put there a little more of the gum; ~
+</ab>
+
+<pb facs="#f047" />
+<ab>
+<lb />Note, again another way, for the same red;
+<lb />✠ Take for one patard of brazil wood, and for
+<lb />two liards alum, with two pints of old beer, the older,
+<lb />is the best; leave that to boil together, until [reduced by]
+<lb />half; next one passes the soup through a clear
+<lb />linen cloth, and one pours it into a bottle; and when
+<lb />one wants to use it, and paint with it; one pours
+<lb />of this red dye, into a mussel shell, or
+<lb />just as well into an oyster shell, and leave it like that
+<lb />5. or 6. hours. and if you can put it several
+<lb />hours in the sun, the dye will be ready sooner to 
+<lb />use, provided that the sun is not too ardent;
+<lb />for the dye would be in little time, too diminished, and
+<lb />dry in the shell; after that, one needs to pour off the clear [liquid] into
+<lb />another shell very clean also, and some hours later,
+<lb />again pour it into another shell; one needs to continue
+<lb />like this, two or three times, if there is need; for when the
+<lb />dye becomes a little thick, this marks [the point that] it is good for tracing
+<lb />on cambric, and on paper; you can test with the
+<lb />paintbrush if the color is good, for your use; Note,
+<lb />In the same way also one readies, or prepares the color
+<lb />violet; but instead of brazil wood; one needs to take some
+<lb />logwood; Note that one needs for it to be good beer, without
+<lb />being mixed, when it will be ten. and 20. years old) One makes
+<lb />red paper of this also, with the two reds, and some violet also ~~
+</ab>
+
+<pb facs="#f048" />
+<ab>
+<lb />to pour a little vinegar, and sometimes
+<lb />also a little water, instead of vinegar, but
+<lb />the first time, one needs to always put to soak
+<lb />with the vinegar, and five, or six drops, 
+<lb />of clear gum, one buys the verdigris
+<lb />prepared, at the painter&apos;s, saying that the
+<lb />said green, is for painting on paper, such that it
+<lb />does not have to be prepared, with oil; ~
+<lb />✠ ✠ ✠ ..
+<lb />Another way again, to make 
+<lb />red for painting, on paper, one ~
+<lb />takes a quarter [of a pound] of brazil wood, with
+<lb />two pintes of vinegar, and a half quarter
+<lb />[of a pound] of alum, one leaves it to boil like that, until
+<lb />[reduced by] half, next, one passes the soup through a
+<lb />linen cloth, and one pours it, into a bottle,
+<lb />this lasts for three years, well, for your
+<lb />use, ~~~~~~ read to this ✠
+<lb />But when one wants, to paint with the
+<lb />said red, one pours of this red, into a
+<lb />mussel shell, or just as well, into an oyster
+<lb />shell, one needs to put it in the sun
+<lb />for the space of seven, or eight hours, next
+<lb />one pours off the clear [liquid] into another ~
+<lb />shell, very clean also; and the next day
+</ab>
+
+<pb facs="#f049" />
+<ab>
+<lb />one pours it again into another, if
+<lb />there is need, but when the sun
+<lb />does not shine, one puts the shell on a
+<lb />chafing dish very tepid, and next one does as
+<lb />here before, then one plunges the paintbrush into
+<lb />the dye, and one traces on the paper
+<lb />with [it], for seeing if the color is good,
+<lb />but, if one sees, that the color is not
+<lb />good yet, and a little thick, one needs to
+<lb />wait one day longer to use it,
+<lb />next one does one&apos;s best to
+<lb />use this dye in a day, or two,
+<lb />because it becomes too thick to 
+<lb />use, so much that one is obligated, to
+<lb />pour into it two, or three drops of water, and that
+<lb />is why the dye traced upon
+<lb />the paper, passes very easily, and
+<lb />also does not last too long, ~~
+<lb />In the same way also, one
+<lb />readies the color violet, but instead
+<lb />of brazil wood, one needs to take,
+<lb />logwood. ~~~
+<lb />The way for melting silk gum, as
+<lb />here before; return four folios; ~~~
+</ab>
+
+<pb facs="#f050" />
+<ab>
+<lb />Way of dyeing silk, of damask + and
+<lb />satin, if the white silk, is not
+<lb />well cleaned, and very soiled, or with
+<lb />stains, one needs to wash it with cold
+<lb />rain water, and some white soap, or
+<lb />just as well with soap, as one washes the
+<lb />linens + + but the white soap is better next one rinses it, and one
+<lb />dries it; next, being dry, if this [is] for staying
+<lb />white, one mixes in the silk gum, a little
+<lb />pale blue starch, one needs to make the rest as follows ◆
+<lb />Red dye, and violet, for silk,
+<lb />is boiled, as I said here before, one needs to
+<lb />put the silk inside, and leave it to boil well,
+<lb />from there one takes the silk, out of the soup
+<lb />with a stick, one opens it up and one hangs it
+<lb />on cords, being dry, one washes the
+<lb />said silk in a soapy wash of white soap,
+<lb />for brightening it, being washed, one
+<lb />rinses it in rain water, and one
+<lb />hangs it on cord, ✠ being dry: one
+<lb />applies it, on a board, next
+<lb />~one dries it, from there one irons it
+<lb />as one does the linens,. Note
+<lb />this ✠ mark three lines above,
+<lb />✠ being dry: one needs to starch it with
+</ab>
+
+<pb facs="#f051" />
+<ab>
+<lb />silk gum, being well gummed,
+<lb />one applies it on a board, one [has] the
+<lb />task of polishing it also as evenly as one
+<lb />can, next one hangs it on cords, being
+<lb />quasi dry, one irons it with an
+<lb />iron as one irons the linens. ~~
+<lb />Note, if one does not want, to have the ~
+<lb />silk so red brown, instead of vinegar
+<lb />one needs to make the dye boil with
+<lb />some rain water, + + but two pints of old beer is better still; the silk being well~
+<lb />boiled, one takes it out of the dye, and one
+<lb />hangs it on cord; after that, one can soak it again in the soup;
+<lb />and throws it, bing dry, in the soapy wash, it ~
+<lb />must be cold, without ever warming it,
+<lb />but if all the colors are good, to one&apos;s liking, one must not 
+<lb />wash it at all, in any way.... ~~~~~
+<lb />Like [this] also for washing all sorts
+<lb />of taffeta, the water should never be hot,
+<lb />one washes all sorts of colors, as
+<lb />one washes white taffeta, one needs to
+<lb />leave [it] to soak for one day, and one night, being
+<lb />very well soaped, before washing it, then
+<lb />one washes it also as clean as one can,
+<lb />and one does as the white taffeta, but without blue in the
+<lb />silk gum; ~
+<lb />Violet silk, is made in the same
+</ab>
+
+<pb facs="#f052" />
+<ab>
+<lb />Note jonquil cloth, and other paler yellow
+<lb />colors; are made as one makes with silk, or
+<lb />taffeta, and white satin; being clean and tidy,
+<lb />and well dried as well; one needs to put to soak in the
+<lb />dye, etc. but when it is boiled enough, and that the color
+<lb />is good; one needs to take [it] out of the dye, and and press
+<lb />the dye out well; next if you like, or if you find it
+<lb />good, after having tested plunging a few pieces in the
+<lb />verjus, and by that, that the color is more agreeable, to your
+<lb />liking +  but it is not lasting with the verjus, it changes colors + put also piece, by piece, opening it up well
+<lb />in the verjus, all the rest of the cambric, muslin,
+<lb />and cloth that you have boiled in the dye; after
+<lb />that; after having pressed it, and opened two or three times, in
+<lb />the verjus, as one does the pink colors, one needs to
+<lb />press out the verjus well; immediately next, one needs
+</ab>
+
+<pb facs="#f053" />
+<ab>
+<lb />throw it in the soapy wash of white soap; next one
+<lb />washes it as clear, as one sees to be enough, then one 
+<lb />needs to rinse it, in two rain waters, at the last
+<lb />one needs to press the water out well; from there, dry it; and
+<lb />being dry; one needs to plunge it well, and stiffen it in
+<lb />hide glue; after that one needs to hang it in the attic
+<lb />on a horsehair cord, and that as evenly as you can
+<lb />one needs to take good care that the end, and the rest does not stick
+<lb />together, for when it is dry, you would have to
+<lb />tear it to detach one from the other; one does not need to
+<lb />press the hide glue strongly out of your cambric etc. but 
+<lb />leave it a little well wet; one needs to do the same with all
+<lb />the colors you make with [it]; the same also with fish
+<lb />glue; Note, when you would like to have a more
+<lb />heightened color still, than the jonquil color, instead of leaving it to soak
+<lb />for half an hour; one needs to leave it to soak three quarters of an hour, and one needs
+<lb />to leave it to boil a longer time also; but if this is for making flowers;
+<lb />gamboge, and saffron, is better still; as here above;
+</ab>
+
+<pb facs="#f054" />
+<ab>
+<lb />way also, as one dyes red silk,
+<lb />but instead of brazil wood,
+<lb />one takes logwood~~
+<lb />Note, that beer, cannot be too old, when it is twelve, and
+<lb />20. years old; and it is much better, than vinegar, and rain water;~
+<lb />Way for jonquil silk, and cloth,
+<lb />one needs to take a half quarter [of a pound]
+<lb />of baker&apos;s chamomile + + and for three liards of pounded alum that one makes boil
+<lb />with two pints of rain water; one puts
+<lb />the silk to soak + + in the dye round-about a half quarter
+<lb />of an hour, next one makes it boil together,
+<lb />being a little boiled; one takes the
+<lb />silk, or cloth out of the dye; + + for seeing if it is good one
+<lb />presses it with the hands, and one throws it into
+<lb />a soapy wash of white soap + if it is good; in-following one
+<lb />washes it, as clear, as one sees to be enough,
+<lb />then one needs to rinse it with rain
+<lb />water, and press the water out well, from there one
+<lb />needs to + + make it dry, and after that stiffen it, with silk gum, well
+<lb />soaked, and strongly thick, next one applies it
+<lb />on a board, as evenly as one can,
+<lb />one on top of the other, from there one hangs it on a cord,
+<lb />being dry, one irons it as one
+<lb />does linens., ∞ Note, for making flowers
+<lb />of cambric, one needs
+<lb />never to iron anything, with the iron;
+<lb />Way for having a paler yellow,
+<lb />it suffices to put the silk, in the dye
+</ab>
+
+<pb facs="#f057" />
+<ab>
+<lb />to soak a little, after that one needs to make it boil, and
+<lb />when the dye starts to boil;
+<lb />being a little boiled, one takes it out
+<lb />of the dye, and one does as I 
+<lb />said here before, about brown yellow, jonquil ~~~
+<lb />Cloth that one dyes yellow like
+<lb />silk, at the last rinse, after having
+<lb />pressed the water out well, one can put them in
+<lb />verjus, if one wants, and if one sees that
+<lb />the color is more beautiful to one&apos;s liking, also
+<lb />the verjus, one can continue that, each
+<lb />time that one dyes, but if one sees that the
+<lb />color is not more beautiful with the verjus, it
+<lb />is not necessary to use it, because the
+<lb />cambric is in peril of sticking to itself [of staining itself??], and of
+<lb />changing color, next one dries
+<lb />it, being dry, one stiffens it with 
+<lb />fish glue, and just as well with
+<lb />hide glue, if it is for making flowers;
+<lb />being dry, one irons it with the hands
+<lb />only; if not, one needs to iron it like
+<lb />silk. ~~~
+<lb />Cloth that one dyes yellow like silk; being
+<lb />soaked a half hour, or three quarters of an hour; being well boiled,
+<lb />and the color to your liking; one needs to press the dye out well,
+<lb />next one needs to open it up well, and plunge it into the verjus, if
+<lb />you find it good; then press the verjus out well, and
+<lb />throw it also into the soapy wash of white soap; being well
+<lb />washed to your liking, one needs to rinse it in two, or three,
+<lb />other rain, or fountain, waters, at the last, one
+<lb />needs to press out the water well; then one hangs it in the attic
+<lb />with the window closed; being dry; one plunges them,
+<lb />and stiffens [them] in the hide glue; but one does not need
+<lb />to press the glue, as strongly as the water; but the cambric etc.
+<lb />must be a little well wet; as I said here before,
+<lb />then one hangs it again once more in the attic, with the
+<lb />window closed, all as one did with all the other
+<lb />colors; being dry; if it is for making flowers, one 
+<lb />needs to polish it with the hands only; then fold
+<lb />them, and put them in a paper; one needs to do
+<lb />like that also, with all the colors that you make,
+<lb />for making flowers; B when it is not for making
+<lb />flowers with, one needs always to iron it all with
+<lb />an iron as one irons linens; ~
+<lb />Red cloth, and violet, is made as
+<lb />red silk, and violet, but instead of
+<lb />vinegar, one can take rain water
+</ab>
+
+<pb facs="#f058" />
+<ab>
+<lb />if one finds it good, for otherwise
+<lb />vinegar is good also, one needs to stiffen it
+<lb />and do in all things, as yellow cloth.
+<lb />this sort of cloth, is not good for
+<lb />making flowers. ~~~ 
+<lb />the old beer, is better still,
+<lb />when it is 8. and 20. years old;
+<lb />but it must be good beer, it must not be small beer;
+<lb />W for making fish glue
+<lb />one needs to take a half quarter [of a pound]
+<lb />of fish glue, one needs to beat it well
+<lb />with a hammer, being well cleared away
+<lb />one cuts it, into little pieces, next
+<lb />one takes three pints of rain, or fountain, water,
+<lb />better less, than more; from there
+<lb />one puts it to soak for one day, after that :+:
+<lb />:+: one puts it to boil in a pot or just as well
+<lb />in an earthenware cruet very tidy, and ~
+<lb />new without having been used for another thing,
+<lb />one needs to stir it strongly often, in order
+<lb />that the glue doesn&apos;t burn at the bottom du
+<lb />of the pot, one needs to leave it to boil, until
+<lb />the time, that the water is diminished by around
+<lb />half, one takes a few drops
+<lb />balling it with he fingers, for seeing, if the
+<lb />soup, is thick enough, if it attaches
+<lb />to the fingers, next one takes it off the fire, and
+<lb />one passes it immediately through a linen cloth, into
+</ab>
+
+<pb facs="#f059" />
+<ab>
+<lb />another terrine, when the glue ~
+<lb />becomes congealed, one needs always to uncongeal it
+<lb />over a chafing dish, before stiffening the
+<lb />cambric with [it], one needs to do the same
+<lb />also, with hide glue, ~~
+<lb />Way for making hide ~
+<lb />glue, one needs to take a half pound
+<lb />of white leather, as one cuts lanyards,
+<lb />the little pieces which fall from it
+<lb />only, ) when one goes to buy it, one
+<lb />needs to always explain, that it is for ~
+<lb />making hide glue with, and
+<lb />qu&apos;but one needs to avoid taking the ~
+<lb />little pieces of red leather, or just as well yellow,
+<lb />or blue, because that spoils the glue, to stiffen
+<lb />cambric for making flowers; one needs
+<lb />to wash the leather, as clean as one can,
+<lb />next one needs to take it out of the water,
+<lb />and press the water out, next one takes two + + or three
+<lb />pints of water + + rather more than less + in an earthenware pot, from there
+<lb />one puts the leather immediately in the said water,
+<lb />next one + + puts it on a chafing dish + + or foot stove
+</ab>
+
+<pb facs="#f060" />
+<ab>
+<lb />Note at this mark ) the little pieces that fall from shoes,
+<lb />white, and from the white linings of shoes; all these little pieces
+<lb />there, are very good for that also; but one needs to put the leather to soak
+<lb />for one day; before washing it; Note when the glue is made, and that
+<lb />the leather is pressed a little out of the glue; you can the leather
+<lb />once more into the same earthenware pot, with three [illeg.] ∞
+<lb />[illeg.] ~o~ pints of water; rather [illeg.]less, than [illeg.]more; one needs to let it draw [itself out]; 
+<lb />all like the first glue; one needs to put it over the fire; but
+<lb />without ever boiling, from the morning, all the way until the next
+<lb />morning; one needs do the same also, with the first glue =
+</ab>
+
+<pb facs="#f061" />
+<ab>
+<lb />after that; one needs to pass it through a linen cloth also, and
+<lb />mix it with the first glue; next one needs to stiffen, and
+<lb />make colors with [it], as you wish to do; But
+<lb />before passing either one through the linen cloth, one needs to leave it
+<lb />to cool, to see if it is congealed enough, such that one could
+<lb />cut it with a knife; if that is not [the case], one needs to again
+<lb />leave it to draw [itself out] over the fire; all until such time that it is good; but the 2.nd 
+<lb />glue is not ordinarily as strong, as the first, that is why,
+<lb />one needs to mix them together; But when you have need of a greater
+<lb />quantity, instead of a half pound; one needs to take a pound of leather,
+<lb />and more still if there is need; and one needs to take water by hauling it out;
+<lb />one needs to do the same, with fish glue also; ~
+</ab>
+
+<pb facs="#f062" />
+<ab>
+<lb />one needs to take care to note let it boil,
+<lb />next, one leaves it to draw [itself out], like that on
+<lb />the chafing dish + + or foot stove until such time that the soup becomes
+<lb />thick, and that it sticks to the finger, and that it is
+<lb />congealed, that done, one puts it to heat, to
+<lb />de-congeal it, then, one takes the leather out of the
+<lb />soup, fo press it with the hands, until such
+<lb />time that the soup is a little outside of [the leather], next
+<lb />one passes the said soup through a linen cloth, and
+<lb />one stiffens the cambric with [it], one needs to
+<lb />maintain always the temperature, in order that the
+<lb />cambric, and the glue do not congeal
+<lb />in the hands at all, one needs to plunge only two
+<lb />or three pieces at a time, and hang them immediately,
+<lb />to avoid this inconvenience, the cambric being
+<lb />dry, if one sees that it is too stiff to
+<lb />use, before plunging other pieces
+<lb />of cambric, one needs to pour into the glue
+<lb />three or four, spoons of water, more or less
+<lb />according to the quantity of glue that one sees,
+<lb />but the best is, not to put water in the glue, since the stuffs,
+<lb />or cambric becomes [too] pliable after . . . 
+<lb />Note, that one must never pour water,
+<lb />into fish glue, ~~~~
+<lb />I misspoke, here above, as you can see; ~~~
+<lb />Way for undyeing pink color
+</ab>
+
+<pb facs="#f063" />
+<ab>
+<lb />when it is spoiled, one needs to boil it
+<lb />with lye made from vine ash,
+<lb />the lye must be strongly clear,
+<lb />next one puts the cambric inside, and one
+<lb />makes it boil, until such time as the cambric
+<lb />is well white, next one takes it from the fire
+<lb />all boiling, immediately one takes a stick,
+<lb />and one removes the cambric, one needs to throw them ~
+<lb />immediately into a bucket of rain or fountain water,
+<lb />being rinsed, one throws it again
+<lb />into another bucket of water, from there one ~
+<lb />puts it to whiten one day, and one night, next
+<lb />one rinses it, lightly with the hand without rubbing,
+<lb />the other rinses must be made in the same
+<lb />way also, next one needs to dry it,
+<lb />and when one makes the lye one ~
+<lb />needs to tie it up it a little, and put it
+<lb />to boil, and whiten, with the fine linens, being
+<lb />dry, this cambric can be used for dyeing
+<lb />all sorts of colors, but for dyeing
+<lb />pink one needs to always choose the
+<lb />whitest cambric that one has,
+<lb />Blue color, dyed with moss/lichen?, is
+<lb />undyed in the same way also, as
+</ab>
+
+<pb facs="#f064" />
+<ab>
+<lb />well as jonquil colors, and yellow, dyed
+<lb />with baker&apos;s chamomile. ~~~
+<lb />But jonquil cambric, and yellow dyed
+<lb />with gamboge do not undye, but
+<lb />when it is spoiled, or just as well not beautiful
+<lb />enough to use, one can dye it
+<lb />red, with vermillion, and fish
+<lb />glue, or with hide glue.
+<lb />return here above to the 3. folio, at the beginning.
+<lb />Blue dyed with brown, and
+<lb />pale starch blue, cambric is undyed
+<lb />with very hot water, the amount of a
+<lb />pint, one needs to change it in three or
+<lb />four hot waters, and one rinses it one
+<lb />time in cold water, next one pours
+<lb />all the water together stirring them ~
+<lb />vigorously while pouring, in order that the blue will be ~
+<lb />all amassed in one water, next one ~
+<lb />leaves this water one hour, or two, without
+<lb />moving it, in order that the blue is all fallen ~
+<lb />to the bottom, then one pours the water all
+<lb />gently taking care to [not] move the bottom, but
+<lb />at the end, when one sees that the blue
+<lb />comes with the water, before throwing it all away
+</ab>
+
+<pb facs="#f065" />
+<ab>
+<lb />one needs to leave it to fall again to the
+<lb />bottom, from there to throw all the water away; this
+<lb />blue can be used again, as before;
+<lb />Note that one never undyes this blue
+<lb />cambric unless one sees that the cambric
+<lb />is too thick to use, because the color
+<lb />is always good, this is why one needs
+<lb />always to take fine cambric, the ~
+<lb />first time, because the blue fattens
+<lb />the stuffs, but when one is forced to
+<lb />undye it, one needs to undy the pale blue
+<lb />alone, and the brown blue alone, in order to
+<lb />make use again of these blues like the
+<lb />first time. ~~~
+<lb />Way for making vine ashes
+<lb />when one cuts the vine one needs to
+<lb />gather up all of the cut wood. One needs to put it
+<lb />to burn in a chimney, or in an oven,
+<lb />very tidy, without wood, and without ashes of
+<lb />other sorts of wood, the vine wood being ~
+<lb />all burnt, one needs to take all the fire, and ~
+<lb />ashes, in a nasty pot, that is worth
+</ab>
+
+<pb facs="#f066" />
+<ab>
+<lb />nothing, to be used for another thing, next
+<lb />one needs to keep stoking it, from time,
+<lb />to time, until such time, that the whole, is consumed
+<lb />into ash. ~~~
+<lb />Way for making lye of ~
+<lb />vine ash, one needs to take three
+<lb />double handfuls of ash, with
+<lb />seven or eight pints of rain, or fountain,
+<lb />water, one needs to leave it to boil, until
+<lb />[it reduces to] four, or five pints, all the more,
+<lb />if one boils them in a marmite + + well covered, one must,
+<lb />as soon as the marmite is removed from the fire,
+<lb />pour it into an earthenware pot, very
+<lb />tidy, and having been used for anything else,
+<lb />other than for dyeing pink, one needs
+<lb />to leave the ashes at the bottom of the marmite,
+<lb />as much as one can, next the next day,
+<lb />one needs to pass the lye through a
+<lb />linen cloth, into another pot, pouring
+<lb />it all gently, without moving the ash,
+<lb />which are at the bottom of the pot, from there, one
+<lb />can use it, for all that one 
+<lb />wants to make, with the said lye. ~~
+</ab>
+
+<pb facs="#f069" />
+<ab>
+<lb />Note the name[s] of dye[s] in Flemish
+<lb />of powdered starch.			powdered starch;
+<lb />of starch paste,. starch paste	|,.	sweet wine / minium [?] .~*
+<lb />brown-blue starch paste.	|	brown-blue 
+<lb />				|	starch paste.
+<lb />pale blue starch paste.	|	pale blue 
+<lb />sweet wine / minium [?].~*	|	starch paste.
+<lb />of gamboge.			|	gamboge.
+<lb />of whole saffron.		|	whole saffron.
+<lb />of vermilion.			|	vermilion.
+<lb />of safflower.			|	safflower.
+<lb />of white wine vinegar.		|	white wine vinegar.
+<lb />of raw tartar.			|	raw white tartar.
+<lb />of leaves of cauliflower,	|	leaves of cauli-
+<lb />without the ribs.  		|	flower, without the
+<lb />				|	ribs.
+<lb />of verdigris.			|	verdigris.
+<lb />of wood of logwood.		|	logwood wood.
+<lb />of Brazilwood.			|	Brazilwood.
+<lb />of ashes of England.		|	English ashes.
+<lb />~Carmine. alum.		|	Carmine. alum.
+<lb />of fish glue.			|	fish glue.
+<lb />of hide glue.			|	hide glue.
+<lb />of ashes, of branches, of	|	ashes of grapevine tendrils.
+<lb />vines				|
+</ab>
+
+<pb facs="#f072" />
+<ab>
+<lb />Pattern for painting on
+<lb />paper; note also that this ~
+<lb />little book, must never be
+<lb />given, and not lent, to anyone,
+<lb />outside of our convent of St. Godelieve.
+<lb />IHS	MR
+<lb />This little book, may never be given, ~
+<lb />nor lent, to any ~~~
+<lb />person, outside our cloister of St. Godelieve.
+<lb />Pray for Sister Marie Placida Bens ◆ 1743 ◆
+</ab>
+
+<pb facs="#f074" />
+<ab>
+<lb />pattern
+<lb />IHS MR
+<lb />one needs always, to put all the sorts of flowers
+<lb />that one paints with the holy names of Jesus, and of Maria,
+<lb />put them in a heart, with several pansies around.
+</ab>
+
+<pb facs="#f076" />
+<ab>
+<lb />pattern		pattern
+<lb />IHS
+<lb />on the other side of the picture the holy
+<lb />name of Mary, one must always paint, each
+<lb />side, the one, as the other, equally . . ~~
+</ab>
+
+<pb facs="#f078" />
+<ab>
+<lb />Way to gild with gold or silver
+<lb />The only thing that one wants to burnish is gold
+<lb />or silver. One must first prepare the ground
+<lb />with strong glue. Being dry, lay next
+<lb />a layer of lime with white ceruse, paying attention
+<lb />continually that you do not ever lay a second layer
+<lb />unless the first is entirely dry. And do not
+<lb />leave it ever to dry where it is very
+<lb />sunny. And do not lay the white too thickly. One
+<lb />must lay it 9 or 10 times. Then refine [it]
+<lb />and make it very even with a 
+<lb />wolf’s tooth or with water from Spanish
+<lb />soap, and scour it with it until it
+<lb />is even. Next, one must leave it to rest
+<lb />at least one day. Before you go to gild or
+<lb />silver it, only under the gild [areas] one puts
+<lb />the two last coats of glue, some white
+<lb />ceruse, and orange paint, on the ground
+<lb />to have gold color. ~~~~
+<lb />Bile of an eel melted in some brandy
+<lb />is good for illuminating gold or silver
+<lb />in the following colors: green, black, grey,
+<lb />and yellow.
+<lb />It does so that the paint flows, and makes that
+<lb />it does not flake off. This small quantity of
+<lb />gall from an eel is but only for drawing
+<lb />with a paintbrush on little images, but as we make
+</ab>
+
+<pb facs="#f081" />
+<ab>
+<lb />larger work, so must one take larger
+<lb />quantities of gall and brandy.
+<lb />Note: if you only wish to make light work,
+<lb />with 4 or 5 ground [layers] to lay
+<lb />it is already enough. ~~~~
+<lb />Note that eel gall is only 
+<lb />for illuminating but not for
+<lb />drawing with a paintbrush on
+<lb />little images. To that end, brandy
+<lb />works well on its own. Also one or two little
+<lb />drops of rainwater or fountain water, this is the best
+<lb />to put in the shell with gold or silver and therewith to
+<lb />gild with foam[?] gold or silver. The
+<lb />ground must be made slightly wet with 
+<lb />well beaten egg white, but overall well wet.
+<lb />Thereafter, one lays the gold or the silver foam thereupon,
+<lb />fine or rough, one puts it down with a small
+<lb />brockskens sponge, well washed beforehand, [and]
+<lb />thereafter squeezed out in a cloth, and thereafter,
+<lb />gilded with. And if the sponge becomes somewhat
+<lb />too dry, one does as before. ~~
+<lb />Note: if it is with oil, one takes ghebrant[drying?]
+<lb />oil and one makes it wet with this oil, and
+<lb />[lays] silver or gold foam thereupon. And one
+<lb />does with the sponge as before. ~~
+</ab>
+
+<pb facs="#f084" />
+<ab>
+<lb />pattern
+<lb />MR
+<lb />the holy name of Jesus, can
+<lb />be painted, on the other side of the picture, in
+<lb />the same way, with the other flowers if there is
+<lb />need . . ~
+</ab>
+
+<pb facs="#f086" />
+<ab>
+<lb />each sort of flower must be drawn [(up)] in its branch, and the
+<lb />holy name of Jesus on the other side of the picture, equally
+<lb />MR
+</ab>
+
+<pb facs="#f088" />
+<ab>
+<lb />pattern
+<lb />IHS
+<lb />bouquet for 
+<lb />putting over
+<lb />hearts, which are 
+<lb />filled with
+<lb />wool, one needs
+<lb />to cut each
+<lb />bouquet, holding all of it
+<lb />in its branch, without
+<lb />separating anything, one from the other.
+</ab>
+
+<pb facs="#f090" />
+<ab>
+<lb />pattern
+</ab>
+
+<pb facs="#f094" />
+<ab>
+<lb />pattern
+</ab>
+
+<pb facs="#f096" />
+<ab>
+<lb />pattern
+</ab>
+
+<pb facs="#f108" />
+<ab>
+<lb />pattern
+</ab>
+
+<pb facs="#f110" />
+<ab>
+<lb />pattern
+<lb />of a monstrance
+<lb />1757.
+</ab>
+
+<pb facs="#f112" />
+<ab>
+<lb />MAR
+</ab>
+
+<pb facs="#f128" />
+<ab>
+<lb />St. Augustine
+</ab>
+
+<pb facs="#f130" />
+<ab>
+<lb />JESUS, MARY, AUGUSTINE.
+<lb />Since the Holy Spirit allows us to praise, after death, those people who deserve
+<lb />to be praised; it is beyond just, to give a tribute so legitimate to the memory of the
+<lb />REVEREND MOTHER
+<lb />MOTHER ADRIENE TERESE DE MALDEGHEM,
+<lb />Cannonesse Regular of the Order of St. Augustine, who died in Tournai in the Monastery of Our Lady of Sion
+<lb />on the 28th of the year 1680, among the prayers and sorrows of her dear Sisters, after having received the Holy Sacraments of the Church
+<lb />with as much piety, as resignation to the Divine will. 65 years of age, &amp; Professed of her vows for 48, a life that had been as
+<lb />Religious as hers for so many years, could not have promised an ending less Happy: grace
+<lb />perfecting the advantages pulled from her Illustrious Lineage, rendered her a living example of all the virtues,
+<lb />&amp; a subject wholly suited for the governance of others; which was brightly visible throughout her Life, &amp; and in the
+<lb />functions that she exercised as Mistress of the Novices; as Sub-prioress &amp; Prioress with this wise, prudent, steadfast,
+<lb />&amp; Holy Conduct that was inseparable from her character: BUT, following what St Paul said; even though his conscience reproached
+<lb />him with nothing, he was not yet Justified, what Holiness could deliver a person from this healthy fear of the
+<lb />Judgments of God! Thus although we have so many Indications of her eternal happiness, we implore Sacrifices
+<lb />&amp; prayers; Such that if divine Justice should demand of her any remaining expiation in Purgatory, she might as soon as possible
+<lb />be in a state to enjoy the chaste embraces of her heavenly Spouse, These are the charitable services that
+<lb />we demand of the Religious Communities, &amp; of all the faithful.
+<lb />May she rest in peace.
+</ab>
+
+<pb facs="#f132" />
+<ab>
+<lb />St Godelieve
+<lb />17 ½   Stone Butter.
+</ab>
+
+<pb facs="#f134" />
+<ab>
+<lb />for 3 stuivers, Berlin blue
+<lb />for 3 stuivers, Florentine red
+<lb />for one stuiver, pink[rose?] red
+<lb />for 2 stuivers, blue English ashes
+<lb />for one stuiver, shell white
+<lb />for one stuiver, pale yellow
+<lb />for 2 stuivers, orange dye
+<lb />for one stuiver, borich green
+<lb />six paintbrushes of ortiens[nettles?]
+<lb />for one stuiver, indigo
+</ab>
+
+<pb facs="#f136" />
+<ab>
+<lb />does not believe
+<lb />to have the goodness
+<lb />to tiecken[??] from here
+<lb />up to a quarter
+<lb />of it nothing that
+<lb />is of need or of many
+<lb />red alum
+<lb />of co[chineal?]
+<lb />and of tartar
+<lb />I will be fully
+<lb />grateful
+</ab>
+
+<pb facs="#f138" />
+<ab>
+<lb />Mr Joris, druggist, sells brazilwood
+<lb />wood that is very good for painting
+<lb />paper red. One does this as follows:
+<lb />for two stuivers’s or five’s worth of
+<lb />this wood according to the puddle that one wants
+<lb />to make. And for the nicest, take but
+<lb />a half of it. And put it in a pot with
+<lb />a can or three pints of rainwater.
+<lb />Let it extract somewhat and then cook[boil?] it for half an hour
+<lb />or somewhat more. Then a piece of red alum,
+<lb />finely pounded, but one must first, in a dish or pan,
+<lb />smilten[melt?] [it] on its own. But one must understand that this does not
+<lb />appear red but is white, but it is so named. And with
+<lb />the outside also cooked, while the wood has simmered
+<lb />for so long, then you pour the soup of alum in the
+<lb />first pot and stir it around with a stocktien. Then the
+<lb />whole thing becomes red. And let it simmer together somewhat, then pour some
+<lb />soup in a little pot. And once it is cool, take white paper and lay it on
+</ab>
+
+<pb facs="#f139" />
+<ab>
+<lb />a table [and] begin to paint. But one must lay a bad [cloth]
+<lb />or something that cannot be injured underneath, and hang every
+<lb />sheet from a little cord all over. But then let a 
+<lb />pack of little cords dry and continue thus
+<lb />until that is red enough, according to your taste, all over
+<lb />up to six or seven times. [If] you want to have it
+<lb />shiny, go over it with egg white, finely
+<lb />beaten. This soup is also good to make silk red,
+<lb />especially a white ground or yellow. But [it] must first be
+<lb />washed clean af linten[?bits of the brazilwood?]. But one must cook
+<lb />herein a little bit. It is also good for making withe wood red.
+<lb />And once it is red enough, paint it with [egg] wash. It shines
+<lb />and is like mahogany. The ground of this can serve more
+<lb />than once. With other water and a bit more wood
+<lb />therein and alum, [it] is a good sap again.
+<lb />But the size of the alum [needed for] such a double
+<lb />bucket one surely learns oneself.
+</ab>
+
+<pb facs="#f140" />
+<ab>
+<lb />To subtract red [from] cloth
+<lb />One must make lye. Take cold
+<lb />vines and burn it to ashes. Take two pots
+<lb />of rain water and put the ashes and pour the
+<lb />clear lye off into a new earthenware pot
+<lb />and take the red cloth and put it in the lye
+<lb />until it is saturated [lit. overjuiced], and put the pot, well covered
+<lb />with an earthenware lid in the evening from the fire
+<lb />in the lukewarm oven and let it process until
+<lb />the next day at the fire. Then take
+<lb />the same pot and place it on a cupboard
+<lb />with fire (?? chafing dish?) and let it cook for an hour. And let it
+<lb />turn about constantly with a new pot
+<lb />spoon [so] that it doesn&apos;t burn. Then take
+<lb />after a new earthenware pot and take the first
+<lb />from the fire and begin to squeeze the cloth out
+<lb />into the second pot, and once the wetness is out, take
+<lb />a half pint of white wine vinegar and stir this in
+<lb />slowly throughout and let it cook on a still
+<lb />fire and stir it so that it does not burn until a ____.
+<lb />And then let it sit until it has sunk, and
+<lb />pour the the uppermost [liquid] off and take the cloth and throw
+<lb />it on the floor and let [it] dry thus.
+</ab>
+
+<pb facs="#f141" />
+<ab>
+<lb />And the brightest is for dyeing paper
+</ab>
+
+<pb facs="#f142" />
+<ab>
+<lb />Way to dye paper red
+<lb />Put an ounce of potash in
+<lb />an earthenware pot, then boil
+<lb />a stoop of rainwater and
+<lb />pour it, all boiling, on the
+<lb />potash, let it stand
+<lb />untouched until the next day. Then
+<lb />gently, without stirring, pour the clear
+<lb />lye out into another 
+<lb />clean pot. Then take a kanne
+<lb />of this lye, set it to boil
+<lb />and take a pound of red cloth
+<lb />put this in a clean pot and once
+<lb />the lye has boiled, pour it on the
+<lb />cloth, let it somewhat trecken
+<lb />on the fire, turning the cloth
+<lb />from time to time. Once it is all well
+<lb />drunken through, take remove it [from the fire]
+<lb />and let it stand to cool some
+<lb />then put the other kanne of lye
+<lb />on the fire. Let it boil. Then squeeze out
+<lb />the cloth as tightly as you
+<lb />can, and while the lye boils, put
+<lb />the cloth in it. Turn 
+<lb />and stir it well. Let [it] boil for a quarter
+<lb />of an hour. Then let it cool
+<lb />a bit. Squeeze it out again.
+<lb />Then, add all the soup and
+<lb />place this on the fire. Put
+<lb />a susijn of white alum in it.
+<lb />Let this boil a bit. The foam
+<lb />must not be thrown
+<lb />away since good dye can
+<lb />come from it. Then put a bit of
+<lb />white tartar in a pot
+<lb />and pour the boiling dye on top of it.
+<lb />If you see that there is still foam
+<lb />forming, take it off, and and
+<lb />do not put it with the other foam. Then
+<lb />let it sit for two or three days
+<lb />without stirring. Then gently pour
+<lb />all the dye off, and see if the
+<lb />sediment is dirty or if there are black
+<lb />bits in it. If there are any in it, then
+<lb />it isn’t good. If the sediment is clean,
+<lb />put it in with the dye. Then place
+<lb />it again on the fire. If it is
+<lb />purple, it is that there is not enough
+<lb />tartar in it. Also, if there is
+<lb />too much tartar in it, it is
+<lb />too pale. Then put some starch
+<lb />dust-bloom?? in a pot, crush
+</ab>
+
+<pb facs="#f143" />
+<ab>
+<lb />it with the cold soup that
+<lb />came from the scum, and once the
+<lb />dye boils, then put it in the pot
+<lb />where the bloom is, boiling it all
+<lb />so that the bloom does not clump.
+<lb />Once the dye becomes purple, then
+<lb />put some more tartar with the bloom
+<lb />until you see that it is a beautiful
+<lb />color. Note that the dye
+<lb />cannot be bottled and cannot
+<lb />be kept for long, but
+<lb />can be reboiled if it has
+<lb />become purple. Let it boil
+<lb />a bit. Then put some tartar in
+<lb />another pot, pour the dye over
+<lb />it, take the foam off, and if
+<lb />it is still too purple, put some
+<lb />more tartar with it until that you see
+<lb />that it is beautiful. And once no more
+<lb />foam appears, one must
+<lb />let it stand until it settles.
+<lb />Then pour it gently out.
+<lb />See if the sediment is good,
+<lb />as [you did] before, and put it in a pot.
+<lb />Let it come to a boil.
+<lb />Take some bloom, as was said
+<lb />before. The dryer the place 
+<lb />where the dye is kept, the
+<lb />better it will keep.
+<lb />One can also paint with this.
+<lb />And if one wants to have
+<lb />light yellow, one must put some
+<lb />rainwater with it.
+<lb />~~~~~~~
+</ab>
+
+<pb facs="#f146" />
+<ab>
+<lb />To dye a red color one needs to take a large handful
+<lb />of fine linen and then one takes a half pound of safflower, where those
+<lb />safflowers need to be bundled in a little linen bag and then one puts
+<lb />the safflower that are in the little bag in rainwater for six or seven hours
+<lb />to soak, and now and then turn the little bag in the water.
+<lb />And when it has soaked long enough one needs to wash the little bag,
+<lb />without it coming open, as long as the little bag is still red [OR: long enough until the little bag becomes red]
+<lb />Now, to make the lye, you must take grapevine wood
+<lb />and burn it to ashes, of which ashes one needs to take
+<lb />a pot full and one puts them in a kettle with two pots
+<lb />of rainwater. And leave it thus only a half hour to cook, and then take
+<lb />the kettle off the fire and let it settle, as the lye must
+<lb />be clear. And then begin to dye, end then place the little bag
+<lb />with the safflower in a dish and shake over it a clean
+<lb />little beer glass half full of lye, shake it over the little bag and 
+<lb />wash the little bag with it and then wring the little bag
+<lb />half out, and then add in the whitest linen and once it is wet
+<lb />then squeeze it out, then take a little dish of vinegar and put that little piece
+<lb />of linen in the vinegar, about a little glassfull, then squeeze it out, take again the
+<lb />same little piece of linen that had been in the dye, put it again
+<lb />in the same dye, squeeze it out thus, and put it again in the
+<lb />same vinegar, then squeeze it out. Then, throw the vinegar out and put
+<lb />clean vinegar in the little dish, and then throw the dye out also
+<lb />Wring the aforesaid little bag out, then take the previous
+<lb />piece that is still dyed and put it again therein, so then squeeze it
+<lb />out again and place it again in the vinegar, then squeeze it out again. Then
+<lb />the piece is red enough. Then, you must take once more another white piece
+<lb />of linen, and place it in the dye and then again in the vinegar just as
+<lb />before; and once the dye becomes clear, then throw it out and then lay the
+<lb />little bag in the dish, then pour another half little glass of lye over the
+<lb />little bag, and then wring it therewith, wring the little bag half
+<lb />out, and then begin to dye again in the same manner as before.
+<lb />And as you notice that there is no more dye coming out and [it runs] clear,
+<lb />then you must stop dyeing, then you must wash the red linen, 
+<lb />with some Spanish [i.e., castille] soap, but you must put the soap in a clean
+<lb />little cloth and then beat the little cloth with the soap there in the water. Thus
+<lb />must you then wash [it], piece by piece, in a bucket, and then rinse with clean
+<lb />water. Then wring it out and lay it in a dish and then put 
+<lb />vinegar over it. Let it stand thus therein for a whole night. Then the next day,
+<lb />wring it out, and then lay it to dry on a serge, and that
+<lb />in the dark, and then once it is dry, you must stiffen it with white starch.
+<lb />You must take a quarter of a pound and then let it become cold.
+<lb />Then must you thus stiffen linen, and out of one another, put [it] also on a
+<lb />serge, and that in the dark. Let it dry thus.
+<lb />Now, to make white roses, so must you take white linen and put
+<lb />it in the soap water that the red linen was washed in,
+<lb />and with clear water rinsed, but put it in no vinegar, though
+<lb />stiffen it as before.
+</ab>
+
+<pb facs="#f148" />
+<ab>
+<lb />To dye a red color on white 
+<lb />horn, up to a quarter
+<lb />of horn:
+<lb />We take, for 9 large
+<lb />cochenille insects with a half ounce of red red alum
+<lb />put 3 pints of fountain water.
+<lb />One must seethe these together until
+<lb />the soup becomes red. Once done,
+<lb />one must put the quarter of horn
+<lb />in there, in good order, and one
+<lb />lets it seethe until it is a beautiful
+<lb />pink color. Once done, one must
+<lb />take them out of the soup and let [them]
+<lb />dry without rinsing [them], and on
+<lb />top of one another until [they] are somewhat dry
+<lb />—----------------------------------------------------------
+<lb />and once done, open [them].
+<lb />The way to dye white
+<lb />horn, to make it a pink color,
+<lb />that you see the pattern here, this is sold
+<lb />one buys this from the merchant
+<lb />and from the hair dresser, the and [from] other
+<lb />people who make flowers
+<lb />in the world.
+</ab>
+
+<pb facs="#f149" />
+<ab>
+<lb />To Bruges
+<lb />Postage with receipt is 
+<lb />eight stuivers and a half
+</ab>
+
+<pb facs="#f150" />
+<ab>
+<lb />Red alum, [illeg.], cochenille tartar, all well pounded,
+<lb />to dye the color pink on white horn that you see here,
+<lb />that is ordinarily sold by the merchant. ~
+</ab>
+
+<pb facs="#f152" />
+<ab>
+<lb />To make yellow dye
+<lb />Take forth a shilling of
+<lb />gamboge and [take] forth a
+<lb />stuiver of yellow saffron and
+<lb />a stuiver of alum and that
+<lb />together, well broken up,
+<lb />in water
+<lb />Way to paint red
+<lb />Take a quarter
+<lb />brazilwood, a pint vinegar
+<lb />and a half quarter alum
+<lb />and let that seethe until [it reduces to]
+<lb />the half, and then pour the soup out
+<lb />in a flessche[glass/flask?]. That
+<lb />keeps well for three years, and once
+<lb />one wants to use it,
+<lb />thus pour some of that soup in
+<lb />an oyster shell and levigate
+<lb />that 3 to 4 times [until] it [is] clear,
+</ab>
+
+<pb facs="#f153" />
+<ab>
+<lb />and then let that stand a day
+<lb />to 2 in the sun or on
+<lb />a low fire ketel that
+<lb />is only a bit thick.
+<lb />And then is it good
+<lb />to use.
+<lb />One prepares also purple
+<lb />dye in the same way,
+<lb />but in place of
+<lb />brazilwood one takes
+<lb />logwood.
+<lb />To make green 
+<lb />dye Take a
+<lb />Take cauliflower leaves
+<lb />without the ribs and
+<lb />pound them, and press that
+<lb />juice out through a rag, and
+<lb />until [you have] a pot of that soup.
+<lb />Take a quarter of verdigris
+<lb />and that all broken up
+<lb />together
+<lb />and let it stand one day 
+<lb />in the sun. And then with
+<lb />a sponge, stroke over
+<lb />the paper 3 to 4 times
+</ab>
+
+<pb facs="#f154" />
+<ab>
+<lb />Note: if one wants to have
+<lb />a beautiful violet, one must put in the
+<lb />oyster shell with the dye some
+<lb />unslaked lime ~
+<lb />Note: and put in the red oyster
+<lb />shell with the in the dye some
+<lb />lemon juice. That makes
+<lb />beautiful bright yellow.
+</ab>
+
+<pb facs="#f155" />
+<ab>
+<lb />Laundry soap/wax(??) best old beer, the oldest, and the
+<lb />to make, take a ___ wood good
+<lb />__ stuiver brazil wood, and for xxxx
+<lb />off more up to the half, and then
+<lb />and as one wants to use that, so
+<lb />oyster shell, and spill that 2 or 3
+<lb />night xx becomes thick, xx then is
+<lb />rren on paper, as also on
+<lb />ck purple dye but in the
+<lb />mt one logwood ~
+</ab>
+
+<pb facs="#f156" />
+<ab>
+<lb />To dye paper yellow
+<lb />One takes a sisein [=coinage type] of saffron, which one lets extract in the quantity
+<lb />of a pint of water. Once it is reasonably well extracted, one pours it off
+<lb />and puts some more water over the saffron to further extract it. One
+<lb />must also have an ounce of gum, which must be soaked for a few days 
+<lb />ahead of time and poured into the extracted saffron once it is cold.
+<lb />[THU: note the “once it is cold” at the end, which is the only clue that the extraction of the saffron takes place with heat]
+</ab>
+
+<pb facs="#f158" />
+<ab>
+<lb />To make green paper
+<lb />Take the greens of celery, the youngest of all the ribs,
+<lb />removed and pounded in a mortar, then
+<lb />wrung out, and then pounded again, three times.
+<lb />Then take verdigris and boil it in the soup
+<lb />until it is melted. Put in as much as
+<lb />you want to have green. The more green, the
+<lb />higher [=more intense] the color. Also, a bit of tartar. From time
+<lb />to time, stir until the whole thing is melted. Then take
+<lb />the paper and lay it on a table or board. Then take
+<lb />a little painter’s knife and stroke it thereover.
+<lb />Then the one side being done, leave it to dry,
+<lb />and being well dry, then do the other side, and
+<lb />that so many times until it is green enough.
+<lb />After that, according to taste, take then egg white,
+<lb />stroke it thereover to give a glare once
+<lb />it is very dry.
+</ab>
+
+<pb facs="#f160" />
+<ab>
+<lb />To make green dye
+<lb />For a half pound of verdigris,
+<lb />take two cans of rain
+<lb />water and add a half a
+<lb />quarter of tartar, and
+<lb />a pan spoon [pennelepel = large copper spoon used in baking] of pounded alum.
+<lb />Preserve it for one night
+<lb />in a copper bucket or pan. It must
+<lb />be foamy, [geschumt = geschuimt] and
+<lb />must boil down by half.
+<lb />take the green juice
+<lb />in it as long as it is blood-warm.
+<lb />[and is]
+<lb />Verdigris is blue by itself.
+<lb />Take the green juice on the 
+<lb />point of a knife, and should you
+<lb />fear that the verdigris on the side
+<lb />of your pan is not green enough,
+<lb />do not do too much to it,
+<lb />but try it on paper until the
+<lb />color is to your liking,
+<lb />and in case you see that
+<lb />the coloring of your paper is a bit
+<lb />too blue, you must
+<lb />put some more put green color in a dish
+<lb />and add some. [illeg.]
+</ab>
+
+<pb facs="#f161" />
+<ab>
+<lb />and when your dye is cooked,
+<lb />put it in a bottle. You can
+<lb />keep it and use as you please,
+<lb /> but it is better in the summer
+<lb />than now.
+</ab>
+
+<pb facs="#f162" />
+<ab>
+<lb />into which one adds more sap green still.
+<lb />note that the paper you use for this
+<lb />must be fine and [gesloten = dense, perhaps?],
+<lb />and must be coated with
+<lb />warm white starch on one side,
+<lb />and not thick, and the starch should be
+<lb />[made] very even in color with a
+<lb />soft brush. then hang it to dry,
+<lb />and when it is fully dry, lay it down
+<lb />[passen = to fit] so it becomes smooth.
+<lb />then take your green paint, and
+<lb />a part of a sponge
+<lb />to color your paper with,
+<lb />first on the starched side and then
+<lb />[maer naer den eersten en 2 keer = after the first 2 more times].
+<lb />This must be done with a light hand
+<lb />and sparingly so it does not flow, [als = when ]
+<lb />you have gone over your sheet of paper with a light hand,
+<lb />[sijnde = if ] there are still
+<lb />streaks you have missed,
+<lb />they should no longer be there.
+</ab>
+
+<pb facs="#f163" />
+<ab>
+<lb />Come, for you must clean it off.
+<lb />You should take the paper
+<lb />but do not hang it
+<lb />to dry, rather lay it
+<lb />on leather or sticks, and it
+<lb />must be fully dry. Before you
+<lb />even go over [wipe] it, the weather must
+<lb />be fair to do this.
+<lb />you must go over the right side 6 times
+<lb />and then the other side 3 to 4 times.
+<lb />~~~
+<lb />I should guess put
+<lb />in a quarter of verdigris
+<lb />for the first time, and
+<lb />it must be pounded. and then
+<lb />further add a can of rain
+<lb />water and a bit more than
+<lb />an ounce of tartar, and a
+<lb />half a spoon of pounded alum
+</ab>
+
+<pb facs="#f164" />
+<ab>
+<lb />have rinsed a full pound
+<lb />washed a full pound
+<lb />one our Spanish green
+</ab>
+
+<pb facs="#f166" />
+<ab>
+<lb />of our verdigris,
+<lb />a half pound of white wax,
+<lb />and three quarters of other
+<lb />a half pound, and a half
+<lb />quarter a rinschen hast [that you have rinsed?];
+<lb />all of it well melted and stir [it] together without
+<lb />boi boiling. Next [one] needs to plunge the
+<lb />paper inside [with] a bande [i.e. length of fabric] at the same time
+<lb />the width of three taille [regular size?], roughly,
+<lb />but the same length as the the paper is
+<lb />in its length.
+<lb />This is for the confectioner
+<lb />who make desserts, and because
+<lb />you want to make [it] with [it].
+<lb />But if you see that the paper
+<lb />is not as green as you wish,
+<lb />into this you need to put more
+<lb />of the green of Spain, or otherwise said,
+<lb />verdegris.
+</ab>
+
+<pb facs="#f167" />
+<ab>
+<lb />This monstrance represents
+<lb />the passion of Jesus
+<lb />Christ, with the triumphal
+<lb />coronation of the very holy
+<lb />sacrament. ~~~
+<lb />This monstrance represents
+<lb />the baptism of Jesus Christ,
+<lb />which our sweet savior ~
+<lb />received from St John the Baptist. ∞
+<lb />The holy spirit, with his reasons,
+<lb />placed upon the head of Jesus
+<lb />Christ, the cross, with the
+<lb />crown of thorns; ~~~
+<lb />This monstrance repre-
+</ab>
+
+<pb facs="#f168" />
+<ab>
+<lb />and a quarter of copper-red and let
+<lb />it [be] seen for your uses.
+<lb />for blue
+<lb />Pour three buckets of warm urine 
+<lb />into a vat that is very clean. 
+<lb />Then take ten ounces of indigo and three
+<lb />fourths of a pot of finely pounded [gestoken?]
+<lb />ashes, pull it [&quot;troocken&quot;=troken?] into a new pot, with
+<lb />two pints of rainwater, then pour in
+<lb />six ounces of madder and two handfuls of chalk, 
+<lb />and let it sit for eight or nine days, it does not matter.
+<lb />Then a half pint of brandy and a stuiver of [animal intestine or, more likely, bran?]
+<lb />for black
+<lb />Take fourteen and a half pints of gall nuts, a half
+<lb />pint of madder, and two pounds of sumac [smack]. Let it
+<lb />cook for an hour. Cool it down quickly.
+<lb />Add to the same
+<lb />water a half pound of Proveçal wood
+<lb />with three pounds of copperas and let it cook
+<lb />another half hour.
+</ab>
+
+<pb facs="#f170" />
+<ab>
+<lb />Way to make ashes from grapevine tendrils
+<lb />One can these, by a pure heart, without mixing
+<lb />other ashes in, that are newly burnt, one puts it on the fire and the ashes
+<lb />all together in a bad/old earthenware pot, which one from time
+<lb />to time pokes, until it is all consumed.
+<lb />To make lye from grapevine-tendril ash
+<lb />Take three handfuls of ashes [scooped] with two hands, and 7 or 8
+<lb />pints of rain or fountain water, let this cook until [it reduces to] 4 or 5
+<lb />pints, should be cooked in a clean [metal] marmite. Once it is
+<lb />removed from the fire, it must be cast [i.e., levigated] into a metal pot that
+<lb />has not been used for any other thing, such as dyeing red,
+<lb />leaving the ashes, so much as possible, on the bottom of the
+<lb />marmite. The next day, one pours the ashes through a cloth
+<lb />into another pot, still careful not to move [what is on]
+<lb />the bottom. The lye is then good to use to dye a pink color,
+<lb />as follows here.
+<lb />Take a quarter or half pound of safflower, put it in a little
+<lb />white linen bag, securely tied, place it to soak
+<lb />in rain or fountain water. One washes(?) the safflower a little
+<lb />itself, changing the water two times, and then letting [it] soak
+<lb />from five-thirty in the evening until five-thirty in the morning.
+<lb />And then is it washed, and from time to time, its
+<lb />water is changed until it is clear. The bag should not
+<lb />be wrung out but removed from the water with the hands, except for
+<lb />the last time: then, the little bag must be very firmly wrung out,
+<lb />as much as is possible.
+</ab>
+
+<pb facs="#f171" />
+<ab>
+<lb />After, one pulls the safflower out of the bag and puts it
+<lb />in a large, flat[-bottomed] pot, and once everything is thoroughly picked
+<lb />[out of the bag], one sprinkles there a little rain or fountain water
+<lb />over [it]. Then one pours into the safflower a pint of lye made
+<lb />from the ashes of grapevine tendrils. Then is the pot covered
+<lb />with another of the same size, so that it
+<lb />can catch the air. Set it in a dark place,
+<lb />set a covering-cloth over it, and let it proceed
+<lb />for 2 hours, and [it] must then be bruised for 15 minutes.
+<lb />One must remove it by handfuls. Once one can
+<lb />take no more [out], pour the rest into the bag again, [and] this
+<lb />is wrung out into a clean pot. One prepares immediately
+<lb />another pot with some white wine vinegar, in which the fabric
+<lb />is made wet. Being well drunk, one takes these [i.e., the vinegar-soaked fabric and the lyed petals]
+<lb />all together, gives them into the hands of the person that
+<lb />bruised and and wrung out the safflower, which entire mass alike had
+<lb />been set in the dye. Wash these same [things] well one by one.
+<lb />Proceed with a light hand as quickly as is possible.
+<lb />The fabric, having her color, is washed again, piece by
+<lb />piece, after having removed [un-dunked] it well. Put them in verjuice
+<lb />after [they] are squeezed out as before. [They] are rinsed in three or 4
+<lb />pots following before prepared with 2 or 3 pints of clean
+<lb />rain or fountain water, where after one washes a few pieces of fabric
+<lb />therein [once] the first color is rinsed in, which serves
+<lb />as a pale color and is then dried together in the attic. [is there a little flower at the end?]
+</ab>
+
+  </div></body>
+      </text>
+  </TEI>
