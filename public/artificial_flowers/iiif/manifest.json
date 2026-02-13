@@ -451,7 +451,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f005.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f005"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f005/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f005.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f005"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f005/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f005.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -525,7 +551,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f006.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f006"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f006/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f006.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f006"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f006/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f006.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -599,7 +651,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f007.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f007"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f007/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f007.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f007"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f007/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f007.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -673,7 +751,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f008.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f008"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f008/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f008.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f008"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f008/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f008.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -747,7 +851,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f009.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f009"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f009/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f009.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f009"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f009/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f009.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -821,7 +951,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f010.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f010"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f010/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f010.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f010"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f010/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f010.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -895,7 +1051,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f011.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f011"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f011/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f011.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f011"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f011/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f011.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -969,7 +1151,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f012.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f012"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f012/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f012.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f012"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f012/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f012.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1043,7 +1251,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f013.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f013"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f013/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f013.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f013"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f013/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f013.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1117,7 +1351,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f014.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f014"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f014/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f014.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f014"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f014/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f014.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1191,7 +1451,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f015.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f015"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f015/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f015.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f015"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f015/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f015.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1265,7 +1551,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f016.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f016"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f016/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f016.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f016"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f016/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f016.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1339,7 +1651,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f017.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f017"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f017/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f017.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f017"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f017/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f017.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1413,7 +1751,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f018.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f018"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f018/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f018.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f018"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f018/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f018.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1487,7 +1851,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f021.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f021"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f021/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f021.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f021"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f021/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f021.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1561,7 +1951,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f022.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f022"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f022/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f022.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f022"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f022/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f022.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1635,7 +2051,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f023.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f023"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f023/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f023.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f023"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f023/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f023.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1709,7 +2151,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f024.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f024"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f024/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f024.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f024"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f024/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f024.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1783,7 +2251,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f025.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f025"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f025/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f025.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f025"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f025/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f025.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1857,7 +2351,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f026.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f026"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f026/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f026.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f026"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f026/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f026.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -1931,7 +2451,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f027.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f027"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f027/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f027.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f027"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f027/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f027.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2005,7 +2551,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f028.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f028"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f028/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f028.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f028"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f028/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f028.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2079,7 +2651,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f029.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f029"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f029/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f029.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f029"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f029/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f029.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2153,7 +2751,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f030.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f030"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f030/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f030.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f030"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f030/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f030.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2227,7 +2851,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f033.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f033"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f033/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f033.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f033"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f033/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f033.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2301,7 +2951,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f034.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f034"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f034/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f034.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f034"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f034/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f034.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2375,7 +3051,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f035.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f035"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f035/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f035.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f035"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f035/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f035.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2449,7 +3151,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f036.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f036"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f036/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f036.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f036"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f036/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f036.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2523,7 +3251,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f037.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f037"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f037/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f037.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f037"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f037/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f037.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2597,7 +3351,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f038.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f038"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f038/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f038.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f038"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f038/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f038.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2671,7 +3451,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f039.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f039"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f039/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f039.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f039"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f039/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f039.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2745,7 +3551,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f040.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f040"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f040/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f040.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f040"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f040/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f040.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2819,7 +3651,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f041.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f041"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f041/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f041.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f041"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f041/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f041.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2893,7 +3751,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f042.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f042"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f042/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f042.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f042"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f042/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f042.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -2967,7 +3851,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f045.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f045"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f045/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f045.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f045"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f045/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f045.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3041,7 +3951,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f046.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f046"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f046/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f046.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f046"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f046/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f046.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3115,7 +4051,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f047.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f047"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f047/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f047.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f047"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f047/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f047.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3189,7 +4151,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f048.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f048"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f048/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f048.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f048"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f048/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f048.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3263,7 +4251,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f049.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f049"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f049/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f049.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f049"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f049/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f049.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3337,7 +4351,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f050.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f050"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f050/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f050.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f050"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f050/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f050.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3411,7 +4451,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f051.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f051"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f051/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f051.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f051"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f051/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f051.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3485,7 +4551,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f052.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f052"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f052/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f052.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f052"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f052/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f052.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3559,7 +4651,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f053.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f053"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f053/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f053.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f053"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f053/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f053.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3633,7 +4751,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f054.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f054"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f054/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f054.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f054"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f054/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f054.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3707,7 +4851,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f057.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f057"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f057/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f057.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f057"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f057/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f057.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3781,7 +4951,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f058.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f058"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f058/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f058.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f058"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f058/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f058.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3855,7 +5051,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f059.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f059"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f059/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f059.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f059"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f059/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f059.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -3929,7 +5151,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f060.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f060"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f060/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f060.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f060"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f060/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f060.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4003,7 +5251,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f061.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f061"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f061/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f061.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f061"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f061/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f061.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4077,7 +5351,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f062.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f062"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f062/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f062.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f062"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f062/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f062.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4151,7 +5451,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f063.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f063"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f063/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f063.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f063"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f063/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f063.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4225,7 +5551,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f064.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f064"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f064/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f064.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f064"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f064/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f064.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4299,7 +5651,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f065.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f065"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f065/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f065.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f065"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f065/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f065.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4373,7 +5751,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f066.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f066"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f066/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f066.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f066"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f066/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f066.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4447,7 +5851,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f069.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f069"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f069/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f069.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f069"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f069/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f069.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4603,7 +6033,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f072.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f072"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f072/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f072.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f072"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f072/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f072.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4718,7 +6174,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f074.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f074"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f074/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f074.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f074"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f074/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f074.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4833,7 +6315,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f076.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f076"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f076/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f076.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f076"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f076/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f076.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -4948,7 +6456,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f078.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f078"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f078/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f078.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f078"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f078/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f078.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -5022,7 +6556,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f081.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f081"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f081/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f081.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f081"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f081/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f081.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -5178,7 +6738,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f084.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f084"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f084/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f084.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f084"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f084/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f084.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -5293,7 +6879,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f086.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f086"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f086/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f086.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f086"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f086/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f086.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -5408,7 +7020,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f088.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f088"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f088/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f088.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f088"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f088/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f088.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -5523,7 +7161,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f090.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f090"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f090/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f090.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f090"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f090/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f090.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -5638,7 +7302,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f094.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f094"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f094/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f094.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f094"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f094/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f094.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -5753,7 +7443,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f096.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f096"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f096/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f096.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f096"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f096/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f096.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -6852,7 +8568,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f108.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f108"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f108/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f108.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f108"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f108/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f108.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -6967,7 +8709,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f110.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f110"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f110/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f110.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f110"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f110/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f110.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -7082,7 +8850,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f112.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f112"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f112/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f112.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f112"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f112/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f112.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -7837,7 +9631,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f128.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f128"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f128/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f128.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f128"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f128/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f128.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -7952,7 +9772,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f130.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f130"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f130/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f130.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f130"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f130/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f130.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -8067,7 +9913,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f132.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f132"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f132/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f132.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f132"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f132/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f132.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -8182,7 +10054,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f134.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f134"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f134/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f134.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f134"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f134/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f134.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -8297,7 +10195,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f136.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f136"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f136/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f136.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f136"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f136/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f136.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -8412,7 +10336,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f138.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f138"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f138/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f138.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f138"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f138/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f138.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -8486,7 +10436,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f139.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f139"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f139/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f139.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f139"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f139/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f139.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -8560,7 +10536,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f140.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f140"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f140/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f140.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f140"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f140/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f140.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -8634,7 +10636,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f141.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f141"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f141/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f141.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f141"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f141/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f141.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -8708,7 +10736,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f142.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f142"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f142/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f142.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f142"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f142/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f142.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -8782,7 +10836,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f143.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f143"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f143/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f143.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f143"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f143/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f143.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -8971,7 +11051,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f146.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f146"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f146/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f146.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f146"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f146/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f146.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9086,7 +11192,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f148.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f148"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f148/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f148.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f148"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f148/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f148.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9160,7 +11292,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f149.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f149"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f149/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f149.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f149"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f149/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f149.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9234,7 +11392,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f150.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f150"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f150/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f150.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f150"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f150/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f150.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9349,7 +11533,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f152.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f152"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f152/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f152.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f152"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f152/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f152.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9423,7 +11633,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f153.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f153"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f153/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f153.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f153"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f153/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f153.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9497,7 +11733,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f154.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f154"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f154/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f154.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f154"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f154/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f154.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9571,7 +11833,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f155.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f155"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f155/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f155.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f155"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f155/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f155.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9645,7 +11933,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f156.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f156"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f156/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f156.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f156"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f156/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f156.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9760,7 +12074,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f158.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f158"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f158/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f158.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f158"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f158/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f158.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9875,7 +12215,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f160.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f160"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f160/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f160.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f160"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f160/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f160.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -9949,7 +12315,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f161.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f161"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f161/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f161.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f161"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f161/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f161.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -10023,7 +12415,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f162.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f162"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f162/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f162.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f162"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f162/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f162.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -10097,7 +12515,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f163.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f163"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f163/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f163.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f163"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f163/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f163.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -10171,7 +12615,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f164.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f164"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f164/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f164.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f164"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f164/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f164.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -10286,7 +12756,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f166.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f166"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f166/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f166.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f166"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f166/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f166.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -10360,7 +12856,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f167.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f167"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f167/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f167.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f167"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f167/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f167.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -10434,7 +12956,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f168.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f168"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f168/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f168.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f168"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f168/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f168.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -10549,7 +13097,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f170.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f170"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f170/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f170.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f170"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f170/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f170.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -10623,7 +13197,33 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/tei/tl/f171.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f171"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f171/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
 								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tc/f171.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f171"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/iiif/canvas/f171/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://thuchacz.github.io/ArtificialFlowers//artificial_flowers/html/tl/f171.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
