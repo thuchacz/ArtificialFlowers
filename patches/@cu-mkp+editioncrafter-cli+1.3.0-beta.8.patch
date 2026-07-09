@@ -1,0 +1,33 @@
+diff --git a/node_modules/@cu-mkp/editioncrafter-cli/src/db.js b/node_modules/@cu-mkp/editioncrafter-cli/src/db.js
+index 544f2af..99ad59f 100644
+--- a/node_modules/@cu-mkp/editioncrafter-cli/src/db.js
++++ b/node_modules/@cu-mkp/editioncrafter-cli/src/db.js
+@@ -339,18 +339,19 @@ function parsePbs(db, pbEls, layerEl, layerDbId) {
+ }
+ 
+ function extractPb(layerEl, surfaceID) {
+-  const pbElCount = layerEl.querySelectorAll('pb').length
++  const originalPbEls = layerEl.querySelectorAll('pb')
+ 
+-  for (let i = 0; i < pbElCount; i++) {
+-    // since this function mutates the XML, we need to clone the
+-    // layer element each time
+-    const layerClone = new JSDOM(layerEl.outerHTML, { contentType: 'text/xml' }).window.document
+-
+-    const pbEls = layerClone.querySelectorAll('pb')
+-    const pbEl = pbEls[i]
+-    const pbSurfaceID = pbEl.getAttribute('facs')
++  for (let i = 0; i < originalPbEls.length; i++) {
++    const pbSurfaceID = originalPbEls[i].getAttribute('facs')
+ 
+     if (pbSurfaceID && pbSurfaceID === surfaceID) {
++      // since scrubbing mutates the XML, clone the layer element
++      // (only once we've found the matching pb — cloning on every
++      // iteration leaks JSDOM windows and exhausts the heap)
++      const layerClone = new JSDOM(layerEl.outerHTML, { contentType: 'text/xml' }).window.document
++
++      const pbEls = layerClone.querySelectorAll('pb')
++      const pbEl = pbEls[i]
+       const nextPbEl = pbEls[i + 1]
+       scrubTree(pbEl, 'prev')
+       if (nextPbEl) {

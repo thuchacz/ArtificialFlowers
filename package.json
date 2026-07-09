@@ -4,25 +4,29 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "postinstall": "patch-package",
     "start": "astro build && http-server ./dist --port 3000",
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "edition": "editioncrafter process -i artificial_flowers.xml -o public -u https://thuchacz.github.io/ArtificialFlowers/ && editioncrafter database -i artificial_flowers.xml -o public/artificial_flowers.sqlite && sqlite3 public/artificial_flowers.sqlite \"PRAGMA wal_checkpoint(TRUNCATE); PRAGMA journal_mode=DELETE;\" && rm -f public/artificial_flowers.sqlite-shm public/artificial_flowers.sqlite-wal"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@astrojs/react": "^4.2.1",
-    "@cu-mkp/editioncrafter": "^1.2.1",
+    "@cu-mkp/editioncrafter": "1.3.1-beta.11",
     "astro": "^5.4.2",
     "http-server": "^14.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
+    "@cu-mkp/editioncrafter-cli": "1.3.0-beta.8",
     "@types/react": "^17.0.83",
     "@types/react-dom": "^17.0.26",
     "@vitejs/plugin-react": "^4.3.3",
+    "patch-package": "^8.0.1",
     "vite": "^6.0.9"
   }
 }

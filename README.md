@@ -33,6 +33,25 @@ This project comes with a number of pre-built example documents for you to try o
 * fr640-entries.json : Demonstrates the use of the EntryList component in tandem with the EditionCrafter component.
 * cary-config.json : This demonstrates the use of zones in the surface images.
 
+## Semantic Tag Filtering (Tag Explorer)
+
+This edition uses EditionCrafter's Tag Explorer to let readers filter pages by semantically tagged terms (materials, tools, measurements, techniques), in the manner of [editioncrafter-odt](https://performant-software.github.io/editioncrafter-odt/#/ec/). It is enabled by `"tagExplorer": "true"` and `"dbUrl"` in `data/config.json`, which cause `src/pages/index.astro` to render the `TagExplore` component instead of the plain `EditionCrafter` viewer.
+
+The tagging conventions in `artificial_flowers.xml` are:
+
+* Taxonomies are declared in `teiHeader/encodingDesc/classDecl`: each `<taxonomy xml:id="...">` needs a `<bibl>` display name, and each leaf `<category xml:id="...">` with a `<catDesc>` becomes a filterable tag.
+* Entries (recipe blocks) are wrapped in `<div ana="#tag1 #tag2 ...">` around the `<ab>`; individual terms inside are wrapped in `<seg ana="#tag">term</seg>`. Only `<seg>` elements inside a tagged `<div>` are indexed, and both the `tc` and `tl` layers should be tagged in parallel.
+* The `<facsimile>` element must have an `xml:id`, and the header must have a non-empty `<title>` (the CLI requires both).
+
+After editing the TEI, regenerate the viewer data (IIIF manifest, HTML partials, and the tag database) with:
+
+```npm run edition```
+
+Note the versions of `@cu-mkp/editioncrafter` (1.3.1-beta.11) and `@cu-mkp/editioncrafter-cli` (1.3.0-beta.8) are pinned exactly in `package.json`: the Tag Explorer only exists in the 1.3.1-beta line of the viewer, and semver considers the stable 1.3.1 release (which predates it) "newer" than the betas. Two `patch-package` patches under `patches/` are applied automatically by the `postinstall` script:
+
+* `@cu-mkp/editioncrafter-cli`: fixes an out-of-memory bug in the CLI's `database` command (it cloned the whole text layer with JSDOM on every page-scan iteration).
+* `@cu-mkp/editioncrafter`: fixes single-document navigation in the Tag Explorer sidebar. Upstream, clicking a page's "insert left/right" button navigates to a `<document>_<surface>` folio ID, but with only one document the viewer indexes folios by bare surface ID, so the viewer pane stayed blank. (The ODT reference edition has many documents and never hits this.) Both bugs are worth reporting upstream before upgrading these packages.
+
 ## Getting Started with EditionCrafter CLI
 
 To learn how to use the EditionCrafter CLI to create your own project, please see the ["Getting Started"](https://editioncrafter.org/getting-started/) section of the EditionCrafter website. Note that the props passed into the components are configurable via the `data/config.json` file.

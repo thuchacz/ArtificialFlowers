@@ -1,0 +1,67 @@
+diff --git a/node_modules/@cu-mkp/editioncrafter/dist/editioncrafter.js b/node_modules/@cu-mkp/editioncrafter/dist/editioncrafter.js
+index 674804e..9a0dd31 100644
+--- a/node_modules/@cu-mkp/editioncrafter/dist/editioncrafter.js
++++ b/node_modules/@cu-mkp/editioncrafter/dist/editioncrafter.js
+@@ -54029,10 +54029,10 @@ function Yte(e) {
+ function Xte(e) {
+   const { surfaceID: n, name: t, imageURL: r, thumbnailURL: i, onClick: s, selection: c, info: u } = e, f = mn(() => {
+     var v, x;
+-    return c && ((v = c == null ? void 0 : c.left) == null ? void 0 : v.localID) === (u == null ? void 0 : u.localID) && ((x = c == null ? void 0 : c.left) == null ? void 0 : x.surfaceID) === (u == null ? void 0 : u.surfaceID);
++    return c && (((v = c == null ? void 0 : c.left) == null ? void 0 : v.localID) === (u == null ? void 0 : u.localID) || ((v = c == null ? void 0 : c.left) == null ? void 0 : v.localID) === "") && ((x = c == null ? void 0 : c.left) == null ? void 0 : x.surfaceID) === (u == null ? void 0 : u.surfaceID);
+   }, [c, u]), p = mn(() => {
+     var v, x;
+-    return c && ((v = c == null ? void 0 : c.right) == null ? void 0 : v.localID) === (u == null ? void 0 : u.localID) && ((x = c == null ? void 0 : c.right) == null ? void 0 : x.surfaceID) === (u == null ? void 0 : u.surfaceID);
++    return c && (((v = c == null ? void 0 : c.right) == null ? void 0 : v.localID) === (u == null ? void 0 : u.localID) || ((v = c == null ? void 0 : c.right) == null ? void 0 : v.localID) === "") && ((x = c == null ? void 0 : c.right) == null ? void 0 : x.surfaceID) === (u == null ? void 0 : u.surfaceID);
+   }, [c, u]), g = (v) => {
+     v.onerror = null;
+     const x = `${r.slice(0, -9)}full/full/0/default.jpg`;
+@@ -54390,9 +54390,9 @@ function nne(e) {
+       }
+     return !0;
+   }), [s, c]), k = mn(() => O(i, g), [O, i, g]), { clearTags: U } = oo(rl), z = Xa(), K = wi(), V = mn(() => tne(K.pathname), [K]), X = qo((se) => {
+-    const ee = se != null && se.left ? `${se.left.localID}_${se.left.surfaceID}` : null, me = se != null && se.right ? `${se.right.localID}_${se.right.surfaceID}` : null, he = `/ec/${ee || "-1"}/${ee ? "f" : "g"}/${me || "-1"}/${me ? "f" : "g"}`;
++    const sd = i.length === 1, ee = se != null && se.left ? (sd ? se.left.surfaceID : `${se.left.localID}_${se.left.surfaceID}`) : null, me = se != null && se.right ? (sd ? se.right.surfaceID : `${se.right.localID}_${se.right.surfaceID}`) : null, he = `/ec/${ee || "-1"}/${ee ? "f" : "g"}/${me || "-1"}/${me ? "f" : "g"}`;
+     z(he + K.search);
+-  }, [K.search, z]), re = qo((se, ee) => {
++  }, [K.search, z, i]), re = qo((se, ee) => {
+     const me = c;
+     me[se] = ee, u(me);
+   }, [c]);
+diff --git a/node_modules/@cu-mkp/editioncrafter/dist/es/src/TagExplore/components/DocumentDetail.jsx b/node_modules/@cu-mkp/editioncrafter/dist/es/src/TagExplore/components/DocumentDetail.jsx
+index 1e8ee85..753ff07 100644
+--- a/node_modules/@cu-mkp/editioncrafter/dist/es/src/TagExplore/components/DocumentDetail.jsx
++++ b/node_modules/@cu-mkp/editioncrafter/dist/es/src/TagExplore/components/DocumentDetail.jsx
+@@ -69,8 +69,9 @@ function getThumbnailURL(surface) {
+ function Thumbnail(props) {
+   const { surfaceID, name, imageURL, thumbnailURL, onClick, selection, info } = props
+ 
+-  const isLeft = useMemo(() => (selection && selection?.left?.localID === info?.localID && selection?.left?.surfaceID === info?.surfaceID), [selection, info])
+-  const isRight = useMemo(() => (selection && selection?.right?.localID === info?.localID && selection?.right?.surfaceID === info?.surfaceID), [selection, info])
++  // localID is '' when the URL holds a bare (single-document) surface ID
++  const isLeft = useMemo(() => (selection && (selection?.left?.localID === info?.localID || selection?.left?.localID === '') && selection?.left?.surfaceID === info?.surfaceID), [selection, info])
++  const isRight = useMemo(() => (selection && (selection?.right?.localID === info?.localID || selection?.right?.localID === '') && selection?.right?.surfaceID === info?.surfaceID), [selection, info])
+ 
+   const onError = (currentTarget) => {
+     currentTarget.onerror = null
+diff --git a/node_modules/@cu-mkp/editioncrafter/dist/es/src/TagExplore/components/SurfaceBrowser.jsx b/node_modules/@cu-mkp/editioncrafter/dist/es/src/TagExplore/components/SurfaceBrowser.jsx
+index e3fe9aa..23816d5 100644
+--- a/node_modules/@cu-mkp/editioncrafter/dist/es/src/TagExplore/components/SurfaceBrowser.jsx
++++ b/node_modules/@cu-mkp/editioncrafter/dist/es/src/TagExplore/components/SurfaceBrowser.jsx
+@@ -95,11 +95,14 @@ function SurfaceBrowser(props) {
+   const selection = useMemo(() => getSelection(location.pathname), [location])
+ 
+   const navigateToSelection = useCallback((nextSelection) => {
+-    const folioID = nextSelection?.left ? `${nextSelection.left.localID}_${nextSelection.left.surfaceID}` : null
+-    const folioID2 = nextSelection?.right ? `${nextSelection.right.localID}_${nextSelection.right.surfaceID}` : null
++    // with a single document, EditionCrafter is not in variorum mode and
++    // indexes folios by bare surface ID, so don't prefix with the localID
++    const single = documents.length === 1
++    const folioID = nextSelection?.left ? (single ? nextSelection.left.surfaceID : `${nextSelection.left.localID}_${nextSelection.left.surfaceID}`) : null
++    const folioID2 = nextSelection?.right ? (single ? nextSelection.right.surfaceID : `${nextSelection.right.localID}_${nextSelection.right.surfaceID}`) : null
+     const navParams = `/ec/${folioID || '-1'}/${folioID ? 'f' : 'g'}/${folioID2 || '-1'}/${folioID2 ? 'f' : 'g'}`
+     navigate(navParams + location.search)
+-  }, [location.search, navigate])
++  }, [location.search, navigate, documents])
+ 
+   const updatePageCount = useCallback((documentID, numPages) => {
+     const newCount = pageCount

@@ -2,9 +2,12 @@
   "id": "ec",
   "documentName": "Artificial Flowers",
   "iiifManifest": "/ArtificialFlowers/artificial_flowers/iiif/manifest.json",
+  "dbUrl": "/ArtificialFlowers/artificial_flowers.sqlite",
   "transcriptionTypes": {
     "tc": "Transcription",
     "tl": "Working Translation"
   },
-  "viewerUrl": "/ArtificialFlowers"
+  "viewerUrl": "/ArtificialFlowers",
+  "tagExplorer": "true",
+  "baseURL": "/ArtificialFlowers"
 }
