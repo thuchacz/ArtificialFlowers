@@ -35,6 +35,8 @@ This project comes with a number of pre-built example documents for you to try o
 
 ## Semantic Tag Filtering (Tag Explorer)
 
+**Editors: see [TAGGING.md](TAGGING.md) for a non-technical guide to tagging the manuscript and regenerating the site.** The rest of this section covers the technical setup.
+
 This edition uses EditionCrafter's Tag Explorer to let readers filter pages by semantically tagged terms (materials, tools, measurements, techniques), in the manner of [editioncrafter-odt](https://performant-software.github.io/editioncrafter-odt/#/ec/). It is enabled by `"tagExplorer": "true"` and `"dbUrl"` in `data/config.json`, which cause `src/pages/index.astro` to render the `TagExplore` component instead of the plain `EditionCrafter` viewer.
 
 The tagging conventions in `artificial_flowers.xml` are:
