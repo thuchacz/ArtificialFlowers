@@ -52,6 +52,15 @@
                       <category xml:id="white_pigment"><catDesc>white pigment (petit blan)</catDesc></category>
                       <category xml:id="egg_white"><catDesc>egg white (blan d'oeuf)</catDesc></category>
                       <category xml:id="cauliflower"><catDesc>cauliflower leaves (chousfleurs)</catDesc></category>
+                      <category xml:id="brazilwood"><catDesc>brazilwood (bois ferneboucque)</catDesc></category>
+                      <category xml:id="logwood"><catDesc>logwood (bois de bresil)</catDesc></category>
+                      <category xml:id="beer"><catDesc>old beer (vielle biere)</catDesc></category>
+                      <category xml:id="soap"><catDesc>white soap (savons blan, siepez)</catDesc></category>
+                      <category xml:id="oil"><catDesc>oil (huile)</catDesc></category>
+                      <category xml:id="damask"><catDesc>damask (damae)</catDesc></category>
+                      <category xml:id="satin"><catDesc>satin (satain)</catDesc></category>
+                      <category xml:id="taffeta"><catDesc>taffeta (tafta)</catDesc></category>
+                      <category xml:id="chamomile"><catDesc>baker's chamomile (ganez de boulanger)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="tools">
                       <bibl>Tools</bibl>
@@ -89,6 +98,7 @@
                       <category xml:id="mortar"><catDesc>mortar (mortiez)</catDesc></category>
                       <category xml:id="press"><catDesc>press (pressoir)</catDesc></category>
                       <category xml:id="sieve"><catDesc>sieve (tamie)</catDesc></category>
+                      <category xml:id="chafing_dish"><catDesc>chafing dish (chaufet)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="measurements">
                       <bibl>Measurements</bibl>
@@ -1426,324 +1436,348 @@
 </div>
 
 <pb facs="#f045" />
+<div ana="#vermilion #gum_tragacanth #carmine #english_ash #verdigris #vinegar #paper #parchment #leaf #stem #paintbrush #pot #ounce #drop #painting #tracing #soaking #dipping #dyeing">
 <ab>
-<lb />Le vermilion se demelle, aūec de la claire 
-<lb />gomme, estant bien demelaij, on verse dessūs un 
-<lb />petit peūt d’eaū, et qūelqūe goūtes de gomme ~ 
-<lb />pūis on le laisse, deūx, oū trois heūrs, comme sa, 
-<lb />ensūite on paintūre, aūec le pincaūx, sūr les papier, 
-<lb />me qūand le vermilion deūient trop espez, il faūt 
+<lb />Le <seg ana="#vermilion">vermilion</seg> se demelle, aūec de la claire
+<lb /><seg ana="#gum_tragacanth">gomme</seg>, estant bien demelaij, on verse dessūs un
+<lb />petit peūt d’eaū, et qūelqūe <seg ana="#drop">goūtes</seg> de <seg ana="#gum_tragacanth">gomme</seg> ~
+<lb />pūis on le laisse, deūx, oū trois heūrs, comme sa,
+<lb />ensūite on <seg ana="#painting">paintūre</seg>, aūec le <seg ana="#paintbrush">pincaūx</seg>, sūr les <seg ana="#paper">papier</seg>,
+<lb />me qūand le <seg ana="#vermilion">vermilion</seg> deūient trop espez, il faūt
 <lb />toūjoūrs le d’epecir aūec un peūt d’eaū, et de la ~
-<lb />claire gomme. ~~~
-<lb />Le carmin se demelle, comme jaij die cij deūant, 
-<lb />a la quatrieme feūlles, aū commencement de ce 
-<lb />liūre, a cette marqūe, ✹ on retoūrne la feūille, 
+<lb />claire <seg ana="#gum_tragacanth">gomme</seg>. ~~~
+<lb />Le <seg ana="#carmine">carmin</seg> se demelle, comme jaij die cij deūant,
+<lb />a la quatrieme feūlles, aū commencement de ce
+<lb />liūre, a cette marqūe, ✹ on retoūrne la feūille,
 <lb />et long voie la maniere, de demeler le bleu qūe
-<lb />lons appelle de cendre d’angleter, cette tintūre ser, 
-<lb />poūr pintūrer des fleūrs bleūse, et violet aūsij, 
-<lb />poūr sa, il sūfie de passer le pincaūx roūge, sūr la fleūr bleūse
-<lb />Poūr accomoder le ver, poūr pintūrer les feūlles 
-<lb />et les qūeūs des fleūrs, sūr le papier, oū parche=
-<lb />=min, lons prend dū ver de gris preparez, la
-<lb />valeūr d’ūne demie onsse, plūs, oū moin, a la=
-<lb />=venant qūe lons veūx beaūcoūp, oū peūt tracer, on 
-<lb />le met tramper dans un petit pot aūec un 
-<lb />peūt de vinaigre, il sūfie qūand le vinaigre, 
-<lb />et un peūt aū dessūs dū ver, ensūite on le ~ 
-<lb />laisse tremper un joūr, et une nūit, de la on 
-<lb />sans ser aūec le pincaūx, en le plongent a 
-<lb />chaqūe fois, un peūt dans l’epez de la tintūre, 
-<lb />qūand la tintūre deūient trop espesse, il faūt ij
+<lb />lons appelle de <seg ana="#english_ash">cendre d’angleter</seg>, cette <seg ana="#dyeing">tintūre</seg> ser,
+<lb />poūr <seg ana="#painting">pintūrer</seg> des fleūrs bleūse, et violet aūsij,
+<lb />poūr sa, il sūfie de passer le <seg ana="#paintbrush">pincaūx</seg> roūge, sūr la fleūr bleūse
+<lb />Poūr accomoder le <seg ana="#verdigris">ver</seg>, poūr <seg ana="#painting">pintūrer</seg> les <seg ana="#leaf">feūlles</seg>
+<lb />et les <seg ana="#stem">qūeūs</seg> des fleūrs, sūr le <seg ana="#paper">papier</seg>, oū <seg ana="#parchment">parche=
+<lb />=min</seg>, lons prend dū <seg ana="#verdigris">ver de gris</seg> preparez, la
+<lb />valeūr d’ūne demie <seg ana="#ounce">onsse</seg>, plūs, oū moin, a la=
+<lb />=venant qūe lons veūx beaūcoūp, oū peūt <seg ana="#tracing">tracer</seg>, on
+<lb />le met <seg ana="#soaking">tramper</seg> dans un petit <seg ana="#pot">pot</seg> aūec un
+<lb />peūt de <seg ana="#vinegar">vinaigre</seg>, il sūfie qūand le <seg ana="#vinegar">vinaigre</seg>,
+<lb />et un peūt aū dessūs dū <seg ana="#verdigris">ver</seg>, ensūite on le ~
+<lb />laisse <seg ana="#soaking">tremper</seg> un joūr, et une nūit, de la on
+<lb />sans ser aūec le <seg ana="#paintbrush">pincaūx</seg>, en le <seg ana="#dipping">plongent</seg> a
+<lb />chaqūe fois, un peūt dans l’epez de la <seg ana="#dyeing">tintūre</seg>,
+<lb />qūand la <seg ana="#dyeing">tintūre</seg> deūient trop espesse, il faūt ij
 </ab>
+</div>
 
 <pb facs="#f046" />
+<div ana="#verdigris #gum_tragacanth #vinegar #paper #quarter_pound #ounce #drop #marble_slab #sieve #pot #paintbrush #grinding #straining #tracing">
 <ab>
-<lb />Notez qūand voūs ne voūlez pas acheter le ver 
-<lb />chez le peintre; ~ ✠✠✠● ● a ces marqūe, lisez, 
-<lb />Voila la maniere comme il faūt le preparer; 
-<lb />il faūt prendre une demie cartron; oū un onse, 
-<lb />de verdegrie, il doit estre bien etampez, pūis le 
-<lb />passer par un gros petit tamie; pūis il faūt le froter, 
-<lb />aūec de la claire gomme, et qūelqūe goūte de vineigre; 
-<lb />desūr un caraūx de marbe, oū de grez; estant frotez 
-<lb />assez; il le faūt mettre dans un petit pot, et le desse=
-<lb />=pesirre aūec dū vinaigre; et de tens, en tens, le ralonger
+<lb />Notez qūand voūs ne voūlez pas acheter le <seg ana="#verdigris">ver</seg>
+<lb />chez le peintre; ~ ✠✠✠● ● a ces marqūe, lisez,
+<lb />Voila la maniere comme il faūt le preparer;
+<lb />il faūt prendre une demie <seg ana="#quarter_pound">cartron</seg>; oū un <seg ana="#ounce">onse</seg>,
+<lb />de <seg ana="#verdigris">verdegrie</seg>, il doit estre bien <seg ana="#grinding">etampez</seg>, pūis le
+<lb /><seg ana="#straining">passer</seg> par un gros petit <seg ana="#sieve">tamie</seg>; pūis il faūt le <seg ana="#grinding">froter</seg>,
+<lb />aūec de la claire <seg ana="#gum_tragacanth">gomme</seg>, et qūelqūe <seg ana="#drop">goūte</seg> de <seg ana="#vinegar">vineigre</seg>;
+<lb />desūr un <seg ana="#marble_slab">caraūx de marbe</seg>, oū de grez; estant <seg ana="#grinding">frotez</seg>
+<lb />assez; il le faūt mettre dans un petit <seg ana="#pot">pot</seg>, et le desse=
+<lb />=pesirre aūec dū <seg ana="#vinegar">vinaigre</seg>; et de tens, en tens, le ralonger
 <lb />toūjoūr comme sa; en ij metans qūelqūe fois qūelqūe
-<lb />goūte de gomme, sans jamais mettre de l’eaū dedans;
-<lb />parce qūe le vinaigre et le melieūre
-<lb />apres sa voūs en serūez aūec le peincaūx, poūr tracer 
-<lb />sūr le papier, &amp;.c ~~~
-<lb />Me qūand voūs voūlez aūoir le ver un peūt plūs 
-<lb />brūn, il faūt ij mettre de la gomme un peūt plūs; ~
+<lb /><seg ana="#drop">goūte</seg> de <seg ana="#gum_tragacanth">gomme</seg>, sans jamais mettre de l’eaū dedans;
+<lb />parce qūe le <seg ana="#vinegar">vinaigre</seg> et le melieūre
+<lb />apres sa voūs en serūez aūec le <seg ana="#paintbrush">peincaūx</seg>, poūr <seg ana="#tracing">tracer</seg>
+<lb />sūr le <seg ana="#paper">papier</seg>, &amp;.c ~~~
+<lb />Me qūand voūs voūlez aūoir le <seg ana="#verdigris">ver</seg> un peūt plūs
+<lb />brūn, il faūt ij mettre de la <seg ana="#gum_tragacanth">gomme</seg> un peūt plūs; ~
 </ab>
+</div>
 
 <pb facs="#f047" />
+<div ana="#brazilwood #logwood #beer #alum #patar #liard #pint #boiling #straining #cloth #bottle #dyeing #painting #tracing #mussel_shell #oyster_shell #cambric #paper #paintbrush">
 <ab>
-<lb />Notez, encorre une aūtre maniere, poūr le meme roūge; 
-<lb />✠ Prenez poūr un patar de bois ferneboūcqūe, et poūr 
-<lb />deūx liar olūn, aūec deūx peinte de vielle bier, la plūs
-<lb />vielle, et la meileūr; laisez sa boūlier ensemble, jūsqūa
-<lb />la moitiez; ensūite on passe la soūpe par un clair
-<lb />linge, et on le verse dans une boūteille; et qūand
-<lb />lons veūx sens serūirre, et pintūrer aūec; lons verse 
-<lb />de cette tintūr roūge, dans une ecaille de moūlet, ou
-<lb />bien dans une ecaille d’oūster, et le leseirre comme sa
+<lb />Notez, encorre une aūtre maniere, poūr le meme roūge;
+<lb />✠ Prenez poūr un <seg ana="#patar">patar</seg> de <seg ana="#brazilwood">bois ferneboūcqūe</seg>, et poūr
+<lb />deūx <seg ana="#liard">liar</seg> <seg ana="#alum">olūn</seg>, aūec deūx <seg ana="#pint">peinte</seg> de <seg ana="#beer">vielle bier</seg>, la plūs
+<lb />vielle, et la meileūr; laisez sa <seg ana="#boiling">boūlier</seg> ensemble, jūsqūa
+<lb />la moitiez; ensūite on <seg ana="#straining">passe</seg> la soūpe par un clair
+<lb /><seg ana="#cloth">linge</seg>, et on le verse dans une <seg ana="#bottle">boūteille</seg>; et qūand
+<lb />lons veūx sens serūirre, et <seg ana="#painting">pintūrer</seg> aūec; lons verse
+<lb />de cette <seg ana="#dyeing">tintūr</seg> roūge, dans une <seg ana="#mussel_shell">ecaille de moūlet</seg>, ou
+<lb />bien dans une <seg ana="#oyster_shell">ecaille d’oūster</seg>, et le leseirre comme sa
 <lb />5. oū 6. heūre. et si voūs poūūez la mettre qūelqūe
-<lb />heūre dans le soleil, la tintūr sera plūtot pretre a sens
-<lb />serūirre, poūr veū qūe le soleil ne soit pas trop ardans; 
-<lb />car la teintūre seroit dans peūt de tems, toūs diminūez, et
-<lb />secqūe dans l’ecaille; apres sa, il faūt verser la claire dans 
-<lb />une aūtres ecaille bien propre aūsi, et qūelqūe heūre apres, 
+<lb />heūre dans le soleil, la <seg ana="#dyeing">tintūr</seg> sera plūtot pretre a sens
+<lb />serūirre, poūr veū qūe le soleil ne soit pas trop ardans;
+<lb />car la <seg ana="#dyeing">teintūre</seg> seroit dans peūt de tems, toūs diminūez, et
+<lb />secqūe dans l’ecaille; apres sa, il faūt verser la claire dans
+<lb />une aūtres ecaille bien propre aūsi, et qūelqūe heūre apres,
 <lb />encorre le verser dans une aūtre ecaille; il faūt continuer
-<lb />comme sa, deūx oū trois fois, s’il en est besoin; car qūan la 
-<lb />tintūr deūien un peūt epesse, ce marqūe qūel est bien poūr tracer 
-<lb />sūr le cambraij, et sūr le papier; voūs poūūez eproūūer aūec le
-<lb />peincaūx si la coūleūr est bien, poūr voūs en serūirre; Notez,
-<lb />De la meme maniere aūsi lons aprette, oū preparre la coūleūr 
-<lb />violet; me en place de bois ferneboūcqūe; il faūt prendre dū
-<lb />bois de bresil; Notez qūil faūt qūe ce soit de la bon bier, sans
+<lb />comme sa, deūx oū trois fois, s’il en est besoin; car qūan la
+<lb /><seg ana="#dyeing">tintūr</seg> deūien un peūt epesse, ce marqūe qūel est bien poūr <seg ana="#tracing">tracer</seg>
+<lb />sūr le <seg ana="#cambric">cambraij</seg>, et sūr le <seg ana="#paper">papier</seg>; voūs poūūez eproūūer aūec le
+<lb /><seg ana="#paintbrush">peincaūx</seg> si la coūleūr est bien, poūr voūs en serūirre; Notez,
+<lb />De la meme maniere aūsi lons aprette, oū preparre la coūleūr
+<lb />violet; me en place de <seg ana="#brazilwood">bois ferneboūcqūe</seg>; il faūt prendre dū
+<lb /><seg ana="#logwood">bois de bresil</seg>; Notez qūil faūt qūe ce soit de la <seg ana="#beer">bon bier</seg>, sans
 <lb />estre melez, qūand elle seroit dix. et 20. ans vielle) lons fait dū
-<lb />papiez roūge aūsi, aūec ce deūx roūge, et dū violet aūsi ~~
+<lb /><seg ana="#paper">papiez</seg> roūge aūsi, aūec ce deūx roūge, et dū violet aūsi ~~
 </ab>
+</div>
 
 <pb facs="#f048" />
+<div ana="#verdigris #gum_tragacanth #vinegar #oil #brazilwood #alum #paper #quarter_pound #pint #drop #soaking #boiling #straining #cloth #bottle #mussel_shell #oyster_shell #painting #dyeing">
 <ab>
-<lb />verser un peūt dū vinaigre, et qūelque fois 
-<lb />aūsi un peūt d’eaū, en place de vinaigre, me 
-<lb />la premiere fois, il faūt toūjoūr le mettre tram=
-<lb />=per aūec dū vinaigre, et cinq, oū six goūtes, 
-<lb />de claire gomme, on achette ce ver de gris 
-<lb />preparez, chez le pintre, en disans qūe le 
-<lb />die ver, et poūr pindre sūr le papier, qūil ne
-<lb />doit pas estre preparez, aūec de l’hūile; ~
+<lb />verser un peūt dū <seg ana="#vinegar">vinaigre</seg>, et qūelque fois
+<lb />aūsi un peūt d’eaū, en place de <seg ana="#vinegar">vinaigre</seg>, me
+<lb />la premiere fois, il faūt toūjoūr le mettre <seg ana="#soaking">tram=
+<lb />=per</seg> aūec dū <seg ana="#vinegar">vinaigre</seg>, et cinq, oū six <seg ana="#drop">goūtes</seg>,
+<lb />de claire <seg ana="#gum_tragacanth">gomme</seg>, on achette ce <seg ana="#verdigris">ver de gris</seg>
+<lb />preparez, chez le pintre, en disans qūe le
+<lb />die ver, et poūr <seg ana="#painting">pindre</seg> sūr le <seg ana="#paper">papier</seg>, qūil ne
+<lb />doit pas estre preparez, aūec de l’<seg ana="#oil">hūile</seg>; ~
 <lb />✠✠✠ ..
 <lb />Un aūtre maniere encorre, a faire dū
-<lb />roūge poūr pintūrer, dessūs le papier, lons~
-<lb />prend un cartron de bois ferneboūcqūe, aūec
-<lb />deūx pinte de vinaigre, et une demie car=
-<lb />=tron d’oleūn, on laisse boūlier sa, jūsqua la 
-<lb />moitiez, ensūite, on passe la soūpe par un 
-<lb />linge, et on le verse, dans une boūteille, 
-<lb />cela demeūre trois aen, bon, poūr sens 
+<lb />roūge poūr <seg ana="#painting">pintūrer</seg>, dessūs le <seg ana="#paper">papier</seg>, lons~
+<lb />prend un <seg ana="#quarter_pound">cartron</seg> de <seg ana="#brazilwood">bois ferneboūcqūe</seg>, aūec
+<lb />deūx <seg ana="#pint">pinte</seg> de <seg ana="#vinegar">vinaigre</seg>, et une demie <seg ana="#quarter_pound">car=
+<lb />=tron</seg> d’<seg ana="#alum">oleūn</seg>, on laisse <seg ana="#boiling">boūlier</seg> sa, jūsqua la
+<lb />moitiez, ensūite, on <seg ana="#straining">passe</seg> la soūpe par un
+<lb /><seg ana="#cloth">linge</seg>, et on le verse, dans une <seg ana="#bottle">boūteille</seg>,
+<lb />cela demeūre trois aen, bon, poūr sens
 <lb />serūire, ~~~~~~ lisez a cette ✠
-<lb />Me qūand long veūx, pintūrer aūec le 
+<lb />Me qūand long veūx, <seg ana="#painting">pintūrer</seg> aūec le
 <lb />dit roūge, lons verse de ce roūge, dans une
-<lb />ecaille de moūlet, oū bien, dans une ecaille 
-<lb />d’oūstre, il faūt le mettre dans le soleil
+<lb /><seg ana="#mussel_shell">ecaille de moūlet</seg>, oū bien, dans une <seg ana="#oyster_shell">ecaille
+<lb />d’oūstre</seg>, il faūt le mettre dans le soleil
 <lb />l’espasse de sept, oū hūit heūre, ensūite
 <lb />on verse le claire dans une aūtres~
 <lb />ecaille bien propre aūsi; et le l’andemain
 </ab>
+</div>
 
 <pb facs="#f049" />
+<div ana="#chafing_dish #paintbrush #paper #drop #brazilwood #logwood #gum_tragacanth #dyeing #tracing #dipping">
 <ab>
-<lb />on le verse encorre dans une aūtre, s’il 
-<lb />en est besoin, me qūand le soleil ne 
-<lb />lūijs pas, on met l’ecaille sūr une chaū=
-<lb />=fet for tiede, et ensūite l’on faist com[m]e
-<lb />cij deūant, pūis l’on plonge le pincaū dans 
-<lb />la tintūrre, et long trace sūr le papier 
-<lb />aūec, poūr voire si la coūloeūr et bien, 
+<lb />on le verse encorre dans une aūtre, s’il
+<lb />en est besoin, me qūand le soleil ne
+<lb />lūijs pas, on met l’ecaille sūr une <seg ana="#chafing_dish">chaū=
+<lb />=fet</seg> for tiede, et ensūite l’on faist com[m]e
+<lb />cij deūant, pūis l’on <seg ana="#dipping">plonge</seg> le <seg ana="#paintbrush">pincaū</seg> dans
+<lb />la <seg ana="#dyeing">tintūrre</seg>, et long <seg ana="#tracing">trace</seg> sūr le <seg ana="#paper">papier</seg>
+<lb />aūec, poūr voire si la coūloeūr et bien,
 <lb />me, si l’ons voie, qūe la coūloeūr ne pas
-<lb />encorre bien, et un peūt epesse, il faūt 
+<lb />encorre bien, et un peūt epesse, il faūt
 <lb />attendre un joūr plūs longtemp a s&apos;enser=
-<lb />=ūire, ensūite l’ons fait son mieū poūr 
-<lb />user cette tintūre dans un joūr, oū deūx, 
+<lb />=ūire, ensūite l’ons fait son mieū poūr
+<lb />user cette <seg ana="#dyeing">tintūre</seg> dans un joūr, oū deūx,
 <lb />parce’qūel deūien trop espesse a sens ser=
 <lb />=virre, si bien qūon est contrain, die
-<lb />verser deūx, oū trois goūte d’eaū, et sa 
-<lb />est caūse, qūe la tintūre tracez dessūs
-<lb />le papiez, se passe for facilement, et
+<lb />verser deūx, oū trois <seg ana="#drop">goūte</seg> d’eaū, et sa
+<lb />est caūse, qūe la <seg ana="#dyeing">tintūre</seg> <seg ana="#tracing">tracez</seg> dessūs
+<lb />le <seg ana="#paper">papiez</seg>, se passe for facilement, et
 <lb />ne dūre pas si long temp aūsi, ~~
 <lb />De la meme maniere aūsi, lons ap=
 <lb />=prette la coūleūr violet, mais en place
-<lb />de ferneboūcqūe, il faūt prendre, dū
-<lb />bois de bresil. ~~~
-<lb />La maniere poūr fondre la gomme de sois, comme
+<lb />de <seg ana="#brazilwood">ferneboūcqūe</seg>, il faūt prendre, dū
+<lb /><seg ana="#logwood">bois de bresil</seg>. ~~~
+<lb />La maniere poūr fondre la <seg ana="#gum_tragacanth">gomme de sois</seg>, comme
 <lb />cij deūant; retoūrnez qūatorze foeūls; ~~~
 </ab>
+</div>
 
 <pb facs="#f050" />
+<div ana="#silk #damask #satin #rainwater #soap #gum_tragacanth #starch_blue #dyeing #washing #rinsing #drying #boiling #stick #cord #board #pressing #starching">
 <ab>
-<lb />dū damae 
-<lb />Maniere poūr tindre de la soie, + et
-<lb />dū satain, si la soie blanche, ne pas 
-<lb />bien propre, et fort soūlliez, oū aūec 
-<lb />de taches, il faūt le laūer aūec de l’eaū 
-<lb />de plūis froide, et dū saūons blan, oū 
-<lb />bien aūec dū saūons comme on laūe le
-<lb />+ me le saūons blan et mieū
-<lb />linge + ensūite on le rincé, et on le fait 
-<lb />secher;
-<lb />ensūite, estant secqūe, si ce poūr rester
-<lb />blanche, lon demel dans la gomme de sois, un peūt 
-<lb />dū palle bleū danpoise, il faūt faire le reste com[m]e il sūit.
-<lb />La tintūre roūge, et violet, poūr la sois,
-<lb />se boūlle, comme jaij die cij deūant, il faūt 
-<lb />mettre la sois dedans, et le leser bien boū=
-<lb />=lier, dela on prend la sois, or de la soūpe
-<lb />aūec un baton, ons loūūre et on le pend
-<lb />aū cordons, estant saichez, on laūe la 
-<lb />dit soie dans une siepez de saūons 
-<lb />blan, poūr l’eclaircijr, estant laūé, on 
-<lb />le raince dans de l’aeū de plūis, et on 
-<lb />le pend aū corde, ✠ estant saiqūe: [deletion begins] on
-<lb />le plaqūe, dessūr une planche, ensūite 
-<lb />~ons le fait saicher, dela on la repasse 
+<lb />dū <seg ana="#damask">damae</seg>
+<lb />Maniere poūr <seg ana="#dyeing">tindre</seg> de la <seg ana="#silk">soie</seg>, + et
+<lb />dū <seg ana="#satin">satain</seg>, si la <seg ana="#silk">soie</seg> blanche, ne pas
+<lb />bien propre, et fort soūlliez, oū aūec
+<lb />de taches, il faūt le <seg ana="#washing">laūer</seg> aūec de l’<seg ana="#rainwater">eaū
+<lb />de plūis</seg> froide, et dū <seg ana="#soap">saūons blan</seg>, oū
+<lb />bien aūec dū <seg ana="#soap">saūons</seg> comme on laūe le
+<lb />+ me le <seg ana="#soap">saūons blan</seg> et mieū
+<lb />linge + ensūite on le <seg ana="#rinsing">rincé</seg>, et on le fait
+<lb /><seg ana="#drying">secher</seg>;
+<lb />ensūite, estant <seg ana="#drying">secqūe</seg>, si ce poūr rester
+<lb />blanche, lon demel dans la <seg ana="#gum_tragacanth">gomme de sois</seg>, un peūt
+<lb />dū <seg ana="#starch_blue">palle bleū danpoise</seg>, il faūt faire le reste com[m]e il sūit.
+<lb />La <seg ana="#dyeing">tintūre</seg> roūge, et violet, poūr la <seg ana="#silk">sois</seg>,
+<lb />se <seg ana="#boiling">boūlle</seg>, comme jaij die cij deūant, il faūt
+<lb />mettre la <seg ana="#silk">sois</seg> dedans, et le leser bien <seg ana="#boiling">boū=
+<lb />=lier</seg>, dela on prend la <seg ana="#silk">sois</seg>, or de la soūpe
+<lb />aūec un <seg ana="#stick">baton</seg>, ons loūūre et on le pend
+<lb />aū <seg ana="#cord">cordons</seg>, estant <seg ana="#drying">saichez</seg>, on <seg ana="#washing">laūe</seg> la
+<lb />dit <seg ana="#silk">soie</seg> dans une siepez de <seg ana="#soap">saūons
+<lb />blan</seg>, poūr l’eclaircijr, estant <seg ana="#washing">laūé</seg>, on
+<lb />le <seg ana="#rinsing">raince</seg> dans de l’<seg ana="#rainwater">aeū de plūis</seg>, et on
+<lb />le pend aū <seg ana="#cord">corde</seg>, ✠ estant <seg ana="#drying">saiqūe</seg>: [deletion begins] on
+<lb />le plaqūe, dessūr une <seg ana="#board">planche</seg>, ensūite
+<lb />~ons le fait <seg ana="#drying">saicher</seg>, dela on la <seg ana="#pressing">repasse</seg>
 <lb />comme l’ons faist le lainge,. Notez
 <lb />cette marqūe trois lingnes plūs haūt, [deletion ends]
-<lb />✠ estant saiqūe: il faūt l’enpeser aūec de
+<lb />✠ estant <seg ana="#drying">saiqūe</seg>: il faūt l’<seg ana="#starching">enpeser</seg> aūec de
 </ab>
+</div>
 
 <pb facs="#f051" />
+<div ana="#silk #taffeta #gum_tragacanth #starch_blue #vinegar #beer #rainwater #pint #soap #dyeing #boiling #soaking #washing #drying #polishing #pressing #board #cord #iron">
 <ab>
-<lb />la gomme de sois, estant bien gommez, 
-<lb />on le placqūe dessūr une planche, l’ons 
-<lb />tache de le polier aūsi unie qūe long 
-<lb />peūt, ensūite on le pend aūx corde, estant 
-<lb />qūasie saiqūe, on la repasse aūec un
-<lb />fer comme l’ons repasse le linge. ~~
+<lb />la <seg ana="#gum_tragacanth">gomme de sois</seg>, estant bien gommez,
+<lb />on le placqūe dessūr une <seg ana="#board">planche</seg>, l’ons
+<lb />tache de le <seg ana="#polishing">polier</seg> aūsi unie qūe long
+<lb />peūt, ensūite on le pend aūx <seg ana="#cord">corde</seg>, estant
+<lb />qūasie <seg ana="#drying">saiqūe</seg>, on la <seg ana="#pressing">repasse</seg> aūec un
+<lb /><seg ana="#iron">fer</seg> comme l’ons repasse le linge. ~~
 <lb />Notez, si l’ons ne veūx pas, aūoir la ~
-<lb />sois si brūn roūge en place de vinaigre 
-<lb />il faūt faire boūlier la taintūre aūec
-<lb />+ me deūx painte de vielle biere, et encorre mieū;
-<lb />de l’eaū de plūis,+ la sois estant bien ~
-<lb />boūlie, on le prend or de la taintūre, et on 
-<lb />le pend aū corde, apres sa, on le pūis tremper encorre dans la soūpe; 
-<lb />et le jetter, estant secqūe, dans la siepez, elle ~
-<lb />doit estre froide, sans jamer le chaūfer, 
+<lb /><seg ana="#silk">sois</seg> si brūn roūge en place de <seg ana="#vinegar">vinaigre</seg>
+<lb />il faūt faire <seg ana="#boiling">boūlier</seg> la <seg ana="#dyeing">taintūre</seg> aūec
+<lb />+ me deūx <seg ana="#pint">painte</seg> de <seg ana="#beer">vielle biere</seg>, et encorre mieū;
+<lb />de l’<seg ana="#rainwater">eaū de plūis</seg>,+ la <seg ana="#silk">sois</seg> estant bien ~
+<lb /><seg ana="#boiling">boūlie</seg>, on le prend or de la <seg ana="#dyeing">taintūre</seg>, et on
+<lb />le pend aū <seg ana="#cord">corde</seg>, apres sa, on le pūis <seg ana="#soaking">tremper</seg> encorre dans la soūpe;
+<lb />et le jetter, estant <seg ana="#drying">secqūe</seg>, dans la <seg ana="#soap">siepez</seg>, elle ~
+<lb />doit estre froide, sans jamer le chaūfer,
 <lb />me si toūtes les coūleūrs son bien, a sa volonté, il ne les faūt
-<lb />point laūer, en ocūcūnne m’aniere .:. ~~~~~
-<lb />Comme aūsi poūr laūer toūte sorte 
-<lb />da tafta, l’eaū na doit jamais estre chaūde, 
-<lb />on laūe toūte sorte de coūleūrs, comme 
-<lb />ons laūe le blan tafta, il faūt le
-<lb />leser tremper un joūr, et une nūit, estant 
-<lb />fort bien siepez, aūant de la laūer, pūis
-<lb />on le laūe aūsi propre qūe l’ong peūt, 
+<lb />point <seg ana="#washing">laūer</seg>, en ocūcūnne m’aniere .:. ~~~~~
+<lb />Comme aūsi poūr <seg ana="#washing">laūer</seg> toūte sorte
+<lb />da <seg ana="#taffeta">tafta</seg>, l’eaū na doit jamais estre chaūde,
+<lb />on <seg ana="#washing">laūe</seg> toūte sorte de coūleūrs, comme
+<lb />ons <seg ana="#washing">laūe</seg> le blan <seg ana="#taffeta">tafta</seg>, il faūt le
+<lb />leser <seg ana="#soaking">tremper</seg> un joūr, et une nūit, estant
+<lb />fort bien <seg ana="#soap">siepez</seg>, aūant de la <seg ana="#washing">laūer</seg>, pūis
+<lb />on le <seg ana="#washing">laūe</seg> aūsi propre qūe l’ong peūt,
 <lb />l’ons fait
-<lb />et comme le blan tafta,
-<lb />me sans bleū dans la 
-<lb />gomme de sois; ~
-<lb />La sois violet, se fait de la meme
+<lb />et comme le blan <seg ana="#taffeta">tafta</seg>,
+<lb />me sans <seg ana="#starch_blue">bleū</seg> dans la
+<lb /><seg ana="#gum_tragacanth">gomme de sois</seg>; ~
+<lb />La <seg ana="#silk">sois</seg> violet, se fait de la meme
 </ab>
+</div>
 
 <pb facs="#f052" />
+<div ana="#toile #silk #taffeta #satin #cambric #muslin #verjuice #dyeing #soaking #boiling #pressing #dipping #drying">
 <ab>
-<lb />Notez la toile jonqūille, et aūtres plūs palle coūleūrs 
-<lb />jonne; se fait comme lon fait aūec de la soie, oū dū 
-<lb />tafta, et dū satain blan; estant propre, et bien nette, 
-<lb />et comme aussi bien secqūe; il le faūt mettre tramper dans la 
-<lb />taintūr, &amp;.c me qūand elle et boūlie assez, et qūe la coūleūr
-<lb />et bien; il le faūt prendre or de la taintūr, et bien preser
-<lb />la taintūr deor; ensūite si voūs voūlez, oū si voūs le troūūez
-<lb />bon, apres aūoir eproūūez de plonger qūelqūes piece dans le 
-<lb />vergūe, et par la qūe la coūleūr et plūs agreable, a vostre
-<lb />me elle ne pas de dūrez aūec le vergūe, elle changes de coūleūrs +
+<lb />Notez la <seg ana="#toile">toile</seg> jonqūille, et aūtres plūs palle coūleūrs
+<lb />jonne; se fait comme lon fait aūec de la <seg ana="#silk">soie</seg>, oū dū
+<lb /><seg ana="#taffeta">tafta</seg>, et dū <seg ana="#satin">satain</seg> blan; estant propre, et bien nette,
+<lb />et comme aussi bien <seg ana="#drying">secqūe</seg>; il le faūt mettre <seg ana="#soaking">tramper</seg> dans la
+<lb /><seg ana="#dyeing">taintūr</seg>, &amp;.c me qūand elle et <seg ana="#boiling">boūlie</seg> assez, et qūe la coūleūr
+<lb />et bien; il le faūt prendre or de la <seg ana="#dyeing">taintūr</seg>, et bien <seg ana="#pressing">preser</seg>
+<lb />la <seg ana="#dyeing">taintūr</seg> deor; ensūite si voūs voūlez, oū si voūs le troūūez
+<lb />bon, apres aūoir eproūūez de <seg ana="#dipping">plonger</seg> qūelqūes piece dans le
+<lb /><seg ana="#verjuice">vergūe</seg>, et par la qūe la coūleūr et plūs agreable, a vostre
+<lb />me elle ne pas de dūrez aūec le <seg ana="#verjuice">vergūe</seg>, elle changes de coūleūrs +
 <lb />volontez + mettez aūssi piece, a piece, en le bien oūūrant
-<lb />dans le vergūe, toūs le reste dū cambraij, moūchelinne, 
-<lb />et toille qūe vous aūez boūlie dans la taintūrre; apres
-<lb />sa; apres l’aūoir presez, et oūūert deūx oū trois fois, dans 
-<lb />le vergūe, comme lons faits la coūleūrs de rosse, il faūt
-<lb />le bien preser or dū vergūe; aūsitot ensūite, il faūt
+<lb />dans le <seg ana="#verjuice">vergūe</seg>, toūs le reste dū <seg ana="#cambric">cambraij</seg>, <seg ana="#muslin">moūchelinne</seg>,
+<lb />et <seg ana="#toile">toille</seg> qūe vous aūez <seg ana="#boiling">boūlie</seg> dans la <seg ana="#dyeing">taintūrre</seg>; apres
+<lb />sa; apres l’aūoir <seg ana="#pressing">presez</seg>, et oūūert deūx oū trois fois, dans
+<lb />le <seg ana="#verjuice">vergūe</seg>, comme lons faits la coūleūrs de rosse, il faūt
+<lb />le bien <seg ana="#pressing">preser</seg> or dū <seg ana="#verjuice">vergūe</seg>; aūsitot ensūite, il faūt
 </ab>
+</div>
 
 <pb facs="#f053" />
+<div ana="#soap #rainwater #hide_glue #fish_glue #gamboge #saffron #cambric #cord #horsehair #washing #rinsing #pressing #drying #dipping #starching #soaking #boiling #dyeing">
 <ab>
-<lb />le jeter dans la siepez de saūons blan; ensūite ons 
-<lb />le laūe aūsi claire, qūe lons voie estre assez, pūis il 
-<lb />faūt le raincer, dans deūx aeū de plūis, a la derniere
-<lb />il faūt bien preser l’aeū deor; de la, le faire secher; et
-<lb />estant secqūe; il faūt le bien plonger, et enpeser dans 
-<lb />la colle de cūire; apres sa il faūt le pendre aū gerniez
-<lb />desūr une corde de crain, et cela aūsi unie qūe voūs poūūez
+<lb />le jeter dans la siepez de <seg ana="#soap">saūons blan</seg>; ensūite ons
+<lb />le <seg ana="#washing">laūe</seg> aūsi claire, qūe lons voie estre assez, pūis il
+<lb />faūt le <seg ana="#rinsing">raincer</seg>, dans deūx <seg ana="#rainwater">aeū de plūis</seg>, a la derniere
+<lb />il faūt bien <seg ana="#pressing">preser</seg> l’aeū deor; de la, le faire <seg ana="#drying">secher</seg>; et
+<lb />estant <seg ana="#drying">secqūe</seg>; il faūt le bien <seg ana="#dipping">plonger</seg>, et <seg ana="#starching">enpeser</seg> dans
+<lb />la <seg ana="#hide_glue">colle de cūire</seg>; apres sa il faūt le pendre aū gerniez
+<lb />desūr une <seg ana="#cord">corde</seg> de <seg ana="#horsehair">crain</seg>, et cela aūsi unie qūe voūs poūūez
 <lb />il faūt bien prendre gaerde qūe la boū, et le reste natache
-<lb />pas ensemble, car qūand elle est secqūe, il voūs faūdroit le
+<lb />pas ensemble, car qūand elle est <seg ana="#drying">secqūe</seg>, il voūs faūdroit le
 <lb />dechirer poūr le deplaqūer l’ūn de l’aūtre; il ne faūt pas
-<lb />preser la colle de cūire for or de vostre cambraij &amp;.c me
+<lb /><seg ana="#pressing">preser</seg> la <seg ana="#hide_glue">colle de cūire</seg> for or de vostre <seg ana="#cambric">cambraij</seg> &amp;.c me
 <lb />le leser un peūt bien moūliez; il faūt faire de meme aūec toūte
-<lb />le coūleūrs qūe voūs faite aūec; de meme aūssi aūec la colle
-<lb />de poisson; Notez, qūand voūs voūlez aūoir la coūleūr encorre
-<lb />plūs haūt, qūe la coūleūr jonqūille, en place de la leser trenper
-<lb />une demie heūr; il faūt le leser tranper trois qūar d’heūr, et il faūt
-<lb />le leser boūlier plūs long tans aūssi; me si ce poūr faire de fleurs; 
-<lb />la gommegūte, et le safran, est encorre mieū; com[m]e cij deūant;
+<lb />le coūleūrs qūe voūs faite aūec; de meme aūssi aūec la <seg ana="#fish_glue">colle
+<lb />de poisson</seg>; Notez, qūand voūs voūlez aūoir la coūleūr encorre
+<lb />plūs haūt, qūe la coūleūr jonqūille, en place de la leser <seg ana="#soaking">trenper</seg>
+<lb />une demie heūr; il faūt le leser <seg ana="#soaking">tranper</seg> trois qūar d’heūr, et il faūt
+<lb />le leser <seg ana="#boiling">boūlier</seg> plūs long tans aūssi; me si ce poūr faire de fleurs;
+<lb />la <seg ana="#gamboge">gommegūte</seg>, et le <seg ana="#saffron">safran</seg>, est encorre mieū; com[m]e cij deūant;
 </ab>
+</div>
 
 <pb facs="#f054" />
+<div ana="#silk #brazilwood #logwood #beer #vinegar #rainwater #dyeing">
 <ab>
-<lb />maniere aūsi, comme l’ons tains la sois 
-<lb />roūge, me en place de bois ferneboūcqūe, 
-<lb />long prend dū bois de bresil ~~
-<lb />Notez, qūe la biere, ne peūt pas estre trop vielle, qūand elle seroit doūze, et 
-<lb />20. ans vielle; et elle est beaucoūp mieu, qūe le vinaigre, et l’eaū de plūis; ~
+<lb />maniere aūsi, comme l’ons <seg ana="#dyeing">tains</seg> la <seg ana="#silk">sois</seg>
+<lb />roūge, me en place de <seg ana="#brazilwood">bois ferneboūcqūe</seg>,
+<lb />long prend dū <seg ana="#logwood">bois de bresil</seg> ~~
+<lb />Notez, qūe la <seg ana="#beer">biere</seg>, ne peūt pas estre trop vielle, qūand elle seroit doūze, et
+<lb />20. ans vielle; et elle est beaucoūp mieu, qūe le <seg ana="#vinegar">vinaigre</seg>, et l’<seg ana="#rainwater">eaū de plūis</seg>; ~
 </ab>
+</div>
+<div ana="#silk #toile #chamomile #alum #rainwater #soap #gum_tragacanth #cambric #quarter_pound #liard #pint #grinding #boiling #soaking #dyeing #pressing #washing #rinsing #drying #starching #board #cord #iron">
 <ab>
-<lb />Maniere poūr de la sois, et de la toille 
-<lb />jonqūille, il faūt prendre une demie cartron 
-<lb />+ et poūr trois liar olūn etanpez
-<lb />de ganez de boūlanger + qūe l’ons faist boūlier
-<lb />aūec deūx pinte d’eaū de plūis; l’ons met 
-<lb />+ dans la taintūr
-<lb />la sois tremper + aūs-enūiron une demie
-<lb />heūre, ensūite on le fait boūlier ensem=
-<lb />=ble, estant un peūt boūlie; lons prend la 
+<lb />Maniere poūr de la <seg ana="#silk">sois</seg>, et de la <seg ana="#toile">toille</seg>
+<lb />jonqūille, il faūt prendre une demie <seg ana="#quarter_pound">cartron</seg>
+<lb />+ et poūr trois <seg ana="#liard">liar</seg> <seg ana="#alum">olūn</seg> <seg ana="#grinding">etanpez</seg>
+<lb />de <seg ana="#chamomile">ganez de boūlanger</seg> + qūe l’ons faist <seg ana="#boiling">boūlier</seg>
+<lb />aūec deūx <seg ana="#pint">pinte</seg> d’<seg ana="#rainwater">eaū de plūis</seg>; l’ons met
+<lb />+ dans la <seg ana="#dyeing">taintūr</seg>
+<lb />la <seg ana="#silk">sois</seg> <seg ana="#soaking">tremper</seg> + aūs-enūiron une demie
+<lb />heūre, ensūite on le fait <seg ana="#boiling">boūlier</seg> ensem=
+<lb />=ble, estant un peūt <seg ana="#boiling">boūlie</seg>; lons prend la
 <lb />+ poūr voire si elle
 <lb />et bien
-<lb />soie, oū la toille or de la teintūre; + on
-<lb />le presse aūec les mains, et on la jette dans 
+<lb /><seg ana="#silk">soie</seg>, oū la <seg ana="#toile">toille</seg> or de la <seg ana="#dyeing">teintūre</seg>; + on
+<lb />le <seg ana="#pressing">presse</seg> aūec les mains, et on la jette dans
 <lb />si elle et bien;
-<lb />une siepez de saūons blan + en-sūite on le 
-<lb />laūe, aūsie claire, qūe lons voie estre assez, 
-<lb />pūis il faūt le raincer aūec de l’eaū de
-<lb />plūis et bien preser l’eaū deor, de la il 
-<lb />+ le faire secheser, et apres sa
-<lb />faūt + l’enpeser, aūec de la gomme de soie, bien
-<lb />trempez, et forte espesse, ensūite on le plaqūe 
-<lb />dessūr une planche, aūsij unie qūe lons peūt, 
-<lb />l’ūn sūr laūtre, dela ons le pend aū corde, 
-<lb />estant saiqūe, on le repassa comme lons
-<lb />fait le lainge., 
-<lb />∞ Notez, poūr faire des fleūrs 
-<lb />de cambraij, il ne faūt 
-<lb />jamais rien repasser, aūec le fer;
-<lb />Maniere poūr aūoir dū plūs palle jonne, 
-<lb />il sūfie de mettre la soie, dans la tintūrre
+<lb />une siepez de <seg ana="#soap">saūons blan</seg> + en-sūite on le
+<lb /><seg ana="#washing">laūe</seg>, aūsie claire, qūe lons voie estre assez,
+<lb />pūis il faūt le <seg ana="#rinsing">raincer</seg> aūec de l’<seg ana="#rainwater">eaū de
+<lb />plūis</seg> et bien <seg ana="#pressing">preser</seg> l’eaū deor, de la il
+<lb />+ le faire <seg ana="#drying">secheser</seg>, et apres sa
+<lb />faūt + l’<seg ana="#starching">enpeser</seg>, aūec de la <seg ana="#gum_tragacanth">gomme de soie</seg>, bien
+<lb /><seg ana="#soaking">trempez</seg>, et forte espesse, ensūite on le plaqūe
+<lb />dessūr une <seg ana="#board">planche</seg>, aūsij unie qūe lons peūt,
+<lb />l’ūn sūr laūtre, dela ons le pend aū <seg ana="#cord">corde</seg>,
+<lb />estant <seg ana="#drying">saiqūe</seg>, on le <seg ana="#pressing">repassa</seg> comme lons
+<lb />fait le lainge.,
+<lb />∞ Notez, poūr faire des fleūrs
+<lb />de <seg ana="#cambric">cambraij</seg>, il ne faūt
+<lb />jamais rien <seg ana="#pressing">repasser</seg>, aūec le <seg ana="#iron">fer</seg>;
+<lb />Maniere poūr aūoir dū plūs palle jonne,
+<lb />il sūfie de mettre la <seg ana="#silk">soie</seg>, dans la <seg ana="#dyeing">tintūrre</seg>
 </ab>
+</div>
 
 <pb facs="#f057" />
+<div ana="#toile #silk #cambric #verjuice #soap #rainwater #fountain_water #hide_glue #fish_glue #vinegar #paper #soaking #boiling #dyeing #pressing #dipping #washing #rinsing #drying #starching #polishing #iron">
 <ab>
-<lb />un peūt trenper, apres sa il faūt le faire boūlier, et
-<lb />qūan la tintūre commance a boūlier;
-<lb />estant un peūt boūlie, on le prend or
-<lb />de la tintūre, et l&apos;ons fait comme jaij
+<lb />un peūt <seg ana="#soaking">trenper</seg>, apres sa il faūt le faire <seg ana="#boiling">boūlier</seg>, et
+<lb />qūan la <seg ana="#dyeing">tintūre</seg> commance a <seg ana="#boiling">boūlier</seg>;
+<lb />estant un peūt <seg ana="#boiling">boūlie</seg>, on le prend or
+<lb />de la <seg ana="#dyeing">tintūre</seg>, et l&apos;ons fait comme jaij
 <lb />die cij deūant, aū brūn jonne, jonqūille ~~~
-<lb />La toille qūe lons tain jonne comme de la sois; estant
-<lb />tranpez une demie heūr, oū trois quar-d’heūr; estant bien boūlie, 
-<lb />et la coūleūr a sa volontez; il faūt bien preser la taintūr deor, 
-<lb />ensūite il faūt le bien oūūrire, et plonger dans la vergūe, si
-<lb />voūs le troūūez bon; pūis le bien preser le vergūe deor, et
-<lb />le jeter aūssi dans la siepez de saūons blans; estant bien 
-<lb />laūez a sa volontez, il faūt le raincer dans deūx, oū trois, 
-<lb />aūtres aeū de plūis, oū de fontainne, a la derniere, il 
-<lb />faūt bien preser l’aeū deor; pūis on le pend aū gerniez
-<lb />aūec le fenet fermez; estant secqūe; on le plonge, 
-<lb />et enpoise dans la colle de cūire; me il ne faūt pas 
-<lb />preser la colle, si fort qūe l’eaū; me le cambraij &amp;.c
-<lb />doit estre un peūt bien moūliez; comme i’ai die cij deūant, 
-<lb />pūis on le pand encorre une fois aū gerniez, aūec le 
+<lb />La <seg ana="#toile">toille</seg> qūe lons <seg ana="#dyeing">tain</seg> jonne comme de la <seg ana="#silk">sois</seg>; estant
+<lb /><seg ana="#soaking">tranpez</seg> une demie heūr, oū trois quar-d’heūr; estant bien <seg ana="#boiling">boūlie</seg>,
+<lb />et la coūleūr a sa volontez; il faūt bien <seg ana="#pressing">preser</seg> la <seg ana="#dyeing">taintūr</seg> deor,
+<lb />ensūite il faūt le bien oūūrire, et <seg ana="#dipping">plonger</seg> dans la <seg ana="#verjuice">vergūe</seg>, si
+<lb />voūs le troūūez bon; pūis le bien <seg ana="#pressing">preser</seg> le <seg ana="#verjuice">vergūe</seg> deor, et
+<lb />le jeter aūssi dans la siepez de <seg ana="#soap">saūons blans</seg>; estant bien
+<lb /><seg ana="#washing">laūez</seg> a sa volontez, il faūt le <seg ana="#rinsing">raincer</seg> dans deūx, oū trois,
+<lb />aūtres <seg ana="#rainwater">aeū de plūis</seg>, oū de <seg ana="#fountain_water">fontainne</seg>, a la derniere, il
+<lb />faūt bien <seg ana="#pressing">preser</seg> l’aeū deor; pūis on le pend aū gerniez
+<lb />aūec le fenet fermez; estant <seg ana="#drying">secqūe</seg>; on le <seg ana="#dipping">plonge</seg>,
+<lb />et <seg ana="#starching">enpoise</seg> dans la <seg ana="#hide_glue">colle de cūire</seg>; me il ne faūt pas
+<lb /><seg ana="#pressing">preser</seg> la colle, si fort qūe l’eaū; me le <seg ana="#cambric">cambraij</seg> &amp;.c
+<lb />doit estre un peūt bien moūliez; comme i’ai die cij deūant,
+<lb />pūis on le pand encorre une fois aū gerniez, aūec le
 <lb />fenet fermez, toūs comme lons faits aūec toūs les aūtres
-<lb />coūleūrs; estant secqūe; si se poūr faire de fleūrs il 
-<lb />faūt le polier aūec les mains seūllement; pūis les
-<lb />plier, et les mettre dans un papiez; il faūt faire
-<lb />comme sa aūssi, aūec toūtes le couleūrs qūe voūs faite, 
-<lb />poūr faire de fleūrs; Me qūand ce ne pas poūr faire 
-<lb />de fleūrs aūec, il faūt toūjoūrs repasser le toūs aūec 
-<lb />un fer comme ons repasse le linge; ~
-<lb />La toille roūge, et violet, se fait comme
-<lb />la sois roūge, et violet, me en place de
-<lb />vinaigre, l&apos;ons pūis prendre de l&apos;eaū de
+<lb />coūleūrs; estant <seg ana="#drying">secqūe</seg>; si se poūr faire de fleūrs il
+<lb />faūt le <seg ana="#polishing">polier</seg> aūec les mains seūllement; pūis les
+<lb />plier, et les mettre dans un <seg ana="#paper">papiez</seg>; il faūt faire
+<lb />comme sa aūssi, aūec toūtes le couleūrs qūe voūs faite,
+<lb />poūr faire de fleūrs; Me qūand ce ne pas poūr faire
+<lb />de fleūrs aūec, il faūt toūjoūrs <seg ana="#pressing">repasser</seg> le toūs aūec
+<lb />un <seg ana="#iron">fer</seg> comme ons repasse le linge; ~
+<lb />La <seg ana="#toile">toille</seg> roūge, et violet, se fait comme
+<lb />la <seg ana="#silk">sois</seg> roūge, et violet, me en place de
+<lb /><seg ana="#vinegar">vinaigre</seg>, l&apos;ons pūis prendre de l&apos;eaū de
 </ab>
+</div>
 
 <pb facs="#f058" />
 <ab>
@@ -4001,325 +4035,347 @@
 </div>
 
 <pb facs="#f045" />
+<div ana="#vermilion #gum_tragacanth #carmine #english_ash #verdigris #vinegar #paper #parchment #leaf #stem #paintbrush #pot #ounce #drop #painting #tracing #soaking #dipping #dyeing">
 <ab>
-<lb />Vermillion is mixed, with clear
-<lb />gum, being well mixed, one pours on top a
-<lb />little bit of water, and some drops of gum ~
+<lb /><seg ana="#vermilion">Vermillion</seg> is mixed, with clear
+<lb /><seg ana="#gum_tragacanth">gum</seg>, being well mixed, one pours on top a
+<lb />little bit of water, and some <seg ana="#drop">drops</seg> of <seg ana="#gum_tragacanth">gum</seg> ~
 <lb />then on leaves it, two, or three hours, like that,
-<lb />next one paints, with the paintbrush, on paper,
-<lb />but when the vermillion becomes too thick, one needs
+<lb />next one <seg ana="#painting">paints</seg>, with the <seg ana="#paintbrush">paintbrush</seg>, on <seg ana="#paper">paper</seg>,
+<lb />but when the <seg ana="#vermilion">vermillion</seg> becomes too thick, one needs
 <lb />always to thin it with a little water, and some ~
-<lb />clear gum. ~~~
-<lb />Carmine is mixed, as I have said here before,
+<lb />clear <seg ana="#gum_tragacanth">gum</seg>. ~~~
+<lb /><seg ana="#carmine">Carmine</seg> is mixed, as I have said here before,
 <lb />on the fourth folio, at the beginning of this
 <lb />book, at this mark * one returns the folio,
 <lb />and one sees the way, to mix the blue that
-<lb />one calls the ashes of England, this dye is used,
-<lb />for painting blue flowers, and violet also,
-<lb />for that, it is sufficient to pass the red paintbrush, over the blue flower
-<lb />For accommodating the green, for painting leaves
-<lb />and stems of flowers on paper, or parchment,
-<lb />one takes some prepared verdigris, the
-<lb />amount of one half ounce, more, or less, 
-<lb />hauling it up  such that  one wants much, or less to trace, one
-<lb />puts it to soak in a little, pot, with a
-<lb />little vinegar, it suffices when the vinegar,
-<lb />is a little on top of the green, next one ~
-<lb />leaves it to soak for one day, and one night, from there
-<lb />one uses it with the paintbrush, plunging it
-<lb />each time, a little in the thickness of the dye,
-<lb />when the dye becomes too thick, one needs there
+<lb />one calls the <seg ana="#english_ash">ashes of England</seg>, this <seg ana="#dyeing">dye</seg> is used,
+<lb />for <seg ana="#painting">painting</seg> blue flowers, and violet also,
+<lb />for that, it is sufficient to pass the red <seg ana="#paintbrush">paintbrush</seg>, over the blue flower
+<lb />For accommodating the <seg ana="#verdigris">green</seg>, for <seg ana="#painting">painting</seg> <seg ana="#leaf">leaves</seg>
+<lb />and <seg ana="#stem">stems</seg> of flowers on <seg ana="#paper">paper</seg>, or <seg ana="#parchment">parchment</seg>,
+<lb />one takes some prepared <seg ana="#verdigris">verdigris</seg>, the
+<lb />amount of one half <seg ana="#ounce">ounce</seg>, more, or less,
+<lb />hauling it up  such that  one wants much, or less to <seg ana="#tracing">trace</seg>, one
+<lb />puts it to <seg ana="#soaking">soak</seg> in a little, <seg ana="#pot">pot</seg>, with a
+<lb />little <seg ana="#vinegar">vinegar</seg>, it suffices when the <seg ana="#vinegar">vinegar</seg>,
+<lb />is a little on top of the <seg ana="#verdigris">green</seg>, next one ~
+<lb />leaves it to <seg ana="#soaking">soak</seg> for one day, and one night, from there
+<lb />one uses it with the <seg ana="#paintbrush">paintbrush</seg>, <seg ana="#dipping">plunging</seg> it
+<lb />each time, a little in the thickness of the <seg ana="#dyeing">dye</seg>,
+<lb />when the <seg ana="#dyeing">dye</seg> becomes too thick, one needs there
 </ab>
+</div>
 
 <pb facs="#f046" />
+<div ana="#verdigris #gum_tragacanth #vinegar #paper #quarter_pound #ounce #drop #marble_slab #sieve #pot #paintbrush #grinding #straining #tracing">
 <ab>
-<lb />Note when you don&apos;t want to buy the green
+<lb />Note when you don&apos;t want to buy the <seg ana="#verdigris">green</seg>
 <lb />at the painter&apos;s; ~ ✠ ✠ ✠ .. to this line, read
 <lb />Behold the way that one needs to prepare it;
-<lb />one needs to take a half quarter [of a pound]; or an ounce,
-<lb />of verdigris, it must be well pounded, then
-<lb />pass it through a thick little sieve; then one needs to rub it,
-<lb />with some clear gum, and a few drops of vinegar;
-<lb />on top of a marble slab, or of sandstone; being rubbed
-<lb />enough; one needs to put it in a little pot, and thin
-<lb />it with some vinegar; and from time, to time, stretch it
+<lb />one needs to take a <seg ana="#quarter_pound">half quarter [of a pound]</seg>; or an <seg ana="#ounce">ounce</seg>,
+<lb />of <seg ana="#verdigris">verdigris</seg>, it must be well <seg ana="#grinding">pounded</seg>, then
+<lb /><seg ana="#straining">pass</seg> it through a thick little <seg ana="#sieve">sieve</seg>; then one needs to <seg ana="#grinding">rub</seg> it,
+<lb />with some clear <seg ana="#gum_tragacanth">gum</seg>, and a few <seg ana="#drop">drops</seg> of <seg ana="#vinegar">vinegar</seg>;
+<lb />on top of a <seg ana="#marble_slab">marble slab</seg>, or of sandstone; being <seg ana="#grinding">rubbed</seg>
+<lb />enough; one needs to put it in a little <seg ana="#pot">pot</seg>, and thin
+<lb />it with some <seg ana="#vinegar">vinegar</seg>; and from time, to time, stretch it
 <lb />always like that; putting in some times some
-<lb />drops of gum, without ever putting water in it;
-<lb />because vinegar is the best
-<lb />after that you use it with the paintbrush, for tracing
-<lb />on paper, etc. ~~~
-<lb />But when you want to have the green a little more
-<lb />brown, one needs to put there a little more of the gum; ~
+<lb /><seg ana="#drop">drops</seg> of <seg ana="#gum_tragacanth">gum</seg>, without ever putting water in it;
+<lb />because <seg ana="#vinegar">vinegar</seg> is the best
+<lb />after that you use it with the <seg ana="#paintbrush">paintbrush</seg>, for <seg ana="#tracing">tracing</seg>
+<lb />on <seg ana="#paper">paper</seg>, etc. ~~~
+<lb />But when you want to have the <seg ana="#verdigris">green</seg> a little more
+<lb />brown, one needs to put there a little more of the <seg ana="#gum_tragacanth">gum</seg>; ~
 </ab>
+</div>
 
 <pb facs="#f047" />
+<div ana="#brazilwood #logwood #beer #alum #patar #liard #pint #boiling #straining #cloth #bottle #dyeing #painting #tracing #mussel_shell #oyster_shell #cambric #paper #paintbrush">
 <ab>
 <lb />Note, again another way, for the same red;
-<lb />✠ Take for one patard of brazil wood, and for
-<lb />two liards alum, with two pints of old beer, the older,
-<lb />is the best; leave that to boil together, until [reduced by]
-<lb />half; next one passes the soup through a clear
-<lb />linen cloth, and one pours it into a bottle; and when
-<lb />one wants to use it, and paint with it; one pours
-<lb />of this red dye, into a mussel shell, or
-<lb />just as well into an oyster shell, and leave it like that
+<lb />✠ Take for one <seg ana="#patar">patard</seg> of <seg ana="#brazilwood">brazil wood</seg>, and for
+<lb />two <seg ana="#liard">liards</seg> <seg ana="#alum">alum</seg>, with two <seg ana="#pint">pints</seg> of <seg ana="#beer">old beer</seg>, the older,
+<lb />is the best; leave that to <seg ana="#boiling">boil</seg> together, until [reduced by]
+<lb />half; next one <seg ana="#straining">passes</seg> the soup through a clear
+<lb /><seg ana="#cloth">linen cloth</seg>, and one pours it into a <seg ana="#bottle">bottle</seg>; and when
+<lb />one wants to use it, and <seg ana="#painting">paint</seg> with it; one pours
+<lb />of this red <seg ana="#dyeing">dye</seg>, into a <seg ana="#mussel_shell">mussel shell</seg>, or
+<lb />just as well into an <seg ana="#oyster_shell">oyster shell</seg>, and leave it like that
 <lb />5. or 6. hours. and if you can put it several
-<lb />hours in the sun, the dye will be ready sooner to 
+<lb />hours in the sun, the <seg ana="#dyeing">dye</seg> will be ready sooner to
 <lb />use, provided that the sun is not too ardent;
-<lb />for the dye would be in little time, too diminished, and
+<lb />for the <seg ana="#dyeing">dye</seg> would be in little time, too diminished, and
 <lb />dry in the shell; after that, one needs to pour off the clear [liquid] into
 <lb />another shell very clean also, and some hours later,
 <lb />again pour it into another shell; one needs to continue
 <lb />like this, two or three times, if there is need; for when the
-<lb />dye becomes a little thick, this marks [the point that] it is good for tracing
-<lb />on cambric, and on paper; you can test with the
-<lb />paintbrush if the color is good, for your use; Note,
+<lb /><seg ana="#dyeing">dye</seg> becomes a little thick, this marks [the point that] it is good for <seg ana="#tracing">tracing</seg>
+<lb />on <seg ana="#cambric">cambric</seg>, and on <seg ana="#paper">paper</seg>; you can test with the
+<lb /><seg ana="#paintbrush">paintbrush</seg> if the color is good, for your use; Note,
 <lb />In the same way also one readies, or prepares the color
-<lb />violet; but instead of brazil wood; one needs to take some
-<lb />logwood; Note that one needs for it to be good beer, without
+<lb />violet; but instead of <seg ana="#brazilwood">brazil wood</seg>; one needs to take some
+<lb /><seg ana="#logwood">logwood</seg>; Note that one needs for it to be <seg ana="#beer">good beer</seg>, without
 <lb />being mixed, when it will be ten. and 20. years old) One makes
-<lb />red paper of this also, with the two reds, and some violet also ~~
+<lb />red <seg ana="#paper">paper</seg> of this also, with the two reds, and some violet also ~~
 </ab>
+</div>
 
 <pb facs="#f048" />
+<div ana="#verdigris #gum_tragacanth #vinegar #oil #brazilwood #alum #paper #quarter_pound #pint #drop #soaking #boiling #straining #cloth #bottle #mussel_shell #oyster_shell #painting #dyeing">
 <ab>
-<lb />to pour a little vinegar, and sometimes
-<lb />also a little water, instead of vinegar, but
-<lb />the first time, one needs to always put to soak
-<lb />with the vinegar, and five, or six drops, 
-<lb />of clear gum, one buys the verdigris
+<lb />to pour a little <seg ana="#vinegar">vinegar</seg>, and sometimes
+<lb />also a little water, instead of <seg ana="#vinegar">vinegar</seg>, but
+<lb />the first time, one needs to always put to <seg ana="#soaking">soak</seg>
+<lb />with the <seg ana="#vinegar">vinegar</seg>, and five, or six <seg ana="#drop">drops</seg>,
+<lb />of clear <seg ana="#gum_tragacanth">gum</seg>, one buys the <seg ana="#verdigris">verdigris</seg>
 <lb />prepared, at the painter&apos;s, saying that the
-<lb />said green, is for painting on paper, such that it
-<lb />does not have to be prepared, with oil; ~
+<lb />said green, is for <seg ana="#painting">painting</seg> on <seg ana="#paper">paper</seg>, such that it
+<lb />does not have to be prepared, with <seg ana="#oil">oil</seg>; ~
 <lb />✠ ✠ ✠ ..
-<lb />Another way again, to make 
-<lb />red for painting, on paper, one ~
-<lb />takes a quarter [of a pound] of brazil wood, with
-<lb />two pintes of vinegar, and a half quarter
-<lb />[of a pound] of alum, one leaves it to boil like that, until
-<lb />[reduced by] half, next, one passes the soup through a
-<lb />linen cloth, and one pours it, into a bottle,
+<lb />Another way again, to make
+<lb />red for <seg ana="#painting">painting</seg>, on <seg ana="#paper">paper</seg>, one ~
+<lb />takes a <seg ana="#quarter_pound">quarter [of a pound]</seg> of <seg ana="#brazilwood">brazil wood</seg>, with
+<lb />two <seg ana="#pint">pintes</seg> of <seg ana="#vinegar">vinegar</seg>, and a <seg ana="#quarter_pound">half quarter
+<lb />[of a pound]</seg> of <seg ana="#alum">alum</seg>, one leaves it to <seg ana="#boiling">boil</seg> like that, until
+<lb />[reduced by] half, next, one <seg ana="#straining">passes</seg> the soup through a
+<lb /><seg ana="#cloth">linen cloth</seg>, and one pours it, into a <seg ana="#bottle">bottle</seg>,
 <lb />this lasts for three years, well, for your
 <lb />use, ~~~~~~ read to this ✠
-<lb />But when one wants, to paint with the
+<lb />But when one wants, to <seg ana="#painting">paint</seg> with the
 <lb />said red, one pours of this red, into a
-<lb />mussel shell, or just as well, into an oyster
-<lb />shell, one needs to put it in the sun
+<lb /><seg ana="#mussel_shell">mussel shell</seg>, or just as well, into an <seg ana="#oyster_shell">oyster
+<lb />shell</seg>, one needs to put it in the sun
 <lb />for the space of seven, or eight hours, next
 <lb />one pours off the clear [liquid] into another ~
 <lb />shell, very clean also; and the next day
 </ab>
+</div>
 
 <pb facs="#f049" />
+<div ana="#chafing_dish #paintbrush #paper #drop #brazilwood #logwood #gum_tragacanth #dyeing #tracing #dipping">
 <ab>
 <lb />one pours it again into another, if
 <lb />there is need, but when the sun
 <lb />does not shine, one puts the shell on a
-<lb />chafing dish very tepid, and next one does as
-<lb />here before, then one plunges the paintbrush into
-<lb />the dye, and one traces on the paper
+<lb /><seg ana="#chafing_dish">chafing dish</seg> very tepid, and next one does as
+<lb />here before, then one <seg ana="#dipping">plunges</seg> the <seg ana="#paintbrush">paintbrush</seg> into
+<lb />the <seg ana="#dyeing">dye</seg>, and one <seg ana="#tracing">traces</seg> on the <seg ana="#paper">paper</seg>
 <lb />with [it], for seeing if the color is good,
 <lb />but, if one sees, that the color is not
 <lb />good yet, and a little thick, one needs to
 <lb />wait one day longer to use it,
 <lb />next one does one&apos;s best to
-<lb />use this dye in a day, or two,
-<lb />because it becomes too thick to 
+<lb />use this <seg ana="#dyeing">dye</seg> in a day, or two,
+<lb />because it becomes too thick to
 <lb />use, so much that one is obligated, to
-<lb />pour into it two, or three drops of water, and that
-<lb />is why the dye traced upon
-<lb />the paper, passes very easily, and
+<lb />pour into it two, or three <seg ana="#drop">drops</seg> of water, and that
+<lb />is why the <seg ana="#dyeing">dye</seg> <seg ana="#tracing">traced</seg> upon
+<lb />the <seg ana="#paper">paper</seg>, passes very easily, and
 <lb />also does not last too long, ~~
 <lb />In the same way also, one
 <lb />readies the color violet, but instead
-<lb />of brazil wood, one needs to take,
-<lb />logwood. ~~~
-<lb />The way for melting silk gum, as
+<lb />of <seg ana="#brazilwood">brazil wood</seg>, one needs to take,
+<lb /><seg ana="#logwood">logwood</seg>. ~~~
+<lb />The way for melting <seg ana="#gum_tragacanth">silk gum</seg>, as
 <lb />here before; return four folios; ~~~
 </ab>
+</div>
 
 <pb facs="#f050" />
+<div ana="#silk #damask #satin #rainwater #soap #gum_tragacanth #starch_blue #dyeing #washing #rinsing #drying #boiling #stick #cord #board #pressing #starching">
 <ab>
-<lb />Way of dyeing silk, of damask + and
-<lb />satin, if the white silk, is not
+<lb />Way of <seg ana="#dyeing">dyeing</seg> <seg ana="#silk">silk</seg>, of <seg ana="#damask">damask</seg> + and
+<lb /><seg ana="#satin">satin</seg>, if the white <seg ana="#silk">silk</seg>, is not
 <lb />well cleaned, and very soiled, or with
-<lb />stains, one needs to wash it with cold
-<lb />rain water, and some white soap, or
-<lb />just as well with soap, as one washes the
-<lb />linens + + but the white soap is better next one rinses it, and one
-<lb />dries it; next, being dry, if this [is] for staying
-<lb />white, one mixes in the silk gum, a little
-<lb />pale blue starch, one needs to make the rest as follows ◆
-<lb />Red dye, and violet, for silk,
-<lb />is boiled, as I said here before, one needs to
-<lb />put the silk inside, and leave it to boil well,
-<lb />from there one takes the silk, out of the soup
-<lb />with a stick, one opens it up and one hangs it
-<lb />on cords, being dry, one washes the
-<lb />said silk in a soapy wash of white soap,
-<lb />for brightening it, being washed, one
-<lb />rinses it in rain water, and one
-<lb />hangs it on cord, ✠ being dry: one
-<lb />applies it, on a board, next
-<lb />~one dries it, from there one irons it
+<lb />stains, one needs to <seg ana="#washing">wash</seg> it with cold
+<lb /><seg ana="#rainwater">rain water</seg>, and some <seg ana="#soap">white soap</seg>, or
+<lb />just as well with <seg ana="#soap">soap</seg>, as one washes the
+<lb />linens + + but the <seg ana="#soap">white soap</seg> is better next one <seg ana="#rinsing">rinses</seg> it, and one
+<lb /><seg ana="#drying">dries</seg> it; next, being <seg ana="#drying">dry</seg>, if this [is] for staying
+<lb />white, one mixes in the <seg ana="#gum_tragacanth">silk gum</seg>, a little
+<lb /><seg ana="#starch_blue">pale blue starch</seg>, one needs to make the rest as follows ◆
+<lb />Red <seg ana="#dyeing">dye</seg>, and violet, for <seg ana="#silk">silk</seg>,
+<lb />is <seg ana="#boiling">boiled</seg>, as I said here before, one needs to
+<lb />put the <seg ana="#silk">silk</seg> inside, and leave it to <seg ana="#boiling">boil</seg> well,
+<lb />from there one takes the <seg ana="#silk">silk</seg>, out of the soup
+<lb />with a <seg ana="#stick">stick</seg>, one opens it up and one hangs it
+<lb />on <seg ana="#cord">cords</seg>, being <seg ana="#drying">dry</seg>, one <seg ana="#washing">washes</seg> the
+<lb />said <seg ana="#silk">silk</seg> in a soapy wash of <seg ana="#soap">white soap</seg>,
+<lb />for brightening it, being <seg ana="#washing">washed</seg>, one
+<lb /><seg ana="#rinsing">rinses</seg> it in <seg ana="#rainwater">rain water</seg>, and one
+<lb />hangs it on <seg ana="#cord">cord</seg>, ✠ being <seg ana="#drying">dry</seg>: one
+<lb />applies it, on a <seg ana="#board">board</seg>, next
+<lb />~one <seg ana="#drying">dries</seg> it, from there one <seg ana="#pressing">irons</seg> it
 <lb />as one does the linens,. Note
 <lb />this ✠ mark three lines above,
-<lb />✠ being dry: one needs to starch it with
+<lb />✠ being <seg ana="#drying">dry</seg>: one needs to <seg ana="#starching">starch</seg> it with
 </ab>
+</div>
 
 <pb facs="#f051" />
+<div ana="#silk #taffeta #gum_tragacanth #starch_blue #vinegar #beer #rainwater #pint #soap #dyeing #boiling #soaking #washing #drying #polishing #pressing #board #cord #iron">
 <ab>
-<lb />silk gum, being well gummed,
-<lb />one applies it on a board, one [has] the
-<lb />task of polishing it also as evenly as one
-<lb />can, next one hangs it on cords, being
-<lb />quasi dry, one irons it with an
-<lb />iron as one irons the linens. ~~
+<lb /><seg ana="#gum_tragacanth">silk gum</seg>, being well gummed,
+<lb />one applies it on a <seg ana="#board">board</seg>, one [has] the
+<lb />task of <seg ana="#polishing">polishing</seg> it also as evenly as one
+<lb />can, next one hangs it on <seg ana="#cord">cords</seg>, being
+<lb />quasi <seg ana="#drying">dry</seg>, one <seg ana="#pressing">irons</seg> it with an
+<lb /><seg ana="#iron">iron</seg> as one irons the linens. ~~
 <lb />Note, if one does not want, to have the ~
-<lb />silk so red brown, instead of vinegar
-<lb />one needs to make the dye boil with
-<lb />some rain water, + + but two pints of old beer is better still; the silk being well~
-<lb />boiled, one takes it out of the dye, and one
-<lb />hangs it on cord; after that, one can soak it again in the soup;
-<lb />and throws it, bing dry, in the soapy wash, it ~
+<lb /><seg ana="#silk">silk</seg> so red brown, instead of <seg ana="#vinegar">vinegar</seg>
+<lb />one needs to make the <seg ana="#dyeing">dye</seg> <seg ana="#boiling">boil</seg> with
+<lb />some <seg ana="#rainwater">rain water</seg>, + + but two <seg ana="#pint">pints</seg> of <seg ana="#beer">old beer</seg> is better still; the <seg ana="#silk">silk</seg> being well~
+<lb /><seg ana="#boiling">boiled</seg>, one takes it out of the <seg ana="#dyeing">dye</seg>, and one
+<lb />hangs it on <seg ana="#cord">cord</seg>; after that, one can <seg ana="#soaking">soak</seg> it again in the soup;
+<lb />and throws it, bing <seg ana="#drying">dry</seg>, in the <seg ana="#soap">soapy wash</seg>, it ~
 <lb />must be cold, without ever warming it,
-<lb />but if all the colors are good, to one&apos;s liking, one must not 
-<lb />wash it at all, in any way.... ~~~~~
-<lb />Like [this] also for washing all sorts
-<lb />of taffeta, the water should never be hot,
-<lb />one washes all sorts of colors, as
-<lb />one washes white taffeta, one needs to
-<lb />leave [it] to soak for one day, and one night, being
-<lb />very well soaped, before washing it, then
-<lb />one washes it also as clean as one can,
-<lb />and one does as the white taffeta, but without blue in the
-<lb />silk gum; ~
-<lb />Violet silk, is made in the same
+<lb />but if all the colors are good, to one&apos;s liking, one must not
+<lb /><seg ana="#washing">wash</seg> it at all, in any way.... ~~~~~
+<lb />Like [this] also for <seg ana="#washing">washing</seg> all sorts
+<lb />of <seg ana="#taffeta">taffeta</seg>, the water should never be hot,
+<lb />one <seg ana="#washing">washes</seg> all sorts of colors, as
+<lb />one <seg ana="#washing">washes</seg> white <seg ana="#taffeta">taffeta</seg>, one needs to
+<lb />leave [it] to <seg ana="#soaking">soak</seg> for one day, and one night, being
+<lb />very well <seg ana="#soap">soaped</seg>, before <seg ana="#washing">washing</seg> it, then
+<lb />one <seg ana="#washing">washes</seg> it also as clean as one can,
+<lb />and one does as the white <seg ana="#taffeta">taffeta</seg>, but without <seg ana="#starch_blue">blue</seg> in the
+<lb /><seg ana="#gum_tragacanth">silk gum</seg>; ~
+<lb />Violet <seg ana="#silk">silk</seg>, is made in the same
 </ab>
+</div>
 
 <pb facs="#f052" />
+<div ana="#toile #silk #taffeta #satin #cambric #muslin #verjuice #dyeing #soaking #boiling #pressing #dipping #drying">
 <ab>
-<lb />Note jonquil cloth, and other paler yellow
-<lb />colors; are made as one makes with silk, or
-<lb />taffeta, and white satin; being clean and tidy,
-<lb />and well dried as well; one needs to put to soak in the
-<lb />dye, etc. but when it is boiled enough, and that the color
-<lb />is good; one needs to take [it] out of the dye, and and press
-<lb />the dye out well; next if you like, or if you find it
-<lb />good, after having tested plunging a few pieces in the
-<lb />verjus, and by that, that the color is more agreeable, to your
-<lb />liking +  but it is not lasting with the verjus, it changes colors + put also piece, by piece, opening it up well
-<lb />in the verjus, all the rest of the cambric, muslin,
-<lb />and cloth that you have boiled in the dye; after
-<lb />that; after having pressed it, and opened two or three times, in
-<lb />the verjus, as one does the pink colors, one needs to
-<lb />press out the verjus well; immediately next, one needs
+<lb />Note jonquil <seg ana="#toile">cloth</seg>, and other paler yellow
+<lb />colors; are made as one makes with <seg ana="#silk">silk</seg>, or
+<lb /><seg ana="#taffeta">taffeta</seg>, and white <seg ana="#satin">satin</seg>; being clean and tidy,
+<lb />and well <seg ana="#drying">dried</seg> as well; one needs to put to <seg ana="#soaking">soak</seg> in the
+<lb /><seg ana="#dyeing">dye</seg>, etc. but when it is <seg ana="#boiling">boiled</seg> enough, and that the color
+<lb />is good; one needs to take [it] out of the <seg ana="#dyeing">dye</seg>, and and <seg ana="#pressing">press</seg>
+<lb />the <seg ana="#dyeing">dye</seg> out well; next if you like, or if you find it
+<lb />good, after having tested <seg ana="#dipping">plunging</seg> a few pieces in the
+<lb /><seg ana="#verjuice">verjus</seg>, and by that, that the color is more agreeable, to your
+<lb />liking +  but it is not lasting with the <seg ana="#verjuice">verjus</seg>, it changes colors + put also piece, by piece, opening it up well
+<lb />in the <seg ana="#verjuice">verjus</seg>, all the rest of the <seg ana="#cambric">cambric</seg>, <seg ana="#muslin">muslin</seg>,
+<lb />and <seg ana="#toile">cloth</seg> that you have <seg ana="#boiling">boiled</seg> in the <seg ana="#dyeing">dye</seg>; after
+<lb />that; after having <seg ana="#pressing">pressed</seg> it, and opened two or three times, in
+<lb />the <seg ana="#verjuice">verjus</seg>, as one does the pink colors, one needs to
+<lb /><seg ana="#pressing">press</seg> out the <seg ana="#verjuice">verjus</seg> well; immediately next, one needs
 </ab>
+</div>
 
 <pb facs="#f053" />
+<div ana="#soap #rainwater #hide_glue #fish_glue #gamboge #saffron #cambric #cord #horsehair #washing #rinsing #pressing #drying #dipping #starching #soaking #boiling #dyeing">
 <ab>
-<lb />throw it in the soapy wash of white soap; next one
-<lb />washes it as clear, as one sees to be enough, then one 
-<lb />needs to rinse it, in two rain waters, at the last
-<lb />one needs to press the water out well; from there, dry it; and
-<lb />being dry; one needs to plunge it well, and stiffen it in
-<lb />hide glue; after that one needs to hang it in the attic
-<lb />on a horsehair cord, and that as evenly as you can
+<lb />throw it in the soapy wash of <seg ana="#soap">white soap</seg>; next one
+<lb /><seg ana="#washing">washes</seg> it as clear, as one sees to be enough, then one
+<lb />needs to <seg ana="#rinsing">rinse</seg> it, in two <seg ana="#rainwater">rain waters</seg>, at the last
+<lb />one needs to <seg ana="#pressing">press</seg> the water out well; from there, <seg ana="#drying">dry</seg> it; and
+<lb />being <seg ana="#drying">dry</seg>; one needs to <seg ana="#dipping">plunge</seg> it well, and <seg ana="#starching">stiffen</seg> it in
+<lb /><seg ana="#hide_glue">hide glue</seg>; after that one needs to hang it in the attic
+<lb />on a <seg ana="#horsehair">horsehair</seg> <seg ana="#cord">cord</seg>, and that as evenly as you can
 <lb />one needs to take good care that the end, and the rest does not stick
-<lb />together, for when it is dry, you would have to
+<lb />together, for when it is <seg ana="#drying">dry</seg>, you would have to
 <lb />tear it to detach one from the other; one does not need to
-<lb />press the hide glue strongly out of your cambric etc. but 
+<lb /><seg ana="#pressing">press</seg> the <seg ana="#hide_glue">hide glue</seg> strongly out of your <seg ana="#cambric">cambric</seg> etc. but
 <lb />leave it a little well wet; one needs to do the same with all
-<lb />the colors you make with [it]; the same also with fish
-<lb />glue; Note, when you would like to have a more
-<lb />heightened color still, than the jonquil color, instead of leaving it to soak
-<lb />for half an hour; one needs to leave it to soak three quarters of an hour, and one needs
-<lb />to leave it to boil a longer time also; but if this is for making flowers;
-<lb />gamboge, and saffron, is better still; as here above;
+<lb />the colors you make with [it]; the same also with <seg ana="#fish_glue">fish
+<lb />glue</seg>; Note, when you would like to have a more
+<lb />heightened color still, than the jonquil color, instead of leaving it to <seg ana="#soaking">soak</seg>
+<lb />for half an hour; one needs to leave it to <seg ana="#soaking">soak</seg> three quarters of an hour, and one needs
+<lb />to leave it to <seg ana="#boiling">boil</seg> a longer time also; but if this is for making flowers;
+<lb /><seg ana="#gamboge">gamboge</seg>, and <seg ana="#saffron">saffron</seg>, is better still; as here above;
 </ab>
+</div>
 
 <pb facs="#f054" />
+<div ana="#silk #toile #brazilwood #logwood #beer #vinegar #rainwater #chamomile #alum #soap #gum_tragacanth #cambric #quarter_pound #liard #pint #grinding #boiling #soaking #dyeing #pressing #washing #rinsing #drying #starching #board #cord #iron">
 <ab>
-<lb />way also, as one dyes red silk,
-<lb />but instead of brazil wood,
-<lb />one takes logwood~~
-<lb />Note, that beer, cannot be too old, when it is twelve, and
-<lb />20. years old; and it is much better, than vinegar, and rain water;~
-<lb />Way for jonquil silk, and cloth,
-<lb />one needs to take a half quarter [of a pound]
-<lb />of baker&apos;s chamomile + + and for three liards of pounded alum that one makes boil
-<lb />with two pints of rain water; one puts
-<lb />the silk to soak + + in the dye round-about a half quarter
-<lb />of an hour, next one makes it boil together,
-<lb />being a little boiled; one takes the
-<lb />silk, or cloth out of the dye; + + for seeing if it is good one
-<lb />presses it with the hands, and one throws it into
-<lb />a soapy wash of white soap + if it is good; in-following one
-<lb />washes it, as clear, as one sees to be enough,
-<lb />then one needs to rinse it with rain
-<lb />water, and press the water out well, from there one
-<lb />needs to + + make it dry, and after that stiffen it, with silk gum, well
-<lb />soaked, and strongly thick, next one applies it
-<lb />on a board, as evenly as one can,
-<lb />one on top of the other, from there one hangs it on a cord,
-<lb />being dry, one irons it as one
+<lb />way also, as one <seg ana="#dyeing">dyes</seg> red <seg ana="#silk">silk</seg>,
+<lb />but instead of <seg ana="#brazilwood">brazil wood</seg>,
+<lb />one takes <seg ana="#logwood">logwood</seg>~~
+<lb />Note, that <seg ana="#beer">beer</seg>, cannot be too old, when it is twelve, and
+<lb />20. years old; and it is much better, than <seg ana="#vinegar">vinegar</seg>, and <seg ana="#rainwater">rain water</seg>;~
+<lb />Way for jonquil <seg ana="#silk">silk</seg>, and <seg ana="#toile">cloth</seg>,
+<lb />one needs to take a <seg ana="#quarter_pound">half quarter [of a pound]</seg>
+<lb />of <seg ana="#chamomile">baker&apos;s chamomile</seg> + + and for three <seg ana="#liard">liards</seg> of <seg ana="#grinding">pounded</seg> <seg ana="#alum">alum</seg> that one makes <seg ana="#boiling">boil</seg>
+<lb />with two <seg ana="#pint">pints</seg> of <seg ana="#rainwater">rain water</seg>; one puts
+<lb />the <seg ana="#silk">silk</seg> to <seg ana="#soaking">soak</seg> + + in the <seg ana="#dyeing">dye</seg> round-about a half quarter
+<lb />of an hour, next one makes it <seg ana="#boiling">boil</seg> together,
+<lb />being a little <seg ana="#boiling">boiled</seg>; one takes the
+<lb /><seg ana="#silk">silk</seg>, or <seg ana="#toile">cloth</seg> out of the <seg ana="#dyeing">dye</seg>; + + for seeing if it is good one
+<lb /><seg ana="#pressing">presses</seg> it with the hands, and one throws it into
+<lb />a soapy wash of <seg ana="#soap">white soap</seg> + if it is good; in-following one
+<lb /><seg ana="#washing">washes</seg> it, as clear, as one sees to be enough,
+<lb />then one needs to <seg ana="#rinsing">rinse</seg> it with <seg ana="#rainwater">rain
+<lb />water</seg>, and <seg ana="#pressing">press</seg> the water out well, from there one
+<lb />needs to + + make it <seg ana="#drying">dry</seg>, and after that <seg ana="#starching">stiffen</seg> it, with <seg ana="#gum_tragacanth">silk gum</seg>, well
+<lb /><seg ana="#soaking">soaked</seg>, and strongly thick, next one applies it
+<lb />on a <seg ana="#board">board</seg>, as evenly as one can,
+<lb />one on top of the other, from there one hangs it on a <seg ana="#cord">cord</seg>,
+<lb />being <seg ana="#drying">dry</seg>, one <seg ana="#pressing">irons</seg> it as one
 <lb />does linens., ∞ Note, for making flowers
-<lb />of cambric, one needs
-<lb />never to iron anything, with the iron;
+<lb />of <seg ana="#cambric">cambric</seg>, one needs
+<lb />never to <seg ana="#pressing">iron</seg> anything, with the <seg ana="#iron">iron</seg>;
 <lb />Way for having a paler yellow,
-<lb />it suffices to put the silk, in the dye
+<lb />it suffices to put the <seg ana="#silk">silk</seg>, in the <seg ana="#dyeing">dye</seg>
 </ab>
+</div>
 
 <pb facs="#f057" />
+<div ana="#toile #silk #cambric #verjuice #soap #rainwater #fountain_water #hide_glue #fish_glue #vinegar #paper #soaking #boiling #dyeing #pressing #dipping #washing #rinsing #drying #starching #polishing #iron">
 <ab>
-<lb />to soak a little, after that one needs to make it boil, and
-<lb />when the dye starts to boil;
-<lb />being a little boiled, one takes it out
-<lb />of the dye, and one does as I 
+<lb />to <seg ana="#soaking">soak</seg> a little, after that one needs to make it <seg ana="#boiling">boil</seg>, and
+<lb />when the <seg ana="#dyeing">dye</seg> starts to <seg ana="#boiling">boil</seg>;
+<lb />being a little <seg ana="#boiling">boiled</seg>, one takes it out
+<lb />of the <seg ana="#dyeing">dye</seg>, and one does as I
 <lb />said here before, about brown yellow, jonquil ~~~
-<lb />Cloth that one dyes yellow like
-<lb />silk, at the last rinse, after having
-<lb />pressed the water out well, one can put them in
-<lb />verjus, if one wants, and if one sees that
+<lb /><seg ana="#toile">Cloth</seg> that one <seg ana="#dyeing">dyes</seg> yellow like
+<lb /><seg ana="#silk">silk</seg>, at the last <seg ana="#rinsing">rinse</seg>, after having
+<lb /><seg ana="#pressing">pressed</seg> the water out well, one can put them in
+<lb /><seg ana="#verjuice">verjus</seg>, if one wants, and if one sees that
 <lb />the color is more beautiful to one&apos;s liking, also
-<lb />the verjus, one can continue that, each
-<lb />time that one dyes, but if one sees that the
-<lb />color is not more beautiful with the verjus, it
+<lb />the <seg ana="#verjuice">verjus</seg>, one can continue that, each
+<lb />time that one <seg ana="#dyeing">dyes</seg>, but if one sees that the
+<lb />color is not more beautiful with the <seg ana="#verjuice">verjus</seg>, it
 <lb />is not necessary to use it, because the
-<lb />cambric is in peril of sticking to itself [of staining itself??], and of
-<lb />changing color, next one dries
-<lb />it, being dry, one stiffens it with 
-<lb />fish glue, and just as well with
-<lb />hide glue, if it is for making flowers;
-<lb />being dry, one irons it with the hands
-<lb />only; if not, one needs to iron it like
-<lb />silk. ~~~
-<lb />Cloth that one dyes yellow like silk; being
-<lb />soaked a half hour, or three quarters of an hour; being well boiled,
-<lb />and the color to your liking; one needs to press the dye out well,
-<lb />next one needs to open it up well, and plunge it into the verjus, if
-<lb />you find it good; then press the verjus out well, and
-<lb />throw it also into the soapy wash of white soap; being well
-<lb />washed to your liking, one needs to rinse it in two, or three,
-<lb />other rain, or fountain, waters, at the last, one
-<lb />needs to press out the water well; then one hangs it in the attic
-<lb />with the window closed; being dry; one plunges them,
-<lb />and stiffens [them] in the hide glue; but one does not need
-<lb />to press the glue, as strongly as the water; but the cambric etc.
+<lb /><seg ana="#cambric">cambric</seg> is in peril of sticking to itself [of staining itself??], and of
+<lb />changing color, next one <seg ana="#drying">dries</seg>
+<lb />it, being <seg ana="#drying">dry</seg>, one <seg ana="#starching">stiffens</seg> it with
+<lb /><seg ana="#fish_glue">fish glue</seg>, and just as well with
+<lb /><seg ana="#hide_glue">hide glue</seg>, if it is for making flowers;
+<lb />being <seg ana="#drying">dry</seg>, one <seg ana="#pressing">irons</seg> it with the hands
+<lb />only; if not, one needs to <seg ana="#pressing">iron</seg> it like
+<lb /><seg ana="#silk">silk</seg>. ~~~
+<lb /><seg ana="#toile">Cloth</seg> that one <seg ana="#dyeing">dyes</seg> yellow like <seg ana="#silk">silk</seg>; being
+<lb /><seg ana="#soaking">soaked</seg> a half hour, or three quarters of an hour; being well <seg ana="#boiling">boiled</seg>,
+<lb />and the color to your liking; one needs to <seg ana="#pressing">press</seg> the <seg ana="#dyeing">dye</seg> out well,
+<lb />next one needs to open it up well, and <seg ana="#dipping">plunge</seg> it into the <seg ana="#verjuice">verjus</seg>, if
+<lb />you find it good; then <seg ana="#pressing">press</seg> the <seg ana="#verjuice">verjus</seg> out well, and
+<lb />throw it also into the soapy wash of <seg ana="#soap">white soap</seg>; being well
+<lb /><seg ana="#washing">washed</seg> to your liking, one needs to <seg ana="#rinsing">rinse</seg> it in two, or three,
+<lb />other <seg ana="#rainwater">rain</seg>, or <seg ana="#fountain_water">fountain</seg>, waters, at the last, one
+<lb />needs to <seg ana="#pressing">press</seg> out the water well; then one hangs it in the attic
+<lb />with the window closed; being <seg ana="#drying">dry</seg>; one <seg ana="#dipping">plunges</seg> them,
+<lb />and <seg ana="#starching">stiffens</seg> [them] in the <seg ana="#hide_glue">hide glue</seg>; but one does not need
+<lb />to <seg ana="#pressing">press</seg> the glue, as strongly as the water; but the <seg ana="#cambric">cambric</seg> etc.
 <lb />must be a little well wet; as I said here before,
 <lb />then one hangs it again once more in the attic, with the
 <lb />window closed, all as one did with all the other
-<lb />colors; being dry; if it is for making flowers, one 
-<lb />needs to polish it with the hands only; then fold
-<lb />them, and put them in a paper; one needs to do
+<lb />colors; being <seg ana="#drying">dry</seg>; if it is for making flowers, one
+<lb />needs to <seg ana="#polishing">polish</seg> it with the hands only; then fold
+<lb />them, and put them in a <seg ana="#paper">paper</seg>; one needs to do
 <lb />like that also, with all the colors that you make,
 <lb />for making flowers; B when it is not for making
-<lb />flowers with, one needs always to iron it all with
-<lb />an iron as one irons linens; ~
-<lb />Red cloth, and violet, is made as
-<lb />red silk, and violet, but instead of
-<lb />vinegar, one can take rain water
+<lb />flowers with, one needs always to <seg ana="#pressing">iron</seg> it all with
+<lb />an <seg ana="#iron">iron</seg> as one irons linens; ~
+<lb />Red <seg ana="#toile">cloth</seg>, and violet, is made as
+<lb />red <seg ana="#silk">silk</seg>, and violet, but instead of
+<lb /><seg ana="#vinegar">vinegar</seg>, one can take <seg ana="#rainwater">rain water</seg>
 </ab>
+</div>
 
 <pb facs="#f058" />
 <ab>

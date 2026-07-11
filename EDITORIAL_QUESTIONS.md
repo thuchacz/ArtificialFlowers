@@ -32,11 +32,23 @@ Format: **folio · term** — the issue, what was done, and the question.
 - **"areniez"** — flower name that could not be identified; given its own category with the
   original spelling as label. **Q:** what flower is this?
 
+- **f045+ · "bois ferneboūcqūe" / "bois de bresil"** — the translator renders *ferneboucque* as
+  "brazil wood" and *bois de bresil* as "logwood", the reverse of what the French names suggest.
+  The run followed the translator (`#brazilwood` / `#logwood` respectively). **Q:** are the
+  identifications right, or should the two tags be swapped/merged?
+- **f057 · extra passage in tl only** — the translation contains a whole passage (yellow-dyed
+  cloth finished with verjuice, stiffened with fish or hide glue) with no counterpart in the
+  French transcription. Union rule applied, so the tc entry carries `#fish_glue`/`#drying`
+  without French segs. **Q:** is the passage translated from a page missing in tc, or an
+  interpolation? Affects whether the union tags should stay on the tc side.
+
 ## Terms that fit no current taxonomy (left untagged)
 
 - **"crin"** (horsehair cord, f007) — later tagged as material `#horsehair` from f021 onward;
   the f007 occurrence may deserve retro-tagging. **Q:** confirm.
-- **"grez"** (sandstone, f012) — alternative grinding surface. Worth a tool tag?
+- **"grez"** (sandstone, f012; again f046 as "caraūx de marbe, oū de grez") — alternative
+  grinding/working surface, recurring. Worth a tool tag (or widening `marble_slab` to
+  "stone slab")?
 - **"tails"** (unclear cloth measure, f010) and **"caraū"** (square/cake of lacmus, f011) —
   possible measurement categories. **Q:** add them?
 - **"la passe"** (the vellum pressing stack, f033–f034) — fits neither tool nor technique as

@@ -106,6 +106,18 @@ From f030–f042:
 - Uncertainly identified substances get a generic label with the original term in parentheses
   ("white pigment (petit blan)") rather than a speculative identification.
 
+From f045–f057:
+- The quire's page order can be jumbled: a recipe may end mid-sentence and resume several
+  folios later with unrelated notes interposed (f045→f048, f051→f054). Trace the resumption
+  and tag continuation abs per rule 5 — do not assume adjacent pages are continuous.
+- When one layer contains a whole passage the other lacks (tl f057's fish-glue stiffening),
+  the union rule still applies: both divs carry the full tag set, and the layer without the
+  passage will legitimately have div-level tags with no local segs. Flag the asymmetry.
+- Persons ("the painter"), sun exposure, and in-manuscript cross-references ("return
+  fourteen folios") fit no taxonomy: skip.
+- Subsequent bare mentions of an already-tagged vessel ("another shell") are back-references:
+  do not re-tag.
+
 ## Final report (your return message)
 
 Return a terse report: folios tagged; number of entries wrapped per layer; new categories added
