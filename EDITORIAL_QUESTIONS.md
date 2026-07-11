@@ -34,13 +34,24 @@ Format: **folio · term** — the issue, what was done, and the question.
 
 - **f045+ · "bois ferneboūcqūe" / "bois de bresil"** — the translator renders *ferneboucque* as
   "brazil wood" and *bois de bresil* as "logwood", the reverse of what the French names suggest.
-  The run followed the translator (`#brazilwood` / `#logwood` respectively). **Q:** are the
-  identifications right, or should the two tags be swapped/merged?
+  The run followed the translator (`#brazilwood` / `#logwood` respectively). **Update from
+  f069:** the translation there *swaps* the correspondence (ferneboūcqūe → "logwood", bersil →
+  "Brazilwood"); the run kept tagging by the French term, so the tags are consistent with the
+  source even where the translation is not. **Q:** are the identifications right, or should the
+  two tags be swapped/merged? The f069 translation likely needs correcting either way.
 - **f057 · extra passage in tl only** — the translation contains a whole passage (yellow-dyed
   cloth finished with verjuice, stiffened with fish or hide glue) with no counterpart in the
   French transcription. Union rule applied, so the tc entry carries `#fish_glue`/`#drying`
   without French segs. **Q:** is the passage translated from a page missing in tc, or an
   interpolation? Affects whether the union tags should stay on the tc side.
+
+- **f063 · "l'ensiepper" / "tie it up"** — the French plausibly means "to soap" (cf. *siepez* =
+  soap elsewhere), the translation says "tie it up"; doubtful in both layers, left untagged.
+  **Q:** which reading is right?
+- **f063 · "lecmoūs" / "moss/lichen?"** — tc matches the established *lacmus* term, so both
+  layers tagged `#lacmus`; the translator's "moss/lichen?" guess flagged. **Q:** confirm lacmus.
+- **f069 · "menie"/"roomenie" / "sweet wine / minium [?]"** — tagged `#red_lead` (menie =
+  minium); the tl offers "sweet wine" as an alternative. **Q:** confirm minium.
 
 ## Terms that fit no current taxonomy (left untagged)
 

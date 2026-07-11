@@ -118,6 +118,16 @@ From f045–f057:
 - Subsequent bare mentions of an already-tagged vessel ("another shell") are back-references:
   do not re-tag.
 
+From f058–f069:
+- When the translator's rendering of paired terms is INCONSISTENT across passages (f069 swaps
+  brazilwood/logwood relative to all earlier folios), tag by SOURCE-term correspondence (the
+  French word decides the tag) and flag the translation inconsistency.
+- Glossary/column layouts: a term split across lines by a column separator gets paired segs
+  (one per fragment), not one seg spanning the separator.
+- Interposed notes keyed to a reference mark (")" etc.) are continuations of each other, not of
+  the surrounding recipe; principal tag comes from the recipe they annotate.
+- Headings with nothing taggable ("Notez les non de taintūre en flament") stay unwrapped.
+
 ## Final report (your return message)
 
 Return a terse report: folios tagged; number of entries wrapped per layer; new categories added

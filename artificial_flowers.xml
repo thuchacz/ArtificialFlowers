@@ -61,6 +61,7 @@
                       <category xml:id="satin"><catDesc>satin (satain)</catDesc></category>
                       <category xml:id="taffeta"><catDesc>taffeta (tafta)</catDesc></category>
                       <category xml:id="chamomile"><catDesc>baker's chamomile (ganez de boulanger)</catDesc></category>
+                      <category xml:id="leather"><catDesc>leather scraps (cuire blan)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="tools">
                       <bibl>Tools</bibl>
@@ -99,6 +100,9 @@
                       <category xml:id="press"><catDesc>press (pressoir)</catDesc></category>
                       <category xml:id="sieve"><catDesc>sieve (tamie)</catDesc></category>
                       <category xml:id="chafing_dish"><catDesc>chafing dish (chaufet)</catDesc></category>
+                      <category xml:id="hammer"><catDesc>hammer (marteau)</catDesc></category>
+                      <category xml:id="marmite"><catDesc>cooking kettle (marmite)</catDesc></category>
+                      <category xml:id="oven"><catDesc>oven (fourre)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="measurements">
                       <bibl>Measurements</bibl>
@@ -137,6 +141,8 @@
                       <category xml:id="painting"><catDesc>painting</catDesc></category>
                       <category xml:id="scraping"><catDesc>scraping (egrater)</catDesc></category>
                       <category xml:id="printing"><catDesc>printing/imprinting (imprimer)</catDesc></category>
+                      <category xml:id="bleaching"><catDesc>whitening/bleaching (blanchir)</catDesc></category>
+                      <category xml:id="burning"><catDesc>burning (bruler)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="flowers">
                       <bibl>Flowers</bibl>
@@ -1780,172 +1786,185 @@
 </div>
 
 <pb facs="#f058" />
+<div ana="#rainwater #vinegar #toile #beer #fish_glue #fountain_water #hammer #pot #earthenware_pot #cloth #quarter_pound #pint #drop #starching #cutting #soaking #boiling #straining #dyeing">
 <ab>
-<lb />plūis, si l’ons troūūe bon, car aūterment
-<lb />le vinaigre et bon aūsi, il faūt l’enpeser 
-<lb />et faire en toūs, comme la toille jonne. 
+<lb /><seg ana="#rainwater">plūis</seg>, si l’ons troūūe bon, car aūterment
+<lb />le <seg ana="#vinegar">vinaigre</seg> et bon aūsi, il faūt l’<seg ana="#starching">enpeser</seg> 
+<lb />et faire en toūs, comme la <seg ana="#toile">toille</seg> jonne. 
 <lb />cette sorte de toille, ne pas bonne poūr
-<lb />faire de fleūrs. ~ la vielle bier, et encorre mieū,
+<lb />faire de fleūrs. ~ la <seg ana="#beer">vielle bier</seg>, et encorre mieū,
 <lb />qūand elle seroit 8. et 20. ans vielle; 
-<lb />me il faūt qūe ce soit bonne bier, il ne faūt pas qūe se soit petit bier;
-<lb />Maniere poūr faire de la colle de pois=
-<lb />=son il faūt prendre une demie cartron 
-<lb />de colle de poisson, il faūt le bien fraper
-<lb />aūec le marteaū, estant bien d’ecarpiliez
-<lb />on le coūpe, par petit morcaū, ensūite
-<lb />l’ons prend trois pinte d’eaū de plūis, oū
-<lb />de fontainne, plūtot moin, qūe plūs; dela
-<lb />on le met tremper un joūr, apres sa :+:
-<lb />:+: on le met boūlier dans un pot oū bien
-<lb />dans un coūez de terre bien net, et ~
+<lb />me il faūt qūe ce soit <seg ana="#beer">bonne bier</seg>, il ne faūt pas qūe se soit <seg ana="#beer">petit bier</seg>;
+<lb />Maniere poūr faire de la <seg ana="#fish_glue">colle de pois=
+<lb />=son</seg> il faūt prendre une demie <seg ana="#quarter_pound">cartron</seg> 
+<lb />de <seg ana="#fish_glue">colle de poisson</seg>, il faūt le bien fraper
+<lb />aūec le <seg ana="#hammer">marteaū</seg>, estant bien d’ecarpiliez
+<lb />on le <seg ana="#cutting">coūpe</seg>, par petit morcaū, ensūite
+<lb />l’ons prend trois <seg ana="#pint">pinte</seg> d’eaū de <seg ana="#rainwater">plūis</seg>, oū
+<lb />de <seg ana="#fountain_water">fontainne</seg>, plūtot moin, qūe plūs; dela
+<lb />on le met <seg ana="#soaking">tremper</seg> un joūr, apres sa :+:
+<lb />:+: on le met <seg ana="#boiling">boūlier</seg> dans un <seg ana="#pot">pot</seg> oū bien
+<lb />dans un <seg ana="#earthenware_pot">coūez de terre</seg> bien net, et ~
 <lb />noūūeaū sans aūoir serūie a aūtre chose, 
 <lb />il faūt le toūllier fort soūūent, affin
 <lb />qūe la colle ne brūlle pas aū fons
-<lb />dū pot, il faūt le leser boūlier, jūsqūa
+<lb />dū pot, il faūt le leser <seg ana="#boiling">boūlier</seg>, jūsqūa
 <lb />temp, qūe l’eaū soit diminūez aū’senūiron
-<lb />de la moitiez, lons prend qūelqūe goūte
+<lb />de la moitiez, lons prend qūelqūe <seg ana="#drop">goūte</seg>
 <lb />en boūlan aūec les dois, poūr voire, si la 
 <lb />soūpe, est crasse assez, si elle attache 
 <lb />aū dois, ensūite on le prend dū fūe, et 
-<lb />on le passe aūsitot par un linge, dans
+<lb />on le <seg ana="#straining">passe</seg> aūsitot par un <seg ana="#cloth">linge</seg>, dans
 </ab>
+</div>
 
 <pb facs="#f059" />
+<div ana="#fish_glue #hide_glue #leather #cambric #terrine #chafing_dish #earthenware_pot #pound #pint #starching #washing #pressing">
 <ab>
-<lb />une aūtre terrinne, qūand la colle ~
+<lb />une aūtre <seg ana="#terrine">terrinne</seg>, qūand la colle ~
 <lb />deūient geleaij, il faūt toūjoūr le degeler 
-<lb />dessūr un rechaū, aūant d’empeser le 
-<lb />cambraij aūec, il en faūt faire de meme
-<lb />aūsi, aūec la colle de cūirre, ~~
-<lb />Maniere poūr faire de la colle de ~
-<lb />cūire, il faūt prendre une demie liūre
-<lb />de cūire blan, comme lons coūpe les la=
+<lb />dessūr un <seg ana="#chafing_dish">rechaū</seg>, aūant d’<seg ana="#starching">empeser</seg> le 
+<lb /><seg ana="#cambric">cambraij</seg> aūec, il en faūt faire de meme
+<lb />aūsi, aūec la <seg ana="#hide_glue">colle de cūirre</seg>, ~~
+<lb />Maniere poūr faire de la <seg ana="#hide_glue">colle de ~
+<lb />cūire</seg>, il faūt prendre une demie <seg ana="#pound">liūre</seg>
+<lb />de <seg ana="#leather">cūire blan</seg>, comme lons coūpe les la=
 <lb />=niere, les petit morcaū qūil en tombe
 <lb />seūllement,) [deletion begins] qūand l’ons va l’acheter, il 
 <lb />faūt toūjoūr s’expliqūer, qūe ce poūr ~
 <lb />faire de la colle de cūire aūec, et 
 <lb />qū [deletion ends] me il faūt se garder de prendre des ~
-<lb />petit morcaū de cūire roūge, oū bien jonne, 
+<lb />petit morcaū de <seg ana="#leather">cūire</seg> roūge, oū bien jonne, 
 <lb />oū bleū, 
-<lb />parce qūe cela gatte la colle, poūr enpeser 
-<lb />le cambraij poūr faire de fleūrs; il faūt 
-<lb />laūer le cūire, aūsi propre qūe l’ons peūt, 
+<lb />parce qūe cela gatte la colle, poūr <seg ana="#starching">enpeser</seg> 
+<lb />le <seg ana="#cambric">cambraij</seg> poūr faire de fleūrs; il faūt 
+<lb /><seg ana="#washing">laūer</seg> le <seg ana="#leather">cūire</seg>, aūsi propre qūe l’ons peūt, 
 <lb />ensūite il faūt le prendre or de l’eaū,
 <lb />+ oū trois
-<lb />et preser l’eaū deor, pūis l’ons prend deūx +
+<lb />et <seg ana="#pressing">preser</seg> l’eaū deor, pūis l’ons prend deūx +
 <lb />+ plūtot plūs, qūe moin +
-<lb />pinte d’eaū + dans un pot de terre, dela
-<lb />l’ons met le cūire aūsitot dans la dit eaū, 
-<lb />+ met          + oū chaūfet
-<lb />ensūite on le + dessūr un rechaū + il faūt 
+<lb /><seg ana="#pint">pinte</seg> d’eaū + dans un <seg ana="#earthenware_pot">pot de terre</seg>, dela
+<lb />l’ons met le <seg ana="#leather">cūire</seg> aūsitot dans la dit eaū, 
+<lb />+ met          + oū <seg ana="#chafing_dish">chaūfet</seg>
+<lb />ensūite on le + dessūr un <seg ana="#chafing_dish">rechaū</seg> + il faūt 
 <lb />le l’aiser chaūfer, ausi fort qūe l’ons peūt 
 <lb />me
 </ab>
+</div>
 
 <pb facs="#f060" />
+<div ana="#hide_glue #leather #pint #soaking #washing #pressing #boiling">
 <ab>
 <lb />Notez a cette marcqūe ) le petit morcaū qūils tombe des soūliez, 
 <lb />blan, et de la doūblūre blanche des soūliez; toūs ces petit morcaūx
-<lb />la, sons tres bon poūr sa aūssi; me il faūt mettre trenper le cūire
-<lb />un joūr; aūent de le laūer; Notez qūand la colle est faite, et qūe
-<lb />le cūire et presez un peūt or de la colle; voūs poūūez mettre encorre
-<lb />une fois la cūire dans la meme petit pot de terre, aūec trois ∞
-<lb />~~ painte d’aeū;  plūtot moin, qūe plūs; il faūt le leser tirrer; 
+<lb />la, sons tres bon poūr sa aūssi; me il faūt mettre <seg ana="#soaking">trenper</seg> le <seg ana="#leather">cūire</seg>
+<lb />un joūr; aūent de le <seg ana="#washing">laūer</seg>; Notez qūand la colle est faite, et qūe
+<lb />le <seg ana="#leather">cūire</seg> et <seg ana="#pressing">presez</seg> un peūt or de la colle; voūs poūūez mettre encorre
+<lb />une fois la <seg ana="#leather">cūire</seg> dans la meme petit pot de terre, aūec trois ∞
+<lb />~~ <seg ana="#pint">painte</seg> d’aeū;  plūtot moin, qūe plūs; il faūt le leser tirrer; 
 <lb />toūs comme la premiere colle; il faūt le mettre desūr le fūe; me 
-<lb />sans jamais boūlier, depūis le matin, toūs jūsqūa le lendemain le 
+<lb />sans jamais <seg ana="#boiling">boūlier</seg>, depūis le matin, toūs jūsqūa le lendemain le 
 <lb />matin; il faūt faire de meme aūssi, aūec la premiere colle=
 </ab>
+</div>
 
 <pb facs="#f061" />
+<div ana="#hide_glue #fish_glue #leather #cloth #knife #pound #straining #starching #cutting">
 <ab>
-<lb />apres sa; il faūt le passer par un linge aūssi, et le
-<lb />meler aūec la premiere colle; ensūite il faūt enpeser, et
+<lb />apres sa; il faūt le <seg ana="#straining">passer</seg> par un <seg ana="#cloth">linge</seg> aūssi, et le
+<lb />meler aūec la premiere colle; ensūite il faūt <seg ana="#starching">enpeser</seg>, et
 <lb />faire les couleūrs aūec, qūe voūs soūhaitez de faire; Me
-<lb />aūant de le passer toūs la deūx par un linge; il faūt le leser
+<lb />aūant de le <seg ana="#straining">passer</seg> toūs la deūx par un <seg ana="#cloth">linge</seg>; il faūt le leser
 <lb />refroidirre, poūr voire si elle est gelaij assez, qūon le poūdroit
-<lb />coūper aūec un coūtaūx; si cela ne pas, il faūt encorre le 
+<lb /><seg ana="#cutting">coūper</seg> aūec un <seg ana="#knife">coūtaūx</seg>; si cela ne pas, il faūt encorre le 
 <lb />leser tirer desūr le fūe; toūs jūsqūa qūel soit bien; me la 2. me
 <lb />colle ne pas ordinairrement si forte, qūe la premiere, cepoūrquoij, 
 <lb />qūil faūt le meler ensembles; Me qūand voūs aūez besoin de plūs grand 
-<lb />cantitez, en place d’ūne demie liūre; il faūt prendre une liūre de cūire, 
+<lb />cantitez, en place d’ūne demie <seg ana="#pound">liūre</seg>; il faūt prendre une <seg ana="#pound">liūre</seg> de <seg ana="#leather">cūire</seg>, 
 <lb />et encorre plūs sil en est besoin; et il faūt prendre de l’aeū a laūenent; 
-<lb />il en faūt faire de meme, aūec la colle de poisson aūssi; ~
+<lb />il en faūt faire de meme, aūec la <seg ana="#fish_glue">colle de poisson</seg> aūssi; ~
 </ab>
+</div>
 
 <pb facs="#f062" />
+<div ana="#hide_glue #leather #cambric #fish_glue #chafing_dish #cloth #spoon #boiling #pressing #straining #starching #dipping #drying #undyeing">
 <ab>
-<lb />il faūt se garder de ne pas le leser boūlier, 
+<lb />il faūt se garder de ne pas le leser <seg ana="#boiling">boūlier</seg>, 
 <lb />ensūite, on le laisse tirer comme cela, dessūr 
-<lb />le rechaūd + + oū chaūfet jūsqūa temp qūe la soūpe deūient 
+<lb />le <seg ana="#chafing_dish">rechaūd</seg> + + oū <seg ana="#chafing_dish">chaūfet</seg> jūsqūa temp qūe la soūpe deūient 
 <lb />crase, et qūel attache aū dois, et qūel et ge=
 <lb />=laeij, cela fait, ons le met chaūfer, poūr le 
-<lb />degeler, pūis, l’ons prend le cūire or de la 
-<lb />soūpe, poūr le preser aūec les mains, jūsqūa
+<lb />degeler, pūis, l’ons prend le <seg ana="#leather">cūire</seg> or de la 
+<lb />soūpe, poūr le <seg ana="#pressing">preser</seg> aūec les mains, jūsqūa
 <lb />temp qūe la soūpe soit un peūt de’or, ensūite 
-<lb />l’on passe ladit soūpe par un linge, et 
-<lb />l’ons enpaisse le cambraij aūec, il faūt l’en=
+<lb />l’on <seg ana="#straining">passe</seg> ladit soūpe par un <seg ana="#cloth">linge</seg>, et 
+<lb />l’ons <seg ana="#starching">enpaisse</seg> le <seg ana="#cambric">cambraij</seg> aūec, il faūt l’en=
 <lb />=tertenirre toūjoūr chaūdement, affin qūe le
-<lb />cambraij, et la colle ne deūient point gelaij 
-<lb />dans les mains, il ne faūt plonger, qūe deūx 
+<lb /><seg ana="#cambric">cambraij</seg>, et la colle ne deūient point gelaij 
+<lb />dans les mains, il ne faūt <seg ana="#dipping">plonger</seg>, qūe deūx 
 <lb />oū trois piece a la fois, et le pendre aūsitot, 
-<lb />poūr eūiter cette inconūenient, le cambraij estant 
-<lb />saiqūe, si lons voie qūil est trop ferme a 
-<lb />s’enserūier, aūant de plonger les aūtres piece 
-<lb />de cambraij, il faūt dans la colle verser, 
-<lb />trois oū qūatre, cūlier d’eaū, plūs oū moin 
+<lb />poūr eūiter cette inconūenient, le <seg ana="#cambric">cambraij</seg> estant 
+<lb /><seg ana="#drying">saiqūe</seg>, si lons voie qūil est trop ferme a 
+<lb />s’enserūier, aūant de <seg ana="#dipping">plonger</seg> les aūtres piece 
+<lb />de <seg ana="#cambric">cambraij</seg>, il faūt dans la colle verser, 
+<lb />trois oū qūatre, <seg ana="#spoon">cūlier</seg> d’eaū, plūs oū moin 
 <lb />selon qūe l’ons voie la cantitez de la colle, 
 <lb />me le mieū est, de ne pas mettre de l’aū dans la colle, a caūse qūe letoffe, 
-<lb />oū cambraij deūien en apres pliable ...
+<lb />oū <seg ana="#cambric">cambraij</seg> deūien en apres pliable ...
 <lb />Notez, qūil ne faūt jamais verser de l’eaū, 
-<lb />dans la colle de poisson, ~~~~
+<lb />dans la <seg ana="#fish_glue">colle de poisson</seg>, ~~~~
 <lb />iai malle die, cij deūant, comme voūs voiez; ~~~
-<lb />Maniere poūr detindre la coūleūr de rosse
+<lb />Maniere poūr <seg ana="#undyeing">detindre</seg> la coūleūr de rosse
 </ab>
+</div>
 
 <pb facs="#f063" />
+<div ana="#lye #vine_ash #cambric #rainwater #fountain_water #lacmus #stick #bucket #boiling #rinsing #bleaching #drying #dyeing #undyeing">
 <ab>
-<lb />qūand elle est gatez, il faūt le boūlier 
-<lb />aūec de la leciūe faite aūec de cendre des
-<lb />vinne, la leciūe doit estre fort claire, 
-<lb />ensūite lons met le cambraij dedans, et on 
-<lb />le faist boūlier, jūsqūa temp qūe le cambraij 
+<lb />qūand elle est gatez, il faūt le <seg ana="#boiling">boūlier</seg> 
+<lb />aūec de la <seg ana="#lye">leciūe</seg> faite aūec de <seg ana="#vine_ash">cendre des
+<lb />vinne</seg>, la leciūe doit estre fort claire, 
+<lb />ensūite lons met le <seg ana="#cambric">cambraij</seg> dedans, et on 
+<lb />le faist <seg ana="#boiling">boūlier</seg>, jūsqūa temp qūe le <seg ana="#cambric">cambraij</seg> 
 <lb />soit bien blan, ensūite ons le prend dū fūe 
-<lb />toūs boūlans, aūsij tot lons prend ūn baton, 
-<lb />et l’ons otte le cambraij, il faūt les jetter ~ 
-<lb />aūsijtot dans un seaūt d’eaū de plūis oū de 
-<lb />fontaine, estant raincé, on le jettes encorre 
+<lb />toūs boūlans, aūsij tot lons prend ūn <seg ana="#stick">baton</seg>, 
+<lb />et l’ons otte le <seg ana="#cambric">cambraij</seg>, il faūt les jetter ~ 
+<lb />aūsijtot dans un <seg ana="#bucket">seaūt</seg> d’eaū de <seg ana="#rainwater">plūis</seg> oū de 
+<lb /><seg ana="#fountain_water">fontaine</seg>, estant <seg ana="#rinsing">raincé</seg>, on le jettes encorre 
 <lb />dans un aūtre seaū d’eaū, de la ons les ~
-<lb />met blanchir un joūr, et une nūit, ensūite 
-<lb />on le raince, aūec la main leger sans froter, 
-<lb />les aūtres rainsūr doit estre faist de la meme
-<lb />maniere aūsi, ensūite il faūt le faire sai=
-<lb />=cher, et qūand l’ons fait la leciūe il ~
-<lb />faūt l’ensiepper un peūt, et le mettre boū=
-<lb />=leir, et blanchir, aūec le fein linges, estant 
-<lb />saiqūe, ce cambraij pūis serūirre poūr tin=
-<lb />=dre toūte sorte de coūleūrs, mes poūr tain=
-<lb />=dre le rose il faūt toūjoūr choisiere le plūs 
-<lb />blan cambraij qūe l’ons a,
-<lb />La coūleūr bleūse, tain aūec de la lecmoūs, se 
-<lb />detain de la meme maniere aūsi, comme
+<lb />met <seg ana="#bleaching">blanchir</seg> un joūr, et une nūit, ensūite 
+<lb />on le <seg ana="#rinsing">raince</seg>, aūec la main leger sans froter, 
+<lb />les aūtres <seg ana="#rinsing">rainsūr</seg> doit estre faist de la meme
+<lb />maniere aūsi, ensūite il faūt le faire <seg ana="#drying">sai=
+<lb />=cher</seg>, et qūand l’ons fait la <seg ana="#lye">leciūe</seg> il ~
+<lb />faūt l’ensiepper un peūt, et le mettre <seg ana="#boiling">boū=
+<lb />=leir</seg>, et <seg ana="#bleaching">blanchir</seg>, aūec le fein linges, estant 
+<lb /><seg ana="#drying">saiqūe</seg>, ce <seg ana="#cambric">cambraij</seg> pūis serūirre poūr <seg ana="#dyeing">tin=
+<lb />=dre</seg> toūte sorte de coūleūrs, mes poūr <seg ana="#dyeing">tain=
+<lb />=dre</seg> le rose il faūt toūjoūr choisiere le plūs 
+<lb />blan <seg ana="#cambric">cambraij</seg> qūe l’ons a,
+<lb />La coūleūr bleūse, <seg ana="#dyeing">tain</seg> aūec de la <seg ana="#lacmus">lecmoūs</seg>, se 
+<lb /><seg ana="#undyeing">detain</seg> de la meme maniere aūsi, comme
 </ab>
+</div>
 
 <pb facs="#f064" />
+<div ana="#chamomile #cambric #gamboge #vermilion #fish_glue #hide_glue #starch_blue #pint #dyeing #undyeing #rinsing">
 <ab>
-<lb />aūsi les coūleūrs jonqūille, et jonne, tain 
-<lb />aūec dū ganez de boūlangez. ~~~
-<lb />Me le cambraij jonqūille, et jonne tain 
-<lb />aūec de la gommegūt me se detain pas, me 
+<lb />aūsi les coūleūrs jonqūille, et jonne, <seg ana="#dyeing">tain</seg> 
+<lb />aūec dū <seg ana="#chamomile">ganez de boūlangez</seg>. ~~~
+<lb />Me le <seg ana="#cambric">cambraij</seg> jonqūille, et jonne <seg ana="#dyeing">tain</seg> 
+<lb />aūec de la <seg ana="#gamboge">gommegūt</seg> me se <seg ana="#undyeing">detain</seg> pas, me 
 <lb />qūand elle est gattez, oū bien pas belle
-<lb />assez a sans serūire, on le pūis tindre
-<lb />roūge, aūec dū vermilion, et de la colle
-<lb />de poisson, oū aūec de la colle de cūire.
+<lb />assez a sans serūire, on le pūis <seg ana="#dyeing">tindre</seg>
+<lb />roūge, aūec dū <seg ana="#vermilion">vermilion</seg>, et de la <seg ana="#fish_glue">colle
+<lb />de poisson</seg>, oū aūec de la <seg ana="#hide_glue">colle de cūire</seg>.
 <lb />retoūrnez cij deūant a la 3. feūls, aū commancement. 
-<lb />Les bleū tain aūec dū breūn, et dū 
-<lb />palle bleū dempois, le cambraij se detain 
+<lb />Les bleū <seg ana="#dyeing">tain</seg> aūec dū breūn, et dū 
+<lb /><seg ana="#starch_blue">palle bleū dempois</seg>, le <seg ana="#cambric">cambraij</seg> se <seg ana="#undyeing">detain</seg> 
 <lb />aūec de l’eaū for chaūde, la valeūr dūne
-<lb />pinte, il faūt le changer dans trois oū 
-<lb />qūatre eaū chaūde, et on le raince une
+<lb /><seg ana="#pint">pinte</seg>, il faūt le changer dans trois oū 
+<lb />qūatre eaū chaūde, et on le <seg ana="#rinsing">raince</seg> une
 <lb />foie dans l’eaū froide, ensūite on verse
 <lb />toūs le eaū ensemble en les toūlliant ~
 <lb />for en versent, affin qūe le bleū soit ~
@@ -1957,91 +1976,98 @@
 <lb />sūr la fin, qūand l’ong voie qūe le bleū 
 <lb />vien aūec l’eaū, aūant de la toūs jetter enūoie
 </ab>
+</div>
 
 <pb facs="#f065" />
+<div ana="#vine_ash #cambric #oven #pot #undyeing #cutting #burning">
 <ab>
 <lb />il faūt le lesser encorre tomber dans le 
 <lb />fons, de la jetter toūs l’eaū enūoie; ce 
 <lb />bleū pūis encorre serūirre, comme deūant; 
-<lb />Notez qūon ne detain jamais ce cambraij
-<lb />bleū si non qūe l’ons voie qūe le cambraij 
+<lb />Notez qūon ne <seg ana="#undyeing">detain</seg> jamais ce <seg ana="#cambric">cambraij</seg>
+<lb />bleū si non qūe l’ons voie qūe le <seg ana="#cambric">cambraij</seg> 
 <lb />et trop gros a senserūire, parceqūe la coū=
 <lb />=leūr et toūjoūr bonne, cepoūrqūoij qūil faūt 
-<lb />toūjoūr prendre dū fin cambraij, a la ~
+<lb />toūjoūr prendre dū fin <seg ana="#cambric">cambraij</seg>, a la ~
 <lb />premiere foie, parceqūe le bleū grossie 
 <lb />letoffe, me qūand l’ons et contrain de le 
-<lb />detaindre, il faūt detaindre le palle bleū
+<lb /><seg ana="#undyeing">detaindre</seg>, il faūt <seg ana="#undyeing">detaindre</seg> le palle bleū
 <lb />seūlle, et le brūn bleū seūlle, afin de 
 <lb />faire encorre serūirre ces bleū comme la 
 <lb />premiere fois. ~~~
-<lb />Maniere poūr faire de cendre de vinne
-<lb />qūand l’ons coūpe les vinne il faūt ramas=
+<lb />Maniere poūr faire de <seg ana="#vine_ash">cendre de vinne</seg>
+<lb />qūand l’ons <seg ana="#cutting">coūpe</seg> les vinne il faūt ramas=
 <lb />=ser toūs le bois coūpez. il faūt le mettre
-<lb />brūler dans une cheminez, oū dans un foūrre, 
+<lb /><seg ana="#burning">brūler</seg> dans une cheminez, oū dans un <seg ana="#oven">foūrre</seg>, 
 <lb />bien nette, sans bois, et sans cendre daū=
 <lb />=tres sorte de bois, le bois de vinne estant ~
-<lb />toūs brūlez, il faūt prendre toūs le fūe, et ~
-<lb />cendre, dans un mechan pot, qūil ne vaū
+<lb />toūs <seg ana="#burning">brūlez</seg>, il faūt prendre toūs le fūe, et ~
+<lb />cendre, dans un mechan <seg ana="#pot">pot</seg>, qūil ne vaū
 </ab>
+</div>
 
 <pb facs="#f066" />
+<div ana="#lye #vine_ash #rainwater #fountain_water #marmite #earthenware_pot #cloth #handful #pint #boiling #dyeing #straining">
 <ab>
 <lb />rien, a senserūire a aūtre chose, ensūite 
 <lb />il faūt l’entertenier de l’atiser, de temp, 
 <lb />en temp, jūsqūatent, qūe les toūs, soit con=
 <lb />=sommez en cendre. ~~~
-<lb />Maniere poūr faire la l’eciūe de ~
-<lb />cendre de vinnes, il faūt prendre trois 
-<lb />ponniez de deūx mains de cendre, aūec
-<lb />sept oū hūit pinte d’eaū de plūis, oū de
-<lb />fontainne, il faūt le leser boūlier, jūs=
-<lb />=qūa qūatre, oū cinq pinte, toūte aū plūs, 
-<lb />si on les boūlle dans une marmite, + + bien recūrrez il faūt
+<lb />Maniere poūr faire la <seg ana="#lye">l’eciūe</seg> de ~
+<lb /><seg ana="#vine_ash">cendre de vinnes</seg>, il faūt prendre trois 
+<lb /><seg ana="#handful">ponniez</seg> de deūx mains de <seg ana="#vine_ash">cendre</seg>, aūec
+<lb />sept oū hūit <seg ana="#pint">pinte</seg> d’eaū de <seg ana="#rainwater">plūis</seg>, oū de
+<lb /><seg ana="#fountain_water">fontainne</seg>, il faūt le leser <seg ana="#boiling">boūlier</seg>, jūs=
+<lb />=qūa qūatre, oū cinq <seg ana="#pint">pinte</seg>, toūte aū plūs, 
+<lb />si on les <seg ana="#boiling">boūlle</seg> dans une <seg ana="#marmite">marmite</seg>, + + bien recūrrez il faūt
 <lb />aūsitot qūe la marmite est ottez dū fūe, 
-<lb />le verser dans un pot de terre bien 
+<lb />le verser dans un <seg ana="#earthenware_pot">pot de terre</seg> bien 
 <lb />nette, et sans aūoir a aūtres chose serūie, 
-<lb />si non qūe poūr taindre le rose, il faūt 
+<lb />si non qūe poūr <seg ana="#dyeing">taindre</seg> le rose, il faūt 
 <lb />leser les cendre aū font de la marmite, 
 <lb />aūtant qūe l’ons peūt, ensūite le lande=
-<lb />=main, il faūt passer la leciūe par un 
-<lb />linge, dans un aūtre pot, en versans 
+<lb />=main, il faūt <seg ana="#straining">passer</seg> la leciūe par un 
+<lb /><seg ana="#cloth">linge</seg>, dans un aūtre pot, en versans 
 <lb />toūs doūcement, sans remūer le cendre, 
 <lb />qūils sont aū font dū pot, de la, lons
 <lb />pūis s’enserūirre, poūr toūs ce qūe l’ons 
 <lb />veūx faire, aūec la dit leciūe. ~~
 </ab>
+</div>
 
 <pb facs="#f069" />
 <ab>
 <lb />Notez les non de taintūre en flament;
 </ab>
+<div ana="#starch #starch_blue #red_lead #gamboge #saffron #vermilion #safflower #vinegar #tartar #cauliflower #verdigris #brazilwood #logwood #english_ash #carmine #alum #fish_glue #hide_glue #vine_ash">
 <ab>
-<lb />de la fleūrs d’amidon.			stijfpap bloom;
-<lb />de lanpois,. stijfpap 		|,.	roomenie .~*
-<lb />dū brūn bleū d’empois.	|	brūne blaū van 
-<lb />				|	stijfpap.
-<lb />dū palle bleū d’empois.	|	bleck blaū van 
-<lb />de la menie.~*			|	stijfpap.
-<lb />de la gomme gūte.		|	gūitte gomme.
-<lb />dū safran entiere.		|	gheheel saūfraen.
-<lb />dū vermilion.			|	vermelioen.
-<lb />dū sanfloūr.			|	sanfloūr.
-<lb />dū vinaigre de vin		|	wit wijn asijn.
-<lb />blan. De tartre crūe.		|	raūwe wit wijnsteen.
-<lb />de feūlles de choūs=		|	blaeren van bloom
-<lb />=fleūrs, sans les cottes.	|	coolen, sonder de
+<lb />de la <seg ana="#starch">fleūrs d’amidon</seg>.			<seg ana="#starch">stijfpap bloom</seg>;
+<lb />de <seg ana="#starch">lanpois</seg>,. <seg ana="#starch">stijfpap</seg> 		|,.	<seg ana="#red_lead">roomenie</seg> .~*
+<lb />dū <seg ana="#starch_blue">brūn bleū d’empois</seg>.	|	<seg ana="#starch_blue">brūne blaū van</seg> 
+<lb />				|	<seg ana="#starch_blue">stijfpap</seg>.
+<lb />dū <seg ana="#starch_blue">palle bleū d’empois</seg>.	|	<seg ana="#starch_blue">bleck blaū van</seg> 
+<lb />de la <seg ana="#red_lead">menie</seg>.~*			|	<seg ana="#starch_blue">stijfpap</seg>.
+<lb />de la <seg ana="#gamboge">gomme gūte</seg>.		|	<seg ana="#gamboge">gūitte gomme</seg>.
+<lb />dū <seg ana="#saffron">safran</seg> entiere.		|	gheheel <seg ana="#saffron">saūfraen</seg>.
+<lb />dū <seg ana="#vermilion">vermilion</seg>.			|	<seg ana="#vermilion">vermelioen</seg>.
+<lb />dū <seg ana="#safflower">sanfloūr</seg>.			|	<seg ana="#safflower">sanfloūr</seg>.
+<lb />dū <seg ana="#vinegar">vinaigre de vin</seg>		|	<seg ana="#vinegar">wit wijn asijn</seg>.
+<lb />blan. De <seg ana="#tartar">tartre</seg> crūe.		|	raūwe wit <seg ana="#tartar">wijnsteen</seg>.
+<lb />de <seg ana="#cauliflower">feūlles de choūs=</seg>		|	<seg ana="#cauliflower">blaeren van bloom</seg>
+<lb /><seg ana="#cauliflower">=fleūrs</seg>, sans les cottes.	|	<seg ana="#cauliflower">coolen</seg>, sonder de
 <lb />				|	ribben.
-<lb />dū ver de gris.			|	spaens groen.
-<lb />dū bois de ferne=		|	fernebockx hoūdt.
-<lb />=boūcqūe.			|
-<lb />dū bois de bersil.		|	bresil hoūdt.
-<lb />des cendre d’angleter.	|	inghelschen asschen.
-<lb />~carmin. olūn.			|	carmin. olūn.
-<lb />de la colle des poisson.	|	vieslim.
-<lb />de la colle de cūire.		|	lim van-leer.
-<lb />de cendre, des branche, des	|	asschen van wingar rancken.
-<lb />vinnes				|
+<lb />dū <seg ana="#verdigris">ver de gris</seg>.			|	<seg ana="#verdigris">spaens groen</seg>.
+<lb />dū <seg ana="#brazilwood">bois de ferne=</seg>		|	<seg ana="#brazilwood">fernebockx hoūdt</seg>.
+<lb /><seg ana="#brazilwood">=boūcqūe</seg>.			|
+<lb />dū <seg ana="#logwood">bois de bersil</seg>.		|	<seg ana="#logwood">bresil hoūdt</seg>.
+<lb />des <seg ana="#english_ash">cendre d’angleter</seg>.	|	<seg ana="#english_ash">inghelschen asschen</seg>.
+<lb />~<seg ana="#carmine">carmin</seg>. <seg ana="#alum">olūn</seg>.			|	<seg ana="#carmine">carmin</seg>. <seg ana="#alum">olūn</seg>.
+<lb />de la <seg ana="#fish_glue">colle des poisson</seg>.	|	<seg ana="#fish_glue">vieslim</seg>.
+<lb />de la <seg ana="#hide_glue">colle de cūire</seg>.		|	<seg ana="#hide_glue">lim van-leer</seg>.
+<lb />de <seg ana="#vine_ash">cendre, des branche</seg>, des	|	<seg ana="#vine_ash">asschen van wingar rancken</seg>.
+<lb /><seg ana="#vine_ash">vinnes</seg>				|
 </ab>
+</div>
 
 <pb facs="#f072" />
 <ab>
@@ -4378,167 +4404,180 @@
 </div>
 
 <pb facs="#f058" />
+<div ana="#rainwater #vinegar #toile #beer #fish_glue #fountain_water #hammer #pot #earthenware_pot #cloth #quarter_pound #pint #drop #starching #cutting #soaking #boiling #straining #dyeing">
 <ab>
 <lb />if one finds it good, for otherwise
-<lb />vinegar is good also, one needs to stiffen it
-<lb />and do in all things, as yellow cloth.
+<lb /><seg ana="#vinegar">vinegar</seg> is good also, one needs to <seg ana="#starching">stiffen</seg> it
+<lb />and do in all things, as yellow <seg ana="#toile">cloth</seg>.
 <lb />this sort of cloth, is not good for
 <lb />making flowers. ~~~ 
-<lb />the old beer, is better still,
+<lb />the <seg ana="#beer">old beer</seg>, is better still,
 <lb />when it is 8. and 20. years old;
-<lb />but it must be good beer, it must not be small beer;
-<lb />W for making fish glue
-<lb />one needs to take a half quarter [of a pound]
-<lb />of fish glue, one needs to beat it well
-<lb />with a hammer, being well cleared away
-<lb />one cuts it, into little pieces, next
-<lb />one takes three pints of rain, or fountain, water,
+<lb />but it must be <seg ana="#beer">good beer</seg>, it must not be <seg ana="#beer">small beer</seg>;
+<lb />W for making <seg ana="#fish_glue">fish glue</seg>
+<lb />one needs to take a half <seg ana="#quarter_pound">quarter [of a pound]</seg>
+<lb />of <seg ana="#fish_glue">fish glue</seg>, one needs to beat it well
+<lb />with a <seg ana="#hammer">hammer</seg>, being well cleared away
+<lb />one <seg ana="#cutting">cuts</seg> it, into little pieces, next
+<lb />one takes three <seg ana="#pint">pints</seg> of <seg ana="#rainwater">rain</seg>, or <seg ana="#fountain_water">fountain</seg>, water,
 <lb />better less, than more; from there
 <lb />one puts it to soak for one day, after that :+:
-<lb />:+: one puts it to boil in a pot or just as well
-<lb />in an earthenware cruet very tidy, and ~
+<lb />:+: one puts it to <seg ana="#boiling">boil</seg> in a <seg ana="#pot">pot</seg> or just as well
+<lb />in an <seg ana="#earthenware_pot">earthenware cruet</seg> very tidy, and ~
 <lb />new without having been used for another thing,
 <lb />one needs to stir it strongly often, in order
 <lb />that the glue doesn&apos;t burn at the bottom du
-<lb />of the pot, one needs to leave it to boil, until
+<lb />of the pot, one needs to leave it to <seg ana="#boiling">boil</seg>, until
 <lb />the time, that the water is diminished by around
-<lb />half, one takes a few drops
+<lb />half, one takes a few <seg ana="#drop">drops</seg>
 <lb />balling it with he fingers, for seeing, if the
 <lb />soup, is thick enough, if it attaches
 <lb />to the fingers, next one takes it off the fire, and
-<lb />one passes it immediately through a linen cloth, into
+<lb />one <seg ana="#straining">passes</seg> it immediately through a <seg ana="#cloth">linen cloth</seg>, into
 </ab>
+</div>
 
 <pb facs="#f059" />
+<div ana="#fish_glue #hide_glue #leather #cambric #terrine #chafing_dish #earthenware_pot #pound #pint #starching #washing #pressing">
 <ab>
-<lb />another terrine, when the glue ~
+<lb />another <seg ana="#terrine">terrine</seg>, when the glue ~
 <lb />becomes congealed, one needs always to uncongeal it
-<lb />over a chafing dish, before stiffening the
-<lb />cambric with [it], one needs to do the same
-<lb />also, with hide glue, ~~
-<lb />Way for making hide ~
-<lb />glue, one needs to take a half pound
-<lb />of white leather, as one cuts lanyards,
+<lb />over a <seg ana="#chafing_dish">chafing dish</seg>, before <seg ana="#starching">stiffening</seg> the
+<lb /><seg ana="#cambric">cambric</seg> with [it], one needs to do the same
+<lb />also, with <seg ana="#hide_glue">hide glue</seg>, ~~
+<lb />Way for making <seg ana="#hide_glue">hide ~
+<lb />glue</seg>, one needs to take a half <seg ana="#pound">pound</seg>
+<lb />of <seg ana="#leather">white leather</seg>, as one cuts lanyards,
 <lb />the little pieces which fall from it
 <lb />only, ) when one goes to buy it, one
 <lb />needs to always explain, that it is for ~
 <lb />making hide glue with, and
 <lb />qu&apos;but one needs to avoid taking the ~
-<lb />little pieces of red leather, or just as well yellow,
-<lb />or blue, because that spoils the glue, to stiffen
-<lb />cambric for making flowers; one needs
-<lb />to wash the leather, as clean as one can,
+<lb />little pieces of red <seg ana="#leather">leather</seg>, or just as well yellow,
+<lb />or blue, because that spoils the glue, to <seg ana="#starching">stiffen</seg>
+<lb /><seg ana="#cambric">cambric</seg> for making flowers; one needs
+<lb />to <seg ana="#washing">wash</seg> the <seg ana="#leather">leather</seg>, as clean as one can,
 <lb />next one needs to take it out of the water,
-<lb />and press the water out, next one takes two + + or three
-<lb />pints of water + + rather more than less + in an earthenware pot, from there
-<lb />one puts the leather immediately in the said water,
-<lb />next one + + puts it on a chafing dish + + or foot stove
+<lb />and <seg ana="#pressing">press</seg> the water out, next one takes two + + or three
+<lb /><seg ana="#pint">pints</seg> of water + + rather more than less + in an <seg ana="#earthenware_pot">earthenware pot</seg>, from there
+<lb />one puts the <seg ana="#leather">leather</seg> immediately in the said water,
+<lb />next one + + puts it on a <seg ana="#chafing_dish">chafing dish</seg> + + or <seg ana="#chafing_dish">foot stove</seg>
 </ab>
+</div>
 
 <pb facs="#f060" />
+<div ana="#hide_glue #leather #pint #soaking #washing #pressing #boiling">
 <ab>
 <lb />Note at this mark ) the little pieces that fall from shoes,
 <lb />white, and from the white linings of shoes; all these little pieces
-<lb />there, are very good for that also; but one needs to put the leather to soak
-<lb />for one day; before washing it; Note when the glue is made, and that
-<lb />the leather is pressed a little out of the glue; you can the leather
+<lb />there, are very good for that also; but one needs to put the <seg ana="#leather">leather</seg> to <seg ana="#soaking">soak</seg>
+<lb />for one day; before <seg ana="#washing">washing</seg> it; Note when the glue is made, and that
+<lb />the <seg ana="#leather">leather</seg> is <seg ana="#pressing">pressed</seg> a little out of the glue; you can the <seg ana="#leather">leather</seg>
 <lb />once more into the same earthenware pot, with three [illeg.] ∞
-<lb />[illeg.] ~o~ pints of water; rather [illeg.]less, than [illeg.]more; one needs to let it draw [itself out]; 
+<lb />[illeg.] ~o~ <seg ana="#pint">pints</seg> of water; rather [illeg.]less, than [illeg.]more; one needs to let it draw [itself out]; 
 <lb />all like the first glue; one needs to put it over the fire; but
-<lb />without ever boiling, from the morning, all the way until the next
+<lb />without ever <seg ana="#boiling">boiling</seg>, from the morning, all the way until the next
 <lb />morning; one needs do the same also, with the first glue =
 </ab>
+</div>
 
 <pb facs="#f061" />
+<div ana="#hide_glue #fish_glue #leather #cloth #knife #pound #straining #starching #cutting">
 <ab>
-<lb />after that; one needs to pass it through a linen cloth also, and
-<lb />mix it with the first glue; next one needs to stiffen, and
+<lb />after that; one needs to <seg ana="#straining">pass</seg> it through a <seg ana="#cloth">linen cloth</seg> also, and
+<lb />mix it with the first glue; next one needs to <seg ana="#starching">stiffen</seg>, and
 <lb />make colors with [it], as you wish to do; But
-<lb />before passing either one through the linen cloth, one needs to leave it
+<lb />before <seg ana="#straining">passing</seg> either one through the <seg ana="#cloth">linen cloth</seg>, one needs to leave it
 <lb />to cool, to see if it is congealed enough, such that one could
-<lb />cut it with a knife; if that is not [the case], one needs to again
+<lb /><seg ana="#cutting">cut</seg> it with a <seg ana="#knife">knife</seg>; if that is not [the case], one needs to again
 <lb />leave it to draw [itself out] over the fire; all until such time that it is good; but the 2.nd 
 <lb />glue is not ordinarily as strong, as the first, that is why,
 <lb />one needs to mix them together; But when you have need of a greater
-<lb />quantity, instead of a half pound; one needs to take a pound of leather,
+<lb />quantity, instead of a half <seg ana="#pound">pound</seg>; one needs to take a <seg ana="#pound">pound</seg> of <seg ana="#leather">leather</seg>,
 <lb />and more still if there is need; and one needs to take water by hauling it out;
-<lb />one needs to do the same, with fish glue also; ~
+<lb />one needs to do the same, with <seg ana="#fish_glue">fish glue</seg> also; ~
 </ab>
+</div>
 
 <pb facs="#f062" />
+<div ana="#hide_glue #leather #cambric #fish_glue #chafing_dish #cloth #spoon #boiling #pressing #straining #starching #dipping #drying #undyeing">
 <ab>
-<lb />one needs to take care to note let it boil,
+<lb />one needs to take care to note let it <seg ana="#boiling">boil</seg>,
 <lb />next, one leaves it to draw [itself out], like that on
-<lb />the chafing dish + + or foot stove until such time that the soup becomes
+<lb />the <seg ana="#chafing_dish">chafing dish</seg> + + or <seg ana="#chafing_dish">foot stove</seg> until such time that the soup becomes
 <lb />thick, and that it sticks to the finger, and that it is
 <lb />congealed, that done, one puts it to heat, to
-<lb />de-congeal it, then, one takes the leather out of the
-<lb />soup, fo press it with the hands, until such
+<lb />de-congeal it, then, one takes the <seg ana="#leather">leather</seg> out of the
+<lb />soup, fo <seg ana="#pressing">press</seg> it with the hands, until such
 <lb />time that the soup is a little outside of [the leather], next
-<lb />one passes the said soup through a linen cloth, and
-<lb />one stiffens the cambric with [it], one needs to
+<lb />one <seg ana="#straining">passes</seg> the said soup through a <seg ana="#cloth">linen cloth</seg>, and
+<lb />one <seg ana="#starching">stiffens</seg> the <seg ana="#cambric">cambric</seg> with [it], one needs to
 <lb />maintain always the temperature, in order that the
-<lb />cambric, and the glue do not congeal
-<lb />in the hands at all, one needs to plunge only two
+<lb /><seg ana="#cambric">cambric</seg>, and the glue do not congeal
+<lb />in the hands at all, one needs to <seg ana="#dipping">plunge</seg> only two
 <lb />or three pieces at a time, and hang them immediately,
-<lb />to avoid this inconvenience, the cambric being
-<lb />dry, if one sees that it is too stiff to
-<lb />use, before plunging other pieces
-<lb />of cambric, one needs to pour into the glue
-<lb />three or four, spoons of water, more or less
+<lb />to avoid this inconvenience, the <seg ana="#cambric">cambric</seg> being
+<lb /><seg ana="#drying">dry</seg>, if one sees that it is too stiff to
+<lb />use, before <seg ana="#dipping">plunging</seg> other pieces
+<lb />of <seg ana="#cambric">cambric</seg>, one needs to pour into the glue
+<lb />three or four, <seg ana="#spoon">spoons</seg> of water, more or less
 <lb />according to the quantity of glue that one sees,
 <lb />but the best is, not to put water in the glue, since the stuffs,
-<lb />or cambric becomes [too] pliable after . . . 
+<lb />or <seg ana="#cambric">cambric</seg> becomes [too] pliable after . . . 
 <lb />Note, that one must never pour water,
-<lb />into fish glue, ~~~~
+<lb />into <seg ana="#fish_glue">fish glue</seg>, ~~~~
 <lb />I misspoke, here above, as you can see; ~~~
-<lb />Way for undyeing pink color
+<lb />Way for <seg ana="#undyeing">undyeing</seg> pink color
 </ab>
+</div>
 
 <pb facs="#f063" />
+<div ana="#lye #vine_ash #cambric #rainwater #fountain_water #lacmus #stick #bucket #boiling #rinsing #bleaching #drying #dyeing #undyeing">
 <ab>
-<lb />when it is spoiled, one needs to boil it
-<lb />with lye made from vine ash,
+<lb />when it is spoiled, one needs to <seg ana="#boiling">boil</seg> it
+<lb />with <seg ana="#lye">lye</seg> made from <seg ana="#vine_ash">vine ash</seg>,
 <lb />the lye must be strongly clear,
-<lb />next one puts the cambric inside, and one
-<lb />makes it boil, until such time as the cambric
+<lb />next one puts the <seg ana="#cambric">cambric</seg> inside, and one
+<lb />makes it <seg ana="#boiling">boil</seg>, until such time as the <seg ana="#cambric">cambric</seg>
 <lb />is well white, next one takes it from the fire
-<lb />all boiling, immediately one takes a stick,
-<lb />and one removes the cambric, one needs to throw them ~
-<lb />immediately into a bucket of rain or fountain water,
-<lb />being rinsed, one throws it again
+<lb />all boiling, immediately one takes a <seg ana="#stick">stick</seg>,
+<lb />and one removes the <seg ana="#cambric">cambric</seg>, one needs to throw them ~
+<lb />immediately into a <seg ana="#bucket">bucket</seg> of <seg ana="#rainwater">rain</seg> or <seg ana="#fountain_water">fountain</seg> water,
+<lb />being <seg ana="#rinsing">rinsed</seg>, one throws it again
 <lb />into another bucket of water, from there one ~
-<lb />puts it to whiten one day, and one night, next
-<lb />one rinses it, lightly with the hand without rubbing,
-<lb />the other rinses must be made in the same
-<lb />way also, next one needs to dry it,
-<lb />and when one makes the lye one ~
+<lb />puts it to <seg ana="#bleaching">whiten</seg> one day, and one night, next
+<lb />one <seg ana="#rinsing">rinses</seg> it, lightly with the hand without rubbing,
+<lb />the other <seg ana="#rinsing">rinses</seg> must be made in the same
+<lb />way also, next one needs to <seg ana="#drying">dry</seg> it,
+<lb />and when one makes the <seg ana="#lye">lye</seg> one ~
 <lb />needs to tie it up it a little, and put it
-<lb />to boil, and whiten, with the fine linens, being
-<lb />dry, this cambric can be used for dyeing
-<lb />all sorts of colors, but for dyeing
+<lb />to <seg ana="#boiling">boil</seg>, and <seg ana="#bleaching">whiten</seg>, with the fine linens, being
+<lb /><seg ana="#drying">dry</seg>, this <seg ana="#cambric">cambric</seg> can be used for <seg ana="#dyeing">dyeing</seg>
+<lb />all sorts of colors, but for <seg ana="#dyeing">dyeing</seg>
 <lb />pink one needs to always choose the
-<lb />whitest cambric that one has,
-<lb />Blue color, dyed with moss/lichen?, is
-<lb />undyed in the same way also, as
+<lb />whitest <seg ana="#cambric">cambric</seg> that one has,
+<lb />Blue color, <seg ana="#dyeing">dyed</seg> with <seg ana="#lacmus">moss/lichen</seg>?, is
+<lb /><seg ana="#undyeing">undyed</seg> in the same way also, as
 </ab>
+</div>
 
 <pb facs="#f064" />
+<div ana="#chamomile #cambric #gamboge #vermilion #fish_glue #hide_glue #starch_blue #pint #dyeing #undyeing #rinsing">
 <ab>
-<lb />well as jonquil colors, and yellow, dyed
-<lb />with baker&apos;s chamomile. ~~~
-<lb />But jonquil cambric, and yellow dyed
-<lb />with gamboge do not undye, but
+<lb />well as jonquil colors, and yellow, <seg ana="#dyeing">dyed</seg>
+<lb />with <seg ana="#chamomile">baker&apos;s chamomile</seg>. ~~~
+<lb />But jonquil <seg ana="#cambric">cambric</seg>, and yellow <seg ana="#dyeing">dyed</seg>
+<lb />with <seg ana="#gamboge">gamboge</seg> do not <seg ana="#undyeing">undye</seg>, but
 <lb />when it is spoiled, or just as well not beautiful
-<lb />enough to use, one can dye it
-<lb />red, with vermillion, and fish
-<lb />glue, or with hide glue.
+<lb />enough to use, one can <seg ana="#dyeing">dye</seg> it
+<lb />red, with <seg ana="#vermilion">vermillion</seg>, and <seg ana="#fish_glue">fish
+<lb />glue</seg>, or with <seg ana="#hide_glue">hide glue</seg>.
 <lb />return here above to the 3. folio, at the beginning.
-<lb />Blue dyed with brown, and
-<lb />pale starch blue, cambric is undyed
+<lb />Blue <seg ana="#dyeing">dyed</seg> with brown, and
+<lb /><seg ana="#starch_blue">pale starch blue</seg>, <seg ana="#cambric">cambric</seg> is <seg ana="#undyeing">undyed</seg>
 <lb />with very hot water, the amount of a
-<lb />pint, one needs to change it in three or
-<lb />four hot waters, and one rinses it one
+<lb /><seg ana="#pint">pint</seg>, one needs to change it in three or
+<lb />four hot waters, and one <seg ana="#rinsing">rinses</seg> it one
 <lb />time in cold water, next one pours
 <lb />all the water together stirring them ~
 <lb />vigorously while pouring, in order that the blue will be ~
@@ -4550,88 +4589,95 @@
 <lb />at the end, when one sees that the blue
 <lb />comes with the water, before throwing it all away
 </ab>
+</div>
 
 <pb facs="#f065" />
+<div ana="#vine_ash #cambric #oven #pot #undyeing #cutting #burning">
 <ab>
 <lb />one needs to leave it to fall again to the
 <lb />bottom, from there to throw all the water away; this
 <lb />blue can be used again, as before;
-<lb />Note that one never undyes this blue
-<lb />cambric unless one sees that the cambric
+<lb />Note that one never <seg ana="#undyeing">undyes</seg> this blue
+<lb /><seg ana="#cambric">cambric</seg> unless one sees that the <seg ana="#cambric">cambric</seg>
 <lb />is too thick to use, because the color
 <lb />is always good, this is why one needs
-<lb />always to take fine cambric, the ~
+<lb />always to take fine <seg ana="#cambric">cambric</seg>, the ~
 <lb />first time, because the blue fattens
 <lb />the stuffs, but when one is forced to
-<lb />undye it, one needs to undy the pale blue
+<lb /><seg ana="#undyeing">undye</seg> it, one needs to <seg ana="#undyeing">undy</seg> the pale blue
 <lb />alone, and the brown blue alone, in order to
 <lb />make use again of these blues like the
 <lb />first time. ~~~
-<lb />Way for making vine ashes
-<lb />when one cuts the vine one needs to
+<lb />Way for making <seg ana="#vine_ash">vine ashes</seg>
+<lb />when one <seg ana="#cutting">cuts</seg> the vine one needs to
 <lb />gather up all of the cut wood. One needs to put it
-<lb />to burn in a chimney, or in an oven,
+<lb />to <seg ana="#burning">burn</seg> in a chimney, or in an <seg ana="#oven">oven</seg>,
 <lb />very tidy, without wood, and without ashes of
 <lb />other sorts of wood, the vine wood being ~
-<lb />all burnt, one needs to take all the fire, and ~
-<lb />ashes, in a nasty pot, that is worth
+<lb />all <seg ana="#burning">burnt</seg>, one needs to take all the fire, and ~
+<lb />ashes, in a nasty <seg ana="#pot">pot</seg>, that is worth
 </ab>
+</div>
 
 <pb facs="#f066" />
+<div ana="#lye #vine_ash #rainwater #fountain_water #marmite #earthenware_pot #cloth #handful #pint #boiling #dyeing #straining">
 <ab>
 <lb />nothing, to be used for another thing, next
 <lb />one needs to keep stoking it, from time,
 <lb />to time, until such time, that the whole, is consumed
 <lb />into ash. ~~~
-<lb />Way for making lye of ~
-<lb />vine ash, one needs to take three
-<lb />double handfuls of ash, with
-<lb />seven or eight pints of rain, or fountain,
-<lb />water, one needs to leave it to boil, until
-<lb />[it reduces to] four, or five pints, all the more,
-<lb />if one boils them in a marmite + + well covered, one must,
+<lb />Way for making <seg ana="#lye">lye</seg> of ~
+<lb /><seg ana="#vine_ash">vine ash</seg>, one needs to take three
+<lb /><seg ana="#handful">double handfuls</seg> of <seg ana="#vine_ash">ash</seg>, with
+<lb />seven or eight <seg ana="#pint">pints</seg> of <seg ana="#rainwater">rain</seg>, or <seg ana="#fountain_water">fountain</seg>,
+<lb />water, one needs to leave it to <seg ana="#boiling">boil</seg>, until
+<lb />[it reduces to] four, or five <seg ana="#pint">pints</seg>, all the more,
+<lb />if one <seg ana="#boiling">boils</seg> them in a <seg ana="#marmite">marmite</seg> + + well covered, one must,
 <lb />as soon as the marmite is removed from the fire,
-<lb />pour it into an earthenware pot, very
+<lb />pour it into an <seg ana="#earthenware_pot">earthenware pot</seg>, very
 <lb />tidy, and having been used for anything else,
-<lb />other than for dyeing pink, one needs
+<lb />other than for <seg ana="#dyeing">dyeing</seg> pink, one needs
 <lb />to leave the ashes at the bottom of the marmite,
 <lb />as much as one can, next the next day,
-<lb />one needs to pass the lye through a
-<lb />linen cloth, into another pot, pouring
+<lb />one needs to <seg ana="#straining">pass</seg> the lye through a
+<lb /><seg ana="#cloth">linen cloth</seg>, into another pot, pouring
 <lb />it all gently, without moving the ash,
 <lb />which are at the bottom of the pot, from there, one
 <lb />can use it, for all that one 
 <lb />wants to make, with the said lye. ~~
 </ab>
+</div>
 
 <pb facs="#f069" />
+<div ana="#starch #starch_blue #red_lead #gamboge #saffron #vermilion #safflower #vinegar #tartar #cauliflower #verdigris #brazilwood #logwood #english_ash #carmine #alum #fish_glue #hide_glue #vine_ash">
 <ab>
 <lb />Note the name[s] of dye[s] in Flemish
-<lb />of powdered starch.			powdered starch;
-<lb />of starch paste,. starch paste	|,.	sweet wine / minium [?] .~*
-<lb />brown-blue starch paste.	|	brown-blue 
-<lb />				|	starch paste.
-<lb />pale blue starch paste.	|	pale blue 
-<lb />sweet wine / minium [?].~*	|	starch paste.
-<lb />of gamboge.			|	gamboge.
-<lb />of whole saffron.		|	whole saffron.
-<lb />of vermilion.			|	vermilion.
-<lb />of safflower.			|	safflower.
-<lb />of white wine vinegar.		|	white wine vinegar.
-<lb />of raw tartar.			|	raw white tartar.
-<lb />of leaves of cauliflower,	|	leaves of cauli-
-<lb />without the ribs.  		|	flower, without the
+<lb />of <seg ana="#starch">powdered starch</seg>.			<seg ana="#starch">powdered starch</seg>;
+<lb />of <seg ana="#starch">starch paste</seg>,. <seg ana="#starch">starch paste</seg>	|,.	<seg ana="#red_lead">sweet wine / minium [?]</seg> .~*
+<lb /><seg ana="#starch_blue">brown-blue starch paste</seg>.	|	<seg ana="#starch_blue">brown-blue</seg> 
+<lb />				|	<seg ana="#starch_blue">starch paste</seg>.
+<lb /><seg ana="#starch_blue">pale blue starch paste</seg>.	|	<seg ana="#starch_blue">pale blue</seg> 
+<lb /><seg ana="#red_lead">sweet wine / minium [?]</seg>.~*	|	<seg ana="#starch_blue">starch paste</seg>.
+<lb />of <seg ana="#gamboge">gamboge</seg>.			|	<seg ana="#gamboge">gamboge</seg>.
+<lb />of whole <seg ana="#saffron">saffron</seg>.		|	whole <seg ana="#saffron">saffron</seg>.
+<lb />of <seg ana="#vermilion">vermilion</seg>.			|	<seg ana="#vermilion">vermilion</seg>.
+<lb />of <seg ana="#safflower">safflower</seg>.			|	<seg ana="#safflower">safflower</seg>.
+<lb />of <seg ana="#vinegar">white wine vinegar</seg>.		|	<seg ana="#vinegar">white wine vinegar</seg>.
+<lb />of raw <seg ana="#tartar">tartar</seg>.			|	raw white <seg ana="#tartar">tartar</seg>.
+<lb />of leaves of <seg ana="#cauliflower">cauliflower</seg>,	|	leaves of <seg ana="#cauliflower">cauli-</seg>
+<lb />without the ribs.  		|	<seg ana="#cauliflower">flower</seg>, without the
 <lb />				|	ribs.
-<lb />of verdigris.			|	verdigris.
-<lb />of wood of logwood.		|	logwood wood.
-<lb />of Brazilwood.			|	Brazilwood.
-<lb />of ashes of England.		|	English ashes.
-<lb />~Carmine. alum.		|	Carmine. alum.
-<lb />of fish glue.			|	fish glue.
-<lb />of hide glue.			|	hide glue.
-<lb />of ashes, of branches, of	|	ashes of grapevine tendrils.
-<lb />vines				|
+<lb />of <seg ana="#verdigris">verdigris</seg>.			|	<seg ana="#verdigris">verdigris</seg>.
+<lb />of wood of <seg ana="#brazilwood">logwood</seg>.		|	<seg ana="#brazilwood">logwood</seg> wood.
+<lb />of <seg ana="#logwood">Brazilwood</seg>.			|	<seg ana="#logwood">Brazilwood</seg>.
+<lb />of <seg ana="#english_ash">ashes of England</seg>.		|	<seg ana="#english_ash">English ashes</seg>.
+<lb />~<seg ana="#carmine">Carmine</seg>. <seg ana="#alum">alum</seg>.		|	<seg ana="#carmine">Carmine</seg>. <seg ana="#alum">alum</seg>.
+<lb />of <seg ana="#fish_glue">fish glue</seg>.			|	<seg ana="#fish_glue">fish glue</seg>.
+<lb />of <seg ana="#hide_glue">hide glue</seg>.			|	<seg ana="#hide_glue">hide glue</seg>.
+<lb />of <seg ana="#vine_ash">ashes, of branches</seg>, of	|	<seg ana="#vine_ash">ashes of grapevine tendrils</seg>.
+<lb /><seg ana="#vine_ash">vines</seg>				|
 </ab>
+</div>
 
 <pb facs="#f072" />
 <ab>
