@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f024"/>
+<div ana="#dyeing #dipping #wringing #straining #kneading #washing #cambric #safflower #vinegar #bag #terrine #pint #quarter_pound #ounce">
 <ab>
 <lb/>___ il faut le partager entre fois, sans repeter, ou trois, entre et __,
 <lb/>cela  __afin de tans mi sur prises ________
-<lb/>very clean terrine, one needs to wring the
-<lb/>sack, as hard as one can, in order that
+<lb/>very clean <seg ana="#terrine">terrine</seg>, one needs to <seg ana="#wringing">wring</seg> the
+<lb/><seg ana="#bag">sack</seg>, as hard as one can, in order that
 <lb/>all of the soup leaves it. ~~~ ✠
 <lb/>Next, one prepares, right away another
-<lb/>terrine, with a pint of white wine vinegar,
-<lb/>very clear, one plunges the cambric,
-<lb/>piece by piece, in the said vinegar, until
+<lb/><seg ana="#terrine">terrine</seg>, with a <seg ana="#pint">pint</seg> of <seg ana="#vinegar">white wine vinegar</seg>,
+<lb/>very clear, one <seg ana="#dipping">plunges</seg> the <seg ana="#cambric">cambric</seg>,
+<lb/>piece by piece, in the said <seg ana="#vinegar">vinegar</seg>, until
 <lb/>such time, that it is very wet, on needs to take
-<lb/>the weight, of a quarter [of a pound], less, a 
-<lb/>half ounce of cambric; all being ~
+<lb/>the weight, of a <seg ana="#quarter_pound">quarter</seg> [of a pound], less, a 
+<lb/>half <seg ana="#ounce">ounce</seg> of <seg ana="#cambric">cambric</seg>; all being ~
 <lb/>very wet, one needs to take them immediately
 <lb/>in the hand, in good order, without ~
 <lb/>leaving a single piece behind; one needs to hurry when
-<lb/>one does this, and the cambric must be ready
-<lb/>in the vinegar, at the same time, as
-<lb/>the soup has passed all through the little sack,
-<lb/>but the person who had kneaded, and passed the
-<lb/>safflower, needs to take care not to wet
-<lb/>their hands in the vinegar, before the
-<lb/>person who had wetted the cambric in the
-<lb/>vinegar, he gives to him the mass, between the hands,
-<lb/>Having received it, she plunges it immediately, all
-<lb/>~ the cambric at the same time in the said soup;
-<lb/>one needs to wash it well, and clear it, and
+<lb/>one does this, and the <seg ana="#cambric">cambric</seg> must be ready
+<lb/>in the <seg ana="#vinegar">vinegar</seg>, at the same time, as
+<lb/>the soup has <seg ana="#straining">passed</seg> all through the little <seg ana="#bag">sack</seg>,
+<lb/>but the person who had <seg ana="#kneading">kneaded</seg>, and <seg ana="#straining">passed</seg> the
+<lb/><seg ana="#safflower">safflower</seg>, needs to take care not to wet
+<lb/>their hands in the <seg ana="#vinegar">vinegar</seg>, before the
+<lb/>person who had wetted the <seg ana="#cambric">cambric</seg> in the
+<lb/><seg ana="#vinegar">vinegar</seg>, he gives to him the mass, between the hands,
+<lb/>Having received it, she <seg ana="#dipping">plunges</seg> it immediately, all
+<lb/>~ the <seg ana="#cambric">cambric</seg> at the same time in the said soup;
+<lb/>one needs to <seg ana="#washing">wash</seg> it well, and clear it, and
 </ab>
+</div>
 
 </div></body></text>

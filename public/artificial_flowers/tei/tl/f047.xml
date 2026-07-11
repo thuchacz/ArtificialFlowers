@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f047"/>
+<div ana="#brazilwood #logwood #beer #alum #patar #liard #pint #boiling #straining #cloth #bottle #dyeing #painting #tracing #mussel_shell #oyster_shell #cambric #paper #paintbrush">
 <ab>
 <lb/>Note, again another way, for the same red;
-<lb/>✠ Take for one patard of brazil wood, and for
-<lb/>two liards alum, with two pints of old beer, the older,
-<lb/>is the best; leave that to boil together, until [reduced by]
-<lb/>half; next one passes the soup through a clear
-<lb/>linen cloth, and one pours it into a bottle; and when
-<lb/>one wants to use it, and paint with it; one pours
-<lb/>of this red dye, into a mussel shell, or
-<lb/>just as well into an oyster shell, and leave it like that
+<lb/>✠ Take for one <seg ana="#patar">patard</seg> of <seg ana="#brazilwood">brazil wood</seg>, and for
+<lb/>two <seg ana="#liard">liards</seg> <seg ana="#alum">alum</seg>, with two <seg ana="#pint">pints</seg> of <seg ana="#beer">old beer</seg>, the older,
+<lb/>is the best; leave that to <seg ana="#boiling">boil</seg> together, until [reduced by]
+<lb/>half; next one <seg ana="#straining">passes</seg> the soup through a clear
+<lb/><seg ana="#cloth">linen cloth</seg>, and one pours it into a <seg ana="#bottle">bottle</seg>; and when
+<lb/>one wants to use it, and <seg ana="#painting">paint</seg> with it; one pours
+<lb/>of this red <seg ana="#dyeing">dye</seg>, into a <seg ana="#mussel_shell">mussel shell</seg>, or
+<lb/>just as well into an <seg ana="#oyster_shell">oyster shell</seg>, and leave it like that
 <lb/>5. or 6. hours. and if you can put it several
-<lb/>hours in the sun, the dye will be ready sooner to 
+<lb/>hours in the sun, the <seg ana="#dyeing">dye</seg> will be ready sooner to
 <lb/>use, provided that the sun is not too ardent;
-<lb/>for the dye would be in little time, too diminished, and
+<lb/>for the <seg ana="#dyeing">dye</seg> would be in little time, too diminished, and
 <lb/>dry in the shell; after that, one needs to pour off the clear [liquid] into
 <lb/>another shell very clean also, and some hours later,
 <lb/>again pour it into another shell; one needs to continue
 <lb/>like this, two or three times, if there is need; for when the
-<lb/>dye becomes a little thick, this marks [the point that] it is good for tracing
-<lb/>on cambric, and on paper; you can test with the
-<lb/>paintbrush if the color is good, for your use; Note,
+<lb/><seg ana="#dyeing">dye</seg> becomes a little thick, this marks [the point that] it is good for <seg ana="#tracing">tracing</seg>
+<lb/>on <seg ana="#cambric">cambric</seg>, and on <seg ana="#paper">paper</seg>; you can test with the
+<lb/><seg ana="#paintbrush">paintbrush</seg> if the color is good, for your use; Note,
 <lb/>In the same way also one readies, or prepares the color
-<lb/>violet; but instead of brazil wood; one needs to take some
-<lb/>logwood; Note that one needs for it to be good beer, without
+<lb/>violet; but instead of <seg ana="#brazilwood">brazil wood</seg>; one needs to take some
+<lb/><seg ana="#logwood">logwood</seg>; Note that one needs for it to be <seg ana="#beer">good beer</seg>, without
 <lb/>being mixed, when it will be ten. and 20. years old) One makes
-<lb/>red paper of this also, with the two reds, and some violet also ~~
+<lb/>red <seg ana="#paper">paper</seg> of this also, with the two reds, and some violet also ~~
 </ab>
+</div>
 
 </div></body></text>

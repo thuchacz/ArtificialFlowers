@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f062"/>
+<div ana="#hide_glue #leather #cambric #fish_glue #chafing_dish #cloth #spoon #boiling #pressing #straining #starching #dipping #drying #undyeing">
 <ab>
-<lb/>one needs to take care to note let it boil,
+<lb/>one needs to take care to note let it <seg ana="#boiling">boil</seg>,
 <lb/>next, one leaves it to draw [itself out], like that on
-<lb/>the chafing dish + + or foot stove until such time that the soup becomes
+<lb/>the <seg ana="#chafing_dish">chafing dish</seg> + + or <seg ana="#chafing_dish">foot stove</seg> until such time that the soup becomes
 <lb/>thick, and that it sticks to the finger, and that it is
 <lb/>congealed, that done, one puts it to heat, to
-<lb/>de-congeal it, then, one takes the leather out of the
-<lb/>soup, fo press it with the hands, until such
+<lb/>de-congeal it, then, one takes the <seg ana="#leather">leather</seg> out of the
+<lb/>soup, fo <seg ana="#pressing">press</seg> it with the hands, until such
 <lb/>time that the soup is a little outside of [the leather], next
-<lb/>one passes the said soup through a linen cloth, and
-<lb/>one stiffens the cambric with [it], one needs to
+<lb/>one <seg ana="#straining">passes</seg> the said soup through a <seg ana="#cloth">linen cloth</seg>, and
+<lb/>one <seg ana="#starching">stiffens</seg> the <seg ana="#cambric">cambric</seg> with [it], one needs to
 <lb/>maintain always the temperature, in order that the
-<lb/>cambric, and the glue do not congeal
-<lb/>in the hands at all, one needs to plunge only two
+<lb/><seg ana="#cambric">cambric</seg>, and the glue do not congeal
+<lb/>in the hands at all, one needs to <seg ana="#dipping">plunge</seg> only two
 <lb/>or three pieces at a time, and hang them immediately,
-<lb/>to avoid this inconvenience, the cambric being
-<lb/>dry, if one sees that it is too stiff to
-<lb/>use, before plunging other pieces
-<lb/>of cambric, one needs to pour into the glue
-<lb/>three or four, spoons of water, more or less
+<lb/>to avoid this inconvenience, the <seg ana="#cambric">cambric</seg> being
+<lb/><seg ana="#drying">dry</seg>, if one sees that it is too stiff to
+<lb/>use, before <seg ana="#dipping">plunging</seg> other pieces
+<lb/>of <seg ana="#cambric">cambric</seg>, one needs to pour into the glue
+<lb/>three or four, <seg ana="#spoon">spoons</seg> of water, more or less
 <lb/>according to the quantity of glue that one sees,
 <lb/>but the best is, not to put water in the glue, since the stuffs,
-<lb/>or cambric becomes [too] pliable after . . . 
+<lb/>or <seg ana="#cambric">cambric</seg> becomes [too] pliable after . . . 
 <lb/>Note, that one must never pour water,
-<lb/>into fish glue, ~~~~
+<lb/>into <seg ana="#fish_glue">fish glue</seg>, ~~~~
 <lb/>I misspoke, here above, as you can see; ~~~
-<lb/>Way for undyeing pink color
+<lb/>Way for <seg ana="#undyeing">undyeing</seg> pink color
 </ab>
+</div>
 
 </div></body></text>

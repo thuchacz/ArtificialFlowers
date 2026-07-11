@@ -1,36 +1,38 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f028"/>
+<div ana="#dyeing #washing #pressing #rinsing #cambric #muslin #safflower #vinegar #verjuice #anemone #terrine #pound #ounce">
 <ab>
 <lb/>car aūterment il ne pas necessaire de le mettre 
-<lb/>dans le vinaigre, parceqūe la soūpe, et sūre dū 
-<lb/>premiez cambraij, pūis on laūe encorre une aūtre
+<lb/>dans le <seg ana="#vinegar">vinaigre</seg>, parceqūe la soūpe, et sūre dū 
+<lb/>premiez <seg ana="#cambric">cambraij</seg>, pūis on <seg ana="#washing">laūe</seg> encorre une aūtre
 <lb/>piece, si lon voie qūe la soūpe donne encorre 
-<lb/>coūloeūr, pūis on fait, comme cij deūant, ce cambraij
-<lb/>doit estre gardez poūr les alimon, parceqūe la coūloeūr
+<lb/>coūloeūr, pūis on fait, comme cij deūant, ce <seg ana="#cambric">cambraij</seg>
+<lb/>doit estre gardez poūr les <seg ana="#anemone">alimon</seg>, parceqūe la coūloeūr
 <lb/>ne pas si pūre qūe la premiere et qūel se tache
 <lb/>dans soit meme, ~~~ Notez; qūand ons veūx
-<lb/>aūoir les cambraij for roūge, il faūt les raincer, seūllement 
-<lb/>dans trois terrinne d’eaū ◆
-<lb/>Notez, une liūre de sanfloūr, poūr une 
-<lb/>liūre de cambraij fait une belle coūloeūrs; me
-<lb/>un onsse, oū une onsse edemie moin, fait une 
+<lb/>aūoir les <seg ana="#cambric">cambraij</seg> for roūge, il faūt les <seg ana="#rinsing">raincer</seg>, seūllement 
+<lb/>dans trois <seg ana="#terrine">terrinne</seg> d’eaū ◆
+<lb/>Notez, une <seg ana="#pound">liūre</seg> de <seg ana="#safflower">sanfloūr</seg>, poūr une 
+<lb/><seg ana="#pound">liūre</seg> de <seg ana="#cambric">cambraij</seg> fait une belle coūloeūrs; me
+<lb/>un <seg ana="#ounce">onsse</seg>, oū une <seg ana="#ounce">onsse</seg> edemie moin, fait une 
 <lb/>plūs belle coūloeūrs; et qūand lons veūx aūoir 
 <lb/>plūsieūrs coūloeūrs brūn roūge; il faūt dis=
 <lb/>=perser la soūpe, en trois partie; et prendre 
-<lb/>dū cambraij a la bonne veūx, une fois 
+<lb/>dū <seg ana="#cambric">cambraij</seg> a la bonne veūx, une fois 
 <lb/>un peūt plūs, et l’aūtre foie un peūt 
 <lb/>moin; a l’aūenant qūe lon voie qūe la 
 <lb/>coūloeūr et comme on veūx l’aūoir, ~~~
 <lb/>ce qūil sūis est poūr faire, plūsieūrs palle coūleūrs 
 <lb/>pour les rosse &amp;c. ~~
-<lb/>Apres qūe le premiez cambraij et rincez, 
-<lb/>lons prend, deūx, ou trois piece de cambraij, oū de ~ 
-<lb/>moūselinne, toūte secqūe, et bien blanche, 
-<lb/>sans la mettre dans le vinaigre; et on le laūe
-<lb/>:+: le vergūe, pūis on le presse deor, et on le jette dans:+:toūte aūsitot dans :+:
-<lb/>la premiere rincūr, on le 
-<lb/>laūe aūssi + 
+<lb/>Apres qūe le premiez <seg ana="#cambric">cambraij</seg> et <seg ana="#rinsing">rincez</seg>, 
+<lb/>lons prend, deūx, ou trois piece de <seg ana="#cambric">cambraij</seg>, oū de ~ 
+<lb/><seg ana="#muslin">moūselinne</seg>, toūte secqūe, et bien blanche, 
+<lb/>sans la mettre dans le <seg ana="#vinegar">vinaigre</seg>; et on le <seg ana="#washing">laūe</seg>
+<lb/>:+: le <seg ana="#verjuice">vergūe</seg>, pūis on le <seg ana="#pressing">presse</seg> deor, et on le jette dans:+:toūte aūsitot dans :+:
+<lb/>la premiere <seg ana="#rinsing">rincūr</seg>, on le 
+<lb/><seg ana="#washing">laūe</seg> aūssi + 
 <lb/>+ long temp, qūel deūien roūge, ensūite on le
-<lb/>laūe for aūsij, dans les aūtres rinsūr, de
+<lb/><seg ana="#washing">laūe</seg> for aūsij, dans les aūtres <seg ana="#rinsing">rinsūr</seg>, de
 </ab>
+</div>
 
 </div></body></text>

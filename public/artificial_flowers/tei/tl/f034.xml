@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f034"/>
+<div ana="#printing #drying #washing #grinding #soaking #parchment #verdigris #bottle_green #coverlet #garden_leaf #board #quarter_pound #earthenware_pot">
 <ab>
-<lb/>applies the flowers from the garden on top, and
+<lb/>applies the <seg ana="#garden_leaf">flowers from the garden</seg> on top, and
 <lb/>one does as here before, one does this 
-<lb/>only, for one day, or two, after the parchment
+<lb/>only, for one day, or two, after the <seg ana="#parchment">parchment</seg>
 <lb/>is outside of the pass, because the pieces
-<lb/>of coverlet must be hung in the open air,
+<lb/>of <seg ana="#coverlet">coverlet</seg> must be hung in the open air,
 <lb/>when one does not have the convenience of having the
-<lb/>pieces, one takes the whole entire coverlet,
+<lb/>pieces, one takes the whole entire <seg ana="#coverlet">coverlet</seg>,
 <lb/>half-worn, better more worn than less; but
-<lb/>when the coverlet is entirely worn, one
+<lb/>when the <seg ana="#coverlet">coverlet</seg> is entirely worn, one
 <lb/>folds it in two to make use of it. ~~
-<lb/>In removing the parchment from the pass one
-<lb/>needs to leave it to dry on the board, and
-<lb/>next remove the leaves, ~~~
-<lb/>Another way to dry the velum, after
-<lb/>having washed it, without wanting to print it, one
+<lb/>In removing the <seg ana="#parchment">parchment</seg> from the pass one
+<lb/>needs to leave it to <seg ana="#drying">dry</seg> on the <seg ana="#board">board</seg>, and
+<lb/>next remove the <seg ana="#garden_leaf">leaves</seg>, ~~~
+<lb/>Another way to <seg ana="#drying">dry</seg> the <seg ana="#parchment">velum</seg>, after
+<lb/>having <seg ana="#washing">washed</seg> it, without wanting to <seg ana="#printing">print</seg> it, one
 <lb/>takes it out of the water, and one lays it flat immediately on
-<lb/>the board, very clean. ~~~
-<lb/>To make green, one needs to take a
-<lb/>quarter [pound] of verdigris; it must be well ~
-<lb/>ground, one puts it in the evening, in a cruet
+<lb/>the <seg ana="#board">board</seg>, very clean. ~~~
+<lb/>To make <seg ana="#bottle_green">green</seg>, one needs to take a
+<lb/><seg ana="#quarter_pound">quarter [pound]</seg> of <seg ana="#verdigris">verdigris</seg>; it must be well ~
+<lb/><seg ana="#grinding">ground</seg>, one puts it in the evening, in a <seg ana="#earthenware_pot">cruet</seg>
 <lb/>very clean, next put there a little water, and
 <lb/>mix it like this very well, next put there again a little water
-<lb/>such that the water does not overpower the verdigris
-<lb/>at all, one leaves it to soak thus all
+<lb/>such that the water does not overpower the <seg ana="#verdigris">verdigris</seg>
+<lb/>at all, one leaves it to <seg ana="#soaking">soak</seg> thus all
 <lb/>night, the next day, one sprinkles on top
 </ab>
+</div>
 
 </div></body></text>

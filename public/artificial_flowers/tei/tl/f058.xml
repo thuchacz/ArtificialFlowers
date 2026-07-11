@@ -1,33 +1,35 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f058"/>
+<div ana="#rainwater #vinegar #toile #beer #fish_glue #fountain_water #hammer #pot #earthenware_pot #cloth #quarter_pound #pint #drop #starching #cutting #soaking #boiling #straining #dyeing">
 <ab>
 <lb/>if one finds it good, for otherwise
-<lb/>vinegar is good also, one needs to stiffen it
-<lb/>and do in all things, as yellow cloth.
+<lb/><seg ana="#vinegar">vinegar</seg> is good also, one needs to <seg ana="#starching">stiffen</seg> it
+<lb/>and do in all things, as yellow <seg ana="#toile">cloth</seg>.
 <lb/>this sort of cloth, is not good for
 <lb/>making flowers. ~~~ 
-<lb/>the old beer, is better still,
+<lb/>the <seg ana="#beer">old beer</seg>, is better still,
 <lb/>when it is 8. and 20. years old;
-<lb/>but it must be good beer, it must not be small beer;
-<lb/>W for making fish glue
-<lb/>one needs to take a half quarter [of a pound]
-<lb/>of fish glue, one needs to beat it well
-<lb/>with a hammer, being well cleared away
-<lb/>one cuts it, into little pieces, next
-<lb/>one takes three pints of rain, or fountain, water,
+<lb/>but it must be <seg ana="#beer">good beer</seg>, it must not be <seg ana="#beer">small beer</seg>;
+<lb/>W for making <seg ana="#fish_glue">fish glue</seg>
+<lb/>one needs to take a half <seg ana="#quarter_pound">quarter [of a pound]</seg>
+<lb/>of <seg ana="#fish_glue">fish glue</seg>, one needs to beat it well
+<lb/>with a <seg ana="#hammer">hammer</seg>, being well cleared away
+<lb/>one <seg ana="#cutting">cuts</seg> it, into little pieces, next
+<lb/>one takes three <seg ana="#pint">pints</seg> of <seg ana="#rainwater">rain</seg>, or <seg ana="#fountain_water">fountain</seg>, water,
 <lb/>better less, than more; from there
 <lb/>one puts it to soak for one day, after that :+:
-<lb/>:+: one puts it to boil in a pot or just as well
-<lb/>in an earthenware cruet very tidy, and ~
+<lb/>:+: one puts it to <seg ana="#boiling">boil</seg> in a <seg ana="#pot">pot</seg> or just as well
+<lb/>in an <seg ana="#earthenware_pot">earthenware cruet</seg> very tidy, and ~
 <lb/>new without having been used for another thing,
 <lb/>one needs to stir it strongly often, in order
 <lb/>that the glue doesn't burn at the bottom du
-<lb/>of the pot, one needs to leave it to boil, until
+<lb/>of the pot, one needs to leave it to <seg ana="#boiling">boil</seg>, until
 <lb/>the time, that the water is diminished by around
-<lb/>half, one takes a few drops
+<lb/>half, one takes a few <seg ana="#drop">drops</seg>
 <lb/>balling it with he fingers, for seeing, if the
 <lb/>soup, is thick enough, if it attaches
 <lb/>to the fingers, next one takes it off the fire, and
-<lb/>one passes it immediately through a linen cloth, into
+<lb/>one <seg ana="#straining">passes</seg> it immediately through a <seg ana="#cloth">linen cloth</seg>, into
 </ab>
+</div>
 
 </div></body></text>

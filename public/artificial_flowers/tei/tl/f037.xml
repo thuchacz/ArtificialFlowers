@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f037"/>
+<div ana="#dyeing #drying #dipping #gamboge #bottle_green #parchment #egg_white #carnation #stem #drop #dish #sponge">
 <ab>
-<lb/>otherwise only five, or six drops, one needs to
-<lb/>always watch, to not ever pour yellow
-<lb/>over green, but aptly green over yellow. ~
-<lb/>Way to dye velum, or parchment,
-<lb/>for carnations, one puts in a little dish,
-<lb/>five, or six drops of gamboge, very clear,
-<lb/>like for stems, of the said flowers, next
-<lb/>one pours on top while stirring, the green from the
-<lb/>bottle, half, or the three parts of a
-<lb/>dish, that done, one takes a little piece
-<lb/>of sponge, one wets the end of it in this soup,
-<lb/>and one passes it over the velum, rather
-<lb/>thinly, then one leaves it to dry, next one
-<lb/>greens it again once more, and that, three, or four
+<lb/>otherwise only five, or six <seg ana="#drop">drops</seg>, one needs to
+<lb/>always watch, to not ever pour <seg ana="#gamboge">yellow</seg>
+<lb/>over <seg ana="#bottle_green">green</seg>, but aptly <seg ana="#bottle_green">green</seg> over <seg ana="#gamboge">yellow</seg>. ~
+<lb/>Way to <seg ana="#dyeing">dye</seg> <seg ana="#parchment">velum</seg>, or <seg ana="#parchment">parchment</seg>,
+<lb/>for <seg ana="#carnation">carnations</seg>, one puts in a little <seg ana="#dish">dish</seg>,
+<lb/>five, or six <seg ana="#drop">drops</seg> of <seg ana="#gamboge">gamboge</seg>, very clear,
+<lb/>like for <seg ana="#stem">stems</seg>, of the said flowers, next
+<lb/>one pours on top while stirring, the <seg ana="#bottle_green">green from the
+<lb/>bottle</seg>, half, or the three parts of a
+<lb/><seg ana="#dish">dish</seg>, that done, one takes a little piece
+<lb/>of <seg ana="#sponge">sponge</seg>, one wets the end of it in this soup,
+<lb/>and one passes it over the <seg ana="#parchment">velum</seg>, rather
+<lb/>thinly, then one leaves it to <seg ana="#drying">dry</seg>, next one
+<lb/><seg ana="#dyeing">greens</seg> it again once more, and that, three, or four
 <lb/>times, in succession, that done, and being
-<lb/>very dry, one turns it on its other side,
+<lb/>very <seg ana="#drying">dry</seg>, one turns it on its other side,
 <lb/>and one does the same thing, if one sees after
-<lb/>that, that the velum, is green enough, one leaves it
-<lb/>to dry again well, next one plunges a
-<lb/>piece of sponge, very clean, in some egg
-<lb/>white, well beaten, and one passes over the velum
+<lb/>that, that the <seg ana="#parchment">velum</seg>, is green enough, one leaves it
+<lb/>to <seg ana="#drying">dry</seg> again well, next one <seg ana="#dipping">plunges</seg> a
+<lb/>piece of <seg ana="#sponge">sponge</seg>, very clean, in some <seg ana="#egg_white">egg
+<lb/>white</seg>, well beaten, and one passes over the <seg ana="#parchment">velum</seg>
 <lb/>rather thinly also, but one needs to do one's [best as]
 <lb/>possible, that the velum, is everywhere, very
-<lb/>wet, being well dried, one turns it
+<lb/>wet, being well <seg ana="#drying">dried</seg>, one turns it
 <lb/>to its other side, and one does the same, it
 </ab>
+</div>
 
 </div></body></text>

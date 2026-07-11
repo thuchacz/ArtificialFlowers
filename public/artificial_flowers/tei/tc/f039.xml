@@ -1,33 +1,35 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f039"/>
+<div ana="#dyeing #verdigris #bottle_green #paper #gum_tragacanth #vermilion #egg_white #sieve #sponge #spoon #packet">
 <ab>
-<lb/>tamie, cesij se fait, aūant de le mettre dans la 
-<lb/>soūpe; le ver de grie, estant bien demelaij ~
+<lb/><seg ana="#sieve">tamie</seg>, cesij se fait, aūant de le mettre dans la 
+<lb/>soūpe; le <seg ana="#verdigris">ver de grie</seg>, estant bien demelaij ~
 <lb/>et toūliez dans la dit soūpe on le met trois
 <lb/>oū qūatre heūre dans le soleil, ensūite ~
-<lb/>l’ons prend un petit morcaū deponge, et long ~ 
-<lb/>verdie le papiez de la meme maniere, qūe 
-<lb/>le ver precedant. il faūt remūer le fons, de temp, 
+<lb/>l’ons prend un petit morcaū <seg ana="#sponge">deponge</seg>, et long ~ 
+<lb/><seg ana="#dyeing">verdie</seg> le <seg ana="#paper">papiez</seg> de la meme maniere, qūe 
+<lb/>le <seg ana="#bottle_green">ver</seg> precedant. il faūt remūer le fons, de temp, 
 <lb/> en temp. ~
 <lb/>notez faūte de soleil on sans passe;
-<lb/>Le papier roūge se fait de la meme maniere 
-<lb/>aūsi, lons prend de la claire gomme, aūec un 
-<lb/>petit + demie paqūez de vermilion, qūe lons demelle bien 
-<lb/>ensemble, le vermilion estant bien demelaij, lons 
-<lb/>versse encorre une cūlier, de la 
-<lb/>dit gomme, aūec deūx oū trois cūlieraij d’eaū, 
+<lb/>Le <seg ana="#paper">papier</seg> roūge se fait de la meme maniere 
+<lb/>aūsi, lons prend de la claire <seg ana="#gum_tragacanth">gomme</seg>, aūec un 
+<lb/>petit + demie <seg ana="#packet">paqūez</seg> de <seg ana="#vermilion">vermilion</seg>, qūe lons demelle bien 
+<lb/>ensemble, le <seg ana="#vermilion">vermilion</seg> estant bien demelaij, lons 
+<lb/>versse encorre une <seg ana="#spoon">cūlier</seg>, de la 
+<lb/>dit <seg ana="#gum_tragacanth">gomme</seg>, aūec deūx oū trois <seg ana="#spoon">cūlieraij</seg> d’eaū, 
 <lb/>il faūt toūlier les toūs bien ensemble, ensūite 
 <lb/>on le laisse comme sa, deūx, oū trois heūre
 <lb/>plūs, oū moins, aūant de sans serūire, ✠ pūis 
-<lb/>l’ons roūgie le papiez aūec, il faūt remūer le 
-<lb/>fons, aūant de roūgir, et la deūsieme fois qūe 
-<lb/>l’ons roūgie le papier, il faūt passer l’eponge 
+<lb/>l’ons <seg ana="#dyeing">roūgie</seg> le <seg ana="#paper">papiez</seg> aūec, il faūt remūer le 
+<lb/>fons, aūant de <seg ana="#dyeing">roūgir</seg>, et la deūsieme fois qūe 
+<lb/>l’ons <seg ana="#dyeing">roūgie</seg> le <seg ana="#paper">papier</seg>, il faūt passer l’<seg ana="#sponge">eponge</seg> 
 <lb/>for legerrement, et faire son posible afin qūe
-<lb/>le papiez soit baūx roūge assez, estant roūgie 
+<lb/>le <seg ana="#paper">papiez</seg> soit baūx roūge assez, estant <seg ana="#dyeing">roūgie</seg> 
 <lb/>deūx fois a chaqūe côté,. lons passe desūr aūsi, 
-<lb/>deūx fois a chaqūe côtez, le blan d’oeūf, for 
-<lb/>legerrement; Me poūr les papier ver; et jonne, &amp;.c
-<lb/>il sūfie de passer desūr, aūec le blan~
-<lb/>d’oeūf, a chaqūe côté, une fois. ~~~
+<lb/>deūx fois a chaqūe côtez, le <seg ana="#egg_white">blan d’oeūf</seg>, for 
+<lb/>legerrement; Me poūr les <seg ana="#paper">papier</seg> ver; et jonne, &amp;.c
+<lb/>il sūfie de passer desūr, aūec le <seg ana="#egg_white">blan~
+<lb/>d’oeūf</seg>, a chaqūe côté, une fois. ~~~
 </ab>
+</div>
 
 </div></body></text>

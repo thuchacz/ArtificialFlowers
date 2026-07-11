@@ -1,10 +1,12 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f005"/>
+<div ana="#paintbrush #tracing #cambric #paper #crimson_fabric">
 <ab>
-<lb/>a voūs en serūirre aūec le paincaūx, poūr 
-<lb/>tracer aūec, desūr le cambraij, et desūrre le papiez;
-<lb/>toūte les petit morcaūx de dras incarlacqūe, que les 
+<lb/>a voūs en serūirre aūec le <seg ana="#paintbrush">paincaūx</seg>, poūr 
+<lb/><seg ana="#tracing">tracer</seg> aūec, desūr le <seg ana="#cambric">cambraij</seg>, et desūrre le <seg ana="#paper">papiez</seg>;
+<lb/>toūte les petit morcaūx de dras <seg ana="#crimson_fabric">incarlacqūe</seg>, que les 
 <lb/>tallieūrs jette enūoie, ils sons bon poūr sa, il ne pas
 <lb/>nesecaire d’aūoir des grand morcaūx, ~~
 </ab>
+</div>
 
 </div></body></text>

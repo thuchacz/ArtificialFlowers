@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f081"/>
+<div ana="#gilding #gold #silver #eel_gall #brandy #illuminating #tracing #paintbrush #drop #rainwater #fountain_water #shell #egg_white #sponge #washing #wringing #cloth #oil">
 <ab>
 <lb/>larger work, so must one take larger
-<lb/>quantities of gall and brandy.
+<lb/>quantities of <seg ana="#eel_gall">gall</seg> and <seg ana="#brandy">brandy</seg>.
 <lb/>Note: if you only wish to make light work,
 <lb/>with 4 or 5 ground [layers] to lay
 <lb/>it is already enough. ~~~~
-<lb/>Note that eel gall is only 
-<lb/>for illuminating but not for
-<lb/>drawing with a paintbrush on
-<lb/>little images. To that end, brandy
+<lb/>Note that <seg ana="#eel_gall">eel gall</seg> is only
+<lb/>for <seg ana="#illuminating">illuminating</seg> but not for
+<lb/><seg ana="#tracing">drawing</seg> with a <seg ana="#paintbrush">paintbrush</seg> on
+<lb/>little images. To that end, <seg ana="#brandy">brandy</seg>
 <lb/>works well on its own. Also one or two little
-<lb/>drops of rainwater or fountain water, this is the best
-<lb/>to put in the shell with gold or silver and therewith to
-<lb/>gild with foam[?] gold or silver. The
-<lb/>ground must be made slightly wet with 
-<lb/>well beaten egg white, but overall well wet.
-<lb/>Thereafter, one lays the gold or the silver foam thereupon,
+<lb/><seg ana="#drop">drops</seg> of <seg ana="#rainwater">rainwater</seg> or <seg ana="#fountain_water">fountain water</seg>, this is the best
+<lb/>to put in the <seg ana="#shell">shell</seg> with <seg ana="#gold">gold</seg> or <seg ana="#silver">silver</seg> and therewith to
+<lb/><seg ana="#gilding">gild</seg> with foam[?] <seg ana="#gold">gold</seg> or <seg ana="#silver">silver</seg>. The
+<lb/>ground must be made slightly wet with
+<lb/>well beaten <seg ana="#egg_white">egg white</seg>, but overall well wet.
+<lb/>Thereafter, one lays the <seg ana="#gold">gold</seg> or the <seg ana="#silver">silver</seg> foam thereupon,
 <lb/>fine or rough, one puts it down with a small
-<lb/>brockskens sponge, well washed beforehand, [and]
-<lb/>thereafter squeezed out in a cloth, and thereafter,
-<lb/>gilded with. And if the sponge becomes somewhat
+<lb/>brockskens <seg ana="#sponge">sponge</seg>, well <seg ana="#washing">washed</seg> beforehand, [and]
+<lb/>thereafter <seg ana="#wringing">squeezed out</seg> in a <seg ana="#cloth">cloth</seg>, and thereafter,
+<lb/><seg ana="#gilding">gilded</seg> with. And if the <seg ana="#sponge">sponge</seg> becomes somewhat
 <lb/>too dry, one does as before. ~~
-<lb/>Note: if it is with oil, one takes ghebrant[drying?]
-<lb/>oil and one makes it wet with this oil, and
-<lb/>[lays] silver or gold foam thereupon. And one
-<lb/>does with the sponge as before. ~~
+<lb/>Note: if it is with <seg ana="#oil">oil</seg>, one takes ghebrant[drying?]
+<lb/><seg ana="#oil">oil</seg> and one makes it wet with this oil, and
+<lb/>[lays] <seg ana="#silver">silver</seg> or <seg ana="#gold">gold</seg> foam thereupon. And one
+<lb/>does with the <seg ana="#sponge">sponge</seg> as before. ~~
 </ab>
+</div>
 
 </div></body></text>

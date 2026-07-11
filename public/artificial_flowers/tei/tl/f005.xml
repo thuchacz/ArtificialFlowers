@@ -1,10 +1,12 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f005"/>
+<div ana="#paintbrush #tracing #cambric #paper #crimson_fabric">
 <ab>
-<lb/>for you to use with the paintbrush, to
-<lb/>draw with, on cambric, and on paper.
-<lb/>All the little pieces of crimson fabric, which the
+<lb/>for you to use with the <seg ana="#paintbrush">paintbrush</seg>, to
+<lb/><seg ana="#tracing">draw</seg> with, on <seg ana="#cambric">cambric</seg>, and on <seg ana="#paper">paper</seg>.
+<lb/>All the little pieces of <seg ana="#crimson_fabric">crimson fabric</seg>, which the
 <lb/>tailors throw aside, they are good for that. It is not
 <lb/>necessary to have large pieces.
 </ab>
+</div>
 
 </div></body></text>

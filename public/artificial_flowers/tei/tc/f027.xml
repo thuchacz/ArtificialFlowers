@@ -1,12 +1,14 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f027"/>
+<div ana="#dyeing #safflower #lye #vine_ash #lemon #pound #quarter_pound #pint">
 <ab>
 <lb/>qūe voūs conprendez bien; qūand voūs faite ∞
-<lb/>une demie liūre de sanfloūr; qūil voūs faūt ~
-<lb/>prendre deūx painte de leciūe, fait aūec de 
-<lb/>cendre de vinne; et poūr trois cartron, trois ∞
-<lb/>painte; et poūr une liūre, qūatre painte,◆
-<lb/>notez qūand voūs n’aūez pas des citron; il ne pas 
+<lb/>une demie <seg ana="#pound">liūre</seg> de <seg ana="#safflower">sanfloūr</seg>; qūil voūs faūt ~
+<lb/>prendre deūx <seg ana="#pint">painte</seg> de <seg ana="#lye">leciūe</seg>, fait aūec de 
+<lb/><seg ana="#vine_ash">cendre de vinne</seg>; et poūr trois <seg ana="#quarter_pound">cartron</seg>, trois ∞
+<lb/><seg ana="#pint">painte</seg>; et poūr une <seg ana="#pound">liūre</seg>, qūatre <seg ana="#pint">painte</seg>,◆
+<lb/>notez qūand voūs n’aūez pas des <seg ana="#lemon">citron</seg>; il ne pas 
 <lb/>necesaire de voūs en serūirre, en aūcūnne maniere; ~
 </ab>
+</div>
 
 </div></body></text>

@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f006"/>
+<div ana="#toile #cambric #muslin #washing #drying #starch #starching #cord #paper #iron #spoon #starch_blue">
 <ab>
 <lb/>Comme il faūt, accomoder les
-<lb/>toilles poūr faire de fleūrs ~
-<lb/>Apres qūe les cambraij, moūchelin, et 
-<lb/>toilles, sons for bien laūez, et bien saichez, 
-<lb/>il faūt prendre, oū faire une belle enpoise 
-<lb/>assez epesse, et pūis enpaisez votre toilles, oū
-<lb/>cambraij, de la meme maniere, comme long ~ 
-<lb/>enpoise les coiffūr, pūis il faūt pendre les 
-<lb/>linge aū cordons, estant bien saiqūe, il faūt 
+<lb/><seg ana="#toile">toilles</seg> poūr faire de fleūrs ~
+<lb/>Apres qūe les <seg ana="#cambric">cambraij</seg>, <seg ana="#muslin">moūchelin</seg>, et 
+<lb/><seg ana="#toile">toilles</seg>, sons for bien <seg ana="#washing">laūez</seg>, et bien <seg ana="#drying">saichez</seg>, 
+<lb/>il faūt prendre, oū faire une belle <seg ana="#starch">enpoise</seg> 
+<lb/>assez epesse, et pūis <seg ana="#starching">enpaisez</seg> votre <seg ana="#toile">toilles</seg>, oū
+<lb/><seg ana="#cambric">cambraij</seg>, de la meme maniere, comme long ~ 
+<lb/><seg ana="#starching">enpoise</seg> les coiffūr, pūis il faūt pendre les 
+<lb/>linge aū <seg ana="#cord">cordons</seg>, estant bien <seg ana="#drying">saiqūe</seg>, il faūt 
 <lb/>passer la main desūr, des deūx coté dū linge, 
 <lb/>poūr la rendre bien unie, pūis les plier aūec
-<lb/>la main, de la les mettre dans un papié, il 
+<lb/>la main, de la les mettre dans un <seg ana="#paper">papié</seg>, il 
 <lb/>se faūt garder, de ne pas se serūirre dū 
-<lb/>ferre comme lons repasse les linge, ni aūtres
+<lb/><seg ana="#iron">ferre</seg> comme lons repasse les linge, ni aūtres
 <lb/>instrūment poūr cette fin, il faūt obserūer 
 <lb/>cette ordre poūr toūtes les aūtres coūleūrs aūsij. 
-<lb/>cette sorte de’toilles, ne pūis serūirre qūe 
+<lb/>cette sorte de’<seg ana="#toile">toilles</seg>, ne pūis serūirre qūe 
 <lb/>poūr des fleūrs toūte blanche sans estres ~
 <lb/>trasez ~~
-<lb/>Aūtre cambraij blan, poūr poūūoir estre 
-<lb/>trasez, il faūt prendre dū blan d’amidons, 
+<lb/>Aūtre <seg ana="#cambric">cambraij</seg> blan, poūr poūūoir estre 
+<lb/>trasez, il faūt prendre dū <seg ana="#starch">blan d’amidons</seg>, 
 <lb/>+ plūtot plūs, qūe moin
-<lb/>aūtant qūil en pūis dans une petit cūlier + aūec
-<lb/>tant soit peūt de bleū d’empois, aūtant qūe 
+<lb/>aūtant qūil en pūis dans une petit <seg ana="#spoon">cūlier</seg> + aūec
+<lb/>tant soit peūt de <seg ana="#starch_blue">bleū d’empois</seg>, aūtant qūe 
 <lb/>voūs voūlez l’aūoir bleū; pūis il faūt prendre la
 </ab>
+</div>
 
 </div></body></text>

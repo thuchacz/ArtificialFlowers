@@ -1,19 +1,21 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f023"/>
+<div ana="#dyeing #washing #pressing #rinsing #cambric #earthenware_pot">
 <ab>
-<lb/>qūil a estez presez la soūpe deor, et 
-<lb/>cela dans un pot de terre aūssi; ensūite
+<lb/>qūil a estez <seg ana="#pressing">presez</seg> la soūpe deor, et 
+<lb/>cela dans un <seg ana="#earthenware_pot">pot de terre</seg> aūssi; ensūite
 <lb/>il faūt faire aūec, comme voūs aūez
 <lb/>fait aū premiez; cela donne qūelqūe
-<lb/>fois coūleūr; apres qūe voūs aūez laūez
-<lb/>le cambraij dans cette soūpe; il faūt le 
+<lb/>fois coūleūr; apres qūe voūs aūez <seg ana="#washing">laūez</seg>
+<lb/>le <seg ana="#cambric">cambraij</seg> dans cette soūpe; il faūt le 
 <lb/>jeter, dans la soūpe de la premiere cou=
 <lb/>=leūr; me seūllement, qūand toūtes les 
 <lb/>premiere coūleūrs en sons ottez; de
-<lb/>meme aūssi, toūte la rainsūrre: ~~
+<lb/>meme aūssi, toūte la <seg ana="#rinsing">rainsūrre</seg>: ~~
 <lb/>si bien, qūe cette coūleūr la, ne
-<lb/>doit estre raincez qūapres toūte les 
+<lb/>doit estre <seg ana="#rinsing">raincez</seg> qūapres toūte les 
 <lb/>aūtre coūleūrs de rosse, aūssi; ~
-<lb/>il faūt le bien laūer. dans la rainsūrre; ~
+<lb/>il faūt le bien <seg ana="#washing">laūer</seg>. dans la <seg ana="#rinsing">rainsūrre</seg>; ~
 </ab>
+</div>
 
 </div></body></text>

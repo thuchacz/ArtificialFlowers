@@ -1,10 +1,12 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f074"/>
+<div ana="#pattern #painting #pansy">
 <ab>
-<lb/>pattern
+<lb/><seg ana="#pattern">pattern</seg>
 <lb/>IHS MR
 <lb/>one needs always, to put all the sorts of flowers
-<lb/>that one paints with the holy names of Jesus, and of Maria,
-<lb/>put them in a heart, with several pansies around.
+<lb/>that one <seg ana="#painting">paints</seg> with the holy names of Jesus, and of Maria,
+<lb/>put them in a heart, with several <seg ana="#pansy">pansies</seg> around.
 </ab>
+</div>
 
 </div></body></text>

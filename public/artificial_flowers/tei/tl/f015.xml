@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f015"/>
+<div ana="#hide_glue #bottle_green #drop #gamboge #muslin #ranunculus #anemone #dyeing #jonquil #saffron #grinding #soaking #pot #fish_glue #glass_vessel #cambric #washing">
 <ab>
 <lb/>it is sufficient with the first time, and if 
 <lb/>you would like to have it yellowish, one needs to put
-<lb/>amongst the glue, and the green a few drops of
-<lb/>gamboge, these kinds of muslin,
-<lb/>etc are useful for the beginnings of ranunculi, and
-<lb/>allimon? &amp;.c ~~~
-<lb/>To dye jonquil color, one
+<lb/>amongst the <seg ana="#hide_glue">glue</seg>, and the <seg ana="#bottle_green">green</seg> a few <seg ana="#drop">drops</seg> of
+<lb/><seg ana="#gamboge">gamboge</seg>, these kinds of <seg ana="#muslin">muslin</seg>,
+<lb/>etc are useful for the beginnings of <seg ana="#ranunculus">ranunculi</seg>, and
+<lb/><seg ana="#anemone">allimon</seg>? &amp;.c ~~~
+<lb/>To <seg ana="#dyeing">dye</seg> <seg ana="#jonquil">jonquil</seg> color, one
 <lb/>needs to take the size of a big nut
-<lb/>of gamboge, with a little whole saffron,
-<lb/>without being pounded, which one needs to
-<lb/>put to soak in a little water, it 
-<lb/>is enough that the water in the little pot ~
-<lb/>will be around height of the gamboge; and the saffron in
-<lb/>another little pot; leave it to extract its colour well,
+<lb/>of <seg ana="#gamboge">gamboge</seg>, with a little whole <seg ana="#saffron">saffron</seg>,
+<lb/>without being <seg ana="#grinding">pounded</seg>, which one needs to
+<lb/>put to <seg ana="#soaking">soak</seg> in a little water, it 
+<lb/>is enough that the water in the little <seg ana="#pot">pot</seg> ~
+<lb/>will be around height of the <seg ana="#gamboge">gamboge</seg>; and the <seg ana="#saffron">saffron</seg> in
+<lb/>another little <seg ana="#pot">pot</seg>; leave it to extract its colour well,
 <lb/>with a little hot water; the 
-<lb/>gamboge being melted, one needs to 
-<lb/>pour out half, into the fish glue,
-<lb/>the quantity of half a glass,
+<lb/><seg ana="#gamboge">gamboge</seg> being melted, one needs to 
+<lb/>pour out half, into the <seg ana="#fish_glue">fish glue</seg>,
+<lb/>the quantity of half a <seg ana="#glass_vessel">glass</seg>,
 <lb/>approximately, then one needs to take a 
-<lb/>little of this saffron soup, that you
-<lb/>stir all together, in the glue, next,
-<lb/>one needs to take the cambric, and ~
-<lb/>wash one piece, in the said soup, to see 
+<lb/>little of this <seg ana="#saffron">saffron</seg> soup, that you
+<lb/>stir all together, in the <seg ana="#fish_glue">glue</seg>, next,
+<lb/>one needs to take the <seg ana="#cambric">cambric</seg>, and ~
+<lb/><seg ana="#washing">wash</seg> one piece, in the said soup, to see 
 <lb/>if the color is to your agreement,
 <lb/>but if it is too high yellow, one needs
 </ab>
+</div>
 
 </div></body></text>

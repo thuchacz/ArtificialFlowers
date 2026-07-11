@@ -1,35 +1,37 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f057"/>
+<div ana="#toile #silk #cambric #verjuice #soap #rainwater #fountain_water #hide_glue #fish_glue #vinegar #paper #soaking #boiling #dyeing #pressing #dipping #washing #rinsing #drying #starching #polishing #iron">
 <ab>
-<lb/>un peūt trenper, apres sa il faūt le faire boūlier, et
-<lb/>qūan la tintūre commance a boūlier;
-<lb/>estant un peūt boūlie, on le prend or
-<lb/>de la tintūre, et l'ons fait comme jaij
+<lb/>un peūt <seg ana="#soaking">trenper</seg>, apres sa il faūt le faire <seg ana="#boiling">boūlier</seg>, et
+<lb/>qūan la <seg ana="#dyeing">tintūre</seg> commance a <seg ana="#boiling">boūlier</seg>;
+<lb/>estant un peūt <seg ana="#boiling">boūlie</seg>, on le prend or
+<lb/>de la <seg ana="#dyeing">tintūre</seg>, et l'ons fait comme jaij
 <lb/>die cij deūant, aū brūn jonne, jonqūille ~~~
-<lb/>La toille qūe lons tain jonne comme de la sois; estant
-<lb/>tranpez une demie heūr, oū trois quar-d’heūr; estant bien boūlie, 
-<lb/>et la coūleūr a sa volontez; il faūt bien preser la taintūr deor, 
-<lb/>ensūite il faūt le bien oūūrire, et plonger dans la vergūe, si
-<lb/>voūs le troūūez bon; pūis le bien preser le vergūe deor, et
-<lb/>le jeter aūssi dans la siepez de saūons blans; estant bien 
-<lb/>laūez a sa volontez, il faūt le raincer dans deūx, oū trois, 
-<lb/>aūtres aeū de plūis, oū de fontainne, a la derniere, il 
-<lb/>faūt bien preser l’aeū deor; pūis on le pend aū gerniez
-<lb/>aūec le fenet fermez; estant secqūe; on le plonge, 
-<lb/>et enpoise dans la colle de cūire; me il ne faūt pas 
-<lb/>preser la colle, si fort qūe l’eaū; me le cambraij &amp;.c
-<lb/>doit estre un peūt bien moūliez; comme i’ai die cij deūant, 
-<lb/>pūis on le pand encorre une fois aū gerniez, aūec le 
+<lb/>La <seg ana="#toile">toille</seg> qūe lons <seg ana="#dyeing">tain</seg> jonne comme de la <seg ana="#silk">sois</seg>; estant
+<lb/><seg ana="#soaking">tranpez</seg> une demie heūr, oū trois quar-d’heūr; estant bien <seg ana="#boiling">boūlie</seg>,
+<lb/>et la coūleūr a sa volontez; il faūt bien <seg ana="#pressing">preser</seg> la <seg ana="#dyeing">taintūr</seg> deor,
+<lb/>ensūite il faūt le bien oūūrire, et <seg ana="#dipping">plonger</seg> dans la <seg ana="#verjuice">vergūe</seg>, si
+<lb/>voūs le troūūez bon; pūis le bien <seg ana="#pressing">preser</seg> le <seg ana="#verjuice">vergūe</seg> deor, et
+<lb/>le jeter aūssi dans la siepez de <seg ana="#soap">saūons blans</seg>; estant bien
+<lb/><seg ana="#washing">laūez</seg> a sa volontez, il faūt le <seg ana="#rinsing">raincer</seg> dans deūx, oū trois,
+<lb/>aūtres <seg ana="#rainwater">aeū de plūis</seg>, oū de <seg ana="#fountain_water">fontainne</seg>, a la derniere, il
+<lb/>faūt bien <seg ana="#pressing">preser</seg> l’aeū deor; pūis on le pend aū gerniez
+<lb/>aūec le fenet fermez; estant <seg ana="#drying">secqūe</seg>; on le <seg ana="#dipping">plonge</seg>,
+<lb/>et <seg ana="#starching">enpoise</seg> dans la <seg ana="#hide_glue">colle de cūire</seg>; me il ne faūt pas
+<lb/><seg ana="#pressing">preser</seg> la colle, si fort qūe l’eaū; me le <seg ana="#cambric">cambraij</seg> &amp;.c
+<lb/>doit estre un peūt bien moūliez; comme i’ai die cij deūant,
+<lb/>pūis on le pand encorre une fois aū gerniez, aūec le
 <lb/>fenet fermez, toūs comme lons faits aūec toūs les aūtres
-<lb/>coūleūrs; estant secqūe; si se poūr faire de fleūrs il 
-<lb/>faūt le polier aūec les mains seūllement; pūis les
-<lb/>plier, et les mettre dans un papiez; il faūt faire
-<lb/>comme sa aūssi, aūec toūtes le couleūrs qūe voūs faite, 
-<lb/>poūr faire de fleūrs; Me qūand ce ne pas poūr faire 
-<lb/>de fleūrs aūec, il faūt toūjoūrs repasser le toūs aūec 
-<lb/>un fer comme ons repasse le linge; ~
-<lb/>La toille roūge, et violet, se fait comme
-<lb/>la sois roūge, et violet, me en place de
-<lb/>vinaigre, l'ons pūis prendre de l'eaū de
+<lb/>coūleūrs; estant <seg ana="#drying">secqūe</seg>; si se poūr faire de fleūrs il
+<lb/>faūt le <seg ana="#polishing">polier</seg> aūec les mains seūllement; pūis les
+<lb/>plier, et les mettre dans un <seg ana="#paper">papiez</seg>; il faūt faire
+<lb/>comme sa aūssi, aūec toūtes le couleūrs qūe voūs faite,
+<lb/>poūr faire de fleūrs; Me qūand ce ne pas poūr faire
+<lb/>de fleūrs aūec, il faūt toūjoūrs <seg ana="#pressing">repasser</seg> le toūs aūec
+<lb/>un <seg ana="#iron">fer</seg> comme ons repasse le linge; ~
+<lb/>La <seg ana="#toile">toille</seg> roūge, et violet, se fait comme
+<lb/>la <seg ana="#silk">sois</seg> roūge, et violet, me en place de
+<lb/><seg ana="#vinegar">vinaigre</seg>, l'ons pūis prendre de l'eaū de
 </ab>
+</div>
 
 </div></body></text>

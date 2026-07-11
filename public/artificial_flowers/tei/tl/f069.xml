@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f069"/>
+<div ana="#starch #starch_blue #red_lead #gamboge #saffron #vermilion #safflower #vinegar #tartar #cauliflower #verdigris #brazilwood #logwood #english_ash #carmine #alum #fish_glue #hide_glue #vine_ash">
 <ab>
 <lb/>Note the name[s] of dye[s] in Flemish
-<lb/>of powdered starch.			powdered starch;
-<lb/>of starch paste,. starch paste	|,.	sweet wine / minium [?] .~*
-<lb/>brown-blue starch paste.	|	brown-blue 
-<lb/>				|	starch paste.
-<lb/>pale blue starch paste.	|	pale blue 
-<lb/>sweet wine / minium [?].~*	|	starch paste.
-<lb/>of gamboge.			|	gamboge.
-<lb/>of whole saffron.		|	whole saffron.
-<lb/>of vermilion.			|	vermilion.
-<lb/>of safflower.			|	safflower.
-<lb/>of white wine vinegar.		|	white wine vinegar.
-<lb/>of raw tartar.			|	raw white tartar.
-<lb/>of leaves of cauliflower,	|	leaves of cauli-
-<lb/>without the ribs.  		|	flower, without the
+<lb/>of <seg ana="#starch">powdered starch</seg>.			<seg ana="#starch">powdered starch</seg>;
+<lb/>of <seg ana="#starch">starch paste</seg>,. <seg ana="#starch">starch paste</seg>	|,.	<seg ana="#red_lead">sweet wine / minium [?]</seg> .~*
+<lb/><seg ana="#starch_blue">brown-blue starch paste</seg>.	|	<seg ana="#starch_blue">brown-blue</seg> 
+<lb/>				|	<seg ana="#starch_blue">starch paste</seg>.
+<lb/><seg ana="#starch_blue">pale blue starch paste</seg>.	|	<seg ana="#starch_blue">pale blue</seg> 
+<lb/><seg ana="#red_lead">sweet wine / minium [?]</seg>.~*	|	<seg ana="#starch_blue">starch paste</seg>.
+<lb/>of <seg ana="#gamboge">gamboge</seg>.			|	<seg ana="#gamboge">gamboge</seg>.
+<lb/>of whole <seg ana="#saffron">saffron</seg>.		|	whole <seg ana="#saffron">saffron</seg>.
+<lb/>of <seg ana="#vermilion">vermilion</seg>.			|	<seg ana="#vermilion">vermilion</seg>.
+<lb/>of <seg ana="#safflower">safflower</seg>.			|	<seg ana="#safflower">safflower</seg>.
+<lb/>of <seg ana="#vinegar">white wine vinegar</seg>.		|	<seg ana="#vinegar">white wine vinegar</seg>.
+<lb/>of raw <seg ana="#tartar">tartar</seg>.			|	raw white <seg ana="#tartar">tartar</seg>.
+<lb/>of leaves of <seg ana="#cauliflower">cauliflower</seg>,	|	leaves of <seg ana="#cauliflower">cauli-</seg>
+<lb/>without the ribs.  		|	<seg ana="#cauliflower">flower</seg>, without the
 <lb/>				|	ribs.
-<lb/>of verdigris.			|	verdigris.
-<lb/>of wood of logwood.		|	logwood wood.
-<lb/>of Brazilwood.			|	Brazilwood.
-<lb/>of ashes of England.		|	English ashes.
-<lb/>~Carmine. alum.		|	Carmine. alum.
-<lb/>of fish glue.			|	fish glue.
-<lb/>of hide glue.			|	hide glue.
-<lb/>of ashes, of branches, of	|	ashes of grapevine tendrils.
-<lb/>vines				|
+<lb/>of <seg ana="#verdigris">verdigris</seg>.			|	<seg ana="#verdigris">verdigris</seg>.
+<lb/>of wood of <seg ana="#brazilwood">logwood</seg>.		|	<seg ana="#brazilwood">logwood</seg> wood.
+<lb/>of <seg ana="#logwood">Brazilwood</seg>.			|	<seg ana="#logwood">Brazilwood</seg>.
+<lb/>of <seg ana="#english_ash">ashes of England</seg>.		|	<seg ana="#english_ash">English ashes</seg>.
+<lb/>~<seg ana="#carmine">Carmine</seg>. <seg ana="#alum">alum</seg>.		|	<seg ana="#carmine">Carmine</seg>. <seg ana="#alum">alum</seg>.
+<lb/>of <seg ana="#fish_glue">fish glue</seg>.			|	<seg ana="#fish_glue">fish glue</seg>.
+<lb/>of <seg ana="#hide_glue">hide glue</seg>.			|	<seg ana="#hide_glue">hide glue</seg>.
+<lb/>of <seg ana="#vine_ash">ashes, of branches</seg>, of	|	<seg ana="#vine_ash">ashes of grapevine tendrils</seg>.
+<lb/><seg ana="#vine_ash">vines</seg>				|
 </ab>
+</div>
 
 </div></body></text>

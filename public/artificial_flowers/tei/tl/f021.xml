@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f021"/>
+<div ana="#dyeing #washing #wringing #pressing #rinsing #kneading #safflower #lye #vine_ash #rainwater #bag #terrine #pint">
 <ab>
-<lb/>wringing the little bag, but only pressing it,
+<lb/><seg ana="#wringing">wringing</seg> the little <seg ana="#bag">bag</seg>, but only <seg ana="#pressing">pressing</seg> it,
 <lb/>a little, with the hand, the water out from it; and when
 <lb/>the water remains clear, it's a sign that the
-<lb/>safflower is washed enough; the last time
+<lb/><seg ana="#safflower">safflower</seg> is <seg ana="#washing">washed</seg> enough; the last time
 <lb/>that you remove water from it, one needs to ~
-<lb/>press it well, and wring the little bag in order that
+<lb/><seg ana="#pressing">press</seg> it well, and <seg ana="#wringing">wring</seg> the little <seg ana="#bag">bag</seg> in order that
 <lb/>the water leaves from there entirely. but + + if you want one needs to
-<lb/>keep the last rinse without moving it, all until the time that
-<lb/>you have need of the first rinse for the pink color for which one
-<lb/>needs to pour the clear water out, without moving the bottom, [the quantity] of a pint  +  + and more still and you throw
-<lb/>this in the first rinse ~~
-<lb/>Next one pulls it from the sack, and puts it
-<lb/>in a large terrine, very clean; one needs to clear it well [from the little sac] in putting it ~
-<lb/>in the terrine, then one breaks it up with the
-<lb/>hand above, a little rain or fountain 
+<lb/>keep the last <seg ana="#rinsing">rinse</seg> without moving it, all until the time that
+<lb/>you have need of the first <seg ana="#rinsing">rinse</seg> for the pink color for which one
+<lb/>needs to pour the clear water out, without moving the bottom, [the quantity] of a <seg ana="#pint">pint</seg>  +  + and more still and you throw
+<lb/>this in the first <seg ana="#rinsing">rinse</seg> ~~
+<lb/>Next one pulls it from the <seg ana="#bag">sack</seg>, and puts it
+<lb/>in a large <seg ana="#terrine">terrine</seg>, very clean; one needs to clear it well [from the little sac] in putting it ~
+<lb/>in the <seg ana="#terrine">terrine</seg>, then one breaks it up with the
+<lb/>hand above, a little <seg ana="#rainwater">rain</seg> or fountain 
 <lb/>water; next one pours right
-<lb/>before the safflower, and this very gently, a 
-<lb/>pint of lye; which one makes with ~
-<lb/>ashes, which are made with vine wood;
-<lb/>next cover it well, with a terrine of 
+<lb/>before the <seg ana="#safflower">safflower</seg>, and this very gently, a 
+<lb/><seg ana="#pint">pint</seg> of <seg ana="#lye">lye</seg>; which one makes with ~
+<lb/><seg ana="#vine_ash">ashes</seg>, which are made with vine wood;
+<lb/>next cover it well, with a <seg ana="#terrine">terrine</seg> of 
 <lb/>the same size, [or] with some cover,
 <lb/>in order that air does not enter there at all, leave it ~
 <lb/>two hours like this; next one
-<lb/>kneads it like one does bread, for the space
+<lb/><seg ana="#kneading">kneads</seg> it like one does bread, for the space
 <lb/>of a quarter of an hour, then one needs to put it again in
-<lb/>the little sac, to move it, into a
+<lb/>the little <seg ana="#bag">sac</seg>, to move it, into a
 </ab>
+</div>
 
 </div></body></text>

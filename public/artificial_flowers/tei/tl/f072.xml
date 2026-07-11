@@ -1,7 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f072"/>
+<div ana="#pattern #painting #paper">
 <ab>
-<lb/>Pattern for painting on
-<lb/>paper; note also that this ~
+<lb/><seg ana="#pattern">Pattern</seg> for <seg ana="#painting">painting</seg> on
+<lb/><seg ana="#paper">paper</seg>; note also that this ~
 <lb/>little book, must never be
 <lb/>given, and not lent, to anyone,
 <lb/>outside of our convent of St. Godelieve.
@@ -11,5 +12,6 @@
 <lb/>person, outside our cloister of St. Godelieve.
 <lb/>Pray for Sister Marie Placida Bens ◆ 1743 ◆
 </ab>
+</div>
 
 </div></body></text>

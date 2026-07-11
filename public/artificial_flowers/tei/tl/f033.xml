@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f033"/>
+<div ana="#washing #pressing #printing #scraping #parchment #coverlet #garden_leaf #board #weight #sponge">
 <ab>
-<lb/>After the parchment, is scraped one
+<lb/>After the <seg ana="#parchment">parchment</seg>, is <seg ana="#scraping">scraped</seg> one
 <lb/>throws them into water immediately, next being well
-<lb/>washed, and eight days have passed, if the water remains
-<lb/>clear it is a sign that it is washed enough. ~~
-<lb/>Next one takes it outside of the water, pressing it
+<lb/><seg ana="#washing">washed</seg>, and eight days have passed, if the water remains
+<lb/>clear it is a sign that it is <seg ana="#washing">washed</seg> enough. ~~
+<lb/>Next one takes it outside of the water, <seg ana="#pressing">pressing</seg> it
 <lb/>in the hand as much as one can, and one
 <lb/>spreads it, well polished, on top of a piece of 
-<lb/>coverlet; and one applies immediately on ~
-<lb/>leaves from the garden, with the underside on top of the
-<lb/>velum; this being done, one puts there a board on top
-<lb/>of the same size as a board
+<lb/><seg ana="#coverlet">coverlet</seg>; and one applies immediately on ~
+<lb/><seg ana="#garden_leaf">leaves from the garden</seg>, with the underside on top of the
+<lb/><seg ana="#parchment">velum</seg>; this being done, one puts there a <seg ana="#board">board</seg> on top
+<lb/>of the same size as a <seg ana="#board">board</seg>
 <lb/>suitable for this work, next one puts there again
-<lb/>another piece of coverlet on the said
-<lb/>board, then some parchment, and some leaves,
-<lb/>all as the first board, one continues this
-<lb/>five, or six, boards one on the other, if
-<lb/>one wants it, but at the last board one puts there
-<lb/>on top very heavy weights, [for] the time of
+<lb/>another piece of <seg ana="#coverlet">coverlet</seg> on the said
+<lb/><seg ana="#board">board</seg>, then some <seg ana="#parchment">parchment</seg>, and some <seg ana="#garden_leaf">leaves</seg>,
+<lb/>all as the first <seg ana="#board">board</seg>, one continues this
+<lb/>five, or six, <seg ana="#board">boards</seg> one on the other, if
+<lb/>one wants it, but at the last <seg ana="#board">board</seg> one puts there
+<lb/>on top very <seg ana="#weight">heavy weights</seg>, [for] the time of
 <lb/>seven or eight days, ~~~
-<lb/>Note when the parchment is removed from the
-<lb/>pass, and it is not well printed
-<lb/>everywhere, one wets with a piece of sponge
-<lb/>the place that is not well printed, as
+<lb/>Note when the <seg ana="#parchment">parchment</seg> is removed from the
+<lb/>pass, and it is not well <seg ana="#printing">printed</seg>
+<lb/>everywhere, one wets with a piece of <seg ana="#sponge">sponge</seg>
+<lb/>the place that is not well <seg ana="#printing">printed</seg>, as
 <lb/>closely as one can, but one needs to take care that
-<lb/>the water does not run on the velum, next one
+<lb/>the water does not run on the <seg ana="#parchment">velum</seg>, next one
 </ab>
+</div>
 
 </div></body></text>

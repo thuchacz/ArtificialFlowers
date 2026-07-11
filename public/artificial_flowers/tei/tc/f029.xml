@@ -1,36 +1,38 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f029"/>
+<div ana="#dyeing #dipping #washing #pressing #rinsing #polishing #cambric #verjuice #fish_glue #paper #horsehair #earthenware_pot #cord #pin">
 <ab>
 <lb/>sūite, a la derniere, il faūt bien 
-<lb/>preser l’eaū deor, [deletion begins] de la on le met dans 
-<lb/>le vergū [deletion ends] ; ensūite lon prend encorre une 
+<lb/><seg ana="#pressing">preser</seg> l’eaū deor, [deletion begins] de la on le met dans 
+<lb/>le <seg ana="#verjuice">vergū</seg> [deletion ends] ; ensūite lon prend encorre une 
 <lb/>aūtres piece, et lon fait comme la premiere, 
-<lb/>et lon continūe les aūtres piece de cambraij ~
-<lb/>comme cela, jūsqūa temp qūe la rinsūr, ne 
+<lb/>et lon continūe les aūtres piece de <seg ana="#cambric">cambraij</seg> ~
+<lb/>comme cela, jūsqūa temp qūe la <seg ana="#rinsing">rinsūr</seg>, ne 
 <lb/>donne plūs de coūloeūrs, qūils conūient, et ~
-<lb/>[deletion begins] qūand on otte le cambraij or dū vergū il 
-<lb/>ne faūt pas le preser for dans la main; [deletion ends]
-<lb/>Notez le derniez vergūe: peūt de tems apres, gate les 
+<lb/>[deletion begins] qūand on otte le <seg ana="#cambric">cambraij</seg> or dū <seg ana="#verjuice">vergū</seg> il 
+<lb/>ne faūt pas le <seg ana="#pressing">preser</seg> for dans la main; [deletion ends]
+<lb/>Notez le derniez <seg ana="#verjuice">vergūe</seg>: peūt de tems apres, gate les 
 <lb/>coūleūrs, cepoūrqūoij qūil est efacez:
-<lb/>Notez, qūe toūs les pot de terre, doit estre 
+<lb/>Notez, qūe toūs les <seg ana="#earthenware_pot">pot de terre</seg>, doit estre 
 <lb/>noūūaūx, et bien propre, ensūite gar=
 <lb/>=dez poūr cela,.~~~ ✠
 <lb/>✠
-<lb/>Le cambraij estant bien saiqūe, on les ~ 
-<lb/>plonge dans la colle de poisson, il ne faūt 
-<lb/>pas prandre plūs de colle qūe la premiere 
+<lb/>Le <seg ana="#cambric">cambraij</seg> estant bien saiqūe, on les ~ 
+<lb/><seg ana="#dipping">plonge</seg> dans la <seg ana="#fish_glue">colle de poisson</seg>, il ne faūt 
+<lb/>pas prandre plūs de <seg ana="#fish_glue">colle</seg> qūe la premiere 
 <lb/>coūloeūrs en soit bien moūliez; lon fait de meme
-<lb/>aūec les palle coūloeūrs aūsi, le cambraij estant 
-<lb/>bien saiqūe, on les pollie aūec la main, de
+<lb/>aūec les palle coūloeūrs aūsi, le <seg ana="#cambric">cambraij</seg> estant 
+<lb/>bien saiqūe, on les <seg ana="#polishing">pollie</seg> aūec la main, de
 <lb/>deūx cotez, et lon plis, chaqūe coūloeūrs dans 
-<lb/>un papiez blan, et qūand lons veūx senser=
+<lb/>un <seg ana="#paper">papiez</seg> blan, et qūand lons veūx senser=
 <lb/>=vire, lon ne prend qūūn piece, oū deūx a 
 <lb/>la foie. ~~~~ Note comme i’ai die cij deūant,
-<lb/>qūe les corde doient estre de
-<lb/>crin afin de ne pas attacher, aūec des espinghe les cambraij 
-<lb/>aū corde,
+<lb/>qūe les <seg ana="#cord">corde</seg> doient estre de
+<lb/><seg ana="#horsehair">crin</seg> afin de ne pas attacher, aūec des <seg ana="#pin">espinghe</seg> les <seg ana="#cambric">cambraij</seg> 
+<lb/>aū <seg ana="#cord">corde</seg>,
 <lb/>Notez, le temp le plūs faūorable, poūr ~ 
-<lb/>tindre la coūloeūr de rosse, et comme aūsi ~
-<lb/>toūte les aūtres coūloeūrs, meme aūsij poūr laūer
+<lb/><seg ana="#dyeing">tindre</seg> la coūloeūr de rosse, et comme aūsi ~
+<lb/>toūte les aūtres coūloeūrs, meme aūsij poūr <seg ana="#washing">laūer</seg>
 </ab>
+</div>
 
 </div></body></text>

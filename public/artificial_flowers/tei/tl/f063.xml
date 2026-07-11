@@ -1,29 +1,31 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f063"/>
+<div ana="#lye #vine_ash #cambric #rainwater #fountain_water #lacmus #stick #bucket #boiling #rinsing #bleaching #drying #dyeing #undyeing">
 <ab>
-<lb/>when it is spoiled, one needs to boil it
-<lb/>with lye made from vine ash,
+<lb/>when it is spoiled, one needs to <seg ana="#boiling">boil</seg> it
+<lb/>with <seg ana="#lye">lye</seg> made from <seg ana="#vine_ash">vine ash</seg>,
 <lb/>the lye must be strongly clear,
-<lb/>next one puts the cambric inside, and one
-<lb/>makes it boil, until such time as the cambric
+<lb/>next one puts the <seg ana="#cambric">cambric</seg> inside, and one
+<lb/>makes it <seg ana="#boiling">boil</seg>, until such time as the <seg ana="#cambric">cambric</seg>
 <lb/>is well white, next one takes it from the fire
-<lb/>all boiling, immediately one takes a stick,
-<lb/>and one removes the cambric, one needs to throw them ~
-<lb/>immediately into a bucket of rain or fountain water,
-<lb/>being rinsed, one throws it again
+<lb/>all boiling, immediately one takes a <seg ana="#stick">stick</seg>,
+<lb/>and one removes the <seg ana="#cambric">cambric</seg>, one needs to throw them ~
+<lb/>immediately into a <seg ana="#bucket">bucket</seg> of <seg ana="#rainwater">rain</seg> or <seg ana="#fountain_water">fountain</seg> water,
+<lb/>being <seg ana="#rinsing">rinsed</seg>, one throws it again
 <lb/>into another bucket of water, from there one ~
-<lb/>puts it to whiten one day, and one night, next
-<lb/>one rinses it, lightly with the hand without rubbing,
-<lb/>the other rinses must be made in the same
-<lb/>way also, next one needs to dry it,
-<lb/>and when one makes the lye one ~
+<lb/>puts it to <seg ana="#bleaching">whiten</seg> one day, and one night, next
+<lb/>one <seg ana="#rinsing">rinses</seg> it, lightly with the hand without rubbing,
+<lb/>the other <seg ana="#rinsing">rinses</seg> must be made in the same
+<lb/>way also, next one needs to <seg ana="#drying">dry</seg> it,
+<lb/>and when one makes the <seg ana="#lye">lye</seg> one ~
 <lb/>needs to tie it up it a little, and put it
-<lb/>to boil, and whiten, with the fine linens, being
-<lb/>dry, this cambric can be used for dyeing
-<lb/>all sorts of colors, but for dyeing
+<lb/>to <seg ana="#boiling">boil</seg>, and <seg ana="#bleaching">whiten</seg>, with the fine linens, being
+<lb/><seg ana="#drying">dry</seg>, this <seg ana="#cambric">cambric</seg> can be used for <seg ana="#dyeing">dyeing</seg>
+<lb/>all sorts of colors, but for <seg ana="#dyeing">dyeing</seg>
 <lb/>pink one needs to always choose the
-<lb/>whitest cambric that one has,
-<lb/>Blue color, dyed with moss/lichen?, is
-<lb/>undyed in the same way also, as
+<lb/>whitest <seg ana="#cambric">cambric</seg> that one has,
+<lb/>Blue color, <seg ana="#dyeing">dyed</seg> with <seg ana="#lacmus">moss/lichen</seg>?, is
+<lb/><seg ana="#undyeing">undyed</seg> in the same way also, as
 </ab>
+</div>
 
 </div></body></text>

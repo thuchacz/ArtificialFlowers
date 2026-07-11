@@ -1,34 +1,36 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f028"/>
+<div ana="#dyeing #washing #pressing #rinsing #cambric #muslin #safflower #vinegar #verjuice #anemone #terrine #pound #ounce">
 <ab>
 <lb/>for otherwise it is not necessary to put it
-<lb/>in the vinegar, because the soup, is sour from the
-<lb/>first cambric, then one washes again another 
+<lb/>in the <seg ana="#vinegar">vinegar</seg>, because the soup, is sour from the
+<lb/>first <seg ana="#cambric">cambric</seg>, then one <seg ana="#washing">washes</seg> again another 
 <lb/>piece, if one sees that the soup is giving color
-<lb/>still, then one does, as here before, this cambric
-<lb/>must be kept from the elements, because the color
+<lb/>still, then one does, as here before, this <seg ana="#cambric">cambric</seg>
+<lb/>must be kept from the <seg ana="#anemone">elements</seg>, because the color
 <lb/>is not so pure as the first, and it sticks
 <lb/>to itself, ~~~  Note; when one wants
-<lb/>to have very red cambrics, one needs to rinse them, only
-<lb/>in three terrines of water ◆
-<lb/>Note, one pound of safflower, for one 
-<lb/>pound of cambric makes a beautiful color; but
-<lb/>one ounce, or an ounce and a half less, makes a
+<lb/>to have very red <seg ana="#cambric">cambrics</seg>, one needs to <seg ana="#rinsing">rinse</seg> them, only
+<lb/>in three <seg ana="#terrine">terrines</seg> of water ◆
+<lb/>Note, one <seg ana="#pound">pound</seg> of <seg ana="#safflower">safflower</seg>, for one 
+<lb/><seg ana="#pound">pound</seg> of <seg ana="#cambric">cambric</seg> makes a beautiful color; but
+<lb/>one <seg ana="#ounce">ounce</seg>, or an <seg ana="#ounce">ounce</seg> and a half less, makes a
 <lb/>more beautiful color; and when one wants to have
 <lb/>several red brown colors; one needs to divide
 <lb/>the soup, in three parts; and take
-<lb/>some cambric as you wish, one time
+<lb/>some <seg ana="#cambric">cambric</seg> as you wish, one time
 <lb/>a little more, and the other time a little 
 <lb/>less; and hauling it up such that you see that the
 <lb/>color is as one wants to have it, ~~~
 <lb/> that which follows is to make, several pale colors
 <lb/>for pinks &amp;c. ~~ 
-<lb/>After the first cambric is rinsed,
-<lb/>one takes, two, or three pieces of cambric, or of ~
-<lb/>muslin, all dry, and very white,
-<lb/>without putting it in the vinegar; and one washes it
-<lb/>all immediately in :+: :+:: the verjus, then one presses it outside, and one throws it in:+: the first rinse, one 
-<lb/>washes it also + + a long time, that it becomes red, next one
-<lb/>washes it strongly also, in the three other rinses, in
+<lb/>After the first <seg ana="#cambric">cambric</seg> is <seg ana="#rinsing">rinsed</seg>,
+<lb/>one takes, two, or three pieces of <seg ana="#cambric">cambric</seg>, or of ~
+<lb/><seg ana="#muslin">muslin</seg>, all dry, and very white,
+<lb/>without putting it in the <seg ana="#vinegar">vinegar</seg>; and one <seg ana="#washing">washes</seg> it
+<lb/>all immediately in :+: :+:: the <seg ana="#verjuice">verjus</seg>, then one <seg ana="#pressing">presses</seg> it outside, and one throws it in:+: the first <seg ana="#rinsing">rinse</seg>, one 
+<lb/><seg ana="#washing">washes</seg> it also + + a long time, that it becomes red, next one
+<lb/><seg ana="#washing">washes</seg> it strongly also, in the three other <seg ana="#rinsing">rinses</seg>, in
 </ab>
+</div>
 
 </div></body></text>

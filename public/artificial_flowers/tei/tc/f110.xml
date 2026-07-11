@@ -1,8 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f110"/>
+<div ana="#pattern">
 <ab>
-<lb/>patroon
+<lb/><seg ana="#pattern">patroon</seg>
 <lb/>van eenen Remon=
 <lb/>=strantie 1757.
 </ab>
+</div>
 
 </div></body></text>

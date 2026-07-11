@@ -1,20 +1,22 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f009"/>
+<div ana="#toile #cambric #pressing #cord #drying #starching #hide_glue">
 <ab>
 <lb/>water there like that, without stirring it, for three or
 <lb/>four hours, more or less. Next, one needs
 <lb/>to throw  the clear water away and keep the bottom.
-<lb/>Then one needs to take your cloth and cambric
+<lb/>Then one needs to take your <seg ana="#toile">cloth</seg> and <seg ana="#cambric">cambric</seg>
 <lb/>and plunge it into a small part of this water
-<lb/>so well that you shouldn’t press the water out. After
-<lb/>that, one needs to hang it from a cord. Being dry,
+<lb/>so well that you shouldn’t <seg ana="#pressing">press</seg> the water out. After
+<lb/>that, one needs to hang it from a <seg ana="#cord">cord</seg>. Being <seg ana="#drying">dry</seg>,
 <lb/>one needs to do the same thing again until
 <lb/>the moment that you see that the color is
-<lb/>as you want to have it. Being dry,
-<lb/>one needs to starch it in hide glue
-<lb/>without pressing it out. This is why one needs
-<lb/>to take only a small amount of the said glue
-<lb/>so that the cambric becomes very well wetted
-<lb/>without dripping once being hung by a cord.
+<lb/>as you want to have it. Being <seg ana="#drying">dry</seg>,
+<lb/>one needs to <seg ana="#starching">starch</seg> it in <seg ana="#hide_glue">hide glue</seg>
+<lb/>without <seg ana="#pressing">pressing</seg> it out. This is why one needs
+<lb/>to take only a small amount of the said <seg ana="#hide_glue">glue</seg>
+<lb/>so that the <seg ana="#cambric">cambric</seg> becomes very well wetted
+<lb/>without dripping once being hung by a <seg ana="#cord">cord</seg>.
 </ab>
+</div>
 
 </div></body></text>

@@ -1,29 +1,31 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f006"/>
+<div ana="#toile #cambric #muslin #washing #drying #starch #starching #cord #paper #iron #spoon #starch_blue">
 <ab>
-<lb/>How one needs to accommodate cloths to make flowers
-<lb/>After cambrics, muslins, and 
-<lb/>cloths are very well washed and well dried,
-<lb/>one needs to take, or make, a nice starch
-<lb/>fairly thick, and then starch your canvases or
-<lb/>cambrics in the same manner, just as one
-<lb/>starches coiffures. Then one needs to hang the
-<lb/>cloth by cords. Being well dry, one needs
+<lb/>How one needs to accommodate <seg ana="#toile">cloths</seg> to make flowers
+<lb/>After <seg ana="#cambric">cambrics</seg>, <seg ana="#muslin">muslins</seg>, and 
+<lb/><seg ana="#toile">cloths</seg> are very well <seg ana="#washing">washed</seg> and well <seg ana="#drying">dried</seg>,
+<lb/>one needs to take, or make, a nice <seg ana="#starch">starch</seg>
+<lb/>fairly thick, and then <seg ana="#starching">starch</seg> your <seg ana="#toile">canvases</seg> or
+<lb/><seg ana="#cambric">cambrics</seg> in the same manner, just as one
+<lb/><seg ana="#starching">starches</seg> coiffures. Then one needs to hang the
+<lb/>cloth by <seg ana="#cord">cords</seg>. Being well <seg ana="#drying">dry</seg>, one needs
 <lb/>to pass the hand over it, on both sides of the cloth,
 <lb/>to render it very uniform, then fold them by
-<lb/>hand; from there, put them in a paper. One
+<lb/>hand; from there, put them in a <seg ana="#paper">paper</seg>. One
 <lb/>needs to keep oneself from using the
-<lb/>iron, as one [commonly] passes over cloths, nor other
+<lb/><seg ana="#iron">iron</seg>, as one [commonly] passes over cloths, nor other
 <lb/>instruments for this end. One needs to observe
 <lb/>this command for all other colors too.
-<lb/>This sort of canvas can only serve
+<lb/>This sort of <seg ana="#toile">canvas</seg> can only serve
 <lb/>for completely white flowers without being
 <lb/>drawn upon.
-<lb/>Another white cambric, to be able to be 
+<lb/>Another white <seg ana="#cambric">cambric</seg>, to be able to be 
 <lb/>drawn upon
-<lb/>One needs to take starch white,
-<lb/>as much as can fit in a small spoon, better more than less, with
-<lb/>as much as can be of starch blue, as much as
+<lb/>One needs to take <seg ana="#starch">starch white</seg>,
+<lb/>as much as can fit in a small <seg ana="#spoon">spoon</seg>, better more than less, with
+<lb/>as much as can be of <seg ana="#starch_blue">starch blue</seg>, as much as
 <lb/>you would like to have blue. Then one needs to take
 </ab>
+</div>
 
 </div></body></text>

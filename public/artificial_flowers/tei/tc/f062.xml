@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f062"/>
+<div ana="#hide_glue #leather #cambric #fish_glue #chafing_dish #cloth #spoon #boiling #pressing #straining #starching #dipping #drying #undyeing">
 <ab>
-<lb/>il faūt se garder de ne pas le leser boūlier, 
+<lb/>il faūt se garder de ne pas le leser <seg ana="#boiling">boūlier</seg>, 
 <lb/>ensūite, on le laisse tirer comme cela, dessūr 
-<lb/>le rechaūd + + oū chaūfet jūsqūa temp qūe la soūpe deūient 
+<lb/>le <seg ana="#chafing_dish">rechaūd</seg> + + oū <seg ana="#chafing_dish">chaūfet</seg> jūsqūa temp qūe la soūpe deūient 
 <lb/>crase, et qūel attache aū dois, et qūel et ge=
 <lb/>=laeij, cela fait, ons le met chaūfer, poūr le 
-<lb/>degeler, pūis, l’ons prend le cūire or de la 
-<lb/>soūpe, poūr le preser aūec les mains, jūsqūa
+<lb/>degeler, pūis, l’ons prend le <seg ana="#leather">cūire</seg> or de la 
+<lb/>soūpe, poūr le <seg ana="#pressing">preser</seg> aūec les mains, jūsqūa
 <lb/>temp qūe la soūpe soit un peūt de’or, ensūite 
-<lb/>l’on passe ladit soūpe par un linge, et 
-<lb/>l’ons enpaisse le cambraij aūec, il faūt l’en=
+<lb/>l’on <seg ana="#straining">passe</seg> ladit soūpe par un <seg ana="#cloth">linge</seg>, et 
+<lb/>l’ons <seg ana="#starching">enpaisse</seg> le <seg ana="#cambric">cambraij</seg> aūec, il faūt l’en=
 <lb/>=tertenirre toūjoūr chaūdement, affin qūe le
-<lb/>cambraij, et la colle ne deūient point gelaij 
-<lb/>dans les mains, il ne faūt plonger, qūe deūx 
+<lb/><seg ana="#cambric">cambraij</seg>, et la colle ne deūient point gelaij 
+<lb/>dans les mains, il ne faūt <seg ana="#dipping">plonger</seg>, qūe deūx 
 <lb/>oū trois piece a la fois, et le pendre aūsitot, 
-<lb/>poūr eūiter cette inconūenient, le cambraij estant 
-<lb/>saiqūe, si lons voie qūil est trop ferme a 
-<lb/>s’enserūier, aūant de plonger les aūtres piece 
-<lb/>de cambraij, il faūt dans la colle verser, 
-<lb/>trois oū qūatre, cūlier d’eaū, plūs oū moin 
+<lb/>poūr eūiter cette inconūenient, le <seg ana="#cambric">cambraij</seg> estant 
+<lb/><seg ana="#drying">saiqūe</seg>, si lons voie qūil est trop ferme a 
+<lb/>s’enserūier, aūant de <seg ana="#dipping">plonger</seg> les aūtres piece 
+<lb/>de <seg ana="#cambric">cambraij</seg>, il faūt dans la colle verser, 
+<lb/>trois oū qūatre, <seg ana="#spoon">cūlier</seg> d’eaū, plūs oū moin 
 <lb/>selon qūe l’ons voie la cantitez de la colle, 
 <lb/>me le mieū est, de ne pas mettre de l’aū dans la colle, a caūse qūe letoffe, 
-<lb/>oū cambraij deūien en apres pliable ...
+<lb/>oū <seg ana="#cambric">cambraij</seg> deūien en apres pliable ...
 <lb/>Notez, qūil ne faūt jamais verser de l’eaū, 
-<lb/>dans la colle de poisson, ~~~~
+<lb/>dans la <seg ana="#fish_glue">colle de poisson</seg>, ~~~~
 <lb/>iai malle die, cij deūant, comme voūs voiez; ~~~
-<lb/>Maniere poūr detindre la coūleūr de rosse
+<lb/>Maniere poūr <seg ana="#undyeing">detindre</seg> la coūleūr de rosse
 </ab>
+</div>
 
 </div></body></text>

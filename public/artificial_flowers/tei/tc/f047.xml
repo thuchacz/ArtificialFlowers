@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f047"/>
+<div ana="#brazilwood #logwood #beer #alum #patar #liard #pint #boiling #straining #cloth #bottle #dyeing #painting #tracing #mussel_shell #oyster_shell #cambric #paper #paintbrush">
 <ab>
-<lb/>Notez, encorre une aūtre maniere, poūr le meme roūge; 
-<lb/>✠ Prenez poūr un patar de bois ferneboūcqūe, et poūr 
-<lb/>deūx liar olūn, aūec deūx peinte de vielle bier, la plūs
-<lb/>vielle, et la meileūr; laisez sa boūlier ensemble, jūsqūa
-<lb/>la moitiez; ensūite on passe la soūpe par un clair
-<lb/>linge, et on le verse dans une boūteille; et qūand
-<lb/>lons veūx sens serūirre, et pintūrer aūec; lons verse 
-<lb/>de cette tintūr roūge, dans une ecaille de moūlet, ou
-<lb/>bien dans une ecaille d’oūster, et le leseirre comme sa
+<lb/>Notez, encorre une aūtre maniere, poūr le meme roūge;
+<lb/>✠ Prenez poūr un <seg ana="#patar">patar</seg> de <seg ana="#brazilwood">bois ferneboūcqūe</seg>, et poūr
+<lb/>deūx <seg ana="#liard">liar</seg> <seg ana="#alum">olūn</seg>, aūec deūx <seg ana="#pint">peinte</seg> de <seg ana="#beer">vielle bier</seg>, la plūs
+<lb/>vielle, et la meileūr; laisez sa <seg ana="#boiling">boūlier</seg> ensemble, jūsqūa
+<lb/>la moitiez; ensūite on <seg ana="#straining">passe</seg> la soūpe par un clair
+<lb/><seg ana="#cloth">linge</seg>, et on le verse dans une <seg ana="#bottle">boūteille</seg>; et qūand
+<lb/>lons veūx sens serūirre, et <seg ana="#painting">pintūrer</seg> aūec; lons verse
+<lb/>de cette <seg ana="#dyeing">tintūr</seg> roūge, dans une <seg ana="#mussel_shell">ecaille de moūlet</seg>, ou
+<lb/>bien dans une <seg ana="#oyster_shell">ecaille d’oūster</seg>, et le leseirre comme sa
 <lb/>5. oū 6. heūre. et si voūs poūūez la mettre qūelqūe
-<lb/>heūre dans le soleil, la tintūr sera plūtot pretre a sens
-<lb/>serūirre, poūr veū qūe le soleil ne soit pas trop ardans; 
-<lb/>car la teintūre seroit dans peūt de tems, toūs diminūez, et
-<lb/>secqūe dans l’ecaille; apres sa, il faūt verser la claire dans 
-<lb/>une aūtres ecaille bien propre aūsi, et qūelqūe heūre apres, 
+<lb/>heūre dans le soleil, la <seg ana="#dyeing">tintūr</seg> sera plūtot pretre a sens
+<lb/>serūirre, poūr veū qūe le soleil ne soit pas trop ardans;
+<lb/>car la <seg ana="#dyeing">teintūre</seg> seroit dans peūt de tems, toūs diminūez, et
+<lb/>secqūe dans l’ecaille; apres sa, il faūt verser la claire dans
+<lb/>une aūtres ecaille bien propre aūsi, et qūelqūe heūre apres,
 <lb/>encorre le verser dans une aūtre ecaille; il faūt continuer
-<lb/>comme sa, deūx oū trois fois, s’il en est besoin; car qūan la 
-<lb/>tintūr deūien un peūt epesse, ce marqūe qūel est bien poūr tracer 
-<lb/>sūr le cambraij, et sūr le papier; voūs poūūez eproūūer aūec le
-<lb/>peincaūx si la coūleūr est bien, poūr voūs en serūirre; Notez,
-<lb/>De la meme maniere aūsi lons aprette, oū preparre la coūleūr 
-<lb/>violet; me en place de bois ferneboūcqūe; il faūt prendre dū
-<lb/>bois de bresil; Notez qūil faūt qūe ce soit de la bon bier, sans
+<lb/>comme sa, deūx oū trois fois, s’il en est besoin; car qūan la
+<lb/><seg ana="#dyeing">tintūr</seg> deūien un peūt epesse, ce marqūe qūel est bien poūr <seg ana="#tracing">tracer</seg>
+<lb/>sūr le <seg ana="#cambric">cambraij</seg>, et sūr le <seg ana="#paper">papier</seg>; voūs poūūez eproūūer aūec le
+<lb/><seg ana="#paintbrush">peincaūx</seg> si la coūleūr est bien, poūr voūs en serūirre; Notez,
+<lb/>De la meme maniere aūsi lons aprette, oū preparre la coūleūr
+<lb/>violet; me en place de <seg ana="#brazilwood">bois ferneboūcqūe</seg>; il faūt prendre dū
+<lb/><seg ana="#logwood">bois de bresil</seg>; Notez qūil faūt qūe ce soit de la <seg ana="#beer">bon bier</seg>, sans
 <lb/>estre melez, qūand elle seroit dix. et 20. ans vielle) lons fait dū
-<lb/>papiez roūge aūsi, aūec ce deūx roūge, et dū violet aūsi ~~
+<lb/><seg ana="#paper">papiez</seg> roūge aūsi, aūec ce deūx roūge, et dū violet aūsi ~~
 </ab>
+</div>
 
 </div></body></text>

@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f048"/>
+<div ana="#verdigris #gum_tragacanth #vinegar #oil #brazilwood #alum #paper #quarter_pound #pint #drop #soaking #boiling #straining #cloth #bottle #mussel_shell #oyster_shell #painting #dyeing">
 <ab>
-<lb/>to pour a little vinegar, and sometimes
-<lb/>also a little water, instead of vinegar, but
-<lb/>the first time, one needs to always put to soak
-<lb/>with the vinegar, and five, or six drops, 
-<lb/>of clear gum, one buys the verdigris
+<lb/>to pour a little <seg ana="#vinegar">vinegar</seg>, and sometimes
+<lb/>also a little water, instead of <seg ana="#vinegar">vinegar</seg>, but
+<lb/>the first time, one needs to always put to <seg ana="#soaking">soak</seg>
+<lb/>with the <seg ana="#vinegar">vinegar</seg>, and five, or six <seg ana="#drop">drops</seg>,
+<lb/>of clear <seg ana="#gum_tragacanth">gum</seg>, one buys the <seg ana="#verdigris">verdigris</seg>
 <lb/>prepared, at the painter's, saying that the
-<lb/>said green, is for painting on paper, such that it
-<lb/>does not have to be prepared, with oil; ~
+<lb/>said green, is for <seg ana="#painting">painting</seg> on <seg ana="#paper">paper</seg>, such that it
+<lb/>does not have to be prepared, with <seg ana="#oil">oil</seg>; ~
 <lb/>✠ ✠ ✠ ..
-<lb/>Another way again, to make 
-<lb/>red for painting, on paper, one ~
-<lb/>takes a quarter [of a pound] of brazil wood, with
-<lb/>two pintes of vinegar, and a half quarter
-<lb/>[of a pound] of alum, one leaves it to boil like that, until
-<lb/>[reduced by] half, next, one passes the soup through a
-<lb/>linen cloth, and one pours it, into a bottle,
+<lb/>Another way again, to make
+<lb/>red for <seg ana="#painting">painting</seg>, on <seg ana="#paper">paper</seg>, one ~
+<lb/>takes a <seg ana="#quarter_pound">quarter [of a pound]</seg> of <seg ana="#brazilwood">brazil wood</seg>, with
+<lb/>two <seg ana="#pint">pintes</seg> of <seg ana="#vinegar">vinegar</seg>, and a <seg ana="#quarter_pound">half quarter
+<lb/>[of a pound]</seg> of <seg ana="#alum">alum</seg>, one leaves it to <seg ana="#boiling">boil</seg> like that, until
+<lb/>[reduced by] half, next, one <seg ana="#straining">passes</seg> the soup through a
+<lb/><seg ana="#cloth">linen cloth</seg>, and one pours it, into a <seg ana="#bottle">bottle</seg>,
 <lb/>this lasts for three years, well, for your
 <lb/>use, ~~~~~~ read to this ✠
-<lb/>But when one wants, to paint with the
+<lb/>But when one wants, to <seg ana="#painting">paint</seg> with the
 <lb/>said red, one pours of this red, into a
-<lb/>mussel shell, or just as well, into an oyster
-<lb/>shell, one needs to put it in the sun
+<lb/><seg ana="#mussel_shell">mussel shell</seg>, or just as well, into an <seg ana="#oyster_shell">oyster
+<lb/>shell</seg>, one needs to put it in the sun
 <lb/>for the space of seven, or eight hours, next
 <lb/>one pours off the clear [liquid] into another ~
 <lb/>shell, very clean also; and the next day
 </ab>
+</div>
 
 </div></body></text>

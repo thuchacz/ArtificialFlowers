@@ -1,8 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f086"/>
+<div ana="#tracing #branch">
 <ab>
-<lb/>each sort of flower must be drawn [(up)] in its branch, and the
+<lb/>each sort of flower must be <seg ana="#tracing">drawn</seg> [(up)] in its <seg ana="#branch">branch</seg>, and the
 <lb/>holy name of Jesus on the other side of the picture, equally
 <lb/>MR
 </ab>
+</div>
 
 </div></body></text>

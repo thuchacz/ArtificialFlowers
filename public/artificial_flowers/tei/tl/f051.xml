@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f051"/>
+<div ana="#silk #taffeta #gum_tragacanth #starch_blue #vinegar #beer #rainwater #pint #soap #dyeing #boiling #soaking #washing #drying #polishing #pressing #board #cord #iron">
 <ab>
-<lb/>silk gum, being well gummed,
-<lb/>one applies it on a board, one [has] the
-<lb/>task of polishing it also as evenly as one
-<lb/>can, next one hangs it on cords, being
-<lb/>quasi dry, one irons it with an
-<lb/>iron as one irons the linens. ~~
+<lb/><seg ana="#gum_tragacanth">silk gum</seg>, being well gummed,
+<lb/>one applies it on a <seg ana="#board">board</seg>, one [has] the
+<lb/>task of <seg ana="#polishing">polishing</seg> it also as evenly as one
+<lb/>can, next one hangs it on <seg ana="#cord">cords</seg>, being
+<lb/>quasi <seg ana="#drying">dry</seg>, one <seg ana="#pressing">irons</seg> it with an
+<lb/><seg ana="#iron">iron</seg> as one irons the linens. ~~
 <lb/>Note, if one does not want, to have the ~
-<lb/>silk so red brown, instead of vinegar
-<lb/>one needs to make the dye boil with
-<lb/>some rain water, + + but two pints of old beer is better still; the silk being well~
-<lb/>boiled, one takes it out of the dye, and one
-<lb/>hangs it on cord; after that, one can soak it again in the soup;
-<lb/>and throws it, bing dry, in the soapy wash, it ~
+<lb/><seg ana="#silk">silk</seg> so red brown, instead of <seg ana="#vinegar">vinegar</seg>
+<lb/>one needs to make the <seg ana="#dyeing">dye</seg> <seg ana="#boiling">boil</seg> with
+<lb/>some <seg ana="#rainwater">rain water</seg>, + + but two <seg ana="#pint">pints</seg> of <seg ana="#beer">old beer</seg> is better still; the <seg ana="#silk">silk</seg> being well~
+<lb/><seg ana="#boiling">boiled</seg>, one takes it out of the <seg ana="#dyeing">dye</seg>, and one
+<lb/>hangs it on <seg ana="#cord">cord</seg>; after that, one can <seg ana="#soaking">soak</seg> it again in the soup;
+<lb/>and throws it, bing <seg ana="#drying">dry</seg>, in the <seg ana="#soap">soapy wash</seg>, it ~
 <lb/>must be cold, without ever warming it,
-<lb/>but if all the colors are good, to one's liking, one must not 
-<lb/>wash it at all, in any way.... ~~~~~
-<lb/>Like [this] also for washing all sorts
-<lb/>of taffeta, the water should never be hot,
-<lb/>one washes all sorts of colors, as
-<lb/>one washes white taffeta, one needs to
-<lb/>leave [it] to soak for one day, and one night, being
-<lb/>very well soaped, before washing it, then
-<lb/>one washes it also as clean as one can,
-<lb/>and one does as the white taffeta, but without blue in the
-<lb/>silk gum; ~
-<lb/>Violet silk, is made in the same
+<lb/>but if all the colors are good, to one's liking, one must not
+<lb/><seg ana="#washing">wash</seg> it at all, in any way.... ~~~~~
+<lb/>Like [this] also for <seg ana="#washing">washing</seg> all sorts
+<lb/>of <seg ana="#taffeta">taffeta</seg>, the water should never be hot,
+<lb/>one <seg ana="#washing">washes</seg> all sorts of colors, as
+<lb/>one <seg ana="#washing">washes</seg> white <seg ana="#taffeta">taffeta</seg>, one needs to
+<lb/>leave [it] to <seg ana="#soaking">soak</seg> for one day, and one night, being
+<lb/>very well <seg ana="#soap">soaped</seg>, before <seg ana="#washing">washing</seg> it, then
+<lb/>one <seg ana="#washing">washes</seg> it also as clean as one can,
+<lb/>and one does as the white <seg ana="#taffeta">taffeta</seg>, but without <seg ana="#starch_blue">blue</seg> in the
+<lb/><seg ana="#gum_tragacanth">silk gum</seg>; ~
+<lb/>Violet <seg ana="#silk">silk</seg>, is made in the same
 </ab>
+</div>
 
 </div></body></text>

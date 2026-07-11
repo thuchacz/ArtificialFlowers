@@ -1,28 +1,30 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f066"/>
+<div ana="#lye #vine_ash #rainwater #fountain_water #marmite #earthenware_pot #cloth #handful #pint #boiling #dyeing #straining">
 <ab>
 <lb/>nothing, to be used for another thing, next
 <lb/>one needs to keep stoking it, from time,
 <lb/>to time, until such time, that the whole, is consumed
 <lb/>into ash. ~~~
-<lb/>Way for making lye of ~
-<lb/>vine ash, one needs to take three
-<lb/>double handfuls of ash, with
-<lb/>seven or eight pints of rain, or fountain,
-<lb/>water, one needs to leave it to boil, until
-<lb/>[it reduces to] four, or five pints, all the more,
-<lb/>if one boils them in a marmite + + well covered, one must,
+<lb/>Way for making <seg ana="#lye">lye</seg> of ~
+<lb/><seg ana="#vine_ash">vine ash</seg>, one needs to take three
+<lb/><seg ana="#handful">double handfuls</seg> of <seg ana="#vine_ash">ash</seg>, with
+<lb/>seven or eight <seg ana="#pint">pints</seg> of <seg ana="#rainwater">rain</seg>, or <seg ana="#fountain_water">fountain</seg>,
+<lb/>water, one needs to leave it to <seg ana="#boiling">boil</seg>, until
+<lb/>[it reduces to] four, or five <seg ana="#pint">pints</seg>, all the more,
+<lb/>if one <seg ana="#boiling">boils</seg> them in a <seg ana="#marmite">marmite</seg> + + well covered, one must,
 <lb/>as soon as the marmite is removed from the fire,
-<lb/>pour it into an earthenware pot, very
+<lb/>pour it into an <seg ana="#earthenware_pot">earthenware pot</seg>, very
 <lb/>tidy, and having been used for anything else,
-<lb/>other than for dyeing pink, one needs
+<lb/>other than for <seg ana="#dyeing">dyeing</seg> pink, one needs
 <lb/>to leave the ashes at the bottom of the marmite,
 <lb/>as much as one can, next the next day,
-<lb/>one needs to pass the lye through a
-<lb/>linen cloth, into another pot, pouring
+<lb/>one needs to <seg ana="#straining">pass</seg> the lye through a
+<lb/><seg ana="#cloth">linen cloth</seg>, into another pot, pouring
 <lb/>it all gently, without moving the ash,
 <lb/>which are at the bottom of the pot, from there, one
 <lb/>can use it, for all that one 
 <lb/>wants to make, with the said lye. ~~
 </ab>
+</div>
 
 </div></body></text>

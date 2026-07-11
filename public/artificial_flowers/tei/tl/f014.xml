@@ -1,28 +1,30 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f014"/>
+<div ana="#areniez #english_ash #starch_blue #toile #cambric #vermilion #hide_glue #cutting #leaf #carmine #fish_glue #tracing #ranunculus #anemone #tulip #bottle_green #starch #drying">
 <ab>
 <lb/>The blue for flowers, which one calls
-<lb/>areniez, is made with English ash, 
-<lb/>in the same manner as the starch blue, 
-<lb/>but the blue of English ash does not 
-<lb/>have to be rubbed into the toile as strongly as the 
-<lb/>starch blue, because the color is finer
-<lb/>and it suffices, that the cambric has the color of 
+<lb/><seg ana="#areniez">areniez</seg>, is made with <seg ana="#english_ash">English ash</seg>, 
+<lb/>in the same manner as the <seg ana="#starch_blue">starch blue</seg>, 
+<lb/>but the blue of <seg ana="#english_ash">English ash</seg> does not 
+<lb/>have to be rubbed into the <seg ana="#toile">toile</seg> as strongly as the 
+<lb/><seg ana="#starch_blue">starch blue</seg>, because the color is finer
+<lb/>and it suffices, that the <seg ana="#cambric">cambric</seg> has the color of 
 <lb/>this blue, ~~~
 <lb/>For making red ones one needs to take
-<lb/>some vermillion, and hide glue,;
-<lb/>the toiles being cut, in leaves, one needs to put a 
-<lb/>clear carmine on top,: fish glue is
-<lb/>also good, but with hide glue, the carmine
-<lb/>is easier to trace, one needs to rub the cambric
+<lb/>some <seg ana="#vermilion">vermillion</seg>, and <seg ana="#hide_glue">hide glue</seg>,;
+<lb/>the <seg ana="#toile">toiles</seg> being <seg ana="#cutting">cut</seg>, in <seg ana="#leaf">leaves</seg>, one needs to put a 
+<lb/>clear <seg ana="#carmine">carmine</seg> on top,: <seg ana="#fish_glue">fish glue</seg> is
+<lb/>also good, but with <seg ana="#hide_glue">hide glue</seg>, the <seg ana="#carmine">carmine</seg>
+<lb/>is easier to <seg ana="#tracing">trace</seg>, one needs to rub the <seg ana="#cambric">cambric</seg>
 <lb/>in the said soup, as you did
-<lb/>with the English ash, this toile is useful 
-<lb/>for making ranunculus, allimone, and Constantinople tulip ~~~
-<lb/>The green toiles are made with hide glue,
-<lb/>and some green from the bottle, without white
-<lb/>starch; fish glue is also good,
-<lb/>but dried cambric, one needs to plunge it 
+<lb/>with the <seg ana="#english_ash">English ash</seg>, this <seg ana="#toile">toile</seg> is useful 
+<lb/>for making <seg ana="#ranunculus">ranunculus</seg>, <seg ana="#anemone">allimone</seg>, and <seg ana="#tulip">Constantinople tulip</seg> ~~~
+<lb/>The green <seg ana="#toile">toiles</seg> are made with <seg ana="#hide_glue">hide glue</seg>,
+<lb/>and some <seg ana="#bottle_green">green from the bottle</seg>, without <seg ana="#starch">white
+<lb/>starch</seg>; <seg ana="#fish_glue">fish glue</seg> is also good,
+<lb/>but <seg ana="#drying">dried</seg> <seg ana="#cambric">cambric</seg>, one needs to plunge it 
 <lb/>again into this glue because
-<lb/>the green thins it too much, but hide glue
+<lb/>the <seg ana="#bottle_green">green</seg> thins it too much, but <seg ana="#hide_glue">hide glue</seg>
 </ab>
+</div>
 
 </div></body></text>

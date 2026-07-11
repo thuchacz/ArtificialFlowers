@@ -1,34 +1,36 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f030"/>
+<div ana="#dyeing #printing #washing #soaking #scraping #parchment #rainwater #fountain_water #paper #bottle_green #knife #board">
 <ab>
-<lb/>et imprimer, le parchemain, ce les mois de
+<lb/>et <seg ana="#printing">imprimer</seg>, le <seg ana="#parchment">parchemain</seg>, ce les mois de
 <lb/>maij, oū bien le commancement dū mois de 
 <lb/>jūin, comme aūsi le commencement dū mois + d’aoūt et
-<lb/>de septembre; poūr verdir aūsij le velain, 
-<lb/>oū aūterment die, le parchemain. ~~ 
-<lb/>Maniere poūr laūer le velain, il faūt le
-<lb/>mettre tremper la soir, et le l’andemain, on 
-<lb/>le laūe, comme on laūe le linge, piece, a piece, 
-<lb/>dans l’eaū de plūis, oū de fontaine, toūte
+<lb/>de septembre; poūr <seg ana="#dyeing">verdir</seg> aūsij le <seg ana="#parchment">velain</seg>, 
+<lb/>oū aūterment die, le <seg ana="#parchment">parchemain</seg>. ~~ 
+<lb/>Maniere poūr <seg ana="#washing">laūer</seg> le <seg ana="#parchment">velain</seg>, il faūt le
+<lb/>mettre <seg ana="#soaking">tremper</seg> la soir, et le l’andemain, on 
+<lb/>le <seg ana="#washing">laūe</seg>, comme on <seg ana="#washing">laūe</seg> le linge, piece, a piece, 
+<lb/>dans l’<seg ana="#rainwater">eaū de plūis</seg>, oū de <seg ana="#fountain_water">fontaine</seg>, toūte
 <lb/>fraide, sans jamais le chaūfer, non pas aūsie
-<lb/>poūr le tremper, car le velain, oū parche=
-<lb/>=main, deūiendroits aūsie facille a dechirer 
-<lb/>qūe le papiez en chaūfans l’eaū; on le laūe 
+<lb/>poūr le <seg ana="#soaking">tremper</seg>, car le <seg ana="#parchment">velain</seg>, oū <seg ana="#parchment">parche=
+<lb/>=main</seg>, deūiendroits aūsie facille a dechirer 
+<lb/>qūe le <seg ana="#paper">papiez</seg> en chaūfans l’eaū; on le <seg ana="#washing">laūe</seg> 
 <lb/>de cette maniere deūx fois la joūr, en chan=
 <lb/>=gen d’eaū chaqūe fois, et sa bien hūit joūr de 
-<lb/>sūite, me qūan le parchemain est ecrie aūec des 
-<lb/>lettres roūge, il faūt ecraper les dit lettre, apres ~
-<lb/>aūoir laūe le parchemain, deūx oū trois joūrs, on
-<lb/>le prend or de l’eaū, et ons l’epar sūr un planche
-<lb/>bien unie, toūs moūliez comme il est, ons d’egrape les 
-<lb/>lettre roūge, aūec le tranchan d’ūn canif oū d’ūn coūtaū, 
-<lb/>en d’egratans, il faūt tenirre la main for leger, et 
-<lb/>retoūrner le parchemain de deūx coté, si ij li a des ~ 
-<lb/>lettre roūge aūsie, il faūt si bien d’egrater qūe lons 
-<lb/>ne voie rien de roūge, parceqūe le ver, ne pas for assez 
+<lb/>sūite, me qūan le <seg ana="#parchment">parchemain</seg> est ecrie aūec des 
+<lb/>lettres roūge, il faūt <seg ana="#scraping">ecraper</seg> les dit lettre, apres ~
+<lb/>aūoir <seg ana="#washing">laūe</seg> le <seg ana="#parchment">parchemain</seg>, deūx oū trois joūrs, on
+<lb/>le prend or de l’eaū, et ons l’epar sūr un <seg ana="#board">planche</seg>
+<lb/>bien unie, toūs moūliez comme il est, ons <seg ana="#scraping">d’egrape</seg> les 
+<lb/>lettre roūge, aūec le tranchan d’ūn <seg ana="#knife">canif</seg> oū d’ūn <seg ana="#knife">coūtaū</seg>, 
+<lb/>en <seg ana="#scraping">d’egratans</seg>, il faūt tenirre la main for leger, et 
+<lb/>retoūrner le <seg ana="#parchment">parchemain</seg> de deūx coté, si ij li a des ~ 
+<lb/>lettre roūge aūsie, il faūt si bien <seg ana="#scraping">d’egrater</seg> qūe lons 
+<lb/>ne voie rien de roūge, parceqūe le <seg ana="#bottle_green">ver</seg>, ne pas for assez 
 <lb/>poūr coūūerire ce roūge, non pas aūsie, les nottes de 
 <lb/>la mūsiqūe, cepoūrqūoij il faūt se garder de ne jarnais, 
-<lb/>laūer dū parchemain, aūec des notte de la mūsiqūe
-<lb/>car il ne pas propre a verdire.. ~~~
+<lb/><seg ana="#washing">laūer</seg> dū <seg ana="#parchment">parchemain</seg>, aūec des notte de la mūsiqūe
+<lb/>car il ne pas propre a <seg ana="#dyeing">verdire</seg>.. ~~~
 </ab>
+</div>
 
 </div></body></text>

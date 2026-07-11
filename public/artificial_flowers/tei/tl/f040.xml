@@ -1,23 +1,25 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f040"/>
+<div ana="#dyeing #grinding #paper #vermilion #red_lead #gum_tragacanth #packet #mussel_shell #marble_slab #dish #stick #glass_vessel">
 <ab>
-<lb/>Note, red paper, is made again,
-<lb/>in this way; one takes a packet of
-<lb/>vermillion, or the amount of a mussel
-<lb/>shell,; with two mussel shells, of
-<lb/>minium, this is a coarse red dyestuff;
-<lb/>that is why, one needs to rub it well
-<lb/>on the marble; before mixing it
-<lb/>with the vermillion; after that one needs to take
-<lb/>clear gum, and vermillion, and 
-<lb/>minium, being mixed together in a dish, one
-<lb/>needs to pour a little of this clear gum
+<lb/>Note, red <seg ana="#paper">paper</seg>, is made again,
+<lb/>in this way; one takes a <seg ana="#packet">packet</seg> of
+<lb/><seg ana="#vermilion">vermillion</seg>, or the amount of a <seg ana="#mussel_shell">mussel
+<lb/>shell</seg>,; with two <seg ana="#mussel_shell">mussel shells</seg>, of
+<lb/><seg ana="#red_lead">minium</seg>, this is a coarse red <seg ana="#dyeing">dyestuff</seg>;
+<lb/>that is why, one needs to <seg ana="#grinding">rub</seg> it well
+<lb/>on the <seg ana="#marble_slab">marble</seg>; before mixing it
+<lb/>with the <seg ana="#vermilion">vermillion</seg>; after that one needs to take
+<lb/>clear <seg ana="#gum_tragacanth">gum</seg>, and <seg ana="#vermilion">vermillion</seg>, and 
+<lb/><seg ana="#red_lead">minium</seg>, being mixed together in a <seg ana="#dish">dish</seg>, one
+<lb/>needs to pour a little of this clear <seg ana="#gum_tragacanth">gum</seg>
 <lb/>on top, and one mixes well together the two
-<lb/>dyes with a little stick, the dye being
+<lb/>dyes with a little <seg ana="#stick">stick</seg>, the dye being
 <lb/>well mixed; one needs to pour in the dye a
-<lb/>half glass of water, one needs to stir it all well
+<lb/>half <seg ana="#glass_vessel">glass</seg> of water, one needs to stir it all well
 <lb/>together; and after one needs to take a =
-<lb/>note without gum, water only [suffices] for 
-<lb/>making paper
+<lb/>note without <seg ana="#gum_tragacanth">gum</seg>, water only [suffices] for 
+<lb/>making <seg ana="#paper">paper</seg>
 </ab>
+</div>
 
 </div></body></text>
