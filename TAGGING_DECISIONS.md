@@ -128,6 +128,13 @@ From f058–f069:
   the surrounding recipe; principal tag comes from the recipe they annotate.
 - Headings with nothing taggable ("Notez les non de taintūre en flament") stay unwrapped.
 
+From f072–f123:
+- Non-recipe pages — pattern lettering (f112 "MAR"), calligraphy models (f122/f123 are
+  abbreviated Latin Psalms 1–2), blank or ornamental pages — stay unwrapped in BOTH layers
+  (rule 6), keeping parity even when only one layer has the page.
+- When one layer splits a recipe into multiple divs and the other merges it, the merged div
+  carries the folio-level union, and the split divs' combined ana must equal it (f088).
+
 ## Final report (your return message)
 
 Return a terse report: folios tagged; number of entries wrapped per layer; new categories added

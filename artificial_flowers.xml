@@ -62,6 +62,14 @@
                       <category xml:id="taffeta"><catDesc>taffeta (tafta)</catDesc></category>
                       <category xml:id="chamomile"><catDesc>baker's chamomile (ganez de boulanger)</catDesc></category>
                       <category xml:id="leather"><catDesc>leather scraps (cuire blan)</catDesc></category>
+                      <category xml:id="gold"><catDesc>gold (goūdt)</catDesc></category>
+                      <category xml:id="silver"><catDesc>silver (silūer)</catDesc></category>
+                      <category xml:id="glue"><catDesc>glue (lijm)</catDesc></category>
+                      <category xml:id="ceruse"><catDesc>white lead ceruse (wit cerūse)</catDesc></category>
+                      <category xml:id="paint"><catDesc>paint (verweijen)</catDesc></category>
+                      <category xml:id="eel_gall"><catDesc>eel gall (gal van eennen palinck)</catDesc></category>
+                      <category xml:id="brandy"><catDesc>brandy (brandewijn)</catDesc></category>
+                      <category xml:id="wool"><catDesc>wool (leinne)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="tools">
                       <bibl>Tools</bibl>
@@ -103,6 +111,9 @@
                       <category xml:id="hammer"><catDesc>hammer (marteau)</catDesc></category>
                       <category xml:id="marmite"><catDesc>cooking kettle (marmite)</catDesc></category>
                       <category xml:id="oven"><catDesc>oven (fourre)</catDesc></category>
+                      <category xml:id="wolfs_tooth"><catDesc>wolf's tooth burnisher (wūlfs tant)</catDesc></category>
+                      <category xml:id="shell"><catDesc>shell for gold or silver (shelpe)</catDesc></category>
+                      <category xml:id="pattern"><catDesc>pattern/template (patron)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="measurements">
                       <bibl>Measurements</bibl>
@@ -143,6 +154,9 @@
                       <category xml:id="printing"><catDesc>printing/imprinting (imprimer)</catDesc></category>
                       <category xml:id="bleaching"><catDesc>whitening/bleaching (blanchir)</catDesc></category>
                       <category xml:id="burning"><catDesc>burning (bruler)</catDesc></category>
+                      <category xml:id="gilding"><catDesc>gilding/silvering (vergūlden)</catDesc></category>
+                      <category xml:id="burnishing"><catDesc>burnishing (brūneeren)</catDesc></category>
+                      <category xml:id="illuminating"><catDesc>illuminating/heightening (verlichten)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="flowers">
                       <bibl>Flowers</bibl>
@@ -158,6 +172,9 @@
                       <category xml:id="leaf"><catDesc>leaf</catDesc></category>
                       <category xml:id="rose"><catDesc>rose</catDesc></category>
                       <category xml:id="stem"><catDesc>stem (queue)</catDesc></category>
+                      <category xml:id="pansy"><catDesc>pansy (pinsez)</catDesc></category>
+                      <category xml:id="branch"><catDesc>branch (branche)</catDesc></category>
+                      <category xml:id="bouquet"><catDesc>bouquet (boūcqūé)</catDesc></category>
                   </taxonomy>
               </classDecl>
           </encodingDesc>
@@ -2070,13 +2087,15 @@
 </div>
 
 <pb facs="#f072" />
+<div ana="#pattern #painting #paper">
 <ab>
-<lb />Patron poūr pintūrer dessūr
-<lb />Le papier; notez aūsi, qūe ce ~
+<lb /><seg ana="#pattern">Patron</seg> poūr <seg ana="#painting">pintūrer</seg> dessūr
+<lb />Le <seg ana="#paper">papier</seg>; notez aūsi, qūe ce ~
 <lb />petit liūre, ne pūis jamais estre
 <lb />donné, et pas pretez, a personne,
 <lb />or de nostre coūūent de Ste. godelieūe.
 </ab>
+</div>
 <ab>
 <lb />IHS          MR
 <lb />Dit boūxkens, en magh niet ghegeūen, ~
@@ -2086,144 +2105,170 @@
 </ab>
 
 <pb facs="#f074" />
+<div ana="#pattern #painting #pansy">
 <ab>
-<lb />patron
+<lb /><seg ana="#pattern">patron</seg>
 <lb />IHS          MR
 <lb />il faūt toūjoūrs, mettre toūtes les sorte des fleūrs
-<lb />qūe lon peintūre aūec le Sts. non de jesūs, et de Marie,
-<lb />les mettre dans un coeūr, aūec qūelqūe pinsez aū toūr.
+<lb />qūe lon <seg ana="#painting">peintūre</seg> aūec le Sts. non de jesūs, et de Marie,
+<lb />les mettre dans un coeūr, aūec qūelqūe <seg ana="#pansy">pinsez</seg> aū toūr.
 </ab>
+</div>
 
 <pb facs="#f076" />
+<div ana="#pattern #painting">
 <ab>
-<lb />patron          patron
+<lb /><seg ana="#pattern">patron</seg>          <seg ana="#pattern">patron</seg>
 <lb />IHS
 <lb />a l’aūtre cotez dū tablaū le St.
-<lb />non de Marie, il faūt toūjoūrs pintūrer, chaqūe
+<lb />non de Marie, il faūt toūjoūrs <seg ana="#painting">pintūrer</seg>, chaqūe
 <lb />cotez, l’ūn, comme l’aūtre, egallement .. ~~
 </ab>
+</div>
 
 <pb facs="#f078" />
+<div ana="#gilding #gold #silver #burnishing #glue #ceruse #drying #wolfs_tooth #soap #polishing #paint #eel_gall #brandy #illuminating #tracing #paintbrush">
 <ab>
-<lb />Maniere om te vergūlden, met goūdt, ofte silūer.
-<lb />het geene datmen brūneeren wilt, t’sij goūdt,
-<lb />ofte silūer, moet voor eerst den gront doen,
-<lb />met stercken lijm, drooge sijnde leght daen
-<lb />een laeghe lijm met wit cerūse, onderhoūdende
+<lb />Maniere om te <seg ana="#gilding">vergūlden</seg>, met <seg ana="#gold">goūdt</seg>, ofte <seg ana="#silver">silūer</seg>.
+<lb />het geene datmen <seg ana="#burnishing">brūneeren</seg> wilt, t’sij <seg ana="#gold">goūdt</seg>,
+<lb />ofte <seg ana="#silver">silūer</seg>, moet voor eerst den gront doen,
+<lb />met stercken <seg ana="#glue">lijm</seg>, drooge sijnde leght daen
+<lb />een laeghe <seg ana="#glue">lijm</seg> met <seg ana="#ceruse">wit cerūse</seg>, onderhoūdende
 <lb />altijdt dat ghij de t’weede laeghe noijt en leght,
 <lb />ten sij dat de eerste gheheel drooghe is, ende en
-<lb />leght het noijt te drooghen daer het groote sonne
+<lb />leght het noijt te <seg ana="#drying">drooghen</seg> daer het groote sonne
 <lb />maeckt, en leght het wit niet te dicke, men
 <lb />moet het legghen tot 9. oft 10. keeren, sūijūer=
 <lb />=et alsdaen, en maecket wel effūen met een
-<lb />wūlfs tant, oft met water van spaensche
-<lb />seepe, ende vrift het daer mede tot dat het
+<lb /><seg ana="#wolfs_tooth">wūlfs tant</seg>, oft met water van <seg ana="#soap">spaensche
+<lb />seepe</seg>, ende <seg ana="#polishing">vrift</seg> het daer mede tot dat het
 <lb />effen is, doen moet men ten minsten eenen
-<lb />dagh laeten rūsten, eer ghij het gaet vergūlden,
-<lb />ofte versilūeren, Maer onder het goūt, doetmen
-<lb />de t’wee laest keeren met lijm, wat witte
-<lb />cerūse en orannie verweijen, om den gront,
+<lb />dagh laeten rūsten, eer ghij het gaet <seg ana="#gilding">vergūlden</seg>,
+<lb />ofte <seg ana="#gilding">versilūeren</seg>, Maer onder het <seg ana="#gold">goūt</seg>, doetmen
+<lb />de t’wee laest keeren met <seg ana="#glue">lijm</seg>, wat <seg ana="#ceruse">witte
+<lb />cerūse</seg> en <seg ana="#paint">orannie verweijen</seg>, om den gront,
 <lb />goūdt coūleūr te hebben ~~~~
-<lb />Gal van een palinck, in wat brandewijn ghe=
-<lb />smolten, is goet voor te verlichten, goūdt, oft silūer,
+<lb /><seg ana="#eel_gall">Gal van een palinck</seg>, in wat <seg ana="#brandy">brandewijn</seg> ghe=
+<lb />smolten, is goet voor te <seg ana="#illuminating">verlichten</seg>, <seg ana="#gold">goūdt</seg>, oft <seg ana="#silver">silūer</seg>,
 <lb />inde naervolghende coūleūrs, groeūn, swart, grise,
 <lb />en geelūe,
-<lb />het doet de verweijen vloeijen, en maecht dat sij
+<lb />het doet de <seg ana="#paint">verweijen</seg> vloeijen, en maecht dat sij
 <lb />niet afschelferen; dit klienne cantiteijdt van het
-<lb />gal van eennen palinck en is maer om te traceren
-<lb />met eennen peinceelle op beeldekens, maer als sij grooter
+<lb /><seg ana="#eel_gall">gal van eennen palinck</seg> en is maer om te <seg ana="#tracing">traceren</seg>
+<lb />met eennen <seg ana="#paintbrush">peinceelle</seg> op beeldekens, maer als sij grooter
 </ab>
+</div>
 
 <pb facs="#f081" />
+<div ana="#gilding #gold #silver #eel_gall #brandy #illuminating #tracing #paintbrush #drop #rainwater #fountain_water #shell #egg_white #sponge #washing #wringing #cloth #oil">
 <ab>
 <lb />werchken maecken, soo moetmen grooter
-<lb />cantiteijdt van gal, ende brandewijn neemen,
+<lb />cantiteijdt van <seg ana="#eel_gall">gal</seg>, ende <seg ana="#brandy">brandewijn</seg> neemen,
 <lb />nootert, als ghij maer lichte wercken en wielt
 <lb />maecken, met 4. oft 5. gronden te leeghtgen
 <lb />t’is al ghenoūgh; ~~~~
-<lb />nota, dat den palinck gal, maer en
-<lb />is om te verlichten, maer niet om
-<lb />te traceren met een peinceel op
-<lb />beeldekens, daer + + tou is den brandewijn
-<lb />wel alleen; als oock een dreūpelken, oft
-<lb />twee reghen, oft fontainne waters, dit is het best, om
-<lb />te doen inde goūdt, oft selūere shelpe, en daer mede
-<lb />te verghūlden, ende te traceren met den peinceel; maer
-<lb />om te verghūlden met schūm goūdt, oft selūere; den
-<lb />gront moet magre naet ghemaeckt worden, met wijtte van
-<lb />heijren wel ghesleeghen, maer oūer al wel naet, daer
-<lb />naer, leghtmen daer op, het goūdt, oft selūere schūm;
+<lb />nota, dat den <seg ana="#eel_gall">palinck gal</seg>, maer en
+<lb />is om te <seg ana="#illuminating">verlichten</seg>, maer niet om
+<lb />te <seg ana="#tracing">traceren</seg> met een <seg ana="#paintbrush">peinceel</seg> op
+<lb />beeldekens, daer + + tou is den <seg ana="#brandy">brandewijn</seg>
+<lb />wel alleen; als oock een <seg ana="#drop">dreūpelken</seg>, oft
+<lb />twee <seg ana="#rainwater">reghen</seg>, oft <seg ana="#fountain_water">fontainne waters</seg>, dit is het best, om
+<lb />te doen inde <seg ana="#gold">goūdt</seg>, oft <seg ana="#silver">selūere</seg> <seg ana="#shell">shelpe</seg>, en daer mede
+<lb />te <seg ana="#gilding">verghūlden</seg>, ende te <seg ana="#tracing">traceren</seg> met den <seg ana="#paintbrush">peinceel</seg>; maer
+<lb />om te <seg ana="#gilding">verghūlden</seg> met schūm <seg ana="#gold">goūdt</seg>, oft <seg ana="#silver">selūere</seg>; den
+<lb />gront moet magre naet ghemaeckt worden, met <seg ana="#egg_white">wijtte van
+<lb />heijren</seg> wel ghesleeghen, maer oūer al wel naet, daer
+<lb />naer, leghtmen daer op, het <seg ana="#gold">goūdt</seg>, oft <seg ana="#silver">selūere</seg> schūm;
 <lb />finne oft groūf, men deūt het toū, met een kliennen
-<lb />brockskens spongie; van te voor wel gewaeschen;
-<lb />daer naer vijt ghedeūt in eennen doūcken, ende daer
-<lb />naer, daer mede vergūlden; ende als de spongie wat
+<lb />brockskens <seg ana="#sponge">spongie</seg>; van te voor wel <seg ana="#washing">gewaeschen</seg>;
+<lb />daer naer <seg ana="#wringing">vijt ghedeūt</seg> in eennen <seg ana="#cloth">doūcken</seg>, ende daer
+<lb />naer, daer mede <seg ana="#gilding">vergūlden</seg>; ende als de <seg ana="#sponge">spongie</seg> wat
 <lb />te droghen worde, doetmen als voor; ~~
-<lb />Nota, als het met olie is, men neemt ghebrant
-<lb />olie, ende men machket naet met die olie, ende
-<lb />selūere, oft goūdt schūm daer op; ende men
-<lb />doet met de spongie als voor; ~~
+<lb />Nota, als het met <seg ana="#oil">olie</seg> is, men neemt <seg ana="#oil">ghebrant
+<lb />olie</seg>, ende men machket naet met die olie, ende
+<lb /><seg ana="#silver">selūere</seg>, oft <seg ana="#gold">goūdt</seg> schūm daer op; ende men
+<lb />doet met de <seg ana="#sponge">spongie</seg> als voor; ~~
 </ab>
+</div>
 
 <pb facs="#f084" />
+<div ana="#pattern #painting">
 <ab>
-<lb />patron
+<lb /><seg ana="#pattern">patron</seg>
 <lb />MR
 <lb />le saint non de jesūs, pūis
-<lb />estre pintūrez, a l’aūtre coté dū tablaū, de
+<lb />estre <seg ana="#painting">pintūrez</seg>, a l’aūtre coté dū tablaū, de
 <lb />la meme maniere, aūec d’aūtres fleūrs s’il en et
 <lb />besoin..~
 </ab>
+</div>
 
 <pb facs="#f086" />
+<div ana="#tracing #branch">
 <ab>
-<lb />chaqūe sorte de fleūres doit estres tirez dans sa branche, et le
+<lb />chaqūe sorte de fleūres doit estres <seg ana="#tracing">tirez</seg> dans sa <seg ana="#branch">branche</seg>, et le
 <lb />St. non de jesūs de l’aūtres coté dū tabelaūx, egallement
 <lb />MR
 </ab>
+</div>
 
 <pb facs="#f088" />
+<div ana="#pattern #bouquet">
 <ab>
-<lb />patron
+<lb /><seg ana="#pattern">patron</seg>
 <lb />IHS
-<lb />boūcqūé poūr
+<lb /><seg ana="#bouquet">boūcqūé</seg> poūr
 <lb />mettre dessūr
 <lb />des coeūr, qūil sons
 <lb />enplie aūec de la
 </ab>
+</div>
+<div ana="#wool #cutting #bouquet #branch">
 <ab>
-<lb />leinne, il faūt
-<lb />decoūpper chaqūe
-<lb />boūcqūez, tenent le toūs
-<lb />dans sa branche, sans
+<lb /><seg ana="#wool">leinne</seg>, il faūt
+<lb /><seg ana="#cutting">decoūpper</seg> chaqūe
+<lb /><seg ana="#bouquet">boūcqūez</seg>, tenent le toūs
+<lb />dans sa <seg ana="#branch">branche</seg>, sans
 <lb />rien separer, l’ūn de l’aūtres.
 </ab>
+</div>
 
 <pb facs="#f090" />
+<div ana="#pattern">
 <ab>
-<lb />patron
+<lb /><seg ana="#pattern">patron</seg>
 </ab>
+</div>
 
 <pb facs="#f094" />
+<div ana="#pattern">
 <ab>
-<lb />patron
+<lb /><seg ana="#pattern">patron</seg>
 </ab>
+</div>
 
 <pb facs="#f096" />
+<div ana="#pattern">
 <ab>
-<lb />patron
+<lb /><seg ana="#pattern">patron</seg>
 </ab>
+</div>
 
 <pb facs="#f108" />
+<div ana="#pattern">
 <ab>
-<lb />patron
+<lb /><seg ana="#pattern">patron</seg>
 </ab>
+</div>
 
 <pb facs="#f110" />
+<div ana="#pattern">
 <ab>
-<lb />patroon
+<lb /><seg ana="#pattern">patroon</seg>
 <lb />van eenen Remon=
 <lb />=strantie 1757.
 </ab>
+</div>
 
 <pb facs="#f112" />
 <ab>
@@ -4680,9 +4725,10 @@
 </div>
 
 <pb facs="#f072" />
+<div ana="#pattern #painting #paper">
 <ab>
-<lb />Pattern for painting on
-<lb />paper; note also that this ~
+<lb /><seg ana="#pattern">Pattern</seg> for <seg ana="#painting">painting</seg> on
+<lb /><seg ana="#paper">paper</seg>; note also that this ~
 <lb />little book, must never be
 <lb />given, and not lent, to anyone,
 <lb />outside of our convent of St. Godelieve.
@@ -4692,143 +4738,168 @@
 <lb />person, outside our cloister of St. Godelieve.
 <lb />Pray for Sister Marie Placida Bens ◆ 1743 ◆
 </ab>
+</div>
 
 <pb facs="#f074" />
+<div ana="#pattern #painting #pansy">
 <ab>
-<lb />pattern
+<lb /><seg ana="#pattern">pattern</seg>
 <lb />IHS MR
 <lb />one needs always, to put all the sorts of flowers
-<lb />that one paints with the holy names of Jesus, and of Maria,
-<lb />put them in a heart, with several pansies around.
+<lb />that one <seg ana="#painting">paints</seg> with the holy names of Jesus, and of Maria,
+<lb />put them in a heart, with several <seg ana="#pansy">pansies</seg> around.
 </ab>
+</div>
 
 <pb facs="#f076" />
+<div ana="#pattern #painting">
 <ab>
-<lb />pattern		pattern
+<lb /><seg ana="#pattern">pattern</seg>		<seg ana="#pattern">pattern</seg>
 <lb />IHS
 <lb />on the other side of the picture the holy
-<lb />name of Mary, one must always paint, each
+<lb />name of Mary, one must always <seg ana="#painting">paint</seg>, each
 <lb />side, the one, as the other, equally . . ~~
 </ab>
+</div>
 
 <pb facs="#f078" />
+<div ana="#gilding #gold #silver #burnishing #glue #ceruse #drying #wolfs_tooth #soap #polishing #paint #eel_gall #brandy #illuminating #tracing #paintbrush">
 <ab>
-<lb />Way to gild with gold or silver
-<lb />The only thing that one wants to burnish is gold
-<lb />or silver. One must first prepare the ground
-<lb />with strong glue. Being dry, lay next
-<lb />a layer of lime with white ceruse, paying attention
+<lb />Way to <seg ana="#gilding">gild</seg> with <seg ana="#gold">gold</seg> or <seg ana="#silver">silver</seg>
+<lb />The only thing that one wants to <seg ana="#burnishing">burnish</seg> is <seg ana="#gold">gold</seg>
+<lb />or <seg ana="#silver">silver</seg>. One must first prepare the ground
+<lb />with strong <seg ana="#glue">glue</seg>. Being dry, lay next
+<lb />a layer of <seg ana="#glue">lime</seg> with <seg ana="#ceruse">white ceruse</seg>, paying attention
 <lb />continually that you do not ever lay a second layer
 <lb />unless the first is entirely dry. And do not
-<lb />leave it ever to dry where it is very
+<lb />leave it ever to <seg ana="#drying">dry</seg> where it is very
 <lb />sunny. And do not lay the white too thickly. One
 <lb />must lay it 9 or 10 times. Then refine [it]
 <lb />and make it very even with a 
-<lb />wolf’s tooth or with water from Spanish
-<lb />soap, and scour it with it until it
+<lb /><seg ana="#wolfs_tooth">wolf’s tooth</seg> or with water from <seg ana="#soap">Spanish
+<lb />soap</seg>, and <seg ana="#polishing">scour</seg> it with it until it
 <lb />is even. Next, one must leave it to rest
-<lb />at least one day. Before you go to gild or
-<lb />silver it, only under the gild [areas] one puts
-<lb />the two last coats of glue, some white
-<lb />ceruse, and orange paint, on the ground
+<lb />at least one day. Before you go to <seg ana="#gilding">gild</seg> or
+<lb /><seg ana="#gilding">silver</seg> it, only under the <seg ana="#gold">gild</seg> [areas] one puts
+<lb />the two last coats of <seg ana="#glue">glue</seg>, some <seg ana="#ceruse">white
+<lb />ceruse</seg>, and <seg ana="#paint">orange paint</seg>, on the ground
 <lb />to have gold color. ~~~~
-<lb />Bile of an eel melted in some brandy
-<lb />is good for illuminating gold or silver
+<lb /><seg ana="#eel_gall">Bile of an eel</seg> melted in some <seg ana="#brandy">brandy</seg>
+<lb />is good for <seg ana="#illuminating">illuminating</seg> <seg ana="#gold">gold</seg> or <seg ana="#silver">silver</seg>
 <lb />in the following colors: green, black, grey,
 <lb />and yellow.
-<lb />It does so that the paint flows, and makes that
+<lb />It does so that the <seg ana="#paint">paint</seg> flows, and makes that
 <lb />it does not flake off. This small quantity of
-<lb />gall from an eel is but only for drawing
-<lb />with a paintbrush on little images, but as we make
+<lb /><seg ana="#eel_gall">gall from an eel</seg> is but only for <seg ana="#tracing">drawing</seg>
+<lb />with a <seg ana="#paintbrush">paintbrush</seg> on little images, but as we make
 </ab>
+</div>
 
 <pb facs="#f081" />
+<div ana="#gilding #gold #silver #eel_gall #brandy #illuminating #tracing #paintbrush #drop #rainwater #fountain_water #shell #egg_white #sponge #washing #wringing #cloth #oil">
 <ab>
 <lb />larger work, so must one take larger
-<lb />quantities of gall and brandy.
+<lb />quantities of <seg ana="#eel_gall">gall</seg> and <seg ana="#brandy">brandy</seg>.
 <lb />Note: if you only wish to make light work,
 <lb />with 4 or 5 ground [layers] to lay
 <lb />it is already enough. ~~~~
-<lb />Note that eel gall is only 
-<lb />for illuminating but not for
-<lb />drawing with a paintbrush on
-<lb />little images. To that end, brandy
+<lb />Note that <seg ana="#eel_gall">eel gall</seg> is only
+<lb />for <seg ana="#illuminating">illuminating</seg> but not for
+<lb /><seg ana="#tracing">drawing</seg> with a <seg ana="#paintbrush">paintbrush</seg> on
+<lb />little images. To that end, <seg ana="#brandy">brandy</seg>
 <lb />works well on its own. Also one or two little
-<lb />drops of rainwater or fountain water, this is the best
-<lb />to put in the shell with gold or silver and therewith to
-<lb />gild with foam[?] gold or silver. The
-<lb />ground must be made slightly wet with 
-<lb />well beaten egg white, but overall well wet.
-<lb />Thereafter, one lays the gold or the silver foam thereupon,
+<lb /><seg ana="#drop">drops</seg> of <seg ana="#rainwater">rainwater</seg> or <seg ana="#fountain_water">fountain water</seg>, this is the best
+<lb />to put in the <seg ana="#shell">shell</seg> with <seg ana="#gold">gold</seg> or <seg ana="#silver">silver</seg> and therewith to
+<lb /><seg ana="#gilding">gild</seg> with foam[?] <seg ana="#gold">gold</seg> or <seg ana="#silver">silver</seg>. The
+<lb />ground must be made slightly wet with
+<lb />well beaten <seg ana="#egg_white">egg white</seg>, but overall well wet.
+<lb />Thereafter, one lays the <seg ana="#gold">gold</seg> or the <seg ana="#silver">silver</seg> foam thereupon,
 <lb />fine or rough, one puts it down with a small
-<lb />brockskens sponge, well washed beforehand, [and]
-<lb />thereafter squeezed out in a cloth, and thereafter,
-<lb />gilded with. And if the sponge becomes somewhat
+<lb />brockskens <seg ana="#sponge">sponge</seg>, well <seg ana="#washing">washed</seg> beforehand, [and]
+<lb />thereafter <seg ana="#wringing">squeezed out</seg> in a <seg ana="#cloth">cloth</seg>, and thereafter,
+<lb /><seg ana="#gilding">gilded</seg> with. And if the <seg ana="#sponge">sponge</seg> becomes somewhat
 <lb />too dry, one does as before. ~~
-<lb />Note: if it is with oil, one takes ghebrant[drying?]
-<lb />oil and one makes it wet with this oil, and
-<lb />[lays] silver or gold foam thereupon. And one
-<lb />does with the sponge as before. ~~
+<lb />Note: if it is with <seg ana="#oil">oil</seg>, one takes ghebrant[drying?]
+<lb /><seg ana="#oil">oil</seg> and one makes it wet with this oil, and
+<lb />[lays] <seg ana="#silver">silver</seg> or <seg ana="#gold">gold</seg> foam thereupon. And one
+<lb />does with the <seg ana="#sponge">sponge</seg> as before. ~~
 </ab>
+</div>
 
 <pb facs="#f084" />
+<div ana="#pattern #painting">
 <ab>
-<lb />pattern
+<lb /><seg ana="#pattern">pattern</seg>
 <lb />MR
 <lb />the holy name of Jesus, can
-<lb />be painted, on the other side of the picture, in
+<lb />be <seg ana="#painting">painted</seg>, on the other side of the picture, in
 <lb />the same way, with the other flowers if there is
 <lb />need . . ~
 </ab>
+</div>
 
 <pb facs="#f086" />
+<div ana="#tracing #branch">
 <ab>
-<lb />each sort of flower must be drawn [(up)] in its branch, and the
+<lb />each sort of flower must be <seg ana="#tracing">drawn</seg> [(up)] in its <seg ana="#branch">branch</seg>, and the
 <lb />holy name of Jesus on the other side of the picture, equally
 <lb />MR
 </ab>
+</div>
 
 <pb facs="#f088" />
+<div ana="#pattern #bouquet #wool #cutting #branch">
 <ab>
-<lb />pattern
+<lb /><seg ana="#pattern">pattern</seg>
 <lb />IHS
-<lb />bouquet for 
+<lb /><seg ana="#bouquet">bouquet</seg> for 
 <lb />putting over
 <lb />hearts, which are 
 <lb />filled with
-<lb />wool, one needs
-<lb />to cut each
-<lb />bouquet, holding all of it
-<lb />in its branch, without
+<lb /><seg ana="#wool">wool</seg>, one needs
+<lb />to <seg ana="#cutting">cut</seg> each
+<lb /><seg ana="#bouquet">bouquet</seg>, holding all of it
+<lb />in its <seg ana="#branch">branch</seg>, without
 <lb />separating anything, one from the other.
 </ab>
+</div>
 
 <pb facs="#f090" />
+<div ana="#pattern">
 <ab>
-<lb />pattern
+<lb /><seg ana="#pattern">pattern</seg>
 </ab>
+</div>
 
 <pb facs="#f094" />
+<div ana="#pattern">
 <ab>
-<lb />pattern
+<lb /><seg ana="#pattern">pattern</seg>
 </ab>
+</div>
 
 <pb facs="#f096" />
+<div ana="#pattern">
 <ab>
-<lb />pattern
+<lb /><seg ana="#pattern">pattern</seg>
 </ab>
+</div>
 
 <pb facs="#f108" />
+<div ana="#pattern">
 <ab>
-<lb />pattern
+<lb /><seg ana="#pattern">pattern</seg>
 </ab>
+</div>
 
 <pb facs="#f110" />
+<div ana="#pattern">
 <ab>
-<lb />pattern
+<lb /><seg ana="#pattern">pattern</seg>
 <lb />of a monstrance
 <lb />1757.
 </ab>
+</div>
 
 <pb facs="#f112" />
 <ab>

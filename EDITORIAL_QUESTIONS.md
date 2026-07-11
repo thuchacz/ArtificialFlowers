@@ -67,6 +67,15 @@ Format: **folio · term** — the issue, what was done, and the question.
 - **"gerniez" / attic** (f012, also drying "in the attic" elsewhere) — places are currently not
   tagged at all. **Q:** is a Places taxonomy wanted?
 
+## Non-recipe content (informational)
+
+- **f112 · "MAR"** — both layers contain only the letters MAR, evidently pattern lettering for
+  "MARIA"; left untagged. **f122/f123 (tc only)** — abbreviated Latin liturgical text: Psalm 1
+  (*Beatus vir*) and Psalm 2 (*Quare fremuerunt gentes*), likely calligraphy models. Untaggable
+  under the five taxonomies, so these pages simply don't appear in the Tag Explorer filters.
+  **Q:** is that the desired treatment for non-recipe pages, or should a content-type
+  taxonomy (recipe / pattern / calligraphy model / glossary) be added so they're findable?
+
 ## Standing policy questions
 
 - **Union rule for divergent layers:** when tc and tl genuinely disagree, both currently get the
