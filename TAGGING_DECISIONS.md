@@ -135,6 +135,19 @@ From f072–f123:
 - When one layer splits a recipe into multiple divs and the other merges it, the merged div
   carries the folio-level union, and the split divs' combined ana must equal it (f088).
 
+From f128–f143:
+- The manuscript's "transcription" layer switches language: f128–f143 tc is Flemish/Dutch, not
+  French. All rules apply unchanged; segs go on the Dutch terms.
+- The Dutch noun "verwe" ("dye") is tagged #dyeing, matching how the French taint/tainturre
+  nouns were handled.
+- A div-level tag without a local seg is legitimate when the translation leaves a word blank
+  or untranslated ("tot een kanne" → "until a ____"): the div carries the union, the seg goes
+  only where a word exists.
+- Historical/documentary pages (f130 is a 1680 obituary) are non-recipe content: unwrapped,
+  per the f112/f122 precedent.
+- Unrecorded units (susijn/sisein) are minted as categories with an "unidentified measure"
+  label rather than guessed at.
+
 ## Final report (your return message)
 
 Return a terse report: folios tagged; number of entries wrapped per layer; new categories added

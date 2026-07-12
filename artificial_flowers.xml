@@ -70,6 +70,20 @@
                       <category xml:id="eel_gall"><catDesc>eel gall (gal van eennen palinck)</catDesc></category>
                       <category xml:id="brandy"><catDesc>brandy (brandewijn)</catDesc></category>
                       <category xml:id="wool"><catDesc>wool (leinne)</catDesc></category>
+                      <category xml:id="butter"><catDesc>butter (boter)</catDesc></category>
+                      <category xml:id="berlin_blue"><catDesc>Berlin blue pigment (berlins blaūw)</catDesc></category>
+                      <category xml:id="florentine_red"><catDesc>Florentine red pigment (florentins root)</catDesc></category>
+                      <category xml:id="rose_red"><catDesc>rose red pigment (roose root)</catDesc></category>
+                      <category xml:id="shell_white"><catDesc>shell white pigment (schelpe wit)</catDesc></category>
+                      <category xml:id="pale_yellow"><catDesc>pale yellow pigment (bleeck geūlwe)</catDesc></category>
+                      <category xml:id="orange_dye"><catDesc>orange dye (orainie verwe)</catDesc></category>
+                      <category xml:id="bouck_green"><catDesc>green pigment (boūck groen)</catDesc></category>
+                      <category xml:id="indigo"><catDesc>indigo (indego)</catDesc></category>
+                      <category xml:id="potash"><catDesc>potash (pottasschen)</catDesc></category>
+                      <category xml:id="ribbon"><catDesc>ribbon (linten)</catDesc></category>
+                      <category xml:id="wood"><catDesc>wood (hout)</catDesc></category>
+                      <category xml:id="wax"><catDesc>wax (wasch)</catDesc></category>
+                      <category xml:id="lake_pigment"><catDesc>red lake pigment (lack)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="tools">
                       <bibl>Tools</bibl>
@@ -114,6 +128,9 @@
                       <category xml:id="wolfs_tooth"><catDesc>wolf's tooth burnisher (wūlfs tant)</catDesc></category>
                       <category xml:id="shell"><catDesc>shell for gold or silver (shelpe)</catDesc></category>
                       <category xml:id="pattern"><catDesc>pattern/template (patron)</catDesc></category>
+                      <category xml:id="pan"><catDesc>pan (panne)</catDesc></category>
+                      <category xml:id="table"><catDesc>table (tafel)</catDesc></category>
+                      <category xml:id="lid"><catDesc>pot lid (decksel)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="measurements">
                       <bibl>Measurements</bibl>
@@ -129,6 +146,13 @@
                       <category xml:id="handful"><catDesc>handful (ponniez)</catDesc></category>
                       <category xml:id="packet"><catDesc>packet (paquez)</catDesc></category>
                       <category xml:id="nut_size"><catDesc>nut-size lump (grosse nois)</catDesc></category>
+                      <category xml:id="stuiver"><catDesc>stuiver (coin)</catDesc></category>
+                      <category xml:id="groot"><catDesc>groot (coin, groote)</catDesc></category>
+                      <category xml:id="kanne"><catDesc>kanne (liquid measure)</catDesc></category>
+                      <category xml:id="stoop"><catDesc>stoop (liquid measure)</catDesc></category>
+                      <category xml:id="stone_weight"><catDesc>stone weight (steen)</catDesc></category>
+                      <category xml:id="vierendeel"><catDesc>quarter measure (vierendeel)</catDesc></category>
+                      <category xml:id="susijn"><catDesc>susijn (unidentified measure)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="techniques">
                       <bibl>Techniques</bibl>
@@ -157,6 +181,8 @@
                       <category xml:id="gilding"><catDesc>gilding/silvering (vergūlden)</catDesc></category>
                       <category xml:id="burnishing"><catDesc>burnishing (brūneeren)</catDesc></category>
                       <category xml:id="illuminating"><catDesc>illuminating/heightening (verlichten)</catDesc></category>
+                      <category xml:id="melting"><catDesc>melting (smilten)</catDesc></category>
+                      <category xml:id="skimming"><catDesc>skimming (schuijmen)</catDesc></category>
                   </taxonomy>
                   <taxonomy xml:id="flowers">
                       <bibl>Flowers</bibl>
@@ -2345,211 +2371,229 @@
 </ab>
 
 <pb facs="#f132" />
+<div ana="#stone_weight #butter">
 <ab>
 <lb />St godelieve
-<lb />17 ½ 	Steen Boter.
+<lb />17 ½ 	<seg ana="#stone_weight">Steen</seg> <seg ana="#butter">Boter</seg>.
 </ab>
+</div>
 
 <pb facs="#f134" />
+<div ana="#stuiver #berlin_blue #florentine_red #rose_red #english_ash #shell_white #pale_yellow #orange_dye #bouck_green #paintbrush #indigo">
 <ab>
-<lb />voor 3 stūivers berlins blaūw
-<lb />voor 3 stūivers florentins root
-<lb />voor een illeg stūiver roose root
-<lb />voor 2 stūivers blaūwe Engels asken
-<lb />voor een stūiver schelpe wit
-<lb />voor een stūiver bleeck geūlwe
-<lb />voor 2 stūivers orainie orainie verwe
-<lb />voor een stūiver boūck groen
-<lb />v ses penceelen van ortiens
-<lb />voor een stūiver indego
+<lb />voor 3 <seg ana="#stuiver">stūivers</seg> <seg ana="#berlin_blue">berlins blaūw</seg>
+<lb />voor 3 <seg ana="#stuiver">stūivers</seg> <seg ana="#florentine_red">florentins root</seg>
+<lb />voor een illeg <seg ana="#stuiver">stūiver</seg> <seg ana="#rose_red">roose root</seg>
+<lb />voor 2 <seg ana="#stuiver">stūivers</seg> <seg ana="#english_ash">blaūwe Engels asken</seg>
+<lb />voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#shell_white">schelpe wit</seg>
+<lb />voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#pale_yellow">bleeck geūlwe</seg>
+<lb />voor 2 <seg ana="#stuiver">stūivers</seg> <seg ana="#orange_dye">orainie orainie verwe</seg>
+<lb />voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#bouck_green">boūck groen</seg>
+<lb />v ses <seg ana="#paintbrush">penceelen</seg> van ortiens
+<lb />voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#indigo">indego</seg>
 </ab>
+</div>
 
 <pb facs="#f136" />
+<div ana="#vierendeel #alum #tartar">
 <ab>
 <lb />nichte belieft
 <lb />de goũtheijt te hebbe
 <lb />van hier te tiecken
-<lb />tot een vierendeel
+<lb />tot een <seg ana="#vierendeel">vierendeel</seg>
 <lb />van het gheen dat
 <lb />het van nooet is
 <lb />oũ veel
-<lb />root olũn
+<lb /><seg ana="#alum">root olũn</seg>
 <lb />van Co
-<lb />en van wijnsten
+<lb />en van <seg ana="#tartar">wijnsten</seg>
 <lb />ick sal vl: dancbar
 <lb />sijn
 </ab>
+</div>
 
 <pb facs="#f138" />
+<div ana="#brazilwood #paper #painting #stuiver #groot #pot #kanne #pint #rainwater #soaking #boiling #alum #grinding #dish #pan #melting #stick">
 <ab>
-<lb />Mr joris Drogist vercopt fernabocken
-<lb />houdt dat heel goedt is om root papier
-<lb />te schilderen men doet dit als volght
-<lb />voor twee stuijvers of vijf groote van
+<lb />Mr joris Drogist vercopt <seg ana="#brazilwood">fernabocken
+<lb />houdt</seg> dat heel goedt is om root <seg ana="#paper">papier</seg>
+<lb />te <seg ana="#painting">schilderen</seg> men doet dit als volght
+<lb />voor twee <seg ana="#stuiver">stuijvers</seg> of vijf <seg ana="#groot">groote</seg> van
 <lb />dit houdt navolgens den plas dat men wilt
 <lb />maeken en om het sekerste nemt maer
-<lb />D’elft hier van; en doet het in een pot met
-<lb />een kanne of drie pinten regen water
-<lb />laete het wat trecken en dan een alf uren coken
-<lb />of wat meer dan een stuck rooden allun kloppen
-<lb />fijn maer moet eerst in een schotel of panne
-<lb />smilten apart maer moet verstaen dat dit niet root
+<lb />D’elft hier van; en doet het in een <seg ana="#pot">pot</seg> met
+<lb />een <seg ana="#kanne">kanne</seg> of drie <seg ana="#pint">pinten</seg> <seg ana="#rainwater">regen water</seg>
+<lb />laete het wat <seg ana="#soaking">trecken</seg> en dan een alf uren <seg ana="#boiling">coken</seg>
+<lb />of wat meer dan een stuck <seg ana="#alum">rooden allun</seg> <seg ana="#grinding">kloppen
+<lb />fijn</seg> maer moet eerst in een <seg ana="#dish">schotel</seg> of <seg ana="#pan">panne</seg>
+<lb /><seg ana="#melting">smilten</seg> apart maer moet verstaen dat dit niet root
 <lb />schindt maer is wit maer woort soo genomt en bij
-<lb />den voorseijden oock verkoght als t’hout soo lange ge=
-<lb />suddert heeft dan giet gij dat sop van den allun in den
-<lb />ersten pot en om roert het met een stocktien dan woort
-<lb />het heel root en laet het wat t’saemen sudderen giet dan wat
-<lb />sop in een potteken en als het coel is nemt wit papier leght het op
+<lb />den voorseijden oock verkoght als t’hout soo lange <seg ana="#boiling">ge=
+<lb />suddert</seg> heeft dan giet gij dat sop van den allun in den
+<lb />ersten pot en om roert het met een <seg ana="#stick">stocktien</seg> dan woort
+<lb />het heel root en laet het wat t’saemen <seg ana="#boiling">sudderen</seg> giet dan wat
+<lb />sop in een <seg ana="#pot">potteken</seg> en als het coel is nemt wit <seg ana="#paper">papier</seg> leght het op
 </ab>
+</div>
 
 <pb facs="#f139" />
+<div ana="#table #painting #paper #cord #drying #egg_white #silk #dyeing #washing #ribbon #boiling #wood #wax #brazilwood #alum #bucket">
 <ab>
-<lb />een tafel begint te schilderen maer moet sleghte
+<lb />een <seg ana="#table">tafel</seg> begint te <seg ana="#painting">schilderen</seg> maer moet sleghte
 <lb />of jets dat niet bederven can onder leggen en jder
-<lb />bladt op een cordeken hangen alwaert maer een
-<lb />pack cordeken dan laeten drogen en soo continueren
+<lb /><seg ana="#paper">bladt</seg> op een <seg ana="#cord">cordeken</seg> hangen alwaert maer een
+<lb />pack <seg ana="#cord">cordeken</seg> dan laeten <seg ana="#drying">drogen</seg> en soo continueren
 <lb />tot dat het root genogh is naer uw gouste alwaert
 <lb />tot ses a seven mal wilt gij het blinckende
-<lb />hebben gaet het eens over met wijt van heyeren fijn
-<lb />geslegen dit sop is oock goedt om sijde root te maeken
+<lb />hebben gaet het eens over met <seg ana="#egg_white">wijt van heyeren</seg> fijn
+<lb />geslegen dit sop is oock goedt om <seg ana="#silk">sijde</seg> <seg ana="#dyeing">root te maeken</seg>
 <lb />besonderlijck witten gront of gelve maer moet eerst suijver
-<lb />gewasschen sijn of linten maer moet een weijnigh hier
-<lb />in kocken tis oock goet om wit hout root te maeken
-<lb />en als het root genog is met wasch gevreven dat blinckt
+<lb /><seg ana="#washing">gewasschen</seg> sijn of <seg ana="#ribbon">linten</seg> maer moet een weijnigh hier
+<lb />in <seg ana="#boiling">kocken</seg> tis oock goet om wit <seg ana="#wood">hout</seg> <seg ana="#dyeing">root te maeken</seg>
+<lb />en als het root genog is met <seg ana="#wax">wasch</seg> gevreven dat blinckt
 <lb />en is gelijck Bois d’acasou de gront van dit can meer
-<lb />als eens dienen met ander waeter en nog weijnig hout
-<lb />daer in en allun is wederan goet sap
-<lb />maer de groote van den allum soo een dobbelen
-<lb />bocket jmers het leert sijn selven
+<lb />als eens dienen met ander waeter en nog weijnig <seg ana="#brazilwood">hout</seg>
+<lb />daer in en <seg ana="#alum">allun</seg> is wederan goet sap
+<lb />maer de groote van den <seg ana="#alum">allum</seg> soo een dobbelen
+<lb /><seg ana="#bucket">bocket</seg> jmers het leert sijn selven
 </ab>
+</div>
 
 <pb facs="#f140" />
+<div ana="#crimson_fabric #undyeing #lye #vine_ash #burning #pot #rainwater #earthenware_pot #lid #oven #soaking #boiling #spoon #wringing #pint #vinegar #kanne #lake_pigment #drying">
 <ab>
-<lb />Om’t root laecken af te recken
-<lb />Men moet de loogh maecken nemt wijngaer
-<lb />koudt en brandt &apos;t tôt asschen nemt twee potten
-<lb />regen waeren en stelt de looghe en giet de
-<lb />looghe claer af in eene nieuwen arder pot
-<lb />en nemt ‘t root laecken en doet ‘t in de looge
+<lb />Om’t <seg ana="#crimson_fabric">root laecken</seg> <seg ana="#undyeing">af te recken</seg>
+<lb />Men moet de <seg ana="#lye">loogh</seg> maecken nemt <seg ana="#vine_ash">wijngaer
+<lb />koudt</seg> en <seg ana="#burning">brandt</seg> &apos;t tôt <seg ana="#vine_ash">asschen</seg> nemt twee <seg ana="#pot">potten</seg>
+<lb /><seg ana="#rainwater">regen waeren</seg> en stelt de looghe en giet de
+<lb />looghe claer af in eene nieuwen <seg ana="#earthenware_pot">arder pot</seg>
+<lb />en nemt ‘t <seg ana="#crimson_fabric">root laecken</seg> en doet ‘t in de looge
 <lb />tôt ‘t oversopt is, en stelt den pot wel gedeck
-<lb />met een arde pot decksel s’avons van te voor
-<lb />in den lauwen oven en laet ‘t trecken tôt
+<lb />met een <seg ana="#lid">arde pot decksel</seg> s’avons van te voor
+<lb />in den lauwen <seg ana="#oven">oven</seg> en laet ‘t <seg ana="#soaking">trecken</seg> tôt
 <lb />sanderdagh ten zy furen nemt als dan
 <lb />den selven pot en set hem op een contoor
-<lb />met vier en laet ‘t een ure lanck koken en ‘t laet ‘t
-<lb />geduerigh om keeren met een nieuwe pot
-<lb />lepen dat ‘t niet en b[r]andt, nemt als dan
-<lb />nagh een nieuwe arder pot en nemt den eerst[en]
-<lb />van ‘t vier en begiint ‘t laeck uijt te douwen
+<lb />met vier en laet ‘t een ure lanck <seg ana="#boiling">koken</seg> en ‘t laet ‘t
+<lb />geduerigh om keeren met een nieuwe <seg ana="#spoon">pot
+<lb />lepen</seg> dat ‘t niet en b[r]andt, nemt als dan
+<lb />nagh een nieuwe <seg ana="#earthenware_pot">arder pot</seg> en nemt den eerst[en]
+<lb />van ‘t vier en begiint ‘t laeck <seg ana="#wringing">uijt te douwen</seg>
 <lb />in tweeden pot en al ‘t sop daer uijt synde nemt
-<lb />een alf pinte wijn azijn en roert dien lanck
-<lb />saem duer in en laet ‘t koken op een stil
-<lb />vier en roer ‘t dat ‘t niet en brandt tot een kanne
+<lb />een alf <seg ana="#pint">pinte</seg> <seg ana="#vinegar">wijn azijn</seg> en roert dien lanck
+<lb />saem duer in en laet ‘t <seg ana="#boiling">koken</seg> op een stil
+<lb />vier en roer ‘t dat ‘t niet en brandt tot een <seg ana="#kanne">kanne</seg>
 <lb />en laet ‘t dan staen tot dat ‘t gesoncken is, en
-<lb />giet ‘t opperste an af en nemt ‘t lack en giet
-<lb />‘t op tenflooren en laet alsoo droogen
+<lb />giet ‘t opperste an af en nemt ‘t <seg ana="#lake_pigment">lack</seg> en giet
+<lb />‘t op tenflooren en laet alsoo <seg ana="#drying">droogen</seg>
 </ab>
+</div>
 
 <pb facs="#f141" />
+<div ana="#undyeing #lake_pigment #paper #dyeing">
 <ab>
-<lb />En ‘t Claerste is an papier te verwen
+<lb />En ‘t Claerste is an <seg ana="#paper">papier</seg> te <seg ana="#dyeing">verwen</seg>
 </ab>
+</div>
 
 <pb facs="#f142" />
+<div ana="#paper #dyeing #ounce #potash #earthenware_pot #boiling #stoop #rainwater #lye #pot #kanne #pound #crimson_fabric #soaking #wringing #susijn #alum #skimming #tartar #starch">
 <ab>
-<lb />Manire om rood pampier
-<lb />te verwen
-<lb />Doet een onse pottasschen in
-<lb />eenen aerden pot, kokt dan
-<lb />een stoop regen waeter en|
+<lb />Manire om rood <seg ana="#paper">pampier</seg>
+<lb />te <seg ana="#dyeing">verwen</seg>
+<lb />Doet een <seg ana="#ounce">onse</seg> <seg ana="#potash">pottasschen</seg> in
+<lb />eenen <seg ana="#earthenware_pot">aerden pot</seg>, <seg ana="#boiling">kokt</seg> dan
+<lb />een <seg ana="#stoop">stoop</seg> <seg ana="#rainwater">regen waeter</seg> en|
 <lb />giet dat al kockende op de
 <lb />pottasschen, laet dit stille
 <lb />staen tot s’aenderdags giet dan
 <lb />stillekens sonder roeren de claere
-<lb />looge af in eenen aenderen pot,
-<lb />die suyver is, nemt dan een kanne
-<lb />van dese looge stelt die te kocken
-<lb />en nemt een pont rood lacken
-<lb />doet dit in een suyver pot en als
+<lb /><seg ana="#lye">looge</seg> af in eenen aenderen <seg ana="#pot">pot</seg>,
+<lb />die suyver is, nemt dan een <seg ana="#kanne">kanne</seg>
+<lb />van dese looge stelt die te <seg ana="#boiling">kocken</seg>
+<lb />en nemt een <seg ana="#pound">pont</seg> <seg ana="#crimson_fabric">rood lacken</seg>
+<lb />doet dit in een suyver <seg ana="#pot">pot</seg> en als
 <lb />de looge kokt giet die op het
-<lb />laecken, laet dit wat trecken
+<lb />laecken, laet dit wat <seg ana="#soaking">trecken</seg>
 <lb />op het vier van tijd tot tijd
 <lb />keerende het laeken als het al
 <lb />wel dordronken is stelt het af
 <lb />en laet het wat verkoelen steld
-<lb />dan de aender kanne looge op het
-<lb />vier laet het kooken douwd dan
+<lb />dan de aender <seg ana="#kanne">kanne</seg> looge op het
+<lb />vier laet het <seg ana="#boiling">kooken</seg> <seg ana="#wringing">douwd</seg> dan
 <lb />het laeken uijt soo stijf als gij
 <lb />kont en als de looge kokt doet
 <lb />dan het laeken daer in, keert
 <lb />en wend het wel laet een quar-
-<lb />-tier koken laet het dan wat
-<lb />verkoelen douwt het wederom
+<lb />-tier <seg ana="#boiling">koken</seg> laet het dan wat
+<lb />verkoelen <seg ana="#wringing">douwt</seg> het wederom
 <lb />uijt, doet dan al het sop bij een
 <lb />stelt dit op het vier doet daer
-<lb />een susijn witten alluijn in
-<lb />laet dit een weijnig koken het
-<lb />moet wel geschuijmt, worden, ze
+<lb />een <seg ana="#susijn">susijn</seg> witten <seg ana="#alum">alluijn</seg> in
+<lb />laet dit een weijnig <seg ana="#boiling">koken</seg> het
+<lb />moet wel <seg ana="#skimming">geschuijmt</seg>, worden, ze
 <lb />en moght het schuijm niet wegh
 <lb />worpen want daer komt noch
-<lb />goede verwe van, doet dan wat
-<lb />witten wijnsteen in eenen pot
-<lb />en giet de kokende verwe daer op,
+<lb />goede <seg ana="#dyeing">verwe</seg> van, doet dan wat
+<lb />witten <seg ana="#tartar">wijnsteen</seg> in eenen <seg ana="#pot">pot</seg>
+<lb />en giet de kokende <seg ana="#dyeing">verwe</seg> daer op,
 <lb />als ze siet dat daer noch schuijm
 <lb />op komt nemt het af, en doet
 <lb />niet bij het aender schuijm laet
 <lb />het dan twee a drij daegen staen
 <lb />sonder roeren, giet dan al stille-
-<lb />-kens de verwe af, en siet of den
+<lb />-kens de <seg ana="#dyeing">verwe</seg> af, en siet of den
 <lb />gront vuijl is offer swaerte brox-
 <lb />-kens in sijn, alser in sijn ten
 <lb />is niet goet, als den gront suij-
-<lb />-ver is doet het bij de verwe, stelt
+<lb />-ver is doet het bij de <seg ana="#dyeing">verwe</seg>, stelt
 <lb />dan werderom op het vier, als het
-<lb />violet is, het is dat’er geen wijn-
-<lb />-steen genoegh in is, ook alser
-<lb />te veel wijnsteen in is, is het
-<lb />te bleek doet dan wat stijf blome
-<lb />of ameldonk in eenen pot brekt
+<lb />violet is, het is dat’er geen <seg ana="#tartar">wijn-
+<lb />-steen</seg> genoegh in is, ook alser
+<lb />te veel <seg ana="#tartar">wijnsteen</seg> in is, is het
+<lb />te bleek doet dan wat <seg ana="#starch">stijf blome</seg>
+<lb />of <seg ana="#starch">ameldonk</seg> in eenen <seg ana="#pot">pot</seg> brekt
 </ab>
+</div>
 
 <pb facs="#f143" />
+<div ana="#dyeing #boiling #tartar #pot #skimming #starch #painting #rainwater">
 <ab>
 <lb />die met het koudt sop dat van
-<lb />het schuijm komt en als de ver-
-<lb />-we kokt doet die dan in den pot 
+<lb />het schuijm komt en als de <seg ana="#dyeing">ver-
+<lb />-we</seg> <seg ana="#boiling">kokt</seg> doet die dan in den pot 
 <lb />daer de blome in is al roerende
 <lb />dat de blomme niet en klontert
-<lb />als de verwe te violet is doet dan
-<lb />nog wat wijnsteen bij de blomme
+<lb />als de <seg ana="#dyeing">verwe</seg> te violet is doet dan
+<lb />nog wat <seg ana="#tartar">wijnsteen</seg> bij de blomme
 <lb />tot dat ze siet dat het schoon
-<lb />van coleur is, noteert dat de verwe
+<lb />van coleur is, noteert dat de <seg ana="#dyeing">verwe</seg>
 <lb />niet en mag gestopt zijn ook en
 <lb />kan niet lang bewaeren, maer
-<lb />kan erkokt zijn als sij violet
+<lb />kan <seg ana="#boiling">erkokt</seg> zijn als sij violet
 <lb />geworden is laet die een weijnig
-<lb />koken doet dan wat wijnsteen in
-<lb />een aender pot, giet de verwe daer
-<lb />op doet het schuijm af en als
+<lb /><seg ana="#boiling">koken</seg> doet dan wat <seg ana="#tartar">wijnsteen</seg> in
+<lb />een aender <seg ana="#pot">pot</seg>, giet de <seg ana="#dyeing">verwe</seg> daer
+<lb />op <seg ana="#skimming">doet het schuijm af</seg> en als
 <lb />het nog te violet is doet&apos;er nog
-<lb />wat wijnsteen bij tot dat ze siet
+<lb />wat <seg ana="#tartar">wijnsteen</seg> bij tot dat ze siet
 <lb />dat het schoon is en alsser geen
 <lb />schuijm op en komt moet het
 <lb />laeten staen tot dat het geson-
 <lb />-ken is, giet het dan stillekens
 <lb />af siet op den gront goet is als
-<lb />vooren, en doet het in eenen pot
-<lb />laet het tot kooken kommen
-<lb />nemt wat blome als vooren
+<lb />vooren, en doet het in eenen <seg ana="#pot">pot</seg>
+<lb />laet het tot <seg ana="#boiling">kooken</seg> kommen
+<lb />nemt wat <seg ana="#starch">blome</seg> als vooren
 <lb />geseijt is, hoe drooger de plaet-
-<lb />-se is daer de verwe staet hoe
+<lb />-se is daer de <seg ana="#dyeing">verwe</seg> staet hoe
 <lb />beter sij kan bewaeren,
-<lb />men kan daer mede ook schil-
-<lb />-deren en als men geel bleek
+<lb />men kan daer mede ook <seg ana="#painting">schil-
+<lb />-deren</seg> en als men geel bleek
 <lb />wilt hebben moet men wat
-<lb />regen watter daer bij doen
+<lb /><seg ana="#rainwater">regen watter</seg> daer bij doen
 <lb />~~~~~~~
 </ab>
+</div>
 
 <pb facs="#f144" />
 <ab>
@@ -4935,208 +4979,226 @@
 </ab>
 
 <pb facs="#f132" />
+<div ana="#stone_weight #butter">
 <ab>
 <lb />St Godelieve
-<lb />17 ½   Stone Butter.
+<lb />17 ½   <seg ana="#stone_weight">Stone</seg> <seg ana="#butter">Butter</seg>.
 </ab>
+</div>
 
 <pb facs="#f134" />
+<div ana="#stuiver #berlin_blue #florentine_red #rose_red #english_ash #shell_white #pale_yellow #orange_dye #bouck_green #paintbrush #indigo">
 <ab>
-<lb />for 3 stuivers, Berlin blue
-<lb />for 3 stuivers, Florentine red
-<lb />for one stuiver, pink[rose?] red
-<lb />for 2 stuivers, blue English ashes
-<lb />for one stuiver, shell white
-<lb />for one stuiver, pale yellow
-<lb />for 2 stuivers, orange dye
-<lb />for one stuiver, borich green
-<lb />six paintbrushes of ortiens[nettles?]
-<lb />for one stuiver, indigo
+<lb />for 3 <seg ana="#stuiver">stuivers</seg>, <seg ana="#berlin_blue">Berlin blue</seg>
+<lb />for 3 <seg ana="#stuiver">stuivers</seg>, <seg ana="#florentine_red">Florentine red</seg>
+<lb />for one <seg ana="#stuiver">stuiver</seg>, <seg ana="#rose_red">pink[rose?] red</seg>
+<lb />for 2 <seg ana="#stuiver">stuivers</seg>, <seg ana="#english_ash">blue English ashes</seg>
+<lb />for one <seg ana="#stuiver">stuiver</seg>, <seg ana="#shell_white">shell white</seg>
+<lb />for one <seg ana="#stuiver">stuiver</seg>, <seg ana="#pale_yellow">pale yellow</seg>
+<lb />for 2 <seg ana="#stuiver">stuivers</seg>, <seg ana="#orange_dye">orange dye</seg>
+<lb />for one <seg ana="#stuiver">stuiver</seg>, <seg ana="#bouck_green">borich green</seg>
+<lb />six <seg ana="#paintbrush">paintbrushes</seg> of ortiens[nettles?]
+<lb />for one <seg ana="#stuiver">stuiver</seg>, <seg ana="#indigo">indigo</seg>
 </ab>
+</div>
 
 <pb facs="#f136" />
+<div ana="#vierendeel #alum #tartar">
 <ab>
 <lb />does not believe
 <lb />to have the goodness
 <lb />to tiecken[??] from here
-<lb />up to a quarter
+<lb />up to a <seg ana="#vierendeel">quarter</seg>
 <lb />of it nothing that
 <lb />is of need or of many
-<lb />red alum
+<lb /><seg ana="#alum">red alum</seg>
 <lb />of co[chineal?]
-<lb />and of tartar
+<lb />and of <seg ana="#tartar">tartar</seg>
 <lb />I will be fully
 <lb />grateful
 </ab>
+</div>
 
 <pb facs="#f138" />
+<div ana="#brazilwood #paper #painting #stuiver #groot #pot #kanne #pint #rainwater #soaking #boiling #alum #grinding #dish #pan #melting #stick">
 <ab>
-<lb />Mr Joris, druggist, sells brazilwood
-<lb />wood that is very good for painting
-<lb />paper red. One does this as follows:
-<lb />for two stuivers’s or five’s worth of
+<lb />Mr Joris, druggist, sells <seg ana="#brazilwood">brazilwood</seg>
+<lb />wood that is very good for <seg ana="#painting">painting</seg>
+<lb /><seg ana="#paper">paper</seg> red. One does this as follows:
+<lb />for two <seg ana="#stuiver">stuivers</seg>’s or five’s worth of
 <lb />this wood according to the puddle that one wants
 <lb />to make. And for the nicest, take but
-<lb />a half of it. And put it in a pot with
-<lb />a can or three pints of rainwater.
-<lb />Let it extract somewhat and then cook[boil?] it for half an hour
-<lb />or somewhat more. Then a piece of red alum,
-<lb />finely pounded, but one must first, in a dish or pan,
-<lb />smilten[melt?] [it] on its own. But one must understand that this does not
+<lb />a half of it. And put it in a <seg ana="#pot">pot</seg> with
+<lb />a <seg ana="#kanne">can</seg> or three <seg ana="#pint">pints</seg> of <seg ana="#rainwater">rainwater</seg>.
+<lb />Let it <seg ana="#soaking">extract</seg> somewhat and then <seg ana="#boiling">cook[boil?]</seg> it for half an hour
+<lb />or somewhat more. Then a piece of <seg ana="#alum">red alum</seg>,
+<lb />finely <seg ana="#grinding">pounded</seg>, but one must first, in a <seg ana="#dish">dish</seg> or <seg ana="#pan">pan</seg>,
+<lb /><seg ana="#melting">smilten[melt?]</seg> [it] on its own. But one must understand that this does not
 <lb />appear red but is white, but it is so named. And with
-<lb />the outside also cooked, while the wood has simmered
+<lb />the outside also cooked, while the wood has <seg ana="#boiling">simmered</seg>
 <lb />for so long, then you pour the soup of alum in the
-<lb />first pot and stir it around with a stocktien. Then the
-<lb />whole thing becomes red. And let it simmer together somewhat, then pour some
-<lb />soup in a little pot. And once it is cool, take white paper and lay it on
+<lb />first pot and stir it around with a <seg ana="#stick">stocktien</seg>. Then the
+<lb />whole thing becomes red. And let it <seg ana="#boiling">simmer</seg> together somewhat, then pour some
+<lb />soup in a little <seg ana="#pot">pot</seg>. And once it is cool, take white <seg ana="#paper">paper</seg> and lay it on
 </ab>
+</div>
 
 <pb facs="#f139" />
+<div ana="#table #painting #paper #cord #drying #egg_white #silk #dyeing #washing #ribbon #boiling #wood #wax #brazilwood #alum #bucket">
 <ab>
-<lb />a table [and] begin to paint. But one must lay a bad [cloth]
+<lb />a <seg ana="#table">table</seg> [and] begin to <seg ana="#painting">paint</seg>. But one must lay a bad [cloth]
 <lb />or something that cannot be injured underneath, and hang every
-<lb />sheet from a little cord all over. But then let a 
-<lb />pack of little cords dry and continue thus
+<lb /><seg ana="#paper">sheet</seg> from a little <seg ana="#cord">cord</seg> all over. But then let a 
+<lb />pack of little <seg ana="#cord">cords</seg> <seg ana="#drying">dry</seg> and continue thus
 <lb />until that is red enough, according to your taste, all over
 <lb />up to six or seven times. [If] you want to have it
-<lb />shiny, go over it with egg white, finely
-<lb />beaten. This soup is also good to make silk red,
+<lb />shiny, go over it with <seg ana="#egg_white">egg white</seg>, finely
+<lb />beaten. This soup is also good to make <seg ana="#silk">silk</seg> <seg ana="#dyeing">red</seg>,
 <lb />especially a white ground or yellow. But [it] must first be
-<lb />washed clean af linten[?bits of the brazilwood?]. But one must cook
-<lb />herein a little bit. It is also good for making withe wood red.
-<lb />And once it is red enough, paint it with [egg] wash. It shines
+<lb /><seg ana="#washing">washed</seg> clean af <seg ana="#ribbon">linten</seg>[?bits of the brazilwood?]. But one must <seg ana="#boiling">cook</seg>
+<lb />herein a little bit. It is also good for making withe <seg ana="#wood">wood</seg> <seg ana="#dyeing">red</seg>.
+<lb />And once it is red enough, paint it with [egg] <seg ana="#wax">wash</seg>. It shines
 <lb />and is like mahogany. The ground of this can serve more
-<lb />than once. With other water and a bit more wood
-<lb />therein and alum, [it] is a good sap again.
-<lb />But the size of the alum [needed for] such a double
-<lb />bucket one surely learns oneself.
+<lb />than once. With other water and a bit more <seg ana="#brazilwood">wood</seg>
+<lb />therein and <seg ana="#alum">alum</seg>, [it] is a good sap again.
+<lb />But the size of the <seg ana="#alum">alum</seg> [needed for] such a double
+<lb /><seg ana="#bucket">bucket</seg> one surely learns oneself.
 </ab>
+</div>
 
 <pb facs="#f140" />
+<div ana="#crimson_fabric #undyeing #lye #vine_ash #burning #pot #rainwater #earthenware_pot #lid #oven #soaking #boiling #spoon #wringing #pint #vinegar #kanne #lake_pigment #drying">
 <ab>
-<lb />To subtract red [from] cloth
-<lb />One must make lye. Take cold
-<lb />vines and burn it to ashes. Take two pots
-<lb />of rain water and put the ashes and pour the
-<lb />clear lye off into a new earthenware pot
-<lb />and take the red cloth and put it in the lye
+<lb />To <seg ana="#undyeing">subtract</seg> red [from] <seg ana="#crimson_fabric">cloth</seg>
+<lb />One must make <seg ana="#lye">lye</seg>. Take cold
+<lb /><seg ana="#vine_ash">vines</seg> and <seg ana="#burning">burn</seg> it to <seg ana="#vine_ash">ashes</seg>. Take two <seg ana="#pot">pots</seg>
+<lb />of <seg ana="#rainwater">rain water</seg> and put the ashes and pour the
+<lb />clear lye off into a new <seg ana="#earthenware_pot">earthenware pot</seg>
+<lb />and take the <seg ana="#crimson_fabric">red cloth</seg> and put it in the lye
 <lb />until it is saturated [lit. overjuiced], and put the pot, well covered
-<lb />with an earthenware lid in the evening from the fire
-<lb />in the lukewarm oven and let it process until
+<lb />with an <seg ana="#lid">earthenware lid</seg> in the evening from the fire
+<lb />in the lukewarm <seg ana="#oven">oven</seg> and let it <seg ana="#soaking">process</seg> until
 <lb />the next day at the fire. Then take
 <lb />the same pot and place it on a cupboard
-<lb />with fire (?? chafing dish?) and let it cook for an hour. And let it
-<lb />turn about constantly with a new pot
-<lb />spoon [so] that it doesn&apos;t burn. Then take
-<lb />after a new earthenware pot and take the first
-<lb />from the fire and begin to squeeze the cloth out
+<lb />with fire (?? chafing dish?) and let it <seg ana="#boiling">cook</seg> for an hour. And let it
+<lb />turn about constantly with a new <seg ana="#spoon">pot
+<lb />spoon</seg> [so] that it doesn&apos;t burn. Then take
+<lb />after a new <seg ana="#earthenware_pot">earthenware pot</seg> and take the first
+<lb />from the fire and begin to <seg ana="#wringing">squeeze</seg> the cloth out
 <lb />into the second pot, and once the wetness is out, take
-<lb />a half pint of white wine vinegar and stir this in
-<lb />slowly throughout and let it cook on a still
+<lb />a half <seg ana="#pint">pint</seg> of <seg ana="#vinegar">white wine vinegar</seg> and stir this in
+<lb />slowly throughout and let it <seg ana="#boiling">cook</seg> on a still
 <lb />fire and stir it so that it does not burn until a ____.
 <lb />And then let it sit until it has sunk, and
-<lb />pour the the uppermost [liquid] off and take the cloth and throw
-<lb />it on the floor and let [it] dry thus.
+<lb />pour the the uppermost [liquid] off and take the <seg ana="#lake_pigment">cloth</seg> and throw
+<lb />it on the floor and let [it] <seg ana="#drying">dry</seg> thus.
 </ab>
+</div>
 
 <pb facs="#f141" />
+<div ana="#undyeing #lake_pigment #paper #dyeing">
 <ab>
-<lb />And the brightest is for dyeing paper
+<lb />And the brightest is for <seg ana="#dyeing">dyeing</seg> <seg ana="#paper">paper</seg>
 </ab>
+</div>
 
 <pb facs="#f142" />
+<div ana="#paper #dyeing #ounce #potash #earthenware_pot #boiling #stoop #rainwater #lye #pot #kanne #pound #crimson_fabric #soaking #wringing #susijn #alum #skimming #tartar #starch">
 <ab>
-<lb />Way to dye paper red
-<lb />Put an ounce of potash in
-<lb />an earthenware pot, then boil
-<lb />a stoop of rainwater and
+<lb />Way to <seg ana="#dyeing">dye</seg> <seg ana="#paper">paper</seg> red
+<lb />Put an <seg ana="#ounce">ounce</seg> of <seg ana="#potash">potash</seg> in
+<lb />an <seg ana="#earthenware_pot">earthenware pot</seg>, then <seg ana="#boiling">boil</seg>
+<lb />a <seg ana="#stoop">stoop</seg> of <seg ana="#rainwater">rainwater</seg> and
 <lb />pour it, all boiling, on the
 <lb />potash, let it stand
 <lb />untouched until the next day. Then
 <lb />gently, without stirring, pour the clear
-<lb />lye out into another 
-<lb />clean pot. Then take a kanne
-<lb />of this lye, set it to boil
-<lb />and take a pound of red cloth
-<lb />put this in a clean pot and once
+<lb /><seg ana="#lye">lye</seg> out into another 
+<lb />clean <seg ana="#pot">pot</seg>. Then take a <seg ana="#kanne">kanne</seg>
+<lb />of this lye, set it to <seg ana="#boiling">boil</seg>
+<lb />and take a <seg ana="#pound">pound</seg> of <seg ana="#crimson_fabric">red cloth</seg>
+<lb />put this in a clean <seg ana="#pot">pot</seg> and once
 <lb />the lye has boiled, pour it on the
-<lb />cloth, let it somewhat trecken
+<lb />cloth, let it somewhat <seg ana="#soaking">trecken</seg>
 <lb />on the fire, turning the cloth
 <lb />from time to time. Once it is all well
 <lb />drunken through, take remove it [from the fire]
 <lb />and let it stand to cool some
-<lb />then put the other kanne of lye
-<lb />on the fire. Let it boil. Then squeeze out
+<lb />then put the other <seg ana="#kanne">kanne</seg> of lye
+<lb />on the fire. Let it <seg ana="#boiling">boil</seg>. Then <seg ana="#wringing">squeeze out</seg>
 <lb />the cloth as tightly as you
 <lb />can, and while the lye boils, put
 <lb />the cloth in it. Turn 
-<lb />and stir it well. Let [it] boil for a quarter
+<lb />and stir it well. Let [it] <seg ana="#boiling">boil</seg> for a quarter
 <lb />of an hour. Then let it cool
-<lb />a bit. Squeeze it out again.
+<lb />a bit. <seg ana="#wringing">Squeeze</seg> it out again.
 <lb />Then, add all the soup and
 <lb />place this on the fire. Put
-<lb />a susijn of white alum in it.
-<lb />Let this boil a bit. The foam
+<lb />a <seg ana="#susijn">susijn</seg> of white <seg ana="#alum">alum</seg> in it.
+<lb />Let this <seg ana="#boiling">boil</seg> a bit. The foam
 <lb />must not be thrown
-<lb />away since good dye can
+<lb />away since good <seg ana="#dyeing">dye</seg> can
 <lb />come from it. Then put a bit of
-<lb />white tartar in a pot
-<lb />and pour the boiling dye on top of it.
+<lb />white <seg ana="#tartar">tartar</seg> in a <seg ana="#pot">pot</seg>
+<lb />and pour the boiling <seg ana="#dyeing">dye</seg> on top of it.
 <lb />If you see that there is still foam
-<lb />forming, take it off, and and
+<lb />forming, <seg ana="#skimming">take it off</seg>, and and
 <lb />do not put it with the other foam. Then
 <lb />let it sit for two or three days
 <lb />without stirring. Then gently pour
-<lb />all the dye off, and see if the
+<lb />all the <seg ana="#dyeing">dye</seg> off, and see if the
 <lb />sediment is dirty or if there are black
 <lb />bits in it. If there are any in it, then
 <lb />it isn’t good. If the sediment is clean,
-<lb />put it in with the dye. Then place
+<lb />put it in with the <seg ana="#dyeing">dye</seg>. Then place
 <lb />it again on the fire. If it is
 <lb />purple, it is that there is not enough
-<lb />tartar in it. Also, if there is
-<lb />too much tartar in it, it is
-<lb />too pale. Then put some starch
-<lb />dust-bloom?? in a pot, crush
+<lb /><seg ana="#tartar">tartar</seg> in it. Also, if there is
+<lb />too much <seg ana="#tartar">tartar</seg> in it, it is
+<lb />too pale. Then put some <seg ana="#starch">starch</seg>
+<lb />dust-bloom?? in a <seg ana="#pot">pot</seg>, crush
 </ab>
+</div>
 
 <pb facs="#f143" />
+<div ana="#dyeing #boiling #tartar #pot #skimming #starch #painting #rainwater">
 <ab>
 <lb />it with the cold soup that
 <lb />came from the scum, and once the
-<lb />dye boils, then put it in the pot
+<lb /><seg ana="#dyeing">dye</seg> <seg ana="#boiling">boils</seg>, then put it in the pot
 <lb />where the bloom is, boiling it all
 <lb />so that the bloom does not clump.
-<lb />Once the dye becomes purple, then
-<lb />put some more tartar with the bloom
+<lb />Once the <seg ana="#dyeing">dye</seg> becomes purple, then
+<lb />put some more <seg ana="#tartar">tartar</seg> with the bloom
 <lb />until you see that it is a beautiful
-<lb />color. Note that the dye
+<lb />color. Note that the <seg ana="#dyeing">dye</seg>
 <lb />cannot be bottled and cannot
 <lb />be kept for long, but
-<lb />can be reboiled if it has
-<lb />become purple. Let it boil
-<lb />a bit. Then put some tartar in
-<lb />another pot, pour the dye over
-<lb />it, take the foam off, and if
+<lb />can be <seg ana="#boiling">reboiled</seg> if it has
+<lb />become purple. Let it <seg ana="#boiling">boil</seg>
+<lb />a bit. Then put some <seg ana="#tartar">tartar</seg> in
+<lb />another <seg ana="#pot">pot</seg>, pour the <seg ana="#dyeing">dye</seg> over
+<lb />it, <seg ana="#skimming">take the foam off</seg>, and if
 <lb />it is still too purple, put some
-<lb />more tartar with it until that you see
+<lb />more <seg ana="#tartar">tartar</seg> with it until that you see
 <lb />that it is beautiful. And once no more
 <lb />foam appears, one must
 <lb />let it stand until it settles.
 <lb />Then pour it gently out.
 <lb />See if the sediment is good,
-<lb />as [you did] before, and put it in a pot.
-<lb />Let it come to a boil.
-<lb />Take some bloom, as was said
+<lb />as [you did] before, and put it in a <seg ana="#pot">pot</seg>.
+<lb />Let it come to a <seg ana="#boiling">boil</seg>.
+<lb />Take some <seg ana="#starch">bloom</seg>, as was said
 <lb />before. The dryer the place 
-<lb />where the dye is kept, the
+<lb />where the <seg ana="#dyeing">dye</seg> is kept, the
 <lb />better it will keep.
-<lb />One can also paint with this.
+<lb />One can also <seg ana="#painting">paint</seg> with this.
 <lb />And if one wants to have
 <lb />light yellow, one must put some
-<lb />rainwater with it.
+<lb /><seg ana="#rainwater">rainwater</seg> with it.
 <lb />~~~~~~~
 </ab>
+</div>
 
 <pb facs="#f146" />
 <ab>

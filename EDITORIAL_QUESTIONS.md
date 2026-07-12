@@ -19,6 +19,14 @@ Format: **folio · term** — the issue, what was done, and the question.
   (used to imprint vellum); tl says *flowers*. Both tagged `#garden_leaf` with the tc meaning.
   **Q:** confirm and correct the translation.
 
+- **f139 · "wasch" / "[egg] wash"** — the Dutch means *wax* (for polishing dyed wood); tagged
+  `#wax` in both layers. **Q:** correct the translation.
+- **f139 · "linten" / "[?bits of the brazilwood?]"** — the Dutch means *ribbons* (as dyed
+  goods); tagged `#ribbon`. **Q:** correct the translation.
+- **f140 · "nemt 't lack" / "take the cloth and throw it on the floor"** — the Dutch describes
+  classic lake-pigment making (pouring off the sediment to dry); the translation misses it
+  entirely. Tagged `#lake_pigment`. **Q:** retranslate this passage.
+
 ## Uncertain identifications
 
 - **f012 · "ponsaū"** (tl "pansy") — the French syntax reads as *ponceau* (poppy-red color) being
@@ -31,6 +39,13 @@ Format: **folio · term** — the issue, what was done, and the question.
   "white pigment (petit blan)". **Q:** firm identification for the catDesc label?
 - **"areniez"** — flower name that could not be identified; given its own category with the
   original spelling as label. **Q:** what flower is this?
+- **"boūck groen"** (f130s) — green pigment, unidentified; labeled generically as `bouck_green`.
+  **Q:** firm identification?
+- **"susijn" / "sisein"** (f142, f144) — an unrecorded measure of alum; minted as an
+  "unidentified measure" category. **Q:** what unit is this?
+- **Doubtful in both layers, left untagged:** f134 "ortiens" (tl "[nettles?]"); f136 "van Co"
+  (truncated — cochineal?); f140 "contoor met vier" (possibly *comfoor*, a chafing dish).
+  **Q:** readings?
 
 - **f045+ · "bois ferneboūcqūe" / "bois de bresil"** — the translator renders *ferneboucque* as
   "brazil wood" and *bois de bresil* as "logwood", the reverse of what the French names suggest.
@@ -75,6 +90,11 @@ Format: **folio · term** — the issue, what was done, and the question.
   under the five taxonomies, so these pages simply don't appear in the Tag Explorer filters.
   **Q:** is that the desired treatment for non-recipe pages, or should a content-type
   taxonomy (recipe / pattern / calligraphy model / glossary) be added so they're findable?
+- **f130 · obituary, and the language switch** — f130 is a French obituary of Mother Adriene
+  Terese de Maldeghem (Tournai, 1680) — a provenance clue worth noting in the edition's
+  front matter. From f128 onward the "transcription" layer is Flemish/Dutch rather than
+  French; f128 ("s: Augustinus") is another non-recipe fragment. Both left untagged.
+  **Q:** should the language shift be recorded formally (e.g. xml:lang on the affected pages)?
 
 ## Standing policy questions
 
