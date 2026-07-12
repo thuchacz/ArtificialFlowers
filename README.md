@@ -54,6 +54,27 @@ Note the versions of `@cu-mkp/editioncrafter` (1.3.1-beta.11) and `@cu-mkp/editi
 * `@cu-mkp/editioncrafter-cli`: fixes an out-of-memory bug in the CLI's `database` command (it cloned the whole text layer with JSDOM on every page-scan iteration).
 * `@cu-mkp/editioncrafter`: fixes single-document navigation in the Tag Explorer sidebar. Upstream, clicking a page's "insert left/right" button navigates to a `<document>_<surface>` folio ID, but with only one document the viewer indexes folios by bare surface ID, so the viewer pane stayed blank. (The ODT reference edition has many documents and never hits this.) Both bugs are worth reporting upstream before upgrading these packages.
 
+### Local preview of unpublished TEI changes
+
+`npm run edition` bakes the production URL (`https://thuchacz.github.io/ArtificialFlowers/`)
+into the generated IIIF manifest and HTML partials, so a plain local build fetches the
+*deployed* text, not your fresh edits. For a true local preview, regenerate with a
+localhost base URL and serve the built site under the `/ArtificialFlowers` path:
+
+```sh
+npx editioncrafter process -i artificial_flowers.xml -o public -u http://localhost:3111/ArtificialFlowers/
+npx editioncrafter database -i artificial_flowers.xml -o public/artificial_flowers.sqlite
+npm run build
+mkdir -p preview/ArtificialFlowers && cp -r dist/* preview/ArtificialFlowers/
+npx http-server preview --port 3111 -s
+```
+
+Then open <http://localhost:3111/ArtificialFlowers/#/ec>.
+
+**Afterwards**, restore the production URLs before committing anything:
+`git checkout -- public` (or re-run `npm run edition`). The `preview/` folder is
+disposable and should not be committed.
+
 ## Getting Started with EditionCrafter CLI
 
 To learn how to use the EditionCrafter CLI to create your own project, please see the ["Getting Started"](https://editioncrafter.org/getting-started/) section of the EditionCrafter website. Note that the props passed into the components are configurable via the `data/config.json` file.
