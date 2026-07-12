@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f153"/>
+<div ana="#painting #marmite #dyeing #brazilwood #logwood #cauliflower #grinding #wringing #cloth #pot #vierendeel #verdigris #sponge #paper">
 <ab>
 <lb/>and then let that stand a day
 <lb/>to 2 in the sun or on
-<lb/>a low fire ketel that
+<lb/>a low fire <seg ana="#marmite">ketel</seg> that
 <lb/>is only a bit thick.
 <lb/>And then is it good
 <lb/>to use.
 <lb/>One prepares also purple
-<lb/>dye in the same way,
+<lb/><seg ana="#dyeing">dye</seg> in the same way,
 <lb/>but in place of
-<lb/>brazilwood one takes
-<lb/>logwood.
+<lb/><seg ana="#brazilwood">brazilwood</seg> one takes
+<lb/><seg ana="#logwood">logwood</seg>.
 <lb/>To make green 
-<lb/>dye Take a
-<lb/>Take cauliflower leaves
+<lb/><seg ana="#dyeing">dye</seg> Take a
+<lb/>Take <seg ana="#cauliflower">cauliflower leaves</seg>
 <lb/>without the ribs and
-<lb/>pound them, and press that
-<lb/>juice out through a rag, and
-<lb/>until [you have] a pot of that soup.
-<lb/>Take a quarter of verdigris
+<lb/><seg ana="#grinding">pound</seg> them, and <seg ana="#wringing">press</seg> that
+<lb/>juice out through a <seg ana="#cloth">rag</seg>, and
+<lb/>until [you have] a <seg ana="#pot">pot</seg> of that soup.
+<lb/>Take a <seg ana="#vierendeel">quarter</seg> of <seg ana="#verdigris">verdigris</seg>
 <lb/>and that all broken up
 <lb/>together
 <lb/>and let it stand one day 
 <lb/>in the sun. And then with
-<lb/>a sponge, stroke over
-<lb/>the paper 3 to 4 times
+<lb/>a <seg ana="#sponge">sponge</seg>, <seg ana="#painting">stroke</seg> over
+<lb/>the <seg ana="#paper">paper</seg> 3 to 4 times
 </ab>
+</div>
 
 </div></body></text>

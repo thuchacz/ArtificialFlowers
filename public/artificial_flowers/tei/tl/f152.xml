@@ -1,24 +1,26 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f152"/>
+<div ana="#dyeing #escalin #gamboge #stuiver #saffron #alum #painting #vierendeel #brazilwood #pint #vinegar #boiling #bottle #oyster_shell">
 <ab>
-<lb/>To make yellow dye
-<lb/>Take forth a shilling of
-<lb/>gamboge and [take] forth a
-<lb/>stuiver of yellow saffron and
-<lb/>a stuiver of alum and that
+<lb/>To make yellow <seg ana="#dyeing">dye</seg>
+<lb/>Take forth a <seg ana="#escalin">shilling</seg> of
+<lb/><seg ana="#gamboge">gamboge</seg> and [take] forth a
+<lb/><seg ana="#stuiver">stuiver</seg> of yellow <seg ana="#saffron">saffron</seg> and
+<lb/>a <seg ana="#stuiver">stuiver</seg> of <seg ana="#alum">alum</seg> and that
 <lb/>together, well broken up,
 <lb/>in water
-<lb/>Way to paint red
-<lb/>Take a quarter
-<lb/>brazilwood, a pint vinegar
-<lb/>and a half quarter alum
-<lb/>and let that seethe until [it reduces to]
+<lb/>Way to <seg ana="#painting">paint</seg> red
+<lb/>Take a <seg ana="#vierendeel">quarter</seg>
+<lb/><seg ana="#brazilwood">brazilwood</seg>, a <seg ana="#pint">pint</seg> <seg ana="#vinegar">vinegar</seg>
+<lb/>and a half <seg ana="#vierendeel">quarter</seg> <seg ana="#alum">alum</seg>
+<lb/>and let that <seg ana="#boiling">seethe</seg> until [it reduces to]
 <lb/>the half, and then pour the soup out
-<lb/>in a flessche[glass/flask?]. That
+<lb/>in a <seg ana="#bottle">flessche</seg>[glass/flask?]. That
 <lb/>keeps well for three years, and once
 <lb/>one wants to use it,
 <lb/>thus pour some of that soup in
-<lb/>an oyster shell and levigate
+<lb/>an <seg ana="#oyster_shell">oyster shell</seg> and levigate
 <lb/>that 3 to 4 times [until] it [is] clear,
 </ab>
+</div>
 
 </div></body></text>

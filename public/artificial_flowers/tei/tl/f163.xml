@@ -1,10 +1,11 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f163"/>
+<div ana="#dyeing #paper #drying #stick #vierendeel #verdigris #grinding #kanne #rainwater #ounce #tartar #spoon #alum">
 <ab>
 <lb/>Come, for you must clean it off.
-<lb/>You should take the paper
+<lb/>You should take the <seg ana="#paper">paper</seg>
 <lb/>but do not hang it
-<lb/>to dry, rather lay it
-<lb/>on leather or sticks, and it
+<lb/>to <seg ana="#drying">dry</seg>, rather lay it
+<lb/>on leather or <seg ana="#stick">sticks</seg>, and it
 <lb/>must be fully dry. Before you
 <lb/>even go over [wipe] it, the weather must
 <lb/>be fair to do this.
@@ -12,13 +13,14 @@
 <lb/>and then the other side 3 to 4 times.
 <lb/>~~~
 <lb/>I should guess put
-<lb/>in a quarter of verdigris
+<lb/>in a <seg ana="#vierendeel">quarter</seg> of <seg ana="#verdigris">verdigris</seg>
 <lb/>for the first time, and
-<lb/>it must be pounded. and then
-<lb/>further add a can of rain
-<lb/>water and a bit more than
-<lb/>an ounce of tartar, and a
-<lb/>half a spoon of pounded alum
+<lb/>it must be <seg ana="#grinding">pounded</seg>. and then
+<lb/>further add a <seg ana="#kanne">can</seg> of <seg ana="#rainwater">rain
+<lb/>water</seg> and a bit more than
+<lb/>an <seg ana="#ounce">ounce</seg> of <seg ana="#tartar">tartar</seg>, and a
+<lb/>half a <seg ana="#spoon">spoon</seg> of <seg ana="#grinding">pounded</seg> <seg ana="#alum">alum</seg>
 </ab>
+</div>
 
 </div></body></text>

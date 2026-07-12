@@ -1984,340 +1984,364 @@
 </ab>
 
 <pb facs="#f132"/>
+<div ana="#stone_weight #butter">
 <ab>
 <lb/>St godelieve
-<lb/>17 ½ 	Steen Boter.
+<lb/>17 ½ 	<seg ana="#stone_weight">Steen</seg> <seg ana="#butter">Boter</seg>.
 </ab>
+</div>
 
 <pb facs="#f134"/>
+<div ana="#stuiver #berlin_blue #florentine_red #rose_red #english_ash #shell_white #pale_yellow #orange_dye #bouck_green #paintbrush #indigo">
 <ab>
-<lb/>voor 3 stūivers berlins blaūw
-<lb/>voor 3 stūivers florentins root
-<lb/>voor een illeg stūiver roose root
-<lb/>voor 2 stūivers blaūwe Engels asken
-<lb/>voor een stūiver schelpe wit
-<lb/>voor een stūiver bleeck geūlwe
-<lb/>voor 2 stūivers orainie orainie verwe
-<lb/>voor een stūiver boūck groen
-<lb/>v ses penceelen van ortiens
-<lb/>voor een stūiver indego
+<lb/>voor 3 <seg ana="#stuiver">stūivers</seg> <seg ana="#berlin_blue">berlins blaūw</seg>
+<lb/>voor 3 <seg ana="#stuiver">stūivers</seg> <seg ana="#florentine_red">florentins root</seg>
+<lb/>voor een illeg <seg ana="#stuiver">stūiver</seg> <seg ana="#rose_red">roose root</seg>
+<lb/>voor 2 <seg ana="#stuiver">stūivers</seg> <seg ana="#english_ash">blaūwe Engels asken</seg>
+<lb/>voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#shell_white">schelpe wit</seg>
+<lb/>voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#pale_yellow">bleeck geūlwe</seg>
+<lb/>voor 2 <seg ana="#stuiver">stūivers</seg> <seg ana="#orange_dye">orainie orainie verwe</seg>
+<lb/>voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#bouck_green">boūck groen</seg>
+<lb/>v ses <seg ana="#paintbrush">penceelen</seg> van ortiens
+<lb/>voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#indigo">indego</seg>
 </ab>
+</div>
 
 <pb facs="#f136"/>
+<div ana="#vierendeel #alum #tartar">
 <ab>
 <lb/>nichte belieft
 <lb/>de goũtheijt te hebbe
 <lb/>van hier te tiecken
-<lb/>tot een vierendeel
+<lb/>tot een <seg ana="#vierendeel">vierendeel</seg>
 <lb/>van het gheen dat
 <lb/>het van nooet is
 <lb/>oũ veel
-<lb/>root olũn
+<lb/><seg ana="#alum">root olũn</seg>
 <lb/>van Co
-<lb/>en van wijnsten
+<lb/>en van <seg ana="#tartar">wijnsten</seg>
 <lb/>ick sal vl: dancbar
 <lb/>sijn
 </ab>
+</div>
 
 <pb facs="#f138"/>
+<div ana="#brazilwood #paper #painting #stuiver #groot #pot #kanne #pint #rainwater #soaking #boiling #alum #grinding #dish #pan #melting #stick">
 <ab>
-<lb/>Mr joris Drogist vercopt fernabocken
-<lb/>houdt dat heel goedt is om root papier
-<lb/>te schilderen men doet dit als volght
-<lb/>voor twee stuijvers of vijf groote van
+<lb/>Mr joris Drogist vercopt <seg ana="#brazilwood">fernabocken
+<lb/>houdt</seg> dat heel goedt is om root <seg ana="#paper">papier</seg>
+<lb/>te <seg ana="#painting">schilderen</seg> men doet dit als volght
+<lb/>voor twee <seg ana="#stuiver">stuijvers</seg> of vijf <seg ana="#groot">groote</seg> van
 <lb/>dit houdt navolgens den plas dat men wilt
 <lb/>maeken en om het sekerste nemt maer
-<lb/>D’elft hier van; en doet het in een pot met
-<lb/>een kanne of drie pinten regen water
-<lb/>laete het wat trecken en dan een alf uren coken
-<lb/>of wat meer dan een stuck rooden allun kloppen
-<lb/>fijn maer moet eerst in een schotel of panne
-<lb/>smilten apart maer moet verstaen dat dit niet root
+<lb/>D’elft hier van; en doet het in een <seg ana="#pot">pot</seg> met
+<lb/>een <seg ana="#kanne">kanne</seg> of drie <seg ana="#pint">pinten</seg> <seg ana="#rainwater">regen water</seg>
+<lb/>laete het wat <seg ana="#soaking">trecken</seg> en dan een alf uren <seg ana="#boiling">coken</seg>
+<lb/>of wat meer dan een stuck <seg ana="#alum">rooden allun</seg> <seg ana="#grinding">kloppen
+<lb/>fijn</seg> maer moet eerst in een <seg ana="#dish">schotel</seg> of <seg ana="#pan">panne</seg>
+<lb/><seg ana="#melting">smilten</seg> apart maer moet verstaen dat dit niet root
 <lb/>schindt maer is wit maer woort soo genomt en bij
-<lb/>den voorseijden oock verkoght als t’hout soo lange ge=
-<lb/>suddert heeft dan giet gij dat sop van den allun in den
-<lb/>ersten pot en om roert het met een stocktien dan woort
-<lb/>het heel root en laet het wat t’saemen sudderen giet dan wat
-<lb/>sop in een potteken en als het coel is nemt wit papier leght het op
+<lb/>den voorseijden oock verkoght als t’hout soo lange <seg ana="#boiling">ge=
+<lb/>suddert</seg> heeft dan giet gij dat sop van den allun in den
+<lb/>ersten pot en om roert het met een <seg ana="#stick">stocktien</seg> dan woort
+<lb/>het heel root en laet het wat t’saemen <seg ana="#boiling">sudderen</seg> giet dan wat
+<lb/>sop in een <seg ana="#pot">potteken</seg> en als het coel is nemt wit <seg ana="#paper">papier</seg> leght het op
 </ab>
+</div>
 
 <pb facs="#f139"/>
+<div ana="#table #painting #paper #cord #drying #egg_white #silk #dyeing #washing #ribbon #boiling #wood #wax #brazilwood #alum #bucket">
 <ab>
-<lb/>een tafel begint te schilderen maer moet sleghte
+<lb/>een <seg ana="#table">tafel</seg> begint te <seg ana="#painting">schilderen</seg> maer moet sleghte
 <lb/>of jets dat niet bederven can onder leggen en jder
-<lb/>bladt op een cordeken hangen alwaert maer een
-<lb/>pack cordeken dan laeten drogen en soo continueren
+<lb/><seg ana="#paper">bladt</seg> op een <seg ana="#cord">cordeken</seg> hangen alwaert maer een
+<lb/>pack <seg ana="#cord">cordeken</seg> dan laeten <seg ana="#drying">drogen</seg> en soo continueren
 <lb/>tot dat het root genogh is naer uw gouste alwaert
 <lb/>tot ses a seven mal wilt gij het blinckende
-<lb/>hebben gaet het eens over met wijt van heyeren fijn
-<lb/>geslegen dit sop is oock goedt om sijde root te maeken
+<lb/>hebben gaet het eens over met <seg ana="#egg_white">wijt van heyeren</seg> fijn
+<lb/>geslegen dit sop is oock goedt om <seg ana="#silk">sijde</seg> <seg ana="#dyeing">root te maeken</seg>
 <lb/>besonderlijck witten gront of gelve maer moet eerst suijver
-<lb/>gewasschen sijn of linten maer moet een weijnigh hier
-<lb/>in kocken tis oock goet om wit hout root te maeken
-<lb/>en als het root genog is met wasch gevreven dat blinckt
+<lb/><seg ana="#washing">gewasschen</seg> sijn of <seg ana="#ribbon">linten</seg> maer moet een weijnigh hier
+<lb/>in <seg ana="#boiling">kocken</seg> tis oock goet om wit <seg ana="#wood">hout</seg> <seg ana="#dyeing">root te maeken</seg>
+<lb/>en als het root genog is met <seg ana="#wax">wasch</seg> gevreven dat blinckt
 <lb/>en is gelijck Bois d’acasou de gront van dit can meer
-<lb/>als eens dienen met ander waeter en nog weijnig hout
-<lb/>daer in en allun is wederan goet sap
-<lb/>maer de groote van den allum soo een dobbelen
-<lb/>bocket jmers het leert sijn selven
+<lb/>als eens dienen met ander waeter en nog weijnig <seg ana="#brazilwood">hout</seg>
+<lb/>daer in en <seg ana="#alum">allun</seg> is wederan goet sap
+<lb/>maer de groote van den <seg ana="#alum">allum</seg> soo een dobbelen
+<lb/><seg ana="#bucket">bocket</seg> jmers het leert sijn selven
 </ab>
+</div>
 
 <pb facs="#f140"/>
+<div ana="#crimson_fabric #undyeing #lye #vine_ash #burning #pot #rainwater #earthenware_pot #lid #oven #soaking #boiling #spoon #wringing #pint #vinegar #kanne #lake_pigment #drying">
 <ab>
-<lb/>Om’t root laecken af te recken
-<lb/>Men moet de loogh maecken nemt wijngaer
-<lb/>koudt en brandt 't tôt asschen nemt twee potten
-<lb/>regen waeren en stelt de looghe en giet de
-<lb/>looghe claer af in eene nieuwen arder pot
-<lb/>en nemt ‘t root laecken en doet ‘t in de looge
+<lb/>Om’t <seg ana="#crimson_fabric">root laecken</seg> <seg ana="#undyeing">af te recken</seg>
+<lb/>Men moet de <seg ana="#lye">loogh</seg> maecken nemt <seg ana="#vine_ash">wijngaer
+<lb/>koudt</seg> en <seg ana="#burning">brandt</seg> 't tôt <seg ana="#vine_ash">asschen</seg> nemt twee <seg ana="#pot">potten</seg>
+<lb/><seg ana="#rainwater">regen waeren</seg> en stelt de looghe en giet de
+<lb/>looghe claer af in eene nieuwen <seg ana="#earthenware_pot">arder pot</seg>
+<lb/>en nemt ‘t <seg ana="#crimson_fabric">root laecken</seg> en doet ‘t in de looge
 <lb/>tôt ‘t oversopt is, en stelt den pot wel gedeck
-<lb/>met een arde pot decksel s’avons van te voor
-<lb/>in den lauwen oven en laet ‘t trecken tôt
+<lb/>met een <seg ana="#lid">arde pot decksel</seg> s’avons van te voor
+<lb/>in den lauwen <seg ana="#oven">oven</seg> en laet ‘t <seg ana="#soaking">trecken</seg> tôt
 <lb/>sanderdagh ten zy furen nemt als dan
 <lb/>den selven pot en set hem op een contoor
-<lb/>met vier en laet ‘t een ure lanck koken en ‘t laet ‘t
-<lb/>geduerigh om keeren met een nieuwe pot
-<lb/>lepen dat ‘t niet en b[r]andt, nemt als dan
-<lb/>nagh een nieuwe arder pot en nemt den eerst[en]
-<lb/>van ‘t vier en begiint ‘t laeck uijt te douwen
+<lb/>met vier en laet ‘t een ure lanck <seg ana="#boiling">koken</seg> en ‘t laet ‘t
+<lb/>geduerigh om keeren met een nieuwe <seg ana="#spoon">pot
+<lb/>lepen</seg> dat ‘t niet en b[r]andt, nemt als dan
+<lb/>nagh een nieuwe <seg ana="#earthenware_pot">arder pot</seg> en nemt den eerst[en]
+<lb/>van ‘t vier en begiint ‘t laeck <seg ana="#wringing">uijt te douwen</seg>
 <lb/>in tweeden pot en al ‘t sop daer uijt synde nemt
-<lb/>een alf pinte wijn azijn en roert dien lanck
-<lb/>saem duer in en laet ‘t koken op een stil
-<lb/>vier en roer ‘t dat ‘t niet en brandt tot een kanne
+<lb/>een alf <seg ana="#pint">pinte</seg> <seg ana="#vinegar">wijn azijn</seg> en roert dien lanck
+<lb/>saem duer in en laet ‘t <seg ana="#boiling">koken</seg> op een stil
+<lb/>vier en roer ‘t dat ‘t niet en brandt tot een <seg ana="#kanne">kanne</seg>
 <lb/>en laet ‘t dan staen tot dat ‘t gesoncken is, en
-<lb/>giet ‘t opperste an af en nemt ‘t lack en giet
-<lb/>‘t op tenflooren en laet alsoo droogen
+<lb/>giet ‘t opperste an af en nemt ‘t <seg ana="#lake_pigment">lack</seg> en giet
+<lb/>‘t op tenflooren en laet alsoo <seg ana="#drying">droogen</seg>
 </ab>
+</div>
 
 <pb facs="#f141"/>
+<div ana="#undyeing #lake_pigment #paper #dyeing">
 <ab>
-<lb/>En ‘t Claerste is an papier te verwen
+<lb/>En ‘t Claerste is an <seg ana="#paper">papier</seg> te <seg ana="#dyeing">verwen</seg>
 </ab>
+</div>
 
 <pb facs="#f142"/>
+<div ana="#paper #dyeing #ounce #potash #earthenware_pot #boiling #stoop #rainwater #lye #pot #kanne #pound #crimson_fabric #soaking #wringing #susijn #alum #skimming #tartar #starch">
 <ab>
-<lb/>Manire om rood pampier
-<lb/>te verwen
-<lb/>Doet een onse pottasschen in
-<lb/>eenen aerden pot, kokt dan
-<lb/>een stoop regen waeter en|
+<lb/>Manire om rood <seg ana="#paper">pampier</seg>
+<lb/>te <seg ana="#dyeing">verwen</seg>
+<lb/>Doet een <seg ana="#ounce">onse</seg> <seg ana="#potash">pottasschen</seg> in
+<lb/>eenen <seg ana="#earthenware_pot">aerden pot</seg>, <seg ana="#boiling">kokt</seg> dan
+<lb/>een <seg ana="#stoop">stoop</seg> <seg ana="#rainwater">regen waeter</seg> en|
 <lb/>giet dat al kockende op de
 <lb/>pottasschen, laet dit stille
 <lb/>staen tot s’aenderdags giet dan
 <lb/>stillekens sonder roeren de claere
-<lb/>looge af in eenen aenderen pot,
-<lb/>die suyver is, nemt dan een kanne
-<lb/>van dese looge stelt die te kocken
-<lb/>en nemt een pont rood lacken
-<lb/>doet dit in een suyver pot en als
+<lb/><seg ana="#lye">looge</seg> af in eenen aenderen <seg ana="#pot">pot</seg>,
+<lb/>die suyver is, nemt dan een <seg ana="#kanne">kanne</seg>
+<lb/>van dese looge stelt die te <seg ana="#boiling">kocken</seg>
+<lb/>en nemt een <seg ana="#pound">pont</seg> <seg ana="#crimson_fabric">rood lacken</seg>
+<lb/>doet dit in een suyver <seg ana="#pot">pot</seg> en als
 <lb/>de looge kokt giet die op het
-<lb/>laecken, laet dit wat trecken
+<lb/>laecken, laet dit wat <seg ana="#soaking">trecken</seg>
 <lb/>op het vier van tijd tot tijd
 <lb/>keerende het laeken als het al
 <lb/>wel dordronken is stelt het af
 <lb/>en laet het wat verkoelen steld
-<lb/>dan de aender kanne looge op het
-<lb/>vier laet het kooken douwd dan
+<lb/>dan de aender <seg ana="#kanne">kanne</seg> looge op het
+<lb/>vier laet het <seg ana="#boiling">kooken</seg> <seg ana="#wringing">douwd</seg> dan
 <lb/>het laeken uijt soo stijf als gij
 <lb/>kont en als de looge kokt doet
 <lb/>dan het laeken daer in, keert
 <lb/>en wend het wel laet een quar-
-<lb/>-tier koken laet het dan wat
-<lb/>verkoelen douwt het wederom
+<lb/>-tier <seg ana="#boiling">koken</seg> laet het dan wat
+<lb/>verkoelen <seg ana="#wringing">douwt</seg> het wederom
 <lb/>uijt, doet dan al het sop bij een
 <lb/>stelt dit op het vier doet daer
-<lb/>een susijn witten alluijn in
-<lb/>laet dit een weijnig koken het
-<lb/>moet wel geschuijmt, worden, ze
+<lb/>een <seg ana="#susijn">susijn</seg> witten <seg ana="#alum">alluijn</seg> in
+<lb/>laet dit een weijnig <seg ana="#boiling">koken</seg> het
+<lb/>moet wel <seg ana="#skimming">geschuijmt</seg>, worden, ze
 <lb/>en moght het schuijm niet wegh
 <lb/>worpen want daer komt noch
-<lb/>goede verwe van, doet dan wat
-<lb/>witten wijnsteen in eenen pot
-<lb/>en giet de kokende verwe daer op,
+<lb/>goede <seg ana="#dyeing">verwe</seg> van, doet dan wat
+<lb/>witten <seg ana="#tartar">wijnsteen</seg> in eenen <seg ana="#pot">pot</seg>
+<lb/>en giet de kokende <seg ana="#dyeing">verwe</seg> daer op,
 <lb/>als ze siet dat daer noch schuijm
 <lb/>op komt nemt het af, en doet
 <lb/>niet bij het aender schuijm laet
 <lb/>het dan twee a drij daegen staen
 <lb/>sonder roeren, giet dan al stille-
-<lb/>-kens de verwe af, en siet of den
+<lb/>-kens de <seg ana="#dyeing">verwe</seg> af, en siet of den
 <lb/>gront vuijl is offer swaerte brox-
 <lb/>-kens in sijn, alser in sijn ten
 <lb/>is niet goet, als den gront suij-
-<lb/>-ver is doet het bij de verwe, stelt
+<lb/>-ver is doet het bij de <seg ana="#dyeing">verwe</seg>, stelt
 <lb/>dan werderom op het vier, als het
-<lb/>violet is, het is dat’er geen wijn-
-<lb/>-steen genoegh in is, ook alser
-<lb/>te veel wijnsteen in is, is het
-<lb/>te bleek doet dan wat stijf blome
-<lb/>of ameldonk in eenen pot brekt
+<lb/>violet is, het is dat’er geen <seg ana="#tartar">wijn-
+<lb/>-steen</seg> genoegh in is, ook alser
+<lb/>te veel <seg ana="#tartar">wijnsteen</seg> in is, is het
+<lb/>te bleek doet dan wat <seg ana="#starch">stijf blome</seg>
+<lb/>of <seg ana="#starch">ameldonk</seg> in eenen <seg ana="#pot">pot</seg> brekt
 </ab>
+</div>
 
 <pb facs="#f143"/>
+<div ana="#dyeing #boiling #tartar #pot #skimming #starch #painting #rainwater">
 <ab>
 <lb/>die met het koudt sop dat van
-<lb/>het schuijm komt en als de ver-
-<lb/>-we kokt doet die dan in den pot 
+<lb/>het schuijm komt en als de <seg ana="#dyeing">ver-
+<lb/>-we</seg> <seg ana="#boiling">kokt</seg> doet die dan in den pot 
 <lb/>daer de blome in is al roerende
 <lb/>dat de blomme niet en klontert
-<lb/>als de verwe te violet is doet dan
-<lb/>nog wat wijnsteen bij de blomme
+<lb/>als de <seg ana="#dyeing">verwe</seg> te violet is doet dan
+<lb/>nog wat <seg ana="#tartar">wijnsteen</seg> bij de blomme
 <lb/>tot dat ze siet dat het schoon
-<lb/>van coleur is, noteert dat de verwe
+<lb/>van coleur is, noteert dat de <seg ana="#dyeing">verwe</seg>
 <lb/>niet en mag gestopt zijn ook en
 <lb/>kan niet lang bewaeren, maer
-<lb/>kan erkokt zijn als sij violet
+<lb/>kan <seg ana="#boiling">erkokt</seg> zijn als sij violet
 <lb/>geworden is laet die een weijnig
-<lb/>koken doet dan wat wijnsteen in
-<lb/>een aender pot, giet de verwe daer
-<lb/>op doet het schuijm af en als
+<lb/><seg ana="#boiling">koken</seg> doet dan wat <seg ana="#tartar">wijnsteen</seg> in
+<lb/>een aender <seg ana="#pot">pot</seg>, giet de <seg ana="#dyeing">verwe</seg> daer
+<lb/>op <seg ana="#skimming">doet het schuijm af</seg> en als
 <lb/>het nog te violet is doet'er nog
-<lb/>wat wijnsteen bij tot dat ze siet
+<lb/>wat <seg ana="#tartar">wijnsteen</seg> bij tot dat ze siet
 <lb/>dat het schoon is en alsser geen
 <lb/>schuijm op en komt moet het
 <lb/>laeten staen tot dat het geson-
 <lb/>-ken is, giet het dan stillekens
 <lb/>af siet op den gront goet is als
-<lb/>vooren, en doet het in eenen pot
-<lb/>laet het tot kooken kommen
-<lb/>nemt wat blome als vooren
+<lb/>vooren, en doet het in eenen <seg ana="#pot">pot</seg>
+<lb/>laet het tot <seg ana="#boiling">kooken</seg> kommen
+<lb/>nemt wat <seg ana="#starch">blome</seg> als vooren
 <lb/>geseijt is, hoe drooger de plaet-
-<lb/>-se is daer de verwe staet hoe
+<lb/>-se is daer de <seg ana="#dyeing">verwe</seg> staet hoe
 <lb/>beter sij kan bewaeren,
-<lb/>men kan daer mede ook schil-
-<lb/>-deren en als men geel bleek
+<lb/>men kan daer mede ook <seg ana="#painting">schil-
+<lb/>-deren</seg> en als men geel bleek
 <lb/>wilt hebben moet men wat
-<lb/>regen watter daer bij doen
+<lb/><seg ana="#rainwater">regen watter</seg> daer bij doen
 <lb/>~~~~~~~
 </ab>
+</div>
 
 <pb facs="#f144"/>
+<div ana="#paper #dyeing #ounce #potash #earthenware_pot #boiling #stoop #rainwater #lye #pot #kanne #pound #crimson_fabric #soaking #wringing #susijn #alum #skimming #tartar #starch">
 <ab>
 <lb/>✠
-<lb/>Maniere om Root pampier te verwen
-<lb/>men moet eene once potasschen doen in een
-<lb/>suyveren aerden pot die niet vet en is, en
-<lb/>kokt alsdan een stoop regen water giet dat
+<lb/>Maniere om Root <seg ana="#paper">pampier</seg> te <seg ana="#dyeing">verwen</seg>
+<lb/>men moet eene <seg ana="#ounce">once</seg> <seg ana="#potash">potasschen</seg> doen in een
+<lb/>suyveren <seg ana="#earthenware_pot">aerden pot</seg> die niet vet en is, en
+<lb/><seg ana="#boiling">kokt</seg> alsdan een <seg ana="#stoop">stoop</seg> <seg ana="#rainwater">regen water</seg> giet dat
 <lb/>al kokende op den potasschen, laet dit stille
 <lb/>staen tot s’anderdaeghs giet dan stillekes
-<lb/>sonder roeren de klaere looghe af in een
-<lb/>ander pot die suyver is, neemt dan een kanne
-<lb/>van dese looghe, stelt die te koken, doet een
-<lb/>pont root laecken in eenen suyveren pot, en
+<lb/>sonder roeren de klaere <seg ana="#lye">looghe</seg> af in een
+<lb/>ander <seg ana="#pot">pot</seg> die suyver is, neemt dan een <seg ana="#kanne">kanne</seg>
+<lb/>van dese looghe, stelt die te <seg ana="#boiling">koken</seg>, doet een
+<lb/><seg ana="#pound">pont</seg> <seg ana="#crimson_fabric">root laecken</seg> in eenen suyveren <seg ana="#pot">pot</seg>, en
 <lb/>als de looghe kokt giet die op het laeken,
-<lb/>laet dit wat staen trecken op het vier, van
+<lb/>laet dit wat staen <seg ana="#soaking">trecken</seg> op het vier, van
 <lb/>tyt tot tyt keerende het laeken, als het al
 <lb/>wel doordronken is steld het af en laet wat
-<lb/>verkoelen steld dan de ander looghe te koken
-<lb/>dauwt het laeken in den pot daer het in is,
+<lb/>verkoelen steld dan de ander looghe te <seg ana="#boiling">koken</seg>
+<lb/><seg ana="#wringing">dauwt</seg> het laeken in den pot daer het in is,
 <lb/>soo styf als ge kont en als de looghe kokt doet
 <lb/>dit laeken daer wederom in keert en went
-<lb/>het wel laet het een 'quartier heurs koken
-<lb/>laet wat verkoelen douwt het wederom uyt
+<lb/>het wel laet het een 'quartier heurs <seg ana="#boiling">koken</seg>
+<lb/>laet wat verkoelen <seg ana="#wringing">douwt</seg> het wederom uyt
 <lb/>soo styf als ‘t mogelyk is, doet dan al het sop
 <lb/>by een en steld dit op het vier doet daer een
-<lb/>sisein witten alluyn laet dit een weynig
-<lb/>koken, als het begint te koken moet het
-<lb/>schuym afgenomen worden, maer en moght
+<lb/><seg ana="#susijn">sisein</seg> witten <seg ana="#alum">alluyn</seg> laet dit een weynig
+<lb/><seg ana="#boiling">koken</seg>, als het begint te koken moet het
+<lb/><seg ana="#skimming">schuym afgenomen worden</seg>, maer en moght
 <lb/>het schuym niet weg worpen want daer komt
-<lb/>noch goede verwe van, doet dan wat witten
-<lb/>wynsteen in eenen pot, en giet de kokende
-<lb/>verwe daer op, alsser noch schuym op komt
+<lb/>noch goede <seg ana="#dyeing">verwe</seg> van, doet dan wat witten
+<lb/><seg ana="#tartar">wynsteen</seg> in eenen <seg ana="#pot">pot</seg>, en giet de kokende
+<lb/><seg ana="#dyeing">verwe</seg> daer op, alsser noch schuym op komt
 <lb/>neemt het af doet het by het ander schuym
-<lb/>laet de verwe twee a dry daeghen staen
+<lb/>laet de <seg ana="#dyeing">verwe</seg> twee a dry daeghen staen
 <lb/>sonder ^ roeren en giet die al stillekes af siet oft de
 <lb/>gront vuyl is offer swarte brocxkes in syn
 <lb/>en doet die uyt als den gront schoon en suyver
-<lb/>doet het by de verwe steld dan wederom op het
-<lb/>vier als het te violet is het is datter geen wyn=
-<lb/>steen genoeg in en is oock alser te vele wynsteen
-<lb/>in is dan is het te bleek doet dan wat styfbloeme
-<lb/>in een pot breekt die met het kout sop dat van
-<lb/>het schuym gekomen is en als de verwe kokt
+<lb/>doet het by de <seg ana="#dyeing">verwe</seg> steld dan wederom op het
+<lb/>vier als het te violet is het is datter geen <seg ana="#tartar">wyn=
+<lb/>steen</seg> genoeg in en is oock alser te vele <seg ana="#tartar">wynsteen</seg>
+<lb/>in is dan is het te bleek doet dan wat <seg ana="#starch">styfbloeme</seg>
+<lb/>in een <seg ana="#pot">pot</seg> breekt die met het kout sop dat van
+<lb/>het schuym gekomen is en als de <seg ana="#dyeing">verwe</seg> <seg ana="#boiling">kokt</seg>
 <lb/>doet die dan in den pot daer de bloeme in
 <lb/>gebroken is al roerende dat de bloeme niet en
-<lb/>klontert als de verwe te violet is doet dan nog
-<lb/>wat wyn steen by de bloeme tot dat ul siet dat
+<lb/>klontert als de <seg ana="#dyeing">verwe</seg> te violet is doet dan nog
+<lb/>wat <seg ana="#tartar">wyn steen</seg> by de bloeme tot dat ul siet dat
 <lb/>het schoon van couleur is
 </ab>
+</div>
 
 <pb facs="#f146"/>
+<div ana="#dyeing #handful #toile #pound #safflower #bag #rainwater #soaking #washing #lye #wood #burning #vine_ash #pot #marmite #boiling #dish #glass_vessel #wringing #vinegar #soap #cloth #bucket #rinsing #drying #coverlet #starching #starch #vierendeel #rose">
 <ab>
-<lb/>Om Roose Coūleūr te Verwen moet men nemen een groote handt-vol
-<lb/>fijn linwaet ende dan neemt men een alf pont soūfloers de welcke
-<lb/>soūfleūrs gedaen moet worden in een linwaete saeckjen ende dan leght
-<lb/>men die soūfloors die in het saecxkien ^ is in reghen waeter ses of seven ūren
-<lb/>te weecke, en dan somwijlen eens het saecxkien omgekeert in het water
-<lb/>en als het langhe genoegh geweeckt heeft dan moet men het saecx=
-<lb/>=kien wasschen sonder open de doen soo langhe tot dat den sack root
-<lb/>wort; Nū om de looghe te maecken, moet ghij nemen wijngaert hoūt
-<lb/>en dat verbrandt tot asschen van welcke asschen men moet nemen
-<lb/>een pot vol en die asschen doetmen in eenen ketel met twee potten
-<lb/>reghen waeter en alsoo laet ‘et een aleene alf ūre koken, en dan neemt
+<lb/>Om Roose Coūleūr te <seg ana="#dyeing">Verwen</seg> moet men nemen een groote <seg ana="#handful">handt-vol</seg>
+<lb/>fijn <seg ana="#toile">linwaet</seg> ende dan neemt men een alf <seg ana="#pound">pont</seg> <seg ana="#safflower">soūfloers</seg> de welcke
+<lb/><seg ana="#safflower">soūfleūrs</seg> gedaen moet worden in een <seg ana="#bag">linwaete saeckjen</seg> ende dan leght
+<lb/>men die <seg ana="#safflower">soūfloors</seg> die in het saecxkien ^ is in <seg ana="#rainwater">reghen waeter</seg> ses of seven ūren
+<lb/>te <seg ana="#soaking">weecke</seg>, en dan somwijlen eens het saecxkien omgekeert in het water
+<lb/>en als het langhe genoegh <seg ana="#soaking">geweeckt</seg> heeft dan moet men het saecx=
+<lb/>=kien <seg ana="#washing">wasschen</seg> sonder open de doen soo langhe tot dat den sack root
+<lb/>wort; Nū om de <seg ana="#lye">looghe</seg> te maecken, moet ghij nemen <seg ana="#wood">wijngaert hoūt</seg>
+<lb/>en dat <seg ana="#burning">verbrandt</seg> tot <seg ana="#vine_ash">asschen</seg> van welcke asschen men moet nemen
+<lb/>een <seg ana="#pot">pot</seg> vol en die asschen doetmen in eenen <seg ana="#marmite">ketel</seg> met twee <seg ana="#pot">potten</seg>
+<lb/><seg ana="#rainwater">reghen waeter</seg> en alsoo laet ‘et een aleene alf ūre <seg ana="#boiling">koken</seg>, en dan neemt
 <lb/>den ketel van het vier en laet ‘et sijncken want de looghe moet
-<lb/>claer sijn; en dan begint te verwen, ende dan leght het sackxjen.
-<lb/>met soūfloors in een schotel ende schūdt daer over een cleen bier
-<lb/>glaeskien ontrent alf vol looghe schūdt het over het sackxkien ende
-<lb/>wascht het sackxkien daer mede ende vrijnght dan het sackxken
-<lb/>alf ūijt, ende doet dan het claerste linwaet daer in en als het nat is
-<lb/>dan doūw-et ūijt, dan neemt een scholtelken azijn ende doet dat stūckxken
-<lb/>linwaet inden azijn ontrent een glasken dan doūw-et ūijt neemt weder het
-<lb/>selve stūckxken linwaet dat inde verwe heeft geweest, doet het weder[-]
-<lb/>-om in die selve verwe soo doūw-et ūijt en doet het wederom in dien
-<lb/>selven azijn dan doūw-et ūijt soo werpt dan dien azijn ūijt en doet
-<lb/>dan weder s[cho]onen azijn in het schotelken, en werpt dan oock ūijt de
-<lb/>verwe, soo vrijnght ‘dat sackxken voors ūijt, dan neemt dat voorgaende
-<lb/>stūck dat noch geverwt is en doet 'et weer daer in, soo dan doūw-et
-<lb/>weer ūijt en leght-et weder in den azijn, soo doūw-et weer ūijt dan
+<lb/>claer sijn; en dan begint te <seg ana="#dyeing">verwen</seg>, ende dan leght het sackxjen.
+<lb/>met <seg ana="#safflower">soūfloors</seg> in een <seg ana="#dish">schotel</seg> ende schūdt daer over een cleen <seg ana="#glass_vessel">bier
+<lb/>glaeskien</seg> ontrent alf vol <seg ana="#lye">looghe</seg> schūdt het over het sackxkien ende
+<lb/><seg ana="#washing">wascht</seg> het sackxkien daer mede ende <seg ana="#wringing">vrijnght</seg> dan het sackxken
+<lb/>alf ūijt, ende doet dan het claerste <seg ana="#toile">linwaet</seg> daer in en als het nat is
+<lb/>dan <seg ana="#wringing">doūw-et</seg> ūijt, dan neemt een <seg ana="#dish">scholtelken</seg> <seg ana="#vinegar">azijn</seg> ende doet dat stūckxken
+<lb/>linwaet inden azijn ontrent een <seg ana="#glass_vessel">glasken</seg> dan <seg ana="#wringing">doūw-et</seg> ūijt neemt weder het
+<lb/>selve stūckxken linwaet dat inde <seg ana="#dyeing">verwe</seg> heeft geweest, doet het weder[-]
+<lb/>-om in die selve verwe soo <seg ana="#wringing">doūw-et</seg> ūijt en doet het wederom in dien
+<lb/>selven azijn dan <seg ana="#wringing">doūw-et</seg> ūijt soo werpt dan dien azijn ūijt en doet
+<lb/>dan weder s[cho]onen <seg ana="#vinegar">azijn</seg> in het schotelken, en werpt dan oock ūijt de
+<lb/><seg ana="#dyeing">verwe</seg>, soo <seg ana="#wringing">vrijnght</seg> ‘dat sackxken voors ūijt, dan neemt dat voorgaende
+<lb/>stūck dat noch geverwt is en doet 'et weer daer in, soo dan <seg ana="#wringing">doūw-et</seg>
+<lb/>weer ūijt en leght-et weder in den azijn, soo <seg ana="#wringing">doūw-et</seg> weer ūijt dan
 <lb/>is dat stūck roodt genoegh; soo moet ghij weder een ander claer stūckxken
-<lb/>linwaet nemen, en leght-et inde verwe en dan weder in den azijn gelijck
-<lb/>als vooren; en als de verwe claer wort dan werpse ūijt; en leght dan het
-<lb/>sackxken inde schotel giet dan weder een half glasken looghe over het
-<lb/>sackxken, en dan vrijnght het daer mede, doen vrijnght het sackxken half
-<lb/>ūijt, en begint dan wederom te verwen, op die selve maniere als vooren,
-<lb/>en als ghij bemerckt dat daer gheen verwe meer ūijt en comt dan claer
-<lb/>soo moet ghij dan ophoūden van te verwen, dan moet ghij het roodt linwaet
-<lb/>wasschen, met wat spaensche seepe, maer ghij moet de seepe in een doeckx[=]
-<lb/>=ken doen, en slaet dan het doeckxken met de seepe daer in het water, soo
-<lb/>moet ghij dan stūck voor stūck wasschen, in een heemer, en dan met schoon
-<lb/>water gespoelt, soo vrijnget ūijt en leght het in een schotet [corr: schotel] en doet dan
-<lb/>azijn daer over soo laet het een geheelen nacht staen daer in, sanderdaeghs
-<lb/>vrijnght-et dan ūijt, en leght het dan te drooghen op een sargie en dat in
-<lb/>het doncker; en als-et dan drooghe is moet ghij het stijven met wit stijf[=]
-<lb/>=sel, ghij moet nemen een vierendeel van een pondt en dan laeten koūdt worden
-<lb/>soo moet ghij dan het linwaet stijven, en dan ūijt malcander doen oock op een
-<lb/>sargie en dat in’t doncker laeten soo drooghen;
-<lb/>Nū om witte roosen te maecken soo moet ghij nemen wit linwaet en doet
-<lb/>het in het seep water daer het roodt linwaet in gewasschen is geweest,
-<lb/>en door het claer water gespoelt, maer en doet het in gheenen azijn, maer 
-<lb/>stijv’et als vooren,
+<lb/><seg ana="#toile">linwaet</seg> nemen, en leght-et inde <seg ana="#dyeing">verwe</seg> en dan weder in den azijn gelijck
+<lb/>als vooren; en als de <seg ana="#dyeing">verwe</seg> claer wort dan werpse ūijt; en leght dan het
+<lb/>sackxken inde schotel giet dan weder een half <seg ana="#glass_vessel">glasken</seg> <seg ana="#lye">looghe</seg> over het
+<lb/>sackxken, en dan <seg ana="#wringing">vrijnght</seg> het daer mede, doen <seg ana="#wringing">vrijnght</seg> het sackxken half
+<lb/>ūijt, en begint dan wederom te <seg ana="#dyeing">verwen</seg>, op die selve maniere als vooren,
+<lb/>en als ghij bemerckt dat daer gheen <seg ana="#dyeing">verwe</seg> meer ūijt en comt dan claer
+<lb/>soo moet ghij dan ophoūden van te <seg ana="#dyeing">verwen</seg>, dan moet ghij het roodt <seg ana="#toile">linwaet</seg>
+<lb/><seg ana="#washing">wasschen</seg>, met wat spaensche <seg ana="#soap">seepe</seg>, maer ghij moet de seepe in een <seg ana="#cloth">doeckx[=]
+<lb/>=ken</seg> doen, en slaet dan het doeckxken met de seepe daer in het water, soo
+<lb/>moet ghij dan stūck voor stūck <seg ana="#washing">wasschen</seg>, in een <seg ana="#bucket">heemer</seg>, en dan met schoon
+<lb/>water <seg ana="#rinsing">gespoelt</seg>, soo <seg ana="#wringing">vrijnget</seg> ūijt en leght het in een <seg ana="#dish">schotet</seg> [corr: schotel] en doet dan
+<lb/><seg ana="#vinegar">azijn</seg> daer over soo laet het een geheelen nacht staen daer in, sanderdaeghs
+<lb/><seg ana="#wringing">vrijnght-et</seg> dan ūijt, en leght het dan te <seg ana="#drying">drooghen</seg> op een <seg ana="#coverlet">sargie</seg> en dat in
+<lb/>het doncker; en als-et dan drooghe is moet ghij het <seg ana="#starching">stijven</seg> met wit <seg ana="#starch">stijf[=]
+<lb/>=sel</seg>, ghij moet nemen een <seg ana="#vierendeel">vierendeel</seg> van een <seg ana="#pound">pondt</seg> en dan laeten koūdt worden
+<lb/>soo moet ghij dan het <seg ana="#toile">linwaet</seg> <seg ana="#starching">stijven</seg>, en dan ūijt malcander doen oock op een
+<lb/><seg ana="#coverlet">sargie</seg> en dat in’t doncker laeten soo <seg ana="#drying">drooghen</seg>;
+<lb/>Nū om witte <seg ana="#rose">roosen</seg> te maecken soo moet ghij nemen wit <seg ana="#toile">linwaet</seg> en doet
+<lb/>het in het <seg ana="#soap">seep</seg> water daer het roodt linwaet in <seg ana="#washing">gewasschen</seg> is geweest,
+<lb/>en door het claer water <seg ana="#rinsing">gespoelt</seg>, maer en doet het in gheenen <seg ana="#vinegar">azijn</seg>, maer 
+<lb/><seg ana="#starching">stijv’et</seg> als vooren,
 </ab>
+</div>
 
 <pb facs="#f148"/>
+<div ana="#horn #dyeing #vierendeel #groot #cochineal #ounce #alum #pint #fountain_water #boiling #drying #rinsing #pattern">
 <ab>
-<lb/>om wijt hooren, roose coūleūr te
-<lb/>verūe, tot eenen vierrendeel
-<lb/>hooren: neemen wij, voor 9. groot
-<lb/>consenille met een alūe onse olūn rood
-<lb/>met 3. pinte fontaine waeter
-<lb/>dat moetmen sieden te saem tot
+<lb/>om wijt <seg ana="#horn">hooren</seg>, roose coūleūr te
+<lb/><seg ana="#dyeing">verūe</seg>, tot eenen <seg ana="#vierendeel">vierrendeel</seg>
+<lb/><seg ana="#horn">hooren</seg>: neemen wij, voor 9. <seg ana="#groot">groot</seg>
+<lb/><seg ana="#cochineal">consenille</seg> met een alūe <seg ana="#ounce">onse</seg> <seg ana="#alum">olūn</seg> rood
+<lb/>met 3. <seg ana="#pint">pinte</seg> <seg ana="#fountain_water">fontaine waeter</seg>
+<lb/>dat moetmen <seg ana="#boiling">sieden</seg> te saem tot
 <lb/>dat het sopt root worde, al daen
-<lb/>doet men, het vierendeel hooren
+<lb/>doet men, het <seg ana="#vierendeel">vierendeel</seg> <seg ana="#horn">hooren</seg>
 <lb/>daer in, in goet order, ende men
-<lb/>laetse sienden tot datse schone
+<lb/>laetse <seg ana="#boiling">sienden</seg> tot datse schone
 <lb/>roose coūleūr is, als daen moetmen
 <lb/>se nemen vijt het sop; ende laeten
-<lb/>drooghe sonder te spoūllen, ende op
+<lb/><seg ana="#drying">drooghe</seg> sonder te <seg ana="#rinsing">spoūllen</seg>, ende op
 <lb/>een laeten tot dat wat ghedroght is;
 <lb/>_________________________
 <lb/>ende al daen open doen
-<lb/>la manier poūr taindre la horne
+<lb/>la manier poūr <seg ana="#dyeing">taindre</seg> la <seg ana="#horn">horne</seg>
 <lb/>blanche, le faire la coūleūr de rosse
-<lb/>qūe voūs voiez icij le patron,
+<lb/>qūe voūs voiez icij le <seg ana="#pattern">patron</seg>,
 <lb/>long acheste cela chez la marchan
 <lb/>et chez les coiffeūsse, et les aū-
 <lb/>tres personnes qūils fons de fleūrs
 <lb/>dans le monde
 </ab>
+</div>
 
 <pb facs="#f149"/>
 <ab>
@@ -2327,201 +2351,224 @@
 </ab>
 
 <pb facs="#f150"/>
+<div ana="#alum #cochineal #tartar #grinding #dyeing #horn">
 <ab>
-<lb/>l olun rouge, consenille tarte, le toūs bien etanpez
-<lb/>p[ou]r taindre la coūleūr de
-<lb/>rosse desūr lhorne blanche qūe voūs voiez icij
+<lb/>l <seg ana="#alum">olun</seg> rouge, <seg ana="#cochineal">consenille</seg> <seg ana="#tartar">tarte</seg>, le toūs bien <seg ana="#grinding">etanpez</seg>
+<lb/>p[ou]r <seg ana="#dyeing">taindre</seg> la coūleūr de
+<lb/>rosse desūr l<seg ana="#horn">horne</seg> blanche qūe voūs voiez icij
 <lb/>cela se van ordinairement chez le marchan ~
 </ab>
+</div>
 
 <pb facs="#f152"/>
+<div ana="#dyeing #escalin #gamboge #stuiver #saffron #alum #painting #vierendeel #brazilwood #pint #vinegar #boiling #bottle #oyster_shell">
 <ab>
-<lb/>[deletion begins] om geluwe verrwen te maecken
-<lb/>nemt voor een schellijnck
-<lb/>guitte gomme en en voor een
-<lb/>stúiver ghehel soufraen ende
-<lb/>een stúiver olun ende dat
+<lb/>[deletion begins] om geluwe <seg ana="#dyeing">verrwen</seg> te maecken
+<lb/>nemt voor een <seg ana="#escalin">schellijnck</seg>
+<lb/><seg ana="#gamboge">guitte gomme</seg> en en voor een
+<lb/><seg ana="#stuiver">stúiver</seg> ghehel <seg ana="#saffron">soufraen</seg> ende
+<lb/>een <seg ana="#stuiver">stúiver</seg> <seg ana="#alum">olun</seg> ende dat
 <lb/>tsaement wel ghebrocken
 <lb/>in waeter [deletion ends]
-<lb/>Maniere om root te sch[il-]
-<lb/>deren
-<lb/>Neemt een vierendeel
-<lb/>fernebockx een pinte asijn
-<lb/>en een half vierendeel olun
-<lb/>en laet dat zieden tot op
+<lb/>Maniere om root te <seg ana="#painting">sch[il-]
+<lb/>deren</seg>
+<lb/>Neemt een <seg ana="#vierendeel">vierendeel</seg>
+<lb/><seg ana="#brazilwood">fernebockx</seg> een <seg ana="#pint">pinte</seg> <seg ana="#vinegar">asijn</seg>
+<lb/>en een half <seg ana="#vierendeel">vierendeel</seg> <seg ana="#alum">olun</seg>
+<lb/>en laet dat <seg ana="#boiling">zieden</seg> tot op
 <lb/>de helf en giet dan dat sop
-<lb/>af in een flessche dat
+<lb/>af in een <seg ana="#bottle">flessche</seg> dat
 <lb/>blijft drie jaer goet en als
 <lb/>men dat wilt ghebruicken
 <lb/>soo giet wat van dat sop in
-<lb/>een oester schelpe en vergie[t]
+<lb/>een <seg ana="#oyster_shell">oester schelpe</seg> en vergie[t]
 <lb/>dat 3 a 4 mael het claer af
 </ab>
+</div>
 
 <pb facs="#f153"/>
+<div ana="#painting #marmite #dyeing #brazilwood #logwood #cauliflower #grinding #wringing #cloth #pot #vierendeel #verdigris #sponge #paper">
 <ab>
 <lb/>en dan laet dat een dagh
 <lb/>a 2 inde sonne staen of op
-<lb/>een lauwe vier ketel dat
+<lb/>een lauwe vier <seg ana="#marmite">ketel</seg> dat
 <lb/>het een weinigh dick wert
 <lb/>en dan is het goet om te
 <lb/>ghebrucken
 <lb/>op de selve maniere bereit
-<lb/>men oock violette verwe
+<lb/>men oock violette <seg ana="#dyeing">verwe</seg>
 <lb/>maer inde plaetse van
-<lb/>fernebockx neemt men
-<lb/>bresil houdt
-<lb/>om groene veruwe te
+<lb/><seg ana="#brazilwood">fernebockx</seg> neemt men
+<lb/><seg ana="#logwood">bresil houdt</seg>
+<lb/>om groene <seg ana="#dyeing">veruwe</seg> te
 <lb/>maecken
-<lb/>neemt blaeren van bloom
-<lb/>coolen sonder de ribben en
-<lb/>stampt die en duit dat
-<lb/>sop uit door een doeck en
-<lb/>tot een pot van dat sop
-<lb/>neemt een vierendeel spaens
-<lb/>groen en dat wel onder
+<lb/>neemt blaeren van <seg ana="#cauliflower">bloom
+<lb/>coolen</seg> sonder de ribben en
+<lb/><seg ana="#grinding">stampt</seg> die en <seg ana="#wringing">duit</seg> dat
+<lb/>sop uit door een <seg ana="#cloth">doeck</seg> en
+<lb/>tot een <seg ana="#pot">pot</seg> van dat sop
+<lb/>neemt een <seg ana="#vierendeel">vierendeel</seg> <seg ana="#verdigris">spaens
+<lb/>groen</seg> en dat wel onder
 <lb/>malcanderen ghebrocken
 <lb/>ende een dagh inde sonne
 <lb/>laeten staen en dan met
-<lb/>en sponsie het papiert
-<lb/>3 a 4 mael over stroken
+<lb/>en <seg ana="#sponge">sponsie</seg> het <seg ana="#paper">papiert</seg>
+<lb/>3 a 4 mael <seg ana="#painting">over stroken</seg>
 </ab>
+</div>
 
 <pb facs="#f154"/>
+<div ana="#oyster_shell #dyeing #lime">
 <ab>
 <lb/>nota alsmen schoon violet
 <lb/>wilt hebben, moet men in de
-<lb/>oūester schelpe bij de verwe wat
-<lb/>ongheblūghsche calken doen ~
+<lb/><seg ana="#oyster_shell">oūester schelpe</seg> bij de <seg ana="#dyeing">verwe</seg> wat
+<lb/>ongheblūghsche <seg ana="#lime">calken</seg> doen ~
 </ab>
+</div>
+<div ana="#oyster_shell #dyeing #lemon">
 <ab>
-<lb/>nota, ende inde root oūester
-<lb/>schelpe inde verwe wat
-<lb/>sijtroon sop doen, dat machken
+<lb/>nota, ende inde root <seg ana="#oyster_shell">oūester
+<lb/>schelpe</seg> inde <seg ana="#dyeing">verwe</seg> wat
+<lb/><seg ana="#lemon">sijtroon</seg> sop doen, dat machken
 <lb/>schoon hoogh geelūe
 </ab>
+</div>
 
 <pb facs="#f155"/>
+<div ana="#lye #beer #stuiver #brazilwood #oyster_shell #dyeing #logwood #paper">
 <ab>
-<lb/>lescivve melieulle vielle bier la plūs vielle et la
+<lb/><seg ana="#lye">lescivve</seg> melieulle vielle <seg ana="#beer">bier</seg> la plūs vielle et la
 <lb/>te maecken, neemt een caen hoūt goet
-<lb/>stūūer fernebockx hoūdt, ende voor
+<lb/><seg ana="#stuiver">stūūer</seg> <seg ana="#brazilwood">fernebockx hoūdt</seg>, ende voor
 <lb/>[?]at meer tot op d’helft, ende als daen
 <lb/>ende als men dat wilt ghebrūicken, soo
-<lb/>[??]r schelpe, ende vergiet dat 2. oft 3.
+<lb/>[??]r <seg ana="#oyster_shell">schelpe</seg>, ende vergiet dat 2. oft 3.
 <lb/>nigh [dick wert, als daen is
-<lb/>[?]ren op papieren, als oock op
-<lb/>[??]ck violette verwe maer inde
-<lb/>[??]mt men bersil hoūdt ~
+<lb/>[?]ren op <seg ana="#paper">papieren</seg>, als oock op
+<lb/>[??]ck violette <seg ana="#dyeing">verwe</seg> maer inde
+<lb/>[??]mt men <seg ana="#logwood">bersil hoūdt</seg> ~
 </ab>
+</div>
 
 <pb facs="#f156"/>
+<div ana="#paper #dyeing #susijn #saffron #pint #soaking #ounce #gamboge">
 <ab>
-<lb/>om geel pampier te verwen
-<lb/>men neemt een sisein safran het welck men laet trecken in de quantitey[t]
-<lb/>van een pinte water als het redelyck getrocken is men giet het af
-<lb/>en doet noch wat water op het safran om voorder af te trecken, men
-<lb/>moet oock hebben een once gambe t’welcke eenige daegen te vooren
-<lb/>moet weeken ende in het getrocken safran gieten als het cout is
+<lb/>om geel <seg ana="#paper">pampier</seg> te <seg ana="#dyeing">verwen</seg>
+<lb/>men neemt een <seg ana="#susijn">sisein</seg> <seg ana="#saffron">safran</seg> het welck men laet <seg ana="#soaking">trecken</seg> in de quantitey[t]
+<lb/>van een <seg ana="#pint">pinte</seg> water als het redelyck getrocken is men giet het af
+<lb/>en doet noch wat water op het <seg ana="#saffron">safran</seg> om voorder af te trecken, men
+<lb/>moet oock hebben een <seg ana="#ounce">once</seg> <seg ana="#gamboge">gambe</seg> t’welcke eenige daegen te vooren
+<lb/>moet <seg ana="#soaking">weeken</seg> ende in het getrocken <seg ana="#saffron">safran</seg> gieten als het cout is
 </ab>
+</div>
 
 <pb facs="#f158"/>
+<div ana="#paper #celery #grinding #mortar #wringing #verdigris #boiling #melting #tartar #table #board #knife #painting #drying #egg_white">
 <ab>
-<lb/>om groen Papier te maeken
-<lb/>Nemt het groen van siederi het jeugdigste al de rebben
-<lb/>uyt gedaen dan gestampt in Mortier dan uyt
-<lb/>gevrongen en dan wederom gestampt toe drye mal
-<lb/>toe, nemt dan spaens groen en doet het in het sop
-<lb/>tot dat het gesmoltens is, doet daer soo veele in als
+<lb/>om groen <seg ana="#paper">Papier</seg> te maeken
+<lb/>Nemt het groen van <seg ana="#celery">siederi</seg> het jeugdigste al de rebben
+<lb/>uyt gedaen dan <seg ana="#grinding">gestampt</seg> in <seg ana="#mortar">Mortier</seg> dan <seg ana="#wringing">uyt
+<lb/>gevrongen</seg> en dan wederom <seg ana="#grinding">gestampt</seg> toe drye mal
+<lb/>toe, nemt dan <seg ana="#verdigris">spaens groen</seg> en doet het in het sop
+<lb/>tot dat het <seg ana="#melting">gesmoltens</seg> is, doet daer soo veele in als
 <lb/>dat het ue wilt groene hebben hoe meer groen hoe
-<lb/>ooger couleur ook een weinig wijn steen van tyd
-<lb/>tot tyd roeren tot dat het heel gesmolten is, nemt
-<lb/>dan het papier en legt het op een tafel of bert, nemt
-<lb/>dan een schilder c[ou]s[t]elken en strick het daer over
-<lb/>den eenen kant gedaen sijnde ank het te drogen
+<lb/>ooger couleur ook een weinig <seg ana="#tartar">wijn steen</seg> van tyd
+<lb/>tot tyd roeren tot dat het heel <seg ana="#melting">gesmolten</seg> is, nemt
+<lb/>dan het <seg ana="#paper">papier</seg> en legt het op een <seg ana="#table">tafel</seg> of <seg ana="#board">bert</seg>, nemt
+<lb/>dan een schilder <seg ana="#knife">c[ou]s[t]elken</seg> en <seg ana="#painting">strick</seg> het daer over
+<lb/>den eenen kant gedaen sijnde ank het te <seg ana="#drying">drogen</seg>
 <lb/>en wel droge synde doet dan en anderen kant en
 <lb/>dat soo dikmals tot dat het groene genoeg is
-<lb/>volgens ue gouste d nemt dan wit van eyeren en
-<lb/>strikt het daer over om den glans te geven als
+<lb/>volgens ue gouste d nemt dan <seg ana="#egg_white">wit van eyeren</seg> en
+<lb/><seg ana="#painting">strikt</seg> het daer over om den glans te geven als
 <lb/>het wel drooge is
 </ab>
+</div>
 
 <pb facs="#f160"/>
+<div ana="#dyeing #pound #verdigris #kanne #rainwater #vierendeel #tartar #spoon #grinding #alum #soaking #bucket #pan #skimming #boiling #sap_green #knife #paper #dish">
 <ab>
 <lb/>w
-<lb/>om Groene Verwe te macken
-<lb/>Voor een alf pont spans groen
-<lb/>men nempt twee kannen reghen
-<lb/>water, en doet daer in, een alf
-<lb/>vierendeel witte wijnsteen, en
-<lb/>een teenne lepel gestamten olūn
-<lb/>laet dat soo eenen nacht wecken
-<lb/>in eenen coperen acker ofte panne, en het
-<lb/>moet geschūmt wesen, het
-<lb/>moet vercoken tot op den helft,
-<lb/>en men doet het sap groen daer
+<lb/>om Groene <seg ana="#dyeing">Verwe</seg> te macken
+<lb/>Voor een alf <seg ana="#pound">pont</seg> <seg ana="#verdigris">spans groen</seg>
+<lb/>men nempt twee <seg ana="#kanne">kannen</seg> <seg ana="#rainwater">reghen
+<lb/>water</seg>, en doet daer in, een alf
+<lb/><seg ana="#vierendeel">vierendeel</seg> witte <seg ana="#tartar">wijnsteen</seg>, en
+<lb/>een teenne <seg ana="#spoon">lepel</seg> <seg ana="#grinding">gestamten</seg> <seg ana="#alum">olūn</seg>
+<lb/>laet dat soo eenen nacht <seg ana="#soaking">wecken</seg>
+<lb/>in eenen coperen <seg ana="#bucket">acker</seg> ofte <seg ana="#pan">panne</seg>, en het
+<lb/>moet <seg ana="#skimming">geschūmt</seg> wesen, het
+<lb/>moet <seg ana="#boiling">vercoken</seg> tot op den helft,
+<lb/>en men doet het <seg ana="#sap_green">sap groen</seg> daer
 <lb/>in als het maer bloet waerme
 <lb/>en is
-<lb/>het spans groen is van sij selven
-<lb/>bloūw men nemt het sap groen op den
-<lb/>point van een mes,
+<lb/>het <seg ana="#verdigris">spans groen</seg> is van sij selven
+<lb/>bloūw men nemt het <seg ana="#sap_green">sap groen</seg> op den
+<lb/>point van een <seg ana="#knife">mes</seg>,
 <lb/>en vriest dat an den kant
-<lb/>van ū panne, in het spans groen tot dat
+<lb/>van ū <seg ana="#pan">panne</seg>, in het <seg ana="#verdigris">spans groen</seg> tot dat
 <lb/>het groene genouch is, maer en moght
 <lb/>daer niet te veele in doen, ghij moet
-<lb/>dat proberen op pampier tot dat het
+<lb/>dat proberen op <seg ana="#paper">pampier</seg> tot dat het
 <lb/>couleūr naer ul gouste is,
 <lb/>~~~~~~
-<lb/>en waertsacke dat in het verūwen
-<lb/>van ul pampier ghij saght dat het
+<lb/>en waertsacke dat in het <seg ana="#dyeing">verūwen</seg>
+<lb/>van ul <seg ana="#paper">pampier</seg> ghij saght dat het
 <lb/>wat te blouwendigh is ul en moet
-<lb/>maer wat groene verwe in een schote[-]
-<lb/>lken doen en wat laeten
+<lb/>maer wat groene <seg ana="#dyeing">verwe</seg> in een <seg ana="#dish">schote[-]
+<lb/>lken</seg> doen en wat laeten
 </ab>
+</div>
 
 <pb facs="#f161"/>
+<div ana="#dyeing #boiling #bottle">
 <ab>
-<lb/>en als ul verwe, alsoo gekockt is
-<lb/>doedt die in een flessche, ghij condt
+<lb/>en als ul <seg ana="#dyeing">verwe</seg>, alsoo <seg ana="#boiling">gekockt</seg> is
+<lb/>doedt die in een <seg ana="#bottle">flessche</seg>, ghij condt
 <lb/>die bewaeren, en ghebrucken als het
 <lb/>belijeft maer het is beter in den somer
 <lb/>als nū
 </ab>
+</div>
 
 <pb facs="#f162"/>
+<div ana="#sap_green #paper #starching #starch #paintbrush #drying #sponge #dyeing">
 <ab>
-<lb/>warmen en doet daer in noch wat sap
-<lb/>groen
+<lb/>warmen en doet daer in noch wat <seg ana="#sap_green">sap
+<lb/>groen</seg>
 <lb/>~~~~~~
-<lb/>nota het pampier dat ghij daer toe
+<lb/>nota het <seg ana="#paper">pampier</seg> dat ghij daer toe
 <lb/>ghebruckt, moet fijn en ghesloten sijn
-<lb/>en dat pampier moet gepaept sijn al
-<lb/>eenen kant met witten stijf pap die
+<lb/>en dat pampier moet <seg ana="#starching">gepaept</seg> sijn al
+<lb/>eenen kant met witten <seg ana="#starch">stijf pap</seg> die
 <lb/>warme is, en niet dicke, ghij moet den
 <lb/>pap wel en effen in v[e]rwen met eenen
-<lb/>sochten bustel, anght dan te droeghen
+<lb/>sochten <seg ana="#paintbrush">bustel</seg>, anght dan te <seg ana="#drying">droeghen</seg>
 <lb/>en als het wel drooghe is leght het dan te
 <lb/>passen om dat het soude effen commen
-<lb/>nemt dan uwe groen verwe, en
-<lb/>een deel van een spontie om alsoo
-<lb/>u pampier te verwen, al den
+<lb/>nemt dan uwe groen <seg ana="#dyeing">verwe</seg>, en
+<lb/>een deel van een <seg ana="#sponge">spontie</seg> om alsoo
+<lb/>u <seg ana="#paper">pampier</seg> te <seg ana="#dyeing">verwen</seg>, al den
 <lb/>gepapten kant eerst, maer naer den
 <lb/>eersten en 2 keer, moet dat met een
 <lb/>lijcht handt doen en magher dat
 <lb/>het niet vloijdt, als ghij u blat 
-<lb/>pampier met een lijcht handt over
+<lb/><seg ana="#paper">pampier</seg> met een lijcht handt over
 <lb/>gaen hebt en sijnde datter noch
 <lb/>striepen sijn die ghij over geschreckelt
 <lb/>hebt en moght daer niet meer an
 </ab>
+</div>
 
 <pb facs="#f163"/>
+<div ana="#dyeing #paper #drying #stick #vierendeel #verdigris #grinding #kanne #rainwater #ounce #tartar #spoon #alum">
 <ab>
 <lb/>kommen want ghij soudt meer af
 <lb/>vaghen als dat het soude annemen
-<lb/>het pampier en magh niet anghen
-<lb/>om te drooghen, maer men leght het
-<lb/>op een leeder of op stocken, en het
+<lb/>het <seg ana="#paper">pampier</seg> en magh niet anghen
+<lb/>om te <seg ana="#drying">drooghen</seg>, maer men leght het
+<lb/>op een leeder of op <seg ana="#stick">stocken</seg>, en het
 <lb/>moet wel droeghe sijn, eer ghij het
 <lb/>noch eens over gaet, en het moet
 <lb/>schoon weder sijn om dat doen,
@@ -2530,44 +2577,49 @@
 <lb/>den anderen kant 3 a 4 keeren
 <lb/>~~~
 <lb/>ick soude raeden van maer
-<lb/>een vierendeel spans groen te
+<lb/>een <seg ana="#vierendeel">vierendeel</seg> <seg ana="#verdigris">spans groen</seg> te
 <lb/>stellen voor den eersten keer, en
-<lb/>het moet gestampt sijn, en dan en
-<lb/>moet ghij maer een kanne reghen
-<lb/>water hebben en wat meer als
-<lb/>een once wijnsteen, en eenen
-<lb/>alven lepel gestamten olun
+<lb/>het moet <seg ana="#grinding">gestampt</seg> sijn, en dan en
+<lb/>moet ghij maer een <seg ana="#kanne">kanne</seg> <seg ana="#rainwater">reghen
+<lb/>water</seg> hebben en wat meer als
+<lb/>een <seg ana="#ounce">once</seg> <seg ana="#tartar">wijnsteen</seg>, en eenen
+<lb/>alven <seg ana="#spoon">lepel</seg> <seg ana="#grinding">gestamten</seg> <seg ana="#alum">olun</seg>
 </ab>
+</div>
 
 <pb facs="#f164"/>
+<div ana="#rinschen_hast #pound #wax #ounce #verdigris">
 <ab>
-<lb/>rinschen hast een alle pont
-<lb/>wasschen een alle pont
-<lb/>een honse spanche groūn
+<lb/><seg ana="#rinschen_hast">rinschen hast</seg> een alle <seg ana="#pound">pont</seg>
+<lb/><seg ana="#wax">wasschen</seg> een alle <seg ana="#pound">pont</seg>
+<lb/>een <seg ana="#ounce">honse</seg> <seg ana="#verdigris">spanche groūn</seg>
 </ab>
+</div>
 
 <pb facs="#f166"/>
+<div ana="#ounce #verdigris #pound #wax #quarter_pound #rinschen_hast #melting #boiling #dipping #paper">
 <ab>
-<lb/>un onsse spanschen groūn,
-<lb/>une demie liūre de cirre blanche,
-<lb/>un demie liūre, et une demie
-<lb/>cartron rinschen hast;
+<lb/>un <seg ana="#ounce">onsse</seg> <seg ana="#verdigris">spanschen groūn</seg>,
+<lb/>une demie <seg ana="#pound">liūre</seg> de <seg ana="#wax">cirre blanche</seg>,
+<lb/>un demie <seg ana="#pound">liūre</seg>, et une demie
+<lb/><seg ana="#quarter_pound">cartron</seg> <seg ana="#rinschen_hast">rinschen hast</seg>;
 <lb/>et toullier
-<lb/>le toūs bien fondūe ensemble sans
-<lb/>boūlier; pūis faūt plonger le
-<lb/>papier dedans une bande a la fois
+<lb/>le toūs bien <seg ana="#melting">fondūe</seg> ensemble sans
+<lb/><seg ana="#boiling">boūlier</seg>; pūis faūt <seg ana="#dipping">plonger</seg> le
+<lb/><seg ana="#paper">papier</seg> dedans une bande a la fois
 <lb/>la largeūr de trois taille, aūssanūirons
-<lb/>me la meme longeūr qūe le papier est
+<lb/>me la meme longeūr qūe le <seg ana="#paper">papier</seg> est
 <lb/>dans son longeur
 <lb/>cecij est pour le sūcqūiriez
 <lb/>qūil fons de deser, et p[ou]r ce qūe
 <lb/>voūs voūlez faire aūec
-<lb/>me si v[ou]s voiez qūe le papier
+<lb/>me si v[ou]s voiez qūe le <seg ana="#paper">papier</seg>
 <lb/>ne pas bien ver a vostre volonté
 <lb/>a dont il voūs faūt mettre plūs
-<lb/>de ver despangne, oū aūtrem[en]t die
-<lb/>spanschan groūn
+<lb/>de <seg ana="#verdigris">ver despangne</seg>, oū aūtrem[en]t die
+<lb/><seg ana="#verdigris">spanschan groūn</seg>
 </ab>
+</div>
 
 <pb facs="#f167"/>
 <ab>
@@ -2588,90 +2640,96 @@
 </ab>
 
 <pb facs="#f168"/>
+<div ana="#vierendeel #copperas #boiling #bucket #urine #vat #ounce #indigo #potash #grinding #pot #pint #rainwater #madder #handful #lime #brandy #stuiver #weit #pound #gallnut #sumac #wool #provence_wood">
 <ab>
 <lb/>[NB: top line has been cut off; descenders visible]
-<lb/>en een vierendeel Cooperoot en laet
-<lb/>het sien naer ū ghenoegen
+<lb/>en een <seg ana="#vierendeel">vierendeel</seg> <seg ana="#copperas">Cooperoot</seg> en laet
+<lb/>het <seg ana="#boiling">sien</seg> naer ū ghenoegen
 <lb/>om Blaūw
-<lb/>Doet drije hemers pisse warme gietet
-<lb/>het dan in een vat dat wel schoon is
-<lb/>neemt dan thien oncen Indigo en drije
-<lb/>vierendeel pot asschen fin gestooten
-<lb/>doet het troocken in een nieūwe pot, met
-<lb/>twee pinten regen waeter, giet het daen
-<lb/>in, doet daer ses oncen crap in doet daer
-<lb/>twee handen vol calck in laet het daen
+<lb/>Doet drije <seg ana="#bucket">hemers</seg> <seg ana="#urine">pisse</seg> warme gietet
+<lb/>het dan in een <seg ana="#vat">vat</seg> dat wel schoon is
+<lb/>neemt dan thien <seg ana="#ounce">oncen</seg> <seg ana="#indigo">Indigo</seg> en drije
+<lb/><seg ana="#vierendeel">vierendeel</seg> <seg ana="#potash">pot asschen</seg> fin <seg ana="#grinding">gestooten</seg>
+<lb/>doet het troocken in een nieūwe <seg ana="#pot">pot</seg>, met
+<lb/>twee <seg ana="#pint">pinten</seg> <seg ana="#rainwater">regen waeter</seg>, giet het daen
+<lb/>in, doet daer ses <seg ana="#ounce">oncen</seg> <seg ana="#madder">crap</seg> in doet daer
+<lb/>twee <seg ana="#handful">handen vol</seg> <seg ana="#lime">calck</seg> in laet het daen
 <lb/>rūsten acht of neghen daghen, soo het
 <lb/>dan niet en weercht doeter dan een
-<lb/>alf pinte Brandwin en een stūijver weit
+<lb/>alf <seg ana="#pint">pinte</seg> <seg ana="#brandy">Brandwin</seg> en een <seg ana="#stuiver">stūijver</seg> <seg ana="#weit">weit</seg>
 <lb/>om swaert
-<lb/>tot 14 een alf pont galnooten, een alf
-<lb/>pont crap en 2 pont smack laet het
-<lb/>koocke en heūr, ~ Neemt de wollen vyt
+<lb/>tot 14 een alf <seg ana="#pound">pont</seg> <seg ana="#gallnut">galnooten</seg>, een alf
+<lb/><seg ana="#pound">pont</seg> <seg ana="#madder">crap</seg> en 2 <seg ana="#pound">pont</seg> <seg ana="#sumac">smack</seg> laet het
+<lb/><seg ana="#boiling">koocke</seg> en heūr, ~ Neemt de <seg ana="#wool">wollen</seg> vyt
 <lb/>om te vercoelen, neemt met het selfde
-<lb/>waeter een alf pont provintie hoūdt
-<lb/>met 3 pont cooperoot en laet het noch
-<lb/>ander alūe heūre kocke ~~
+<lb/>waeter een alf <seg ana="#pound">pont</seg> <seg ana="#provence_wood">provintie hoūdt</seg>
+<lb/>met 3 <seg ana="#pound">pont</seg> <seg ana="#copperas">cooperoot</seg> en laet het noch
+<lb/>ander alūe heūre <seg ana="#boiling">kocke</seg> ~~
 </ab>
+</div>
 
 <pb facs="#f170"/>
+<div ana="#vine_ash #burning #hearth #earthenware_pot #lye #handful #pint #rainwater #fountain_water #boiling #marmite #dyeing #cloth #pot #vierendeel #pound #safflower #bag #soaking #washing #wringing">
 <ab>
-<lb/>Maniere om afschen van wingaert ranken te macken
-<lb/>men brant die, op eenen suijveren hert, sonder ander afschen in
-<lb/>te mengelen, nū gebrant sijnde, men doet t’vier en d’afschen
-<lb/>al te saemen in eenen schlechten aerden pot, die men van tijdt
+<lb/>Maniere om <seg ana="#vine_ash">afschen van wingaert ranken</seg> te macken
+<lb/>men <seg ana="#burning">brant</seg> die, op eenen suijveren <seg ana="#hearth">hert</seg>, sonder ander afschen in
+<lb/>te mengelen, nū <seg ana="#burning">gebrant</seg> sijnde, men doet t’vier en d’<seg ana="#vine_ash">afschen</seg>
+<lb/>al te saemen in eenen schlechten <seg ana="#earthenware_pot">aerden pot</seg>, die men van tijdt
 <lb/>tot tijdt opsteeckt, tot dat al verteirt is.
-<lb/>om looghe van wingaert ranken afschen te macken
-<lb/>neemt drije hants=veūllen afschen met twee handen, en 7. of 8.
-<lb/>pinten regen of fonteijne waeter, laet die koken tot op 4. of 5.
-<lb/>pinten, wort die gekockt in eene sūijver marmijte, als die vant’
-<lb/>vier genomen wort, moet gegoten sijn in eenen aerden pot, die
-<lb/>tot geen ander sacken gedient en heeft als om roosen te verwen,
+<lb/>om <seg ana="#lye">looghe</seg> van <seg ana="#vine_ash">wingaert ranken afschen</seg> te macken
+<lb/>neemt drije <seg ana="#handful">hants=veūllen</seg> <seg ana="#vine_ash">afschen</seg> met twee handen, en 7. of 8.
+<lb/><seg ana="#pint">pinten</seg> <seg ana="#rainwater">regen</seg> of <seg ana="#fountain_water">fonteijne waeter</seg>, laet die <seg ana="#boiling">koken</seg> tot op 4. of 5.
+<lb/><seg ana="#pint">pinten</seg>, wort die <seg ana="#boiling">gekockt</seg> in eene sūijver <seg ana="#marmite">marmijte</seg>, als die vant’
+<lb/>vier genomen wort, moet gegoten sijn in eenen <seg ana="#earthenware_pot">aerden pot</seg>, die
+<lb/>tot geen ander sacken gedient en heeft als om roosen te <seg ana="#dyeing">verwen</seg>,
 <lb/>laetende d’afschen soo veel alst mogelijck is op den gront van de
-<lb/>marmijte, des anderdags men giet de looghe door eenen doeck
-<lb/>in eenen anderen pot, nochtans voorsichtig sonder den gront te
+<lb/>marmijte, des anderdags men giet de <seg ana="#lye">looghe</seg> door eenen <seg ana="#cloth">doeck</seg>
+<lb/>in eenen anderen <seg ana="#pot">pot</seg>, nochtans voorsichtig sonder den gront te
 <lb/>roeren, de looge is dan bequaem om te gebrūijcken om roose-koleūr
-<lb/>te verwen, soo als hier volgt
-<lb/>neemt een vierendeel of alf pont sanfloūr, doet het in een wit
-<lb/>linwaten sacxken versekert toe gebonden, stelt het te wecken
-<lb/>in regen of fonteijne waeter, men wast een weijnig het sanfloūr
-<lb/>t’selve twee keeren van waeter veranderende; en dan laeten wecken
+<lb/>te <seg ana="#dyeing">verwen</seg>, soo als hier volgt
+<lb/>neemt een <seg ana="#vierendeel">vierendeel</seg> of alf <seg ana="#pound">pont</seg> <seg ana="#safflower">sanfloūr</seg>, doet het in een <seg ana="#bag">wit
+<lb/>linwaten sacxken</seg> versekert toe gebonden, stelt het te <seg ana="#soaking">wecken</seg>
+<lb/>in <seg ana="#rainwater">regen</seg> of <seg ana="#fountain_water">fonteijne waeter</seg>, men <seg ana="#washing">wast</seg> een weijnig het <seg ana="#safflower">sanfloūr</seg>
+<lb/>t’selve twee keeren van waeter veranderende; en dan laeten <seg ana="#soaking">wecken</seg>
 <lb/>van den vijf heūren en-alf s’avonts tot den vijf uren en-alf s’mor
-<lb/>gens. en dan wort het gewaschen, en van tijdt, tot tijdt, van
+<lb/>gens. en dan wort het <seg ana="#washing">gewaschen</seg>, en van tijdt, tot tijdt, van
 <lb/>waeter verandert, tot dat het klaer wort, den sack en magh
-<lb/>niet gevrongen sijn, maer ūijtgedogen met de handen, ten sij
-<lb/>den laetsten keer, dan moet het sacxken soo sterck uijtgevrongen
+<lb/>niet <seg ana="#wringing">gevrongen</seg> sijn, maer ūijtgedogen met de handen, ten sij
+<lb/>den laetsten keer, dan moet het sacxken soo sterck <seg ana="#wringing">uijtgevrongen</seg>
 <lb/>sijn alst mogelijck is
 </ab>
+</div>
 
 <pb facs="#f171"/>
+<div ana="#safflower #bag #pot #rainwater #fountain_water #pint #lye #vine_ash #coverlet #soaking #kneading #handful #wringing #vinegar #dyeing #washing #verjuice #rinsing #drying">
 <ab>
-<lb/>daer naer men treckt het sanfloer ūijt den sack, en doet het
-<lb/>in eenen grooten platten pot, en alst al wel van een gepluckt
-<lb/>is men sproeijt er en weijnig regen of fonteijne waeter
-<lb/>over. dan giet me[n] int sanfloūr een pinte looghe gemachts
-<lb/>van afschen van wijngaert ranken; dan woort de pot ge=
+<lb/>daer naer men treckt het <seg ana="#safflower">sanfloer</seg> ūijt den <seg ana="#bag">sack</seg>, en doet het
+<lb/>in eenen grooten platten <seg ana="#pot">pot</seg>, en alst al wel van een gepluckt
+<lb/>is men sproeijt er en weijnig <seg ana="#rainwater">regen</seg> of <seg ana="#fountain_water">fonteijne waeter</seg>
+<lb/>over. dan giet me[n] int <seg ana="#safflower">sanfloūr</seg> een <seg ana="#pint">pinte</seg> <seg ana="#lye">looghe</seg> gemachts
+<lb/>van <seg ana="#vine_ash">afschen van wijngaert ranken</seg>; dan woort de pot ge=
 <lb/>deckt met eenen anderen van de selve groote, om dat hij
 <lb/>locht en soūde vatten stelt hem in een dūijster plaetse
-<lb/>uel noch een deckkleet daer op, en alsoo laeten trecken
-<lb/>2. heūren, en moet dan gekne[uz]t worden een quaertier lanck
-<lb/>men deūgt het met hantsvollen ūijt, als men niet meer 
-<lb/>nemen en kan giet de reste wederom in den sack, die ūijt
-<lb/>gevrongen wort, in eenen suijveren pot, men bereijt terstont
-<lb/>eenen anderen pot met wat asijn van witte win, daer de stoffe
+<lb/>uel noch een <seg ana="#coverlet">deckkleet</seg> daer op, en alsoo laeten <seg ana="#soaking">trecken</seg>
+<lb/>2. heūren, en moet dan <seg ana="#kneading">gekne[uz]t</seg> worden een quaertier lanck
+<lb/>men deūgt het met <seg ana="#handful">hantsvollen</seg> ūijt, als men niet meer 
+<lb/>nemen en kan giet de reste wederom in den sack, die <seg ana="#wringing">ūijt
+<lb/>gevrongen</seg> wort, in eenen suijveren <seg ana="#pot">pot</seg>, men bereijt terstont
+<lb/>eenen anderen <seg ana="#pot">pot</seg> met wat <seg ana="#vinegar">asijn van witte win</seg>, daer de stoffe
 <lb/>in wort nat gemackt, wel doordroncken sijnde, men neemt die
-<lb/>altesaemen, geeft die in handen van de persoone die t’sanfloer
-<lb/>gekne'et en ūijtgevrongen heeft; welcke geheel masse haette
-<lb/>lijck in de verwe steekt, de selve wel waschen en'van een
+<lb/>altesaemen, geeft die in handen van de persoone die t’<seg ana="#safflower">sanfloer</seg>
+<lb/><seg ana="#kneading">gekne'et</seg> en <seg ana="#wringing">ūijtgevrongen</seg> heeft; welcke geheel masse haette
+<lb/>lijck in de <seg ana="#dyeing">verwe</seg> steekt, de selve wel <seg ana="#washing">waschen</seg> en'van een
 <lb/>trecken, met eene lichte hant soo gaūw alst mogelijck is.
 <lb/>de stoffe haer coleūr hebbende, wort wederom van stūck tot stūk
-<lb/>gewaschen naer die wel ūijtgedogen t’hebben, steekt ^ die in verjūis 
-<lb/>naer alsvooren uijt gedoūwen sijnde, wort gespoelt in drie of 4. 
-<lb/>potten vervolgende te vooren bereijt met 2. of 3. pinten schoon
-<lb/>regen of fonteine waeter; waer naer men eenige stūcken stoffe
-<lb/>wascht daert t’eeste coleūr in gespoelt is, t’welcke dient
-<lb/>voor bleek coleūr, en wort dan samen gedroogt op den solder.
+<lb/><seg ana="#washing">gewaschen</seg> naer die wel ūijtgedogen t’hebben, steekt ^ die in <seg ana="#verjuice">verjūis</seg> 
+<lb/>naer alsvooren <seg ana="#wringing">uijt gedoūwen</seg> sijnde, wort <seg ana="#rinsing">gespoelt</seg> in drie of 4. 
+<lb/><seg ana="#pot">potten</seg> vervolgende te vooren bereijt met 2. of 3. <seg ana="#pint">pinten</seg> schoon
+<lb/><seg ana="#rainwater">regen</seg> of <seg ana="#fountain_water">fonteine waeter</seg>; waer naer men eenige stūcken stoffe
+<lb/><seg ana="#washing">wascht</seg> daert t’eeste coleūr in <seg ana="#rinsing">gespoelt</seg> is, t’welcke dient
+<lb/>voor bleek coleūr, en wort dan samen <seg ana="#drying">gedroogt</seg> op den solder.
 </ab>
+</div>
 
   </div></body>
       </text>

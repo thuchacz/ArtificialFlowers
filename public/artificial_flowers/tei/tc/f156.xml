@@ -1,11 +1,13 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f156"/>
+<div ana="#paper #dyeing #susijn #saffron #pint #soaking #ounce #gamboge">
 <ab>
-<lb/>om geel pampier te verwen
-<lb/>men neemt een sisein safran het welck men laet trecken in de quantitey[t]
-<lb/>van een pinte water als het redelyck getrocken is men giet het af
-<lb/>en doet noch wat water op het safran om voorder af te trecken, men
-<lb/>moet oock hebben een once gambe t’welcke eenige daegen te vooren
-<lb/>moet weeken ende in het getrocken safran gieten als het cout is
+<lb/>om geel <seg ana="#paper">pampier</seg> te <seg ana="#dyeing">verwen</seg>
+<lb/>men neemt een <seg ana="#susijn">sisein</seg> <seg ana="#saffron">safran</seg> het welck men laet <seg ana="#soaking">trecken</seg> in de quantitey[t]
+<lb/>van een <seg ana="#pint">pinte</seg> water als het redelyck getrocken is men giet het af
+<lb/>en doet noch wat water op het <seg ana="#saffron">safran</seg> om voorder af te trecken, men
+<lb/>moet oock hebben een <seg ana="#ounce">once</seg> <seg ana="#gamboge">gambe</seg> t’welcke eenige daegen te vooren
+<lb/>moet <seg ana="#soaking">weeken</seg> ende in het getrocken <seg ana="#saffron">safran</seg> gieten als het cout is
 </ab>
+</div>
 
 </div></body></text>

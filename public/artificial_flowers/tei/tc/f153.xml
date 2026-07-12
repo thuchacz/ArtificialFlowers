@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f153"/>
+<div ana="#painting #marmite #dyeing #brazilwood #logwood #cauliflower #grinding #wringing #cloth #pot #vierendeel #verdigris #sponge #paper">
 <ab>
 <lb/>en dan laet dat een dagh
 <lb/>a 2 inde sonne staen of op
-<lb/>een lauwe vier ketel dat
+<lb/>een lauwe vier <seg ana="#marmite">ketel</seg> dat
 <lb/>het een weinigh dick wert
 <lb/>en dan is het goet om te
 <lb/>ghebrucken
 <lb/>op de selve maniere bereit
-<lb/>men oock violette verwe
+<lb/>men oock violette <seg ana="#dyeing">verwe</seg>
 <lb/>maer inde plaetse van
-<lb/>fernebockx neemt men
-<lb/>bresil houdt
-<lb/>om groene veruwe te
+<lb/><seg ana="#brazilwood">fernebockx</seg> neemt men
+<lb/><seg ana="#logwood">bresil houdt</seg>
+<lb/>om groene <seg ana="#dyeing">veruwe</seg> te
 <lb/>maecken
-<lb/>neemt blaeren van bloom
-<lb/>coolen sonder de ribben en
-<lb/>stampt die en duit dat
-<lb/>sop uit door een doeck en
-<lb/>tot een pot van dat sop
-<lb/>neemt een vierendeel spaens
-<lb/>groen en dat wel onder
+<lb/>neemt blaeren van <seg ana="#cauliflower">bloom
+<lb/>coolen</seg> sonder de ribben en
+<lb/><seg ana="#grinding">stampt</seg> die en <seg ana="#wringing">duit</seg> dat
+<lb/>sop uit door een <seg ana="#cloth">doeck</seg> en
+<lb/>tot een <seg ana="#pot">pot</seg> van dat sop
+<lb/>neemt een <seg ana="#vierendeel">vierendeel</seg> <seg ana="#verdigris">spaens
+<lb/>groen</seg> en dat wel onder
 <lb/>malcanderen ghebrocken
 <lb/>ende een dagh inde sonne
 <lb/>laeten staen en dan met
-<lb/>en sponsie het papiert
-<lb/>3 a 4 mael over stroken
+<lb/>en <seg ana="#sponge">sponsie</seg> het <seg ana="#paper">papiert</seg>
+<lb/>3 a 4 mael <seg ana="#painting">over stroken</seg>
 </ab>
+</div>
 
 </div></body></text>

@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f160"/>
+<div ana="#dyeing #pound #verdigris #kanne #rainwater #vierendeel #tartar #spoon #grinding #alum #soaking #bucket #pan #skimming #boiling #sap_green #knife #paper #dish">
 <ab>
-<lb/>To make green dye
-<lb/>For a half pound of verdigris,
-<lb/>take two cans of rain
-<lb/>water and add a half a
-<lb/>quarter of tartar, and
-<lb/>a pan spoon [pennelepel = large copper spoon used in baking] of pounded alum.
-<lb/>Preserve it for one night
-<lb/>in a copper bucket or pan. It must
-<lb/>be foamy, [geschumt = geschuimt] and
-<lb/>must boil down by half.
-<lb/>take the green juice
+<lb/>To make green <seg ana="#dyeing">dye</seg>
+<lb/>For a half <seg ana="#pound">pound</seg> of <seg ana="#verdigris">verdigris</seg>,
+<lb/>take two <seg ana="#kanne">cans</seg> of <seg ana="#rainwater">rain
+<lb/>water</seg> and add a half a
+<lb/><seg ana="#vierendeel">quarter</seg> of <seg ana="#tartar">tartar</seg>, and
+<lb/>a <seg ana="#spoon">pan spoon</seg> [pennelepel = large copper spoon used in baking] of <seg ana="#grinding">pounded</seg> <seg ana="#alum">alum</seg>.
+<lb/><seg ana="#soaking">Preserve</seg> it for one night
+<lb/>in a copper <seg ana="#bucket">bucket</seg> or <seg ana="#pan">pan</seg>. It must
+<lb/>be <seg ana="#skimming">foamy</seg>, [geschumt = geschuimt] and
+<lb/>must <seg ana="#boiling">boil</seg> down by half.
+<lb/>take the <seg ana="#sap_green">green juice</seg>
 <lb/>in it as long as it is blood-warm.
 <lb/>[and is]
-<lb/>Verdigris is blue by itself.
-<lb/>Take the green juice on the 
-<lb/>point of a knife, and should you
-<lb/>fear that the verdigris on the side
-<lb/>of your pan is not green enough,
+<lb/><seg ana="#verdigris">Verdigris</seg> is blue by itself.
+<lb/>Take the <seg ana="#sap_green">green juice</seg> on the 
+<lb/>point of a <seg ana="#knife">knife</seg>, and should you
+<lb/>fear that the <seg ana="#verdigris">verdigris</seg> on the side
+<lb/>of your <seg ana="#pan">pan</seg> is not green enough,
 <lb/>do not do too much to it,
-<lb/>but try it on paper until the
+<lb/>but try it on <seg ana="#paper">paper</seg> until the
 <lb/>color is to your liking,
 <lb/>and in case you see that
-<lb/>the coloring of your paper is a bit
+<lb/>the <seg ana="#dyeing">coloring</seg> of your <seg ana="#paper">paper</seg> is a bit
 <lb/>too blue, you must
-<lb/>put some more put green color in a dish
+<lb/>put some more put green <seg ana="#dyeing">color</seg> in a <seg ana="#dish">dish</seg>
 <lb/>and add some. [illeg.]
 </ab>
+</div>
 
 </div></body></text>

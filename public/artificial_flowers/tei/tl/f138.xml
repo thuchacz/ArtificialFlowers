@@ -1,23 +1,25 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f138"/>
+<div ana="#brazilwood #paper #painting #stuiver #groot #pot #kanne #pint #rainwater #soaking #boiling #alum #grinding #dish #pan #melting #stick">
 <ab>
-<lb/>Mr Joris, druggist, sells brazilwood
-<lb/>wood that is very good for painting
-<lb/>paper red. One does this as follows:
-<lb/>for two stuivers’s or five’s worth of
+<lb/>Mr Joris, druggist, sells <seg ana="#brazilwood">brazilwood</seg>
+<lb/>wood that is very good for <seg ana="#painting">painting</seg>
+<lb/><seg ana="#paper">paper</seg> red. One does this as follows:
+<lb/>for two <seg ana="#stuiver">stuivers</seg>’s or five’s worth of
 <lb/>this wood according to the puddle that one wants
 <lb/>to make. And for the nicest, take but
-<lb/>a half of it. And put it in a pot with
-<lb/>a can or three pints of rainwater.
-<lb/>Let it extract somewhat and then cook[boil?] it for half an hour
-<lb/>or somewhat more. Then a piece of red alum,
-<lb/>finely pounded, but one must first, in a dish or pan,
-<lb/>smilten[melt?] [it] on its own. But one must understand that this does not
+<lb/>a half of it. And put it in a <seg ana="#pot">pot</seg> with
+<lb/>a <seg ana="#kanne">can</seg> or three <seg ana="#pint">pints</seg> of <seg ana="#rainwater">rainwater</seg>.
+<lb/>Let it <seg ana="#soaking">extract</seg> somewhat and then <seg ana="#boiling">cook[boil?]</seg> it for half an hour
+<lb/>or somewhat more. Then a piece of <seg ana="#alum">red alum</seg>,
+<lb/>finely <seg ana="#grinding">pounded</seg>, but one must first, in a <seg ana="#dish">dish</seg> or <seg ana="#pan">pan</seg>,
+<lb/><seg ana="#melting">smilten[melt?]</seg> [it] on its own. But one must understand that this does not
 <lb/>appear red but is white, but it is so named. And with
-<lb/>the outside also cooked, while the wood has simmered
+<lb/>the outside also cooked, while the wood has <seg ana="#boiling">simmered</seg>
 <lb/>for so long, then you pour the soup of alum in the
-<lb/>first pot and stir it around with a stocktien. Then the
-<lb/>whole thing becomes red. And let it simmer together somewhat, then pour some
-<lb/>soup in a little pot. And once it is cool, take white paper and lay it on
+<lb/>first pot and stir it around with a <seg ana="#stick">stocktien</seg>. Then the
+<lb/>whole thing becomes red. And let it <seg ana="#boiling">simmer</seg> together somewhat, then pour some
+<lb/>soup in a little <seg ana="#pot">pot</seg>. And once it is cool, take white <seg ana="#paper">paper</seg> and lay it on
 </ab>
+</div>
 
 </div></body></text>

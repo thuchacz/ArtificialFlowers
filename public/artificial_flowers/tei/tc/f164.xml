@@ -1,8 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f164"/>
+<div ana="#rinschen_hast #pound #wax #ounce #verdigris">
 <ab>
-<lb/>rinschen hast een alle pont
-<lb/>wasschen een alle pont
-<lb/>een honse spanche groūn
+<lb/><seg ana="#rinschen_hast">rinschen hast</seg> een alle <seg ana="#pound">pont</seg>
+<lb/><seg ana="#wax">wasschen</seg> een alle <seg ana="#pound">pont</seg>
+<lb/>een <seg ana="#ounce">honse</seg> <seg ana="#verdigris">spanche groūn</seg>
 </ab>
+</div>
 
 </div></body></text>

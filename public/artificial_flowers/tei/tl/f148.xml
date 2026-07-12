@@ -1,29 +1,31 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f148"/>
+<div ana="#horn #dyeing #vierendeel #groot #cochineal #ounce #alum #pint #fountain_water #boiling #drying #rinsing #pattern">
 <ab>
-<lb/>To dye a red color on white 
-<lb/>horn, up to a quarter
-<lb/>of horn:
-<lb/>We take, for 9 large
-<lb/>cochenille insects with a half ounce of red red alum
-<lb/>put 3 pints of fountain water.
-<lb/>One must seethe these together until
+<lb/>To <seg ana="#dyeing">dye</seg> a red color on white 
+<lb/><seg ana="#horn">horn</seg>, up to a <seg ana="#vierendeel">quarter</seg>
+<lb/>of <seg ana="#horn">horn</seg>:
+<lb/>We take, for 9 <seg ana="#groot">large</seg>
+<lb/><seg ana="#cochineal">cochenille</seg> insects with a half <seg ana="#ounce">ounce</seg> of red red <seg ana="#alum">alum</seg>
+<lb/>put 3 <seg ana="#pint">pints</seg> of <seg ana="#fountain_water">fountain water</seg>.
+<lb/>One must <seg ana="#boiling">seethe</seg> these together until
 <lb/>the soup becomes red. Once done,
-<lb/>one must put the quarter of horn
+<lb/>one must put the <seg ana="#vierendeel">quarter</seg> of <seg ana="#horn">horn</seg>
 <lb/>in there, in good order, and one
-<lb/>lets it seethe until it is a beautiful
+<lb/>lets it <seg ana="#boiling">seethe</seg> until it is a beautiful
 <lb/>pink color. Once done, one must
 <lb/>take them out of the soup and let [them]
-<lb/>dry without rinsing [them], and on
+<lb/><seg ana="#drying">dry</seg> without <seg ana="#rinsing">rinsing</seg> [them], and on
 <lb/>top of one another until [they] are somewhat dry
 <lb/>—----------------------------------------------------------
 <lb/>and once done, open [them].
-<lb/>The way to dye white
-<lb/>horn, to make it a pink color,
-<lb/>that you see the pattern here, this is sold
+<lb/>The way to <seg ana="#dyeing">dye</seg> white
+<lb/><seg ana="#horn">horn</seg>, to make it a pink color,
+<lb/>that you see the <seg ana="#pattern">pattern</seg> here, this is sold
 <lb/>one buys this from the merchant
 <lb/>and from the hair dresser, the and [from] other
 <lb/>people who make flowers
 <lb/>in the world.
 </ab>
+</div>
 
 </div></body></text>

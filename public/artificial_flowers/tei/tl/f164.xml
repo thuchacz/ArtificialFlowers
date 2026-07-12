@@ -1,8 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f164"/>
+<div ana="#rinschen_hast #pound #wax #ounce #verdigris">
 <ab>
-<lb/>have rinsed a full pound
-<lb/>washed a full pound
-<lb/>one our Spanish green
+<lb/>have <seg ana="#rinschen_hast">rinsed</seg> a full <seg ana="#pound">pound</seg>
+<lb/><seg ana="#wax">washed</seg> a full <seg ana="#pound">pound</seg>
+<lb/>one <seg ana="#ounce">our</seg> <seg ana="#verdigris">Spanish green</seg>
 </ab>
+</div>
 
 </div></body></text>

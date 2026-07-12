@@ -1,15 +1,17 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f155"/>
+<div ana="#lye #beer #stuiver #brazilwood #oyster_shell #dyeing #logwood #paper">
 <ab>
-<lb/>Laundry soap/wax(??) best old beer, the oldest, and the
+<lb/><seg ana="#lye">Laundry soap/wax(??)</seg> best old <seg ana="#beer">beer</seg>, the oldest, and the
 <lb/>to make, take a ___ wood good
-<lb/>__ stuiver brazil wood, and for xxxx
+<lb/>__ <seg ana="#stuiver">stuiver</seg> <seg ana="#brazilwood">brazil wood</seg>, and for xxxx
 <lb/>off more up to the half, and then
 <lb/>and as one wants to use that, so
-<lb/>oyster shell, and spill that 2 or 3
+<lb/><seg ana="#oyster_shell">oyster shell</seg>, and spill that 2 or 3
 <lb/>night xx becomes thick, xx then is
-<lb/>rren on paper, as also on
-<lb/>ck purple dye but in the
-<lb/>mt one logwood ~
+<lb/>rren on <seg ana="#paper">paper</seg>, as also on
+<lb/>ck purple <seg ana="#dyeing">dye</seg> but in the
+<lb/>mt one <seg ana="#logwood">logwood</seg> ~
 </ab>
+</div>
 
 </div></body></text>

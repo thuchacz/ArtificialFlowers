@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f171"/>
+<div ana="#safflower #bag #pot #rainwater #fountain_water #pint #lye #vine_ash #coverlet #soaking #kneading #handful #wringing #vinegar #dyeing #washing #verjuice #rinsing #drying">
 <ab>
-<lb/>After, one pulls the safflower out of the bag and puts it
-<lb/>in a large, flat[-bottomed] pot, and once everything is thoroughly picked
-<lb/>[out of the bag], one sprinkles there a little rain or fountain water
-<lb/>over [it]. Then one pours into the safflower a pint of lye made
-<lb/>from the ashes of grapevine tendrils. Then is the pot covered
+<lb/>After, one pulls the <seg ana="#safflower">safflower</seg> out of the <seg ana="#bag">bag</seg> and puts it
+<lb/>in a large, flat[-bottomed] <seg ana="#pot">pot</seg>, and once everything is thoroughly picked
+<lb/>[out of the bag], one sprinkles there a little <seg ana="#rainwater">rain</seg> or <seg ana="#fountain_water">fountain water</seg>
+<lb/>over [it]. Then one pours into the <seg ana="#safflower">safflower</seg> a <seg ana="#pint">pint</seg> of <seg ana="#lye">lye</seg> made
+<lb/>from the <seg ana="#vine_ash">ashes of grapevine tendrils</seg>. Then is the pot covered
 <lb/>with another of the same size, so that it
 <lb/>can catch the air. Set it in a dark place,
-<lb/>set a covering-cloth over it, and let it proceed
-<lb/>for 2 hours, and [it] must then be bruised for 15 minutes.
-<lb/>One must remove it by handfuls. Once one can
+<lb/>set a <seg ana="#coverlet">covering-cloth</seg> over it, and let it <seg ana="#soaking">proceed</seg>
+<lb/>for 2 hours, and [it] must then be <seg ana="#kneading">bruised</seg> for 15 minutes.
+<lb/>One must remove it by <seg ana="#handful">handfuls</seg>. Once one can
 <lb/>take no more [out], pour the rest into the bag again, [and] this
-<lb/>is wrung out into a clean pot. One prepares immediately
-<lb/>another pot with some white wine vinegar, in which the fabric
+<lb/>is <seg ana="#wringing">wrung out</seg> into a clean <seg ana="#pot">pot</seg>. One prepares immediately
+<lb/>another <seg ana="#pot">pot</seg> with some <seg ana="#vinegar">white wine vinegar</seg>, in which the fabric
 <lb/>is made wet. Being well drunk, one takes these [i.e., the vinegar-soaked fabric and the lyed petals]
 <lb/>all together, gives them into the hands of the person that
-<lb/>bruised and and wrung out the safflower, which entire mass alike had
-<lb/>been set in the dye. Wash these same [things] well one by one.
+<lb/><seg ana="#kneading">bruised</seg> and and <seg ana="#wringing">wrung out</seg> the <seg ana="#safflower">safflower</seg>, which entire mass alike had
+<lb/>been set in the <seg ana="#dyeing">dye</seg>. <seg ana="#washing">Wash</seg> these same [things] well one by one.
 <lb/>Proceed with a light hand as quickly as is possible.
-<lb/>The fabric, having her color, is washed again, piece by
-<lb/>piece, after having removed [un-dunked] it well. Put them in verjuice
-<lb/>after [they] are squeezed out as before. [They] are rinsed in three or 4
-<lb/>pots following before prepared with 2 or 3 pints of clean
-<lb/>rain or fountain water, where after one washes a few pieces of fabric
-<lb/>therein [once] the first color is rinsed in, which serves
-<lb/>as a pale color and is then dried together in the attic. [is there a little flower at the end?]
+<lb/>The fabric, having her color, is <seg ana="#washing">washed</seg> again, piece by
+<lb/>piece, after having removed [un-dunked] it well. Put them in <seg ana="#verjuice">verjuice</seg>
+<lb/>after [they] are <seg ana="#wringing">squeezed out</seg> as before. [They] are <seg ana="#rinsing">rinsed</seg> in three or 4
+<lb/><seg ana="#pot">pots</seg> following before prepared with 2 or 3 <seg ana="#pint">pints</seg> of clean
+<lb/><seg ana="#rainwater">rain</seg> or <seg ana="#fountain_water">fountain water</seg>, where after one <seg ana="#washing">washes</seg> a few pieces of fabric
+<lb/>therein [once] the first color is <seg ana="#rinsing">rinsed</seg> in, which serves
+<lb/>as a pale color and is then <seg ana="#drying">dried</seg> together in the attic. [is there a little flower at the end?]
 </ab>
+</div>
 
   </div></body>
       </text>

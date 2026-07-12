@@ -1,10 +1,12 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f161"/>
+<div ana="#dyeing #boiling #bottle">
 <ab>
-<lb/>and when your dye is cooked,
-<lb/>put it in a bottle. You can
+<lb/>and when your <seg ana="#dyeing">dye</seg> is <seg ana="#boiling">cooked</seg>,
+<lb/>put it in a <seg ana="#bottle">bottle</seg>. You can
 <lb/>keep it and use as you please,
 <lb/> but it is better in the summer
 <lb/>than now.
 </ab>
+</div>
 
 </div></body></text>

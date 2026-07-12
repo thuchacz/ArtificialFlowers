@@ -1,16 +1,18 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f136"/>
+<div ana="#vierendeel #alum #tartar">
 <ab>
 <lb/>does not believe
 <lb/>to have the goodness
 <lb/>to tiecken[??] from here
-<lb/>up to a quarter
+<lb/>up to a <seg ana="#vierendeel">quarter</seg>
 <lb/>of it nothing that
 <lb/>is of need or of many
-<lb/>red alum
+<lb/><seg ana="#alum">red alum</seg>
 <lb/>of co[chineal?]
-<lb/>and of tartar
+<lb/>and of <seg ana="#tartar">tartar</seg>
 <lb/>I will be fully
 <lb/>grateful
 </ab>
+</div>
 
 </div></body></text>
