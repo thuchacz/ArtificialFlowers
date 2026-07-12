@@ -148,6 +148,16 @@ From f128–f143:
 - Unrecorded units (susijn/sisein) are minted as categories with an "unidentified measure"
   label rather than guessed at.
 
+From f144–f171:
+- When two categories may denote the same substance but the original terms differ and identity
+  is unproven (sap groen vs boūck groen), mint separately and flag for editorial merge —
+  merging later is a one-line taxonomy change; un-merging is not.
+- Documentary ephemera (f149 postage memo) and iconographic descriptions (f167 monstrances)
+  are non-recipe content: unwrapped, and their incidental term mentions (the memo's stuivers)
+  are NOT tagged.
+- A fair-copy duplicate of an earlier recipe carries the earlier entry's tag set, adjusted for
+  what its own text actually contains (f144 vs f142/f143).
+
 ## Final report (your return message)
 
 Return a terse report: folios tagged; number of entries wrapped per layer; new categories added

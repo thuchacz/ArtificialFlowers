@@ -27,6 +27,15 @@ Format: **folio · term** — the issue, what was done, and the question.
   classic lake-pigment making (pouring off the sediment to dry); the translation misses it
   entirely. Tagged `#lake_pigment`. **Q:** retranslate this passage.
 
+- **f148–f170 · systematic small mistranslations in the Dutch section** (each tagged with the
+  Dutch meaning per the f028 precedent; the English seg sits on the translator's word):
+  f148 *groot* (coin) → "large"; f156 *gambe* (gamboge) → "gum"; f160 *wecken* (soak) →
+  "Preserve" and *geschūmt* (skimmed) → "foamy"; f164/f166 *honse/onsse* (ounce) → "our";
+  f168 *sien* (seethe) → "seen", *pot asschen* (potash) → "pot of…ashes", *pont* (pound) →
+  "pints" (twice); f170 *hert* (hearth) → "heart" and *aerden pot* (earthenware) → "metal
+  pot"; f155 *lescivve* (lye) → "Laundry soap/wax(??)"; f164 *wasschen* (wax) → "washed".
+  **Q:** systematic retranslation review of the Dutch folios.
+
 ## Uncertain identifications
 
 - **f012 · "ponsaū"** (tl "pansy") — the French syntax reads as *ponceau* (poppy-red color) being
@@ -46,6 +55,16 @@ Format: **folio · term** — the issue, what was done, and the question.
 - **Doubtful in both layers, left untagged:** f134 "ortiens" (tl "[nettles?]"); f136 "van Co"
   (truncated — cochineal?); f140 "contoor met vier" (possibly *comfoor*, a chafing dish).
   **Q:** readings?
+- **f163 "leeder"** (ladder vs leather — tl chose "leather", but a drying rack is more
+  plausible); **f168 "troocken"** (possibly *trekken*, steep); **f170 "om roosen te verwen"**
+  (dyeing roses, or rose-color?); **f155 "een caen hoūt"** (fragmentary — *kanne*?). All left
+  untagged. **Q:** readings?
+- **`sap_green` vs `bouck_green`** — two green-pigment categories minted from different
+  original terms (*sap groen*, *boūck groen*); identity unproven. **Q:** same substance?
+  Merging is a one-line taxonomy change.
+- **f148 "people who make flowers"** — generic *fleūrs*, no specific flower; there is no
+  generic-flower category, so it's untagged. **Q:** is a generic `flower` category wanted for
+  such mentions?
 
 - **f045+ · "bois ferneboūcqūe" / "bois de bresil"** — the translator renders *ferneboucque* as
   "brazil wood" and *bois de bresil* as "logwood", the reverse of what the French names suggest.
