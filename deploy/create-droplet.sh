@@ -24,7 +24,7 @@ FP=$(ssh-keygen -lf "$PUBKEY" -E md5 | awk '{print $2}' | sed 's/^MD5://')
 KEY_ID=$(doctl compute ssh-key list --format ID,FingerPrint --no-header | awk -v fp="$FP" '$2==fp {print $1}')
 if [ -z "$KEY_ID" ]; then
   echo "Importing $PUBKEY to DigitalOcean..."
-  KEY_ID=$(doctl compute ssh-key import "thc4-$(basename "$PUBKEY" .pub)" --public-key-file "$PUBKEY" --format ID --no-header)
+  KEY_ID=$(doctl compute ssh-key import "af-test-$(basename "$PUBKEY" .pub)" --public-key-file "$PUBKEY" --format ID --no-header)
 fi
 
 echo "Creating droplet $NAME ($SIZE, $IMAGE, $REGION)..."
