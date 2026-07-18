@@ -23,6 +23,17 @@ markup in the live Tag Explorer without merging PR #1.
    SSH key `~/.ssh/id_ed25519.pub`. Override via env vars (`DROPLET_NAME`,
    `DROPLET_REGION`, `DROPLET_SIZE`, `SSH_PUBKEY`).
 
+   Already have a droplet created another way (e.g. the DigitalOcean web console,
+   without cloud-init)? Skip `create-droplet.sh` and install/configure nginx on the
+   existing droplet with:
+
+   ```sh
+   ./deploy/provision.sh <droplet-ip>
+   ```
+
+   It's idempotent (safe to rerun) and leaves the droplet ready for `deploy.sh`.
+   Override the SSH user with `DEPLOY_USER` (default `root`).
+
 ## Deploy (and redeploy after TEI changes)
 
 ```sh
