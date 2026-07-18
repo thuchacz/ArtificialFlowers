@@ -1,29 +1,31 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f018"/>
+<div ana="#dyeing #tracing #soaking #washing #carmine #gum_tragacanth #safflower #cambric #toile #rainwater #bag #bucket #drop #quarter_pound">
 <ab>
 <lb/>bottom the dye is not yet all ~
-<lb/>used, one needs to put in it a few drops of water,
-<lb/>with one drop of gum ~; but not
+<lb/>used, one needs to put in it a few <seg ana="#drop">drops</seg> of water,
+<lb/>with one <seg ana="#drop">drop</seg> of <seg ana="#gum_tragacanth">gum</seg> ~; but not
 <lb/>each time that you put in water; but
 <lb/>only when you see that the blue
-<lb/>is not tracing well, for when this blue has too much
-<lb/>gum it is in danger of shining, and it 
+<lb/>is not <seg ana="#tracing">tracing</seg> well, for when this blue has too much
+<lb/><seg ana="#gum_tragacanth">gum</seg> it is in danger of shining, and it 
 <lb/>spoils the harmony of blue; after the blue
-<lb/>is traced, and very dry; on the traced
-<lb/>cambric; one needs to trace there on top of the said blue a 
-<lb/>light carmine. ~~~ for pinks,
-<lb/>For dyeing pink color; one needs to
-<lb/>take a quarter of safflower, which one
-<lb/>puts in a little bag, of white cloth; 
-<lb/>then one puts it to soak in a bucket 
-<lb/>of rain, or fountain, water; immediately one
-<lb/>washes the safflower a little, by changing its
-<lb/>water two times, then leaves it to soak,
+<lb/>is <seg ana="#tracing">traced</seg>, and very dry; on the <seg ana="#tracing">traced</seg>
+<lb/><seg ana="#cambric">cambric</seg>; one needs to <seg ana="#tracing">trace</seg> there on top of the said blue a 
+<lb/>light <seg ana="#carmine">carmine</seg>. ~~~ for pinks,
+<lb/>For <seg ana="#dyeing">dyeing</seg> pink color; one needs to
+<lb/>take a <seg ana="#quarter_pound">quarter</seg> of <seg ana="#safflower">safflower</seg>, which one
+<lb/>puts in a little <seg ana="#bag">bag</seg>, of white <seg ana="#toile">cloth</seg>; 
+<lb/>then one puts it to <seg ana="#soaking">soak</seg> in a <seg ana="#bucket">bucket</seg> 
+<lb/>of <seg ana="#rainwater">rain</seg>, or fountain, water; immediately one
+<lb/><seg ana="#washing">washes</seg> the <seg ana="#safflower">safflower</seg> a little, by changing its
+<lb/>water two times, then leaves it to <seg ana="#soaking">soak</seg>,
 <lb/>from five thirty, at night, until
 <lb/>five thirty, in the morning; one needs to
-<lb/>take great care; that the little bag is good 
-<lb/>and well tied; in order that the safflower does not leave it;
-<lb/>next one needs to wash it, by
+<lb/>take great care; that the little <seg ana="#bag">bag</seg> is good 
+<lb/>and well tied; in order that the <seg ana="#safflower">safflower</seg> does not leave it;
+<lb/>next one needs to <seg ana="#washing">wash</seg> it, by
 <lb/>changing the water; from time to time, and that without
 </ab>
+</div>
 
 </div></body></text>

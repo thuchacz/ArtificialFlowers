@@ -1,15 +1,17 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f134"/>
+<div ana="#stuiver #berlin_blue #florentine_red #rose_red #english_ash #shell_white #pale_yellow #orange_dye #bouck_green #paintbrush #indigo">
 <ab>
-<lb/>for 3 stuivers, Berlin blue
-<lb/>for 3 stuivers, Florentine red
-<lb/>for one stuiver, pink[rose?] red
-<lb/>for 2 stuivers, blue English ashes
-<lb/>for one stuiver, shell white
-<lb/>for one stuiver, pale yellow
-<lb/>for 2 stuivers, orange dye
-<lb/>for one stuiver, borich green
-<lb/>six paintbrushes of ortiens[nettles?]
-<lb/>for one stuiver, indigo
+<lb/>for 3 <seg ana="#stuiver">stuivers</seg>, <seg ana="#berlin_blue">Berlin blue</seg>
+<lb/>for 3 <seg ana="#stuiver">stuivers</seg>, <seg ana="#florentine_red">Florentine red</seg>
+<lb/>for one <seg ana="#stuiver">stuiver</seg>, <seg ana="#rose_red">pink[rose?] red</seg>
+<lb/>for 2 <seg ana="#stuiver">stuivers</seg>, <seg ana="#english_ash">blue English ashes</seg>
+<lb/>for one <seg ana="#stuiver">stuiver</seg>, <seg ana="#shell_white">shell white</seg>
+<lb/>for one <seg ana="#stuiver">stuiver</seg>, <seg ana="#pale_yellow">pale yellow</seg>
+<lb/>for 2 <seg ana="#stuiver">stuivers</seg>, <seg ana="#orange_dye">orange dye</seg>
+<lb/>for one <seg ana="#stuiver">stuiver</seg>, <seg ana="#bouck_green">borich green</seg>
+<lb/>six <seg ana="#paintbrush">paintbrushes</seg> of ortiens[nettles?]
+<lb/>for one <seg ana="#stuiver">stuiver</seg>, <seg ana="#indigo">indigo</seg>
 </ab>
+</div>
 
 </div></body></text>

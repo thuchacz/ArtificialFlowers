@@ -1,30 +1,32 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f048"/>
+<div ana="#verdigris #gum_tragacanth #vinegar #oil #brazilwood #alum #paper #quarter_pound #pint #drop #soaking #boiling #straining #cloth #bottle #mussel_shell #oyster_shell #painting #dyeing">
 <ab>
-<lb/>verser un peūt dū vinaigre, et qūelque fois 
-<lb/>aūsi un peūt d’eaū, en place de vinaigre, me 
-<lb/>la premiere fois, il faūt toūjoūr le mettre tram=
-<lb/>=per aūec dū vinaigre, et cinq, oū six goūtes, 
-<lb/>de claire gomme, on achette ce ver de gris 
-<lb/>preparez, chez le pintre, en disans qūe le 
-<lb/>die ver, et poūr pindre sūr le papier, qūil ne
-<lb/>doit pas estre preparez, aūec de l’hūile; ~
+<lb/>verser un peūt dū <seg ana="#vinegar">vinaigre</seg>, et qūelque fois
+<lb/>aūsi un peūt d’eaū, en place de <seg ana="#vinegar">vinaigre</seg>, me
+<lb/>la premiere fois, il faūt toūjoūr le mettre <seg ana="#soaking">tram=
+<lb/>=per</seg> aūec dū <seg ana="#vinegar">vinaigre</seg>, et cinq, oū six <seg ana="#drop">goūtes</seg>,
+<lb/>de claire <seg ana="#gum_tragacanth">gomme</seg>, on achette ce <seg ana="#verdigris">ver de gris</seg>
+<lb/>preparez, chez le pintre, en disans qūe le
+<lb/>die ver, et poūr <seg ana="#painting">pindre</seg> sūr le <seg ana="#paper">papier</seg>, qūil ne
+<lb/>doit pas estre preparez, aūec de l’<seg ana="#oil">hūile</seg>; ~
 <lb/>✠✠✠ ..
 <lb/>Un aūtre maniere encorre, a faire dū
-<lb/>roūge poūr pintūrer, dessūs le papier, lons~
-<lb/>prend un cartron de bois ferneboūcqūe, aūec
-<lb/>deūx pinte de vinaigre, et une demie car=
-<lb/>=tron d’oleūn, on laisse boūlier sa, jūsqua la 
-<lb/>moitiez, ensūite, on passe la soūpe par un 
-<lb/>linge, et on le verse, dans une boūteille, 
-<lb/>cela demeūre trois aen, bon, poūr sens 
+<lb/>roūge poūr <seg ana="#painting">pintūrer</seg>, dessūs le <seg ana="#paper">papier</seg>, lons~
+<lb/>prend un <seg ana="#quarter_pound">cartron</seg> de <seg ana="#brazilwood">bois ferneboūcqūe</seg>, aūec
+<lb/>deūx <seg ana="#pint">pinte</seg> de <seg ana="#vinegar">vinaigre</seg>, et une demie <seg ana="#quarter_pound">car=
+<lb/>=tron</seg> d’<seg ana="#alum">oleūn</seg>, on laisse <seg ana="#boiling">boūlier</seg> sa, jūsqua la
+<lb/>moitiez, ensūite, on <seg ana="#straining">passe</seg> la soūpe par un
+<lb/><seg ana="#cloth">linge</seg>, et on le verse, dans une <seg ana="#bottle">boūteille</seg>,
+<lb/>cela demeūre trois aen, bon, poūr sens
 <lb/>serūire, ~~~~~~ lisez a cette ✠
-<lb/>Me qūand long veūx, pintūrer aūec le 
+<lb/>Me qūand long veūx, <seg ana="#painting">pintūrer</seg> aūec le
 <lb/>dit roūge, lons verse de ce roūge, dans une
-<lb/>ecaille de moūlet, oū bien, dans une ecaille 
-<lb/>d’oūstre, il faūt le mettre dans le soleil
+<lb/><seg ana="#mussel_shell">ecaille de moūlet</seg>, oū bien, dans une <seg ana="#oyster_shell">ecaille
+<lb/>d’oūstre</seg>, il faūt le mettre dans le soleil
 <lb/>l’espasse de sept, oū hūit heūre, ensūite
 <lb/>on verse le claire dans une aūtres~
 <lb/>ecaille bien propre aūsi; et le l’andemain
 </ab>
+</div>
 
 </div></body></text>

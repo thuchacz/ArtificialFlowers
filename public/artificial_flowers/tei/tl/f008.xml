@@ -1,20 +1,22 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f008"/>
+<div ana="#anemone #ranunculus #starch_blue #bruges_blue #soaking #washing #wringing">
 <ab>
 <lb/>Yet another kind of pale blue
-<lb/>for the beginning of blue alimon and
-<lb/>blue ranunculus, much better than
-<lb/>starch pale-blue; ~
+<lb/>for the beginning of blue <seg ana="#anemone">alimon</seg> and
+<lb/>blue <seg ana="#ranunculus">ranunculus</seg>, much better than
+<lb/><seg ana="#starch_blue">starch pale-blue</seg>; ~
 <lb/>One needs to take a piece [of]
 <lb/>new blue cloth, which one calls the
-<lb/>dye of Bruges, very clean. One needs to put
-<lb/>it to soak for a bit in cold water. Next one
-<lb/>needs to wash [until?] only the red or black soup
+<lb/><seg ana="#bruges_blue">dye of Bruges</seg>, very clean. One needs to put
+<lb/>it to <seg ana="#soaking">soak</seg> for a bit in cold water. Next one
+<lb/>needs to <seg ana="#washing">wash</seg> [until?] only the red or black soup
 <lb/>removes itself. One needs to throw this water away,
 <lb/>then one needs to take another clear water,
-<lb/>cold also. Next one needs to wash it once 
-<lb/>more in this water. Being well washed and
+<lb/>cold also. Next one needs to <seg ana="#washing">wash</seg> it once 
+<lb/>more in this water. Being well <seg ana="#washing">washed</seg> and
 <lb/>the water being very blue, one needs to take it out of
-<lb/>the water and wring it out well. Next, one needs to leave this
+<lb/>the water and <seg ana="#wringing">wring</seg> it out well. Next, one needs to leave this
 </ab>
+</div>
 
 </div></body></text>

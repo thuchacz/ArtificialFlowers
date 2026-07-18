@@ -1,33 +1,35 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f054"/>
+<div ana="#silk #toile #brazilwood #logwood #beer #vinegar #rainwater #chamomile #alum #soap #gum_tragacanth #cambric #quarter_pound #liard #pint #grinding #boiling #soaking #dyeing #pressing #washing #rinsing #drying #starching #board #cord #iron">
 <ab>
-<lb/>way also, as one dyes red silk,
-<lb/>but instead of brazil wood,
-<lb/>one takes logwood~~
-<lb/>Note, that beer, cannot be too old, when it is twelve, and
-<lb/>20. years old; and it is much better, than vinegar, and rain water;~
-<lb/>Way for jonquil silk, and cloth,
-<lb/>one needs to take a half quarter [of a pound]
-<lb/>of baker's chamomile + + and for three liards of pounded alum that one makes boil
-<lb/>with two pints of rain water; one puts
-<lb/>the silk to soak + + in the dye round-about a half quarter
-<lb/>of an hour, next one makes it boil together,
-<lb/>being a little boiled; one takes the
-<lb/>silk, or cloth out of the dye; + + for seeing if it is good one
-<lb/>presses it with the hands, and one throws it into
-<lb/>a soapy wash of white soap + if it is good; in-following one
-<lb/>washes it, as clear, as one sees to be enough,
-<lb/>then one needs to rinse it with rain
-<lb/>water, and press the water out well, from there one
-<lb/>needs to + + make it dry, and after that stiffen it, with silk gum, well
-<lb/>soaked, and strongly thick, next one applies it
-<lb/>on a board, as evenly as one can,
-<lb/>one on top of the other, from there one hangs it on a cord,
-<lb/>being dry, one irons it as one
+<lb/>way also, as one <seg ana="#dyeing">dyes</seg> red <seg ana="#silk">silk</seg>,
+<lb/>but instead of <seg ana="#brazilwood">brazil wood</seg>,
+<lb/>one takes <seg ana="#logwood">logwood</seg>~~
+<lb/>Note, that <seg ana="#beer">beer</seg>, cannot be too old, when it is twelve, and
+<lb/>20. years old; and it is much better, than <seg ana="#vinegar">vinegar</seg>, and <seg ana="#rainwater">rain water</seg>;~
+<lb/>Way for jonquil <seg ana="#silk">silk</seg>, and <seg ana="#toile">cloth</seg>,
+<lb/>one needs to take a <seg ana="#quarter_pound">half quarter [of a pound]</seg>
+<lb/>of <seg ana="#chamomile">baker's chamomile</seg> + + and for three <seg ana="#liard">liards</seg> of <seg ana="#grinding">pounded</seg> <seg ana="#alum">alum</seg> that one makes <seg ana="#boiling">boil</seg>
+<lb/>with two <seg ana="#pint">pints</seg> of <seg ana="#rainwater">rain water</seg>; one puts
+<lb/>the <seg ana="#silk">silk</seg> to <seg ana="#soaking">soak</seg> + + in the <seg ana="#dyeing">dye</seg> round-about a half quarter
+<lb/>of an hour, next one makes it <seg ana="#boiling">boil</seg> together,
+<lb/>being a little <seg ana="#boiling">boiled</seg>; one takes the
+<lb/><seg ana="#silk">silk</seg>, or <seg ana="#toile">cloth</seg> out of the <seg ana="#dyeing">dye</seg>; + + for seeing if it is good one
+<lb/><seg ana="#pressing">presses</seg> it with the hands, and one throws it into
+<lb/>a soapy wash of <seg ana="#soap">white soap</seg> + if it is good; in-following one
+<lb/><seg ana="#washing">washes</seg> it, as clear, as one sees to be enough,
+<lb/>then one needs to <seg ana="#rinsing">rinse</seg> it with <seg ana="#rainwater">rain
+<lb/>water</seg>, and <seg ana="#pressing">press</seg> the water out well, from there one
+<lb/>needs to + + make it <seg ana="#drying">dry</seg>, and after that <seg ana="#starching">stiffen</seg> it, with <seg ana="#gum_tragacanth">silk gum</seg>, well
+<lb/><seg ana="#soaking">soaked</seg>, and strongly thick, next one applies it
+<lb/>on a <seg ana="#board">board</seg>, as evenly as one can,
+<lb/>one on top of the other, from there one hangs it on a <seg ana="#cord">cord</seg>,
+<lb/>being <seg ana="#drying">dry</seg>, one <seg ana="#pressing">irons</seg> it as one
 <lb/>does linens., ∞ Note, for making flowers
-<lb/>of cambric, one needs
-<lb/>never to iron anything, with the iron;
+<lb/>of <seg ana="#cambric">cambric</seg>, one needs
+<lb/>never to <seg ana="#pressing">iron</seg> anything, with the <seg ana="#iron">iron</seg>;
 <lb/>Way for having a paler yellow,
-<lb/>it suffices to put the silk, in the dye
+<lb/>it suffices to put the <seg ana="#silk">silk</seg>, in the <seg ana="#dyeing">dye</seg>
 </ab>
+</div>
 
 </div></body></text>

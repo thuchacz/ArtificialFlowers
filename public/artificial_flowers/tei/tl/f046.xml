@@ -1,22 +1,24 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f046"/>
+<div ana="#verdigris #gum_tragacanth #vinegar #paper #quarter_pound #ounce #drop #marble_slab #sieve #pot #paintbrush #grinding #straining #tracing">
 <ab>
-<lb/>Note when you don't want to buy the green
+<lb/>Note when you don't want to buy the <seg ana="#verdigris">green</seg>
 <lb/>at the painter's; ~ ✠ ✠ ✠ .. to this line, read
 <lb/>Behold the way that one needs to prepare it;
-<lb/>one needs to take a half quarter [of a pound]; or an ounce,
-<lb/>of verdigris, it must be well pounded, then
-<lb/>pass it through a thick little sieve; then one needs to rub it,
-<lb/>with some clear gum, and a few drops of vinegar;
-<lb/>on top of a marble slab, or of sandstone; being rubbed
-<lb/>enough; one needs to put it in a little pot, and thin
-<lb/>it with some vinegar; and from time, to time, stretch it
+<lb/>one needs to take a <seg ana="#quarter_pound">half quarter [of a pound]</seg>; or an <seg ana="#ounce">ounce</seg>,
+<lb/>of <seg ana="#verdigris">verdigris</seg>, it must be well <seg ana="#grinding">pounded</seg>, then
+<lb/><seg ana="#straining">pass</seg> it through a thick little <seg ana="#sieve">sieve</seg>; then one needs to <seg ana="#grinding">rub</seg> it,
+<lb/>with some clear <seg ana="#gum_tragacanth">gum</seg>, and a few <seg ana="#drop">drops</seg> of <seg ana="#vinegar">vinegar</seg>;
+<lb/>on top of a <seg ana="#marble_slab">marble slab</seg>, or of sandstone; being <seg ana="#grinding">rubbed</seg>
+<lb/>enough; one needs to put it in a little <seg ana="#pot">pot</seg>, and thin
+<lb/>it with some <seg ana="#vinegar">vinegar</seg>; and from time, to time, stretch it
 <lb/>always like that; putting in some times some
-<lb/>drops of gum, without ever putting water in it;
-<lb/>because vinegar is the best
-<lb/>after that you use it with the paintbrush, for tracing
-<lb/>on paper, etc. ~~~
-<lb/>But when you want to have the green a little more
-<lb/>brown, one needs to put there a little more of the gum; ~
+<lb/><seg ana="#drop">drops</seg> of <seg ana="#gum_tragacanth">gum</seg>, without ever putting water in it;
+<lb/>because <seg ana="#vinegar">vinegar</seg> is the best
+<lb/>after that you use it with the <seg ana="#paintbrush">paintbrush</seg>, for <seg ana="#tracing">tracing</seg>
+<lb/>on <seg ana="#paper">paper</seg>, etc. ~~~
+<lb/>But when you want to have the <seg ana="#verdigris">green</seg> a little more
+<lb/>brown, one needs to put there a little more of the <seg ana="#gum_tragacanth">gum</seg>; ~
 </ab>
+</div>
 
 </div></body></text>

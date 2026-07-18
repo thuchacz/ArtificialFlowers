@@ -1,10 +1,12 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f074"/>
+<div ana="#pattern #painting #pansy">
 <ab>
-<lb/>patron
+<lb/><seg ana="#pattern">patron</seg>
 <lb/>IHS          MR
 <lb/>il faūt toūjoūrs, mettre toūtes les sorte des fleūrs
-<lb/>qūe lon peintūre aūec le Sts. non de jesūs, et de Marie,
-<lb/>les mettre dans un coeūr, aūec qūelqūe pinsez aū toūr.
+<lb/>qūe lon <seg ana="#painting">peintūre</seg> aūec le Sts. non de jesūs, et de Marie,
+<lb/>les mettre dans un coeūr, aūec qūelqūe <seg ana="#pansy">pinsez</seg> aū toūr.
 </ab>
+</div>
 
 </div></body></text>

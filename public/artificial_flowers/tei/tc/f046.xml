@@ -1,22 +1,24 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f046"/>
+<div ana="#verdigris #gum_tragacanth #vinegar #paper #quarter_pound #ounce #drop #marble_slab #sieve #pot #paintbrush #grinding #straining #tracing">
 <ab>
-<lb/>Notez qūand voūs ne voūlez pas acheter le ver 
-<lb/>chez le peintre; ~ ✠✠✠● ● a ces marqūe, lisez, 
-<lb/>Voila la maniere comme il faūt le preparer; 
-<lb/>il faūt prendre une demie cartron; oū un onse, 
-<lb/>de verdegrie, il doit estre bien etampez, pūis le 
-<lb/>passer par un gros petit tamie; pūis il faūt le froter, 
-<lb/>aūec de la claire gomme, et qūelqūe goūte de vineigre; 
-<lb/>desūr un caraūx de marbe, oū de grez; estant frotez 
-<lb/>assez; il le faūt mettre dans un petit pot, et le desse=
-<lb/>=pesirre aūec dū vinaigre; et de tens, en tens, le ralonger
+<lb/>Notez qūand voūs ne voūlez pas acheter le <seg ana="#verdigris">ver</seg>
+<lb/>chez le peintre; ~ ✠✠✠● ● a ces marqūe, lisez,
+<lb/>Voila la maniere comme il faūt le preparer;
+<lb/>il faūt prendre une demie <seg ana="#quarter_pound">cartron</seg>; oū un <seg ana="#ounce">onse</seg>,
+<lb/>de <seg ana="#verdigris">verdegrie</seg>, il doit estre bien <seg ana="#grinding">etampez</seg>, pūis le
+<lb/><seg ana="#straining">passer</seg> par un gros petit <seg ana="#sieve">tamie</seg>; pūis il faūt le <seg ana="#grinding">froter</seg>,
+<lb/>aūec de la claire <seg ana="#gum_tragacanth">gomme</seg>, et qūelqūe <seg ana="#drop">goūte</seg> de <seg ana="#vinegar">vineigre</seg>;
+<lb/>desūr un <seg ana="#marble_slab">caraūx de marbe</seg>, oū de grez; estant <seg ana="#grinding">frotez</seg>
+<lb/>assez; il le faūt mettre dans un petit <seg ana="#pot">pot</seg>, et le desse=
+<lb/>=pesirre aūec dū <seg ana="#vinegar">vinaigre</seg>; et de tens, en tens, le ralonger
 <lb/>toūjoūr comme sa; en ij metans qūelqūe fois qūelqūe
-<lb/>goūte de gomme, sans jamais mettre de l’eaū dedans;
-<lb/>parce qūe le vinaigre et le melieūre
-<lb/>apres sa voūs en serūez aūec le peincaūx, poūr tracer 
-<lb/>sūr le papier, &amp;.c ~~~
-<lb/>Me qūand voūs voūlez aūoir le ver un peūt plūs 
-<lb/>brūn, il faūt ij mettre de la gomme un peūt plūs; ~
+<lb/><seg ana="#drop">goūte</seg> de <seg ana="#gum_tragacanth">gomme</seg>, sans jamais mettre de l’eaū dedans;
+<lb/>parce qūe le <seg ana="#vinegar">vinaigre</seg> et le melieūre
+<lb/>apres sa voūs en serūez aūec le <seg ana="#paintbrush">peincaūx</seg>, poūr <seg ana="#tracing">tracer</seg>
+<lb/>sūr le <seg ana="#paper">papier</seg>, &amp;.c ~~~
+<lb/>Me qūand voūs voūlez aūoir le <seg ana="#verdigris">ver</seg> un peūt plūs
+<lb/>brūn, il faūt ij mettre de la <seg ana="#gum_tragacanth">gomme</seg> un peūt plūs; ~
 </ab>
+</div>
 
 </div></body></text>

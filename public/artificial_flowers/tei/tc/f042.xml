@@ -1,36 +1,38 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f042"/>
+<div ana="#dyeing #soaking #boiling #grinding #painting #tracing #paper #gamboge #saffron #egg_white #fountain_water #rainwater #nut_size #liard #pot #paintbrush">
 <ab>
-<lb/>Poūr faire le papier jonne, lons prend la
-<lb/>grosseūr de deūx, oū trois grosse nois, de la
-<lb/>gommegūt qūe lons mest tremper dans un petit
-<lb/>pot aūec de l’eaū de fontainne, oū de plūis ~
-<lb/>et sa la cantitez qūe le jonne en soit bien
+<lb/>Poūr faire le <seg ana="#paper">papier</seg> jonne, lons prend la
+<lb/>grosseūr de deūx, oū trois <seg ana="#nut_size">grosse nois</seg>, de la
+<lb/><seg ana="#gamboge">gommegūt</seg> qūe lons mest <seg ana="#soaking">tremper</seg> dans un petit
+<lb/><seg ana="#pot">pot</seg> aūec de l’<seg ana="#fountain_water">eaū de fontainne</seg>, oū de <seg ana="#rainwater">plūis</seg> ~
+<lb/>et sa la cantitez qūe le <seg ana="#gamboge">jonne</seg> en soit bien
 <lb/>coūūert, et un peūt aū desūr; lons m’est aūsij
-<lb/>tremper poūr cinq, oū six liars, de safran, 
-<lb/>entierre, sans estre pille, estent bien trempé
-<lb/>on le pūis faire boūlir si lons veūx, ensūite 
+<lb/><seg ana="#soaking">tremper</seg> poūr cinq, oū six <seg ana="#liard">liars</seg>, de <seg ana="#saffron">safran</seg>, 
+<lb/>entierre, sans estre <seg ana="#grinding">pille</seg>, estent bien <seg ana="#soaking">trempé</seg>
+<lb/>on le pūis faire <seg ana="#boiling">boūlir</seg> si lons veūx, ensūite 
 <lb/>lons versse un peūt de cette soūpe, dans la 
-<lb/>gommegūt, qūe lons demelle bien ensemble; de la 
-<lb/>on jonnie le papier, me si long voie qūe le ~
-<lb/>papiez ne pas baūx, oū haūt jonne assez, lons ~
-<lb/>ij verse encorre de la soūpe de safran, jūs=
+<lb/><seg ana="#gamboge">gommegūt</seg>, qūe lons demelle bien ensemble; de la 
+<lb/>on <seg ana="#dyeing">jonnie</seg> le <seg ana="#paper">papier</seg>, me si long voie qūe le ~
+<lb/><seg ana="#paper">papiez</seg> ne pas baūx, oū haūt jonne assez, lons ~
+<lb/>ij verse encorre de la soūpe de <seg ana="#saffron">safran</seg>, jūs=
 <lb/>=qūa temp, qūe les toūs soit a sa volonté, me
 <lb/>qūand la soūpe et trop epesse, il faūt ij mettre
-<lb/>un peūt d’eaū d’aūantage, le papier jonnie deūx 
+<lb/>un peūt d’eaū d’aūantage, le <seg ana="#paper">papier</seg> <seg ana="#dyeing">jonnie</seg> deūx 
 <lb/>fois, a chaqūe côté, qūand la coūleūrs est bien; 
-<lb/>faits un tres baūx papiez,
+<lb/>faits un tres baūx <seg ana="#paper">papiez</seg>,
 <lb/>et meme qūūne fois aussi; ~ 	
-<lb/>Notez qūe le blan d’oeūf doit
+<lb/>Notez qūe le <seg ana="#egg_white">blan d’oeūf</seg> doit
 <lb/>estre bien batūe aūant
 <lb/>de voūs en serūirre; ~
-<lb/>Maniere poūr accomoder la taintūre, poūr pin=
-<lb/>=tūrer de fleūrs sūr les papiez, la gommegūt ~
-<lb/>se demelle, et on le fais tremper de la meme ma=
+<lb/>Maniere poūr accomoder la <seg ana="#dyeing">taintūre</seg>, poūr <seg ana="#painting">pin=
+<lb/>=tūrer</seg> de fleūrs sūr les <seg ana="#paper">papiez</seg>, la <seg ana="#gamboge">gommegūt</seg> ~
+<lb/>se demelle, et on le fais <seg ana="#soaking">tremper</seg> de la meme ma=
 <lb/>=niere, qūe jaij dit cij deūant, me en place de 
-<lb/>prendre si grosse qūantité de la gommegūt, on 
-<lb/>ne met tremper qūe la grosseūr d'ūne + grosse nois; et 
-<lb/>de l’eaū a l’aūenant; ensūite ons trace aūec le 
-<lb/>pincaūx, sans se serūire de safran. ~
+<lb/>prendre si grosse qūantité de la <seg ana="#gamboge">gommegūt</seg>, on 
+<lb/>ne met <seg ana="#soaking">tremper</seg> qūe la grosseūr d'ūne + <seg ana="#nut_size">grosse nois</seg>; et 
+<lb/>de l’eaū a l’aūenant; ensūite ons <seg ana="#tracing">trace</seg> aūec le 
+<lb/><seg ana="#paintbrush">pincaūx</seg>, sans se serūire de <seg ana="#saffron">safran</seg>. ~
 </ab>
+</div>
 
 </div></body></text>

@@ -1,33 +1,35 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f050"/>
+<div ana="#silk #damask #satin #rainwater #soap #gum_tragacanth #starch_blue #dyeing #washing #rinsing #drying #boiling #stick #cord #board #pressing #starching">
 <ab>
-<lb/>dū damae 
-<lb/>Maniere poūr tindre de la soie, + et
-<lb/>dū satain, si la soie blanche, ne pas 
-<lb/>bien propre, et fort soūlliez, oū aūec 
-<lb/>de taches, il faūt le laūer aūec de l’eaū 
-<lb/>de plūis froide, et dū saūons blan, oū 
-<lb/>bien aūec dū saūons comme on laūe le
-<lb/>+ me le saūons blan et mieū
-<lb/>linge + ensūite on le rincé, et on le fait 
-<lb/>secher;
-<lb/>ensūite, estant secqūe, si ce poūr rester
-<lb/>blanche, lon demel dans la gomme de sois, un peūt 
-<lb/>dū palle bleū danpoise, il faūt faire le reste com[m]e il sūit.
-<lb/>La tintūre roūge, et violet, poūr la sois,
-<lb/>se boūlle, comme jaij die cij deūant, il faūt 
-<lb/>mettre la sois dedans, et le leser bien boū=
-<lb/>=lier, dela on prend la sois, or de la soūpe
-<lb/>aūec un baton, ons loūūre et on le pend
-<lb/>aū cordons, estant saichez, on laūe la 
-<lb/>dit soie dans une siepez de saūons 
-<lb/>blan, poūr l’eclaircijr, estant laūé, on 
-<lb/>le raince dans de l’aeū de plūis, et on 
-<lb/>le pend aū corde, ✠ estant saiqūe: [deletion begins] on
-<lb/>le plaqūe, dessūr une planche, ensūite 
-<lb/>~ons le fait saicher, dela on la repasse 
+<lb/>dū <seg ana="#damask">damae</seg>
+<lb/>Maniere poūr <seg ana="#dyeing">tindre</seg> de la <seg ana="#silk">soie</seg>, + et
+<lb/>dū <seg ana="#satin">satain</seg>, si la <seg ana="#silk">soie</seg> blanche, ne pas
+<lb/>bien propre, et fort soūlliez, oū aūec
+<lb/>de taches, il faūt le <seg ana="#washing">laūer</seg> aūec de l’<seg ana="#rainwater">eaū
+<lb/>de plūis</seg> froide, et dū <seg ana="#soap">saūons blan</seg>, oū
+<lb/>bien aūec dū <seg ana="#soap">saūons</seg> comme on laūe le
+<lb/>+ me le <seg ana="#soap">saūons blan</seg> et mieū
+<lb/>linge + ensūite on le <seg ana="#rinsing">rincé</seg>, et on le fait
+<lb/><seg ana="#drying">secher</seg>;
+<lb/>ensūite, estant <seg ana="#drying">secqūe</seg>, si ce poūr rester
+<lb/>blanche, lon demel dans la <seg ana="#gum_tragacanth">gomme de sois</seg>, un peūt
+<lb/>dū <seg ana="#starch_blue">palle bleū danpoise</seg>, il faūt faire le reste com[m]e il sūit.
+<lb/>La <seg ana="#dyeing">tintūre</seg> roūge, et violet, poūr la <seg ana="#silk">sois</seg>,
+<lb/>se <seg ana="#boiling">boūlle</seg>, comme jaij die cij deūant, il faūt
+<lb/>mettre la <seg ana="#silk">sois</seg> dedans, et le leser bien <seg ana="#boiling">boū=
+<lb/>=lier</seg>, dela on prend la <seg ana="#silk">sois</seg>, or de la soūpe
+<lb/>aūec un <seg ana="#stick">baton</seg>, ons loūūre et on le pend
+<lb/>aū <seg ana="#cord">cordons</seg>, estant <seg ana="#drying">saichez</seg>, on <seg ana="#washing">laūe</seg> la
+<lb/>dit <seg ana="#silk">soie</seg> dans une siepez de <seg ana="#soap">saūons
+<lb/>blan</seg>, poūr l’eclaircijr, estant <seg ana="#washing">laūé</seg>, on
+<lb/>le <seg ana="#rinsing">raince</seg> dans de l’<seg ana="#rainwater">aeū de plūis</seg>, et on
+<lb/>le pend aū <seg ana="#cord">corde</seg>, ✠ estant <seg ana="#drying">saiqūe</seg>: [deletion begins] on
+<lb/>le plaqūe, dessūr une <seg ana="#board">planche</seg>, ensūite
+<lb/>~ons le fait <seg ana="#drying">saicher</seg>, dela on la <seg ana="#pressing">repasse</seg>
 <lb/>comme l’ons faist le lainge,. Notez
 <lb/>cette marqūe trois lingnes plūs haūt, [deletion ends]
-<lb/>✠ estant saiqūe: il faūt l’enpeser aūec de
+<lb/>✠ estant <seg ana="#drying">saiqūe</seg>: il faūt l’<seg ana="#starching">enpeser</seg> aūec de
 </ab>
+</div>
 
 </div></body></text>

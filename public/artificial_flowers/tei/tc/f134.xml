@@ -1,15 +1,17 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f134"/>
+<div ana="#stuiver #berlin_blue #florentine_red #rose_red #english_ash #shell_white #pale_yellow #orange_dye #bouck_green #paintbrush #indigo">
 <ab>
-<lb/>voor 3 stūivers berlins blaūw
-<lb/>voor 3 stūivers florentins root
-<lb/>voor een illeg stūiver roose root
-<lb/>voor 2 stūivers blaūwe Engels asken
-<lb/>voor een stūiver schelpe wit
-<lb/>voor een stūiver bleeck geūlwe
-<lb/>voor 2 stūivers orainie orainie verwe
-<lb/>voor een stūiver boūck groen
-<lb/>v ses penceelen van ortiens
-<lb/>voor een stūiver indego
+<lb/>voor 3 <seg ana="#stuiver">stūivers</seg> <seg ana="#berlin_blue">berlins blaūw</seg>
+<lb/>voor 3 <seg ana="#stuiver">stūivers</seg> <seg ana="#florentine_red">florentins root</seg>
+<lb/>voor een illeg <seg ana="#stuiver">stūiver</seg> <seg ana="#rose_red">roose root</seg>
+<lb/>voor 2 <seg ana="#stuiver">stūivers</seg> <seg ana="#english_ash">blaūwe Engels asken</seg>
+<lb/>voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#shell_white">schelpe wit</seg>
+<lb/>voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#pale_yellow">bleeck geūlwe</seg>
+<lb/>voor 2 <seg ana="#stuiver">stūivers</seg> <seg ana="#orange_dye">orainie orainie verwe</seg>
+<lb/>voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#bouck_green">boūck groen</seg>
+<lb/>v ses <seg ana="#paintbrush">penceelen</seg> van ortiens
+<lb/>voor een <seg ana="#stuiver">stūiver</seg> <seg ana="#indigo">indego</seg>
 </ab>
+</div>
 
 </div></body></text>

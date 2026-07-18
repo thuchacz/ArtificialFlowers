@@ -1,33 +1,35 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f059"/>
+<div ana="#fish_glue #hide_glue #leather #cambric #terrine #chafing_dish #earthenware_pot #pound #pint #starching #washing #pressing">
 <ab>
-<lb/>une aūtre terrinne, qūand la colle ~
+<lb/>une aūtre <seg ana="#terrine">terrinne</seg>, qūand la colle ~
 <lb/>deūient geleaij, il faūt toūjoūr le degeler 
-<lb/>dessūr un rechaū, aūant d’empeser le 
-<lb/>cambraij aūec, il en faūt faire de meme
-<lb/>aūsi, aūec la colle de cūirre, ~~
-<lb/>Maniere poūr faire de la colle de ~
-<lb/>cūire, il faūt prendre une demie liūre
-<lb/>de cūire blan, comme lons coūpe les la=
+<lb/>dessūr un <seg ana="#chafing_dish">rechaū</seg>, aūant d’<seg ana="#starching">empeser</seg> le 
+<lb/><seg ana="#cambric">cambraij</seg> aūec, il en faūt faire de meme
+<lb/>aūsi, aūec la <seg ana="#hide_glue">colle de cūirre</seg>, ~~
+<lb/>Maniere poūr faire de la <seg ana="#hide_glue">colle de ~
+<lb/>cūire</seg>, il faūt prendre une demie <seg ana="#pound">liūre</seg>
+<lb/>de <seg ana="#leather">cūire blan</seg>, comme lons coūpe les la=
 <lb/>=niere, les petit morcaū qūil en tombe
 <lb/>seūllement,) [deletion begins] qūand l’ons va l’acheter, il 
 <lb/>faūt toūjoūr s’expliqūer, qūe ce poūr ~
 <lb/>faire de la colle de cūire aūec, et 
 <lb/>qū [deletion ends] me il faūt se garder de prendre des ~
-<lb/>petit morcaū de cūire roūge, oū bien jonne, 
+<lb/>petit morcaū de <seg ana="#leather">cūire</seg> roūge, oū bien jonne, 
 <lb/>oū bleū, 
-<lb/>parce qūe cela gatte la colle, poūr enpeser 
-<lb/>le cambraij poūr faire de fleūrs; il faūt 
-<lb/>laūer le cūire, aūsi propre qūe l’ons peūt, 
+<lb/>parce qūe cela gatte la colle, poūr <seg ana="#starching">enpeser</seg> 
+<lb/>le <seg ana="#cambric">cambraij</seg> poūr faire de fleūrs; il faūt 
+<lb/><seg ana="#washing">laūer</seg> le <seg ana="#leather">cūire</seg>, aūsi propre qūe l’ons peūt, 
 <lb/>ensūite il faūt le prendre or de l’eaū,
 <lb/>+ oū trois
-<lb/>et preser l’eaū deor, pūis l’ons prend deūx +
+<lb/>et <seg ana="#pressing">preser</seg> l’eaū deor, pūis l’ons prend deūx +
 <lb/>+ plūtot plūs, qūe moin +
-<lb/>pinte d’eaū + dans un pot de terre, dela
-<lb/>l’ons met le cūire aūsitot dans la dit eaū, 
-<lb/>+ met          + oū chaūfet
-<lb/>ensūite on le + dessūr un rechaū + il faūt 
+<lb/><seg ana="#pint">pinte</seg> d’eaū + dans un <seg ana="#earthenware_pot">pot de terre</seg>, dela
+<lb/>l’ons met le <seg ana="#leather">cūire</seg> aūsitot dans la dit eaū, 
+<lb/>+ met          + oū <seg ana="#chafing_dish">chaūfet</seg>
+<lb/>ensūite on le + dessūr un <seg ana="#chafing_dish">rechaū</seg> + il faūt 
 <lb/>le l’aiser chaūfer, ausi fort qūe l’ons peūt 
 <lb/>me
 </ab>
+</div>
 
 </div></body></text>

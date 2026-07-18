@@ -1,21 +1,23 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f052"/>
+<div ana="#toile #silk #taffeta #satin #cambric #muslin #verjuice #dyeing #soaking #boiling #pressing #dipping #drying">
 <ab>
-<lb/>Notez la toile jonqūille, et aūtres plūs palle coūleūrs 
-<lb/>jonne; se fait comme lon fait aūec de la soie, oū dū 
-<lb/>tafta, et dū satain blan; estant propre, et bien nette, 
-<lb/>et comme aussi bien secqūe; il le faūt mettre tramper dans la 
-<lb/>taintūr, &amp;.c me qūand elle et boūlie assez, et qūe la coūleūr
-<lb/>et bien; il le faūt prendre or de la taintūr, et bien preser
-<lb/>la taintūr deor; ensūite si voūs voūlez, oū si voūs le troūūez
-<lb/>bon, apres aūoir eproūūez de plonger qūelqūes piece dans le 
-<lb/>vergūe, et par la qūe la coūleūr et plūs agreable, a vostre
-<lb/>me elle ne pas de dūrez aūec le vergūe, elle changes de coūleūrs +
+<lb/>Notez la <seg ana="#toile">toile</seg> jonqūille, et aūtres plūs palle coūleūrs
+<lb/>jonne; se fait comme lon fait aūec de la <seg ana="#silk">soie</seg>, oū dū
+<lb/><seg ana="#taffeta">tafta</seg>, et dū <seg ana="#satin">satain</seg> blan; estant propre, et bien nette,
+<lb/>et comme aussi bien <seg ana="#drying">secqūe</seg>; il le faūt mettre <seg ana="#soaking">tramper</seg> dans la
+<lb/><seg ana="#dyeing">taintūr</seg>, &amp;.c me qūand elle et <seg ana="#boiling">boūlie</seg> assez, et qūe la coūleūr
+<lb/>et bien; il le faūt prendre or de la <seg ana="#dyeing">taintūr</seg>, et bien <seg ana="#pressing">preser</seg>
+<lb/>la <seg ana="#dyeing">taintūr</seg> deor; ensūite si voūs voūlez, oū si voūs le troūūez
+<lb/>bon, apres aūoir eproūūez de <seg ana="#dipping">plonger</seg> qūelqūes piece dans le
+<lb/><seg ana="#verjuice">vergūe</seg>, et par la qūe la coūleūr et plūs agreable, a vostre
+<lb/>me elle ne pas de dūrez aūec le <seg ana="#verjuice">vergūe</seg>, elle changes de coūleūrs +
 <lb/>volontez + mettez aūssi piece, a piece, en le bien oūūrant
-<lb/>dans le vergūe, toūs le reste dū cambraij, moūchelinne, 
-<lb/>et toille qūe vous aūez boūlie dans la taintūrre; apres
-<lb/>sa; apres l’aūoir presez, et oūūert deūx oū trois fois, dans 
-<lb/>le vergūe, comme lons faits la coūleūrs de rosse, il faūt
-<lb/>le bien preser or dū vergūe; aūsitot ensūite, il faūt
+<lb/>dans le <seg ana="#verjuice">vergūe</seg>, toūs le reste dū <seg ana="#cambric">cambraij</seg>, <seg ana="#muslin">moūchelinne</seg>,
+<lb/>et <seg ana="#toile">toille</seg> qūe vous aūez <seg ana="#boiling">boūlie</seg> dans la <seg ana="#dyeing">taintūrre</seg>; apres
+<lb/>sa; apres l’aūoir <seg ana="#pressing">presez</seg>, et oūūert deūx oū trois fois, dans
+<lb/>le <seg ana="#verjuice">vergūe</seg>, comme lons faits la coūleūrs de rosse, il faūt
+<lb/>le bien <seg ana="#pressing">preser</seg> or dū <seg ana="#verjuice">vergūe</seg>; aūsitot ensūite, il faūt
 </ab>
+</div>
 
 </div></body></text>

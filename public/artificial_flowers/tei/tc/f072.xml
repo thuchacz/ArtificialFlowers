@@ -1,11 +1,13 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f072"/>
+<div ana="#pattern #painting #paper">
 <ab>
-<lb/>Patron poūr pintūrer dessūr
-<lb/>Le papier; notez aūsi, qūe ce ~
+<lb/><seg ana="#pattern">Patron</seg> poūr <seg ana="#painting">pintūrer</seg> dessūr
+<lb/>Le <seg ana="#paper">papier</seg>; notez aūsi, qūe ce ~
 <lb/>petit liūre, ne pūis jamais estre
 <lb/>donné, et pas pretez, a personne,
 <lb/>or de nostre coūūent de Ste. godelieūe.
 </ab>
+</div>
 <ab>
 <lb/>IHS          MR
 <lb/>Dit boūxkens, en magh niet ghegeūen, ~

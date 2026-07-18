@@ -1,29 +1,31 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f049"/>
+<div ana="#chafing_dish #paintbrush #paper #drop #brazilwood #logwood #gum_tragacanth #dyeing #tracing #dipping">
 <ab>
-<lb/>on le verse encorre dans une aūtre, s’il 
-<lb/>en est besoin, me qūand le soleil ne 
-<lb/>lūijs pas, on met l’ecaille sūr une chaū=
-<lb/>=fet for tiede, et ensūite l’on faist com[m]e
-<lb/>cij deūant, pūis l’on plonge le pincaū dans 
-<lb/>la tintūrre, et long trace sūr le papier 
-<lb/>aūec, poūr voire si la coūloeūr et bien, 
+<lb/>on le verse encorre dans une aūtre, s’il
+<lb/>en est besoin, me qūand le soleil ne
+<lb/>lūijs pas, on met l’ecaille sūr une <seg ana="#chafing_dish">chaū=
+<lb/>=fet</seg> for tiede, et ensūite l’on faist com[m]e
+<lb/>cij deūant, pūis l’on <seg ana="#dipping">plonge</seg> le <seg ana="#paintbrush">pincaū</seg> dans
+<lb/>la <seg ana="#dyeing">tintūrre</seg>, et long <seg ana="#tracing">trace</seg> sūr le <seg ana="#paper">papier</seg>
+<lb/>aūec, poūr voire si la coūloeūr et bien,
 <lb/>me, si l’ons voie, qūe la coūloeūr ne pas
-<lb/>encorre bien, et un peūt epesse, il faūt 
+<lb/>encorre bien, et un peūt epesse, il faūt
 <lb/>attendre un joūr plūs longtemp a s'enser=
-<lb/>=ūire, ensūite l’ons fait son mieū poūr 
-<lb/>user cette tintūre dans un joūr, oū deūx, 
+<lb/>=ūire, ensūite l’ons fait son mieū poūr
+<lb/>user cette <seg ana="#dyeing">tintūre</seg> dans un joūr, oū deūx,
 <lb/>parce’qūel deūien trop espesse a sens ser=
 <lb/>=virre, si bien qūon est contrain, die
-<lb/>verser deūx, oū trois goūte d’eaū, et sa 
-<lb/>est caūse, qūe la tintūre tracez dessūs
-<lb/>le papiez, se passe for facilement, et
+<lb/>verser deūx, oū trois <seg ana="#drop">goūte</seg> d’eaū, et sa
+<lb/>est caūse, qūe la <seg ana="#dyeing">tintūre</seg> <seg ana="#tracing">tracez</seg> dessūs
+<lb/>le <seg ana="#paper">papiez</seg>, se passe for facilement, et
 <lb/>ne dūre pas si long temp aūsi, ~~
 <lb/>De la meme maniere aūsi, lons ap=
 <lb/>=prette la coūleūr violet, mais en place
-<lb/>de ferneboūcqūe, il faūt prendre, dū
-<lb/>bois de bresil. ~~~
-<lb/>La maniere poūr fondre la gomme de sois, comme
+<lb/>de <seg ana="#brazilwood">ferneboūcqūe</seg>, il faūt prendre, dū
+<lb/><seg ana="#logwood">bois de bresil</seg>. ~~~
+<lb/>La maniere poūr fondre la <seg ana="#gum_tragacanth">gomme de sois</seg>, comme
 <lb/>cij deūant; retoūrnez qūatorze foeūls; ~~~
 </ab>
+</div>
 
 </div></body></text>

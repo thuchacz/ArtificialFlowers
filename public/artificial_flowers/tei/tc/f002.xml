@@ -1,38 +1,42 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f002"/>
+<div ana="#gum_tragacanth #silk #rainwater #patar #pint #spoon #cloth #boiling #starching">
 <ab>
-<lb/>Maniere poūr fondre la gomme de sois, oū aūter=
-<lb/>=ment die la gomme dragant ;~
-<lb/>Lons prend poūr un patar de la dit gomme; il
-<lb/>la faūt mettre tremper, dans une demie peinte
-<lb/>d’eaū de plūis, plūtot plūs, qūe moin, il faūt le
+<lb/>Maniere poūr fondre la <seg ana="#gum_tragacanth">gomme de sois</seg>, oū aūter=
+<lb/>=ment die la <seg ana="#gum_tragacanth">gomme dragant</seg> ;~
+<lb/>Lons prend poūr un <seg ana="#patar">patar</seg> de la dit gomme; il
+<lb/>la faūt mettre tremper, dans une <seg ana="#pint">demie peinte</seg>
+<lb/>d’<seg ana="#rainwater">eaū de plūis</seg>, plūtot plūs, qūe moin, il faūt le
 <lb/>leser comme sa deūx joūr, pūis il faūt prendre
-<lb/>une cūlier et le bien toūillier, et fraper aūec
+<lb/>une <seg ana="#spoon">cūlier</seg> et le bien toūillier, et fraper aūec
 <lb/>jūsqūa tens qūel soit un claire papin, et si
 <lb/>lons voix qūe la soūpe est trop epesse il faūt
 <lb/>verser encorre un peūt d’eaū, jūsqūa tens qūel
-<lb/>soit bien; pūis il le faūt faire boūlier, un
+<lb/>soit bien; pūis il le faūt <seg ana="#boiling">faire boūlier</seg>, un
 <lb/>peūt, et sa en le toūllient toūjoūr, apres sa,
-<lb/>il faūt le passer par un linge, et apres sa
-<lb/>sens serūir, poūr enpeser la sois aūec ~
+<lb/>il faūt le passer par un <seg ana="#cloth">linge</seg>, et apres sa
+<lb/>sens serūir, poūr <seg ana="#starching">enpeser</seg> la <seg ana="#silk">sois</seg> aūec ~
 </ab>
+</div>
+<div ana="#silk #gum_tragacanth #glass_pane #knife #towel #flower_form #polishing_stone #stove #paper #drying #cutting">
 <ab>
-<lb/>Maniere poūr faire de fleūrs de sois;
+<lb/>Maniere poūr faire de fleūrs de <seg ana="#silk">sois</seg>;
 <lb/>Notez, qūand la sois est tres bien peniez, metez la desūrre
-<lb/>dū ver, bien plas, la grandeūr dūn caraūx de fenette, assez
-<lb/>resonnablement grand, ensūite il faūt prendre le plas d’ūn coūtaūx,
-<lb/>et prendre la gomme de sois aūec, ensūite, il faūt l’eparde desūrre
+<lb/>dū <seg ana="#glass_pane">ver</seg>, bien plas, la grandeūr dūn caraūx de fenette, assez
+<lb/>resonnablement grand, ensūite il faūt prendre le plas d’ūn <seg ana="#knife">coūtaūx</seg>,
+<lb/>et prendre la <seg ana="#gum_tragacanth">gomme de sois</seg> aūec, ensūite, il faūt l’eparde desūrre
 <lb/>la sois aūec, et sa aūssi long tens, qūe la sois en soit tres bien moūl=
 <lb/>=liez, est grasse; apres sa, il faūt le retoūrner de l’aūtre cotez, et
 <lb/>il faūt faire de meme; apres sa; il faūt le mettre desūrre une
-<lb/>serūiet, poūr le faire secher par le vans, et oū aūtrement aūssi;
-<lb/>ensūite il faūt le plaqūer, et mettre desūrre la forme; et le 
-<lb/>repasser aūec une pierre liqūoire;, est le faire secherre pres
-<lb/>la fūe, et oū bien, desūrre une etoūe; ensūite l’oterre
-<lb/>de la; et pūis coūper des fleūrs aūec; des toūs telle sorte
+<lb/><seg ana="#towel">serūiet</seg>, poūr le <seg ana="#drying">faire secher</seg> par le vans, et oū aūtrement aūssi;
+<lb/>ensūite il faūt le plaqūer, et mettre desūrre la <seg ana="#flower_form">forme</seg>; et le
+<lb/>repasser aūec une <seg ana="#polishing_stone">pierre liqūoire</seg>;, est le faire secherre pres
+<lb/>la fūe, et oū bien, desūrre une <seg ana="#stove">etoūe</seg>; ensūite l’oterre
+<lb/>de la; et pūis <seg ana="#cutting">coūper</seg> des fleūrs aūec; des toūs telle sorte
 <lb/>qūe voūs voūlez faire; me il faūt toūjoūrs garder la
-<lb/>sois preparez a faire des fleūrs aūec, dans dū papier blan;
-<lb/>de meme aūssi, la sois qūel ne pas encore preparez a 
+<lb/>sois preparez a faire des fleūrs aūec, dans dū <seg ana="#paper">papier blan</seg>;
+<lb/>de meme aūssi, la sois qūel ne pas encore preparez a
 <lb/>faire des fleūrs; ~~~
 </ab>
+</div>
 
 </div></body></text>

@@ -1,29 +1,31 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f063"/>
+<div ana="#lye #vine_ash #cambric #rainwater #fountain_water #lacmus #stick #bucket #boiling #rinsing #bleaching #drying #dyeing #undyeing">
 <ab>
-<lb/>qūand elle est gatez, il faūt le boūlier 
-<lb/>aūec de la leciūe faite aūec de cendre des
-<lb/>vinne, la leciūe doit estre fort claire, 
-<lb/>ensūite lons met le cambraij dedans, et on 
-<lb/>le faist boūlier, jūsqūa temp qūe le cambraij 
+<lb/>qūand elle est gatez, il faūt le <seg ana="#boiling">boūlier</seg> 
+<lb/>aūec de la <seg ana="#lye">leciūe</seg> faite aūec de <seg ana="#vine_ash">cendre des
+<lb/>vinne</seg>, la leciūe doit estre fort claire, 
+<lb/>ensūite lons met le <seg ana="#cambric">cambraij</seg> dedans, et on 
+<lb/>le faist <seg ana="#boiling">boūlier</seg>, jūsqūa temp qūe le <seg ana="#cambric">cambraij</seg> 
 <lb/>soit bien blan, ensūite ons le prend dū fūe 
-<lb/>toūs boūlans, aūsij tot lons prend ūn baton, 
-<lb/>et l’ons otte le cambraij, il faūt les jetter ~ 
-<lb/>aūsijtot dans un seaūt d’eaū de plūis oū de 
-<lb/>fontaine, estant raincé, on le jettes encorre 
+<lb/>toūs boūlans, aūsij tot lons prend ūn <seg ana="#stick">baton</seg>, 
+<lb/>et l’ons otte le <seg ana="#cambric">cambraij</seg>, il faūt les jetter ~ 
+<lb/>aūsijtot dans un <seg ana="#bucket">seaūt</seg> d’eaū de <seg ana="#rainwater">plūis</seg> oū de 
+<lb/><seg ana="#fountain_water">fontaine</seg>, estant <seg ana="#rinsing">raincé</seg>, on le jettes encorre 
 <lb/>dans un aūtre seaū d’eaū, de la ons les ~
-<lb/>met blanchir un joūr, et une nūit, ensūite 
-<lb/>on le raince, aūec la main leger sans froter, 
-<lb/>les aūtres rainsūr doit estre faist de la meme
-<lb/>maniere aūsi, ensūite il faūt le faire sai=
-<lb/>=cher, et qūand l’ons fait la leciūe il ~
-<lb/>faūt l’ensiepper un peūt, et le mettre boū=
-<lb/>=leir, et blanchir, aūec le fein linges, estant 
-<lb/>saiqūe, ce cambraij pūis serūirre poūr tin=
-<lb/>=dre toūte sorte de coūleūrs, mes poūr tain=
-<lb/>=dre le rose il faūt toūjoūr choisiere le plūs 
-<lb/>blan cambraij qūe l’ons a,
-<lb/>La coūleūr bleūse, tain aūec de la lecmoūs, se 
-<lb/>detain de la meme maniere aūsi, comme
+<lb/>met <seg ana="#bleaching">blanchir</seg> un joūr, et une nūit, ensūite 
+<lb/>on le <seg ana="#rinsing">raince</seg>, aūec la main leger sans froter, 
+<lb/>les aūtres <seg ana="#rinsing">rainsūr</seg> doit estre faist de la meme
+<lb/>maniere aūsi, ensūite il faūt le faire <seg ana="#drying">sai=
+<lb/>=cher</seg>, et qūand l’ons fait la <seg ana="#lye">leciūe</seg> il ~
+<lb/>faūt l’ensiepper un peūt, et le mettre <seg ana="#boiling">boū=
+<lb/>=leir</seg>, et <seg ana="#bleaching">blanchir</seg>, aūec le fein linges, estant 
+<lb/><seg ana="#drying">saiqūe</seg>, ce <seg ana="#cambric">cambraij</seg> pūis serūirre poūr <seg ana="#dyeing">tin=
+<lb/>=dre</seg> toūte sorte de coūleūrs, mes poūr <seg ana="#dyeing">tain=
+<lb/>=dre</seg> le rose il faūt toūjoūr choisiere le plūs 
+<lb/>blan <seg ana="#cambric">cambraij</seg> qūe l’ons a,
+<lb/>La coūleūr bleūse, <seg ana="#dyeing">tain</seg> aūec de la <seg ana="#lacmus">lecmoūs</seg>, se 
+<lb/><seg ana="#undyeing">detain</seg> de la meme maniere aūsi, comme
 </ab>
+</div>
 
 </div></body></text>

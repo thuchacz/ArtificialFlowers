@@ -1,8 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f110"/>
+<div ana="#pattern">
 <ab>
-<lb/>pattern
+<lb/><seg ana="#pattern">pattern</seg>
 <lb/>of a monstrance
 <lb/>1757.
 </ab>
+</div>
 
 </div></body></text>

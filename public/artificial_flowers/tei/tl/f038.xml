@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f038"/>
+<div ana="#dyeing #grinding #wringing #straining #parchment #paper #gamboge #cauliflower #verdigris #leaf #rose #anemone #ranunculus #drop #spoon #pint #quarter_pound #mortar #bag #press #saucer">
 <ab>
 <lb/>is enough, to do that one time, on each
 <lb/>side.
-<lb/>note, that one needs, to green, the parchment,
-<lb/>and the paper, five, or 6. times, on each side, to be good
-<lb/>Way, to green velum, or parchment,
-<lb/>for rose leaves, les alimons, ranunculus,
+<lb/>note, that one needs, to <seg ana="#dyeing">green</seg>, the <seg ana="#parchment">parchment</seg>,
+<lb/>and the <seg ana="#paper">paper</seg>, five, or 6. times, on each side, to be good
+<lb/>Way, to <seg ana="#dyeing">green</seg> <seg ana="#parchment">velum</seg>, or <seg ana="#parchment">parchment</seg>,
+<lb/>for <seg ana="#rose">rose</seg> <seg ana="#leaf">leaves</seg>, les <seg ana="#anemone">alimons</seg>, <seg ana="#ranunculus">ranunculus</seg>,
 <lb/>and other flowers, one does as I said, here
-<lb/>before, but in place of five, or six drops,
-<lb/>of gamboge, one takes the amount of two
-<lb/>little spoons of the said gamboge, more, or less,
+<lb/>before, but in place of five, or six <seg ana="#drop">drops</seg>,
+<lb/>of <seg ana="#gamboge">gamboge</seg>, one takes the amount of two
+<lb/>little <seg ana="#spoon">spoons</seg> of the said <seg ana="#gamboge">gamboge</seg>, more, or less,
 <lb/>hauling up as much as one wants to have the yellow-green,
-<lb/>but the yellow must be very bright.
-<lb/>green paper is made in the same way also,
-<lb/>Green paper, again is made, in this
-<lb/>way, one takes cauliflower leaves,
-<lb/>one removes the ribs, from there one pounds them in
-<lb/>a mortar, then one puts them in a little
-<lb/>sac, next, one puts the said sac, in
-<lb/>a press, with a saucer beneath to ~
-<lb/>receive the soup, but if one does not have a press,
-<lb/>one wrings the little cloth sack with the hands,
-<lb/>as + + hard as one can, one takes a pint
+<lb/>but the <seg ana="#gamboge">yellow</seg> must be very bright.
+<lb/>green <seg ana="#paper">paper</seg> is made in the same way also,
+<lb/>Green <seg ana="#paper">paper</seg>, again is made, in this
+<lb/>way, one takes <seg ana="#cauliflower">cauliflower leaves</seg>,
+<lb/>one removes the ribs, from there one <seg ana="#grinding">pounds</seg> them in
+<lb/>a <seg ana="#mortar">mortar</seg>, then one puts them in a little
+<lb/><seg ana="#bag">sac</seg>, next, one puts the said <seg ana="#bag">sac</seg>, in
+<lb/>a <seg ana="#press">press</seg>, with a <seg ana="#saucer">saucer</seg> beneath to ~
+<lb/>receive the soup, but if one does not have a <seg ana="#press">press</seg>,
+<lb/>one <seg ana="#wringing">wrings</seg> the little <seg ana="#bag">cloth sack</seg> with the hands,
+<lb/>as + + hard as one can, one takes a <seg ana="#pint">pint</seg>
 <lb/>of this soup, and one stirs in the said
-<lb/>soup a half quarter [of a pound], of verdigris
-<lb/>well pestled; and if one wants, after the green ~
-<lb/>is well ground, one passes it again through a
+<lb/>soup a half <seg ana="#quarter_pound">quarter [of a pound]</seg>, of <seg ana="#verdigris">verdigris</seg>
+<lb/>well <seg ana="#grinding">pestled</seg>; and if one wants, after the <seg ana="#verdigris">green</seg> ~
+<lb/>is well <seg ana="#grinding">ground</seg>, one <seg ana="#straining">passes</seg> it again through a
 </ab>
+</div>
 
 </div></body></text>

@@ -1,28 +1,30 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f140"/>
+<div ana="#crimson_fabric #undyeing #lye #vine_ash #burning #pot #rainwater #earthenware_pot #lid #oven #soaking #boiling #spoon #wringing #pint #vinegar #kanne #lake_pigment #drying">
 <ab>
-<lb/>To subtract red [from] cloth
-<lb/>One must make lye. Take cold
-<lb/>vines and burn it to ashes. Take two pots
-<lb/>of rain water and put the ashes and pour the
-<lb/>clear lye off into a new earthenware pot
-<lb/>and take the red cloth and put it in the lye
+<lb/>To <seg ana="#undyeing">subtract</seg> red [from] <seg ana="#crimson_fabric">cloth</seg>
+<lb/>One must make <seg ana="#lye">lye</seg>. Take cold
+<lb/><seg ana="#vine_ash">vines</seg> and <seg ana="#burning">burn</seg> it to <seg ana="#vine_ash">ashes</seg>. Take two <seg ana="#pot">pots</seg>
+<lb/>of <seg ana="#rainwater">rain water</seg> and put the ashes and pour the
+<lb/>clear lye off into a new <seg ana="#earthenware_pot">earthenware pot</seg>
+<lb/>and take the <seg ana="#crimson_fabric">red cloth</seg> and put it in the lye
 <lb/>until it is saturated [lit. overjuiced], and put the pot, well covered
-<lb/>with an earthenware lid in the evening from the fire
-<lb/>in the lukewarm oven and let it process until
+<lb/>with an <seg ana="#lid">earthenware lid</seg> in the evening from the fire
+<lb/>in the lukewarm <seg ana="#oven">oven</seg> and let it <seg ana="#soaking">process</seg> until
 <lb/>the next day at the fire. Then take
 <lb/>the same pot and place it on a cupboard
-<lb/>with fire (?? chafing dish?) and let it cook for an hour. And let it
-<lb/>turn about constantly with a new pot
-<lb/>spoon [so] that it doesn't burn. Then take
-<lb/>after a new earthenware pot and take the first
-<lb/>from the fire and begin to squeeze the cloth out
+<lb/>with fire (?? chafing dish?) and let it <seg ana="#boiling">cook</seg> for an hour. And let it
+<lb/>turn about constantly with a new <seg ana="#spoon">pot
+<lb/>spoon</seg> [so] that it doesn't burn. Then take
+<lb/>after a new <seg ana="#earthenware_pot">earthenware pot</seg> and take the first
+<lb/>from the fire and begin to <seg ana="#wringing">squeeze</seg> the cloth out
 <lb/>into the second pot, and once the wetness is out, take
-<lb/>a half pint of white wine vinegar and stir this in
-<lb/>slowly throughout and let it cook on a still
+<lb/>a half <seg ana="#pint">pint</seg> of <seg ana="#vinegar">white wine vinegar</seg> and stir this in
+<lb/>slowly throughout and let it <seg ana="#boiling">cook</seg> on a still
 <lb/>fire and stir it so that it does not burn until a ____.
 <lb/>And then let it sit until it has sunk, and
-<lb/>pour the the uppermost [liquid] off and take the cloth and throw
-<lb/>it on the floor and let [it] dry thus.
+<lb/>pour the the uppermost [liquid] off and take the <seg ana="#lake_pigment">cloth</seg> and throw
+<lb/>it on the floor and let [it] <seg ana="#drying">dry</seg> thus.
 </ab>
+</div>
 
 </div></body></text>

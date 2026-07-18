@@ -1,23 +1,25 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f040"/>
+<div ana="#dyeing #grinding #paper #vermilion #red_lead #gum_tragacanth #packet #mussel_shell #marble_slab #dish #stick #glass_vessel">
 <ab>
-<lb/>Notez, le papiez roūge, se fait encorre, 
-<lb/>de cette maniene; lons prend un paqūez de 
-<lb/>vermilion, oū la valeūr dūne ecaille de 
-<lb/>moūlet; aūec deūx ecaille de moūlet, de 
-<lb/>la mein, cela est une grosse teintūr 
-<lb/>roūge; cepoūrqūoij, qūil faūt bien le froter
-<lb/>desūr le marbre; aūant de la demeler 
-<lb/>aūec le vermilion; apres sa il faūt prendre 
-<lb/>de la claire gomme, et le vermilion, est la 
-<lb/>mein estant mis ensemble dans une eqūelle, il
-<lb/>faūt verser un peūt de cette claire gomme
+<lb/>Notez, le <seg ana="#paper">papiez</seg> roūge, se fait encorre, 
+<lb/>de cette maniene; lons prend un <seg ana="#packet">paqūez</seg> de 
+<lb/><seg ana="#vermilion">vermilion</seg>, oū la valeūr dūne <seg ana="#mussel_shell">ecaille de 
+<lb/>moūlet</seg>; aūec deūx <seg ana="#mussel_shell">ecaille de moūlet</seg>, de 
+<lb/>la <seg ana="#red_lead">mein</seg>, cela est une grosse <seg ana="#dyeing">teintūr 
+<lb/>roūge</seg>; cepoūrqūoij, qūil faūt bien le <seg ana="#grinding">froter</seg>
+<lb/>desūr le <seg ana="#marble_slab">marbre</seg>; aūant de la demeler 
+<lb/>aūec le <seg ana="#vermilion">vermilion</seg>; apres sa il faūt prendre 
+<lb/>de la claire <seg ana="#gum_tragacanth">gomme</seg>, et le <seg ana="#vermilion">vermilion</seg>, est la 
+<lb/><seg ana="#red_lead">mein</seg> estant mis ensemble dans une <seg ana="#dish">eqūelle</seg>, il
+<lb/>faūt verser un peūt de cette claire <seg ana="#gum_tragacanth">gomme</seg>
 <lb/>desūr, et lons demelle bien ensamble la deūx 
-<lb/>taintūr aūec in petit baton, la taintūr estant
+<lb/>taintūr aūec in petit <seg ana="#stick">baton</seg>, la taintūr estant
 <lb/>bien demelez; il faūt verser dans la taintūr un
-<lb/>de mie ver d’eaū, il faūt toūlier les toūs bien 
+<lb/>de mie <seg ana="#glass_vessel">ver</seg> d’eaū, il faūt toūlier les toūs bien 
 <lb/>ensembles; et apres il faūt prendre un=
-<lb/>notez sans gomme, de l’aeū seūlement poūr
-<lb/>faire dū papiez;
+<lb/>notez sans <seg ana="#gum_tragacanth">gomme</seg>, de l’aeū seūlement poūr
+<lb/>faire dū <seg ana="#paper">papiez</seg>;
 </ab>
+</div>
 
 </div></body></text>

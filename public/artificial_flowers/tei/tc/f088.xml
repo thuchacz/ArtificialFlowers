@@ -1,18 +1,22 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f088"/>
+<div ana="#pattern #bouquet">
 <ab>
-<lb/>patron
+<lb/><seg ana="#pattern">patron</seg>
 <lb/>IHS
-<lb/>boūcqūé poūr
+<lb/><seg ana="#bouquet">boūcqūé</seg> poūr
 <lb/>mettre dessūr
 <lb/>des coeūr, qūil sons
 <lb/>enplie aūec de la
 </ab>
+</div>
+<div ana="#wool #cutting #bouquet #branch">
 <ab>
-<lb/>leinne, il faūt
-<lb/>decoūpper chaqūe
-<lb/>boūcqūez, tenent le toūs
-<lb/>dans sa branche, sans
+<lb/><seg ana="#wool">leinne</seg>, il faūt
+<lb/><seg ana="#cutting">decoūpper</seg> chaqūe
+<lb/><seg ana="#bouquet">boūcqūez</seg>, tenent le toūs
+<lb/>dans sa <seg ana="#branch">branche</seg>, sans
 <lb/>rien separer, l’ūn de l’aūtres.
 </ab>
+</div>
 
 </div></body></text>

@@ -1,22 +1,24 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f158"/>
+<div ana="#paper #celery #grinding #mortar #wringing #verdigris #boiling #melting #tartar #table #board #knife #painting #drying #egg_white">
 <ab>
-<lb/>To make green paper
-<lb/>Take the greens of celery, the youngest of all the ribs,
-<lb/>removed and pounded in a mortar, then
-<lb/>wrung out, and then pounded again, three times.
-<lb/>Then take verdigris and boil it in the soup
-<lb/>until it is melted. Put in as much as
+<lb/>To make green <seg ana="#paper">paper</seg>
+<lb/>Take the greens of <seg ana="#celery">celery</seg>, the youngest of all the ribs,
+<lb/>removed and <seg ana="#grinding">pounded</seg> in a <seg ana="#mortar">mortar</seg>, then
+<lb/><seg ana="#wringing">wrung out</seg>, and then <seg ana="#grinding">pounded</seg> again, three times.
+<lb/>Then take <seg ana="#verdigris">verdigris</seg> and <seg ana="#boiling">boil</seg> it in the soup
+<lb/>until it is <seg ana="#melting">melted</seg>. Put in as much as
 <lb/>you want to have green. The more green, the
-<lb/>higher [=more intense] the color. Also, a bit of tartar. From time
-<lb/>to time, stir until the whole thing is melted. Then take
-<lb/>the paper and lay it on a table or board. Then take
-<lb/>a little painter’s knife and stroke it thereover.
-<lb/>Then the one side being done, leave it to dry,
+<lb/>higher [=more intense] the color. Also, a bit of <seg ana="#tartar">tartar</seg>. From time
+<lb/>to time, stir until the whole thing is <seg ana="#melting">melted</seg>. Then take
+<lb/>the <seg ana="#paper">paper</seg> and lay it on a <seg ana="#table">table</seg> or <seg ana="#board">board</seg>. Then take
+<lb/>a little painter’s <seg ana="#knife">knife</seg> and <seg ana="#painting">stroke</seg> it thereover.
+<lb/>Then the one side being done, leave it to <seg ana="#drying">dry</seg>,
 <lb/>and being well dry, then do the other side, and
 <lb/>that so many times until it is green enough.
-<lb/>After that, according to taste, take then egg white,
-<lb/>stroke it thereover to give a glare once
+<lb/>After that, according to taste, take then <seg ana="#egg_white">egg white</seg>,
+<lb/><seg ana="#painting">stroke</seg> it thereover to give a glare once
 <lb/>it is very dry.
 </ab>
+</div>
 
 </div></body></text>

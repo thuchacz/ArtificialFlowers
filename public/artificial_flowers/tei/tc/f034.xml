@@ -1,32 +1,36 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f034"/>
+<div ana="#printing #garden_leaf">
 <ab>
-<lb/>apliqūe les foeūilles dū jardin dessūs, et 
+<lb/>apliqūe les <seg ana="#garden_leaf">foeūilles dū jardin</seg> dessūs, et 
 </ab>
+</div>
+<div ana="#printing #drying #washing #grinding #soaking #parchment #verdigris #bottle_green #coverlet #garden_leaf #board #quarter_pound #earthenware_pot">
 <ab>
 <lb/>lons fait comme cij deūant, on ne fait 
-<lb/>cecij, qū'ūn joūr, oū deūx, apres qūe le par=
-<lb/>=chemin et or de la passe, parceqūe les mor=
-<lb/>=ceaū des coūūerte doit estre pendūe a l’aire, 
+<lb/>cecij, qū'ūn joūr, oū deūx, apres qūe le <seg ana="#parchment">par=
+<lb/>=chemin</seg> et or de la passe, parceqūe les mor=
+<lb/>=ceaū des <seg ana="#coverlet">coūūerte</seg> doit estre pendūe a l’aire, 
 <lb/>qūand on na pas, la commoditez d’aūoir des mor=
-<lb/>=ceaū, lons prend une coūūerte toūte entiere, a 
+<lb/>=ceaū, lons prend une <seg ana="#coverlet">coūūerte</seg> toūte entiere, a 
 <lb/>demie usez, plūtot plūs usez qūe moin; mais 
-<lb/>qūand la coūūerte est toūte afait usez, on 
+<lb/>qūand la <seg ana="#coverlet">coūūerte</seg> est toūte afait usez, on 
 <lb/>le plis en deūx poūr sens serūir. ~~
-<lb/>En ottant le parchemain de la passe il 
-<lb/>faūt le leser checher sūr sa planche, et en=
-<lb/>=sūite otter les foeūlles, ~~~
-<lb/>Aūtre maniere poūr secher le velin, apres
-<lb/>l’aūoir lauez, sans le voūloir imprimer, on le
+<lb/>En ottant le <seg ana="#parchment">parchemain</seg> de la passe il 
+<lb/>faūt le leser <seg ana="#drying">checher</seg> sūr sa <seg ana="#board">planche</seg>, et en=
+<lb/>=sūite otter les <seg ana="#garden_leaf">foeūlles</seg>, ~~~
+<lb/>Aūtre maniere poūr <seg ana="#drying">secher</seg> le <seg ana="#parchment">velin</seg>, apres
+<lb/>l’aūoir <seg ana="#washing">lauez</seg>, sans le voūloir <seg ana="#printing">imprimer</seg>, on le
 <lb/>prend or de l’eaū, et on le plaqūe aūsitot sūr 
-<lb/>des planche, bien propre. ~~~
-<lb/>Poūr faire dū ver, il faūt prendre un 
-<lb/>cartron de ver de grie; il doit estre bien ~ 
-<lb/>estrampez, on le met le soir, dans un qūoūet
+<lb/>des <seg ana="#board">planche</seg>, bien propre. ~~~
+<lb/>Poūr faire dū <seg ana="#bottle_green">ver</seg>, il faūt prendre un 
+<lb/><seg ana="#quarter_pound">cartron</seg> de <seg ana="#verdigris">ver de grie</seg>; il doit estre bien ~ 
+<lb/><seg ana="#grinding">estrampez</seg>, on le met le soir, dans un <seg ana="#earthenware_pot">qūoūet</seg>
 <lb/>bien net, ensūite ij mettre un peūt d’eaū, et
 <lb/>le demeler comme sa tres bien, ensūite ij mettre encorre un peūt d’eaū
 <lb/>de sorte qūe l’eaū ne preūale point aū 
-<lb/>ver de grie, on le lesse ainsi tremper toūte
+<lb/><seg ana="#verdigris">ver de grie</seg>, on le lesse ainsi <seg ana="#soaking">tremper</seg> toūte
 <lb/>la nūit, le lendemain, on semme dessūs
 </ab>
+</div>
 
 </div></body></text>

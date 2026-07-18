@@ -1,12 +1,14 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f027"/>
+<div ana="#dyeing #safflower #lye #vine_ash #lemon #pound #quarter_pound #pint">
 <ab>
 <lb/>that you understand well; when you make ∞
-<lb/>a half pound of safflower; that you need ~
-<lb/>to take two pints of lye, made with 
-<lb/>vine ashes; and for three quarters [of a pound], three ∞
-<lb/>pints; and for a pound, four pints, ◆
-<lb/>note, when you do not have do not have any lemons; it is not
+<lb/>a half <seg ana="#pound">pound</seg> of <seg ana="#safflower">safflower</seg>; that you need ~
+<lb/>to take two <seg ana="#pint">pints</seg> of <seg ana="#lye">lye</seg>, made with 
+<lb/><seg ana="#vine_ash">vine ashes</seg>; and for three <seg ana="#quarter_pound">quarters</seg> [of a pound], three ∞
+<lb/><seg ana="#pint">pints</seg>; and for a <seg ana="#pound">pound</seg>, four <seg ana="#pint">pints</seg>, ◆
+<lb/>note, when you do not have do not have any <seg ana="#lemon">lemons</seg>; it is not
 <lb/>necessary for you to use them, in any way; ~
 </ab>
+</div>
 
 </div></body></text>

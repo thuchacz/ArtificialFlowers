@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f170"/>
+<div ana="#vine_ash #burning #hearth #earthenware_pot #lye #handful #pint #rainwater #fountain_water #boiling #marmite #dyeing #cloth #pot #vierendeel #pound #safflower #bag #soaking #washing #wringing">
 <ab>
-<lb/>Maniere om afschen van wingaert ranken te macken
-<lb/>men brant die, op eenen suijveren hert, sonder ander afschen in
-<lb/>te mengelen, nū gebrant sijnde, men doet t’vier en d’afschen
-<lb/>al te saemen in eenen schlechten aerden pot, die men van tijdt
+<lb/>Maniere om <seg ana="#vine_ash">afschen van wingaert ranken</seg> te macken
+<lb/>men <seg ana="#burning">brant</seg> die, op eenen suijveren <seg ana="#hearth">hert</seg>, sonder ander afschen in
+<lb/>te mengelen, nū <seg ana="#burning">gebrant</seg> sijnde, men doet t’vier en d’<seg ana="#vine_ash">afschen</seg>
+<lb/>al te saemen in eenen schlechten <seg ana="#earthenware_pot">aerden pot</seg>, die men van tijdt
 <lb/>tot tijdt opsteeckt, tot dat al verteirt is.
-<lb/>om looghe van wingaert ranken afschen te macken
-<lb/>neemt drije hants=veūllen afschen met twee handen, en 7. of 8.
-<lb/>pinten regen of fonteijne waeter, laet die koken tot op 4. of 5.
-<lb/>pinten, wort die gekockt in eene sūijver marmijte, als die vant’
-<lb/>vier genomen wort, moet gegoten sijn in eenen aerden pot, die
-<lb/>tot geen ander sacken gedient en heeft als om roosen te verwen,
+<lb/>om <seg ana="#lye">looghe</seg> van <seg ana="#vine_ash">wingaert ranken afschen</seg> te macken
+<lb/>neemt drije <seg ana="#handful">hants=veūllen</seg> <seg ana="#vine_ash">afschen</seg> met twee handen, en 7. of 8.
+<lb/><seg ana="#pint">pinten</seg> <seg ana="#rainwater">regen</seg> of <seg ana="#fountain_water">fonteijne waeter</seg>, laet die <seg ana="#boiling">koken</seg> tot op 4. of 5.
+<lb/><seg ana="#pint">pinten</seg>, wort die <seg ana="#boiling">gekockt</seg> in eene sūijver <seg ana="#marmite">marmijte</seg>, als die vant’
+<lb/>vier genomen wort, moet gegoten sijn in eenen <seg ana="#earthenware_pot">aerden pot</seg>, die
+<lb/>tot geen ander sacken gedient en heeft als om roosen te <seg ana="#dyeing">verwen</seg>,
 <lb/>laetende d’afschen soo veel alst mogelijck is op den gront van de
-<lb/>marmijte, des anderdags men giet de looghe door eenen doeck
-<lb/>in eenen anderen pot, nochtans voorsichtig sonder den gront te
+<lb/>marmijte, des anderdags men giet de <seg ana="#lye">looghe</seg> door eenen <seg ana="#cloth">doeck</seg>
+<lb/>in eenen anderen <seg ana="#pot">pot</seg>, nochtans voorsichtig sonder den gront te
 <lb/>roeren, de looge is dan bequaem om te gebrūijcken om roose-koleūr
-<lb/>te verwen, soo als hier volgt
-<lb/>neemt een vierendeel of alf pont sanfloūr, doet het in een wit
-<lb/>linwaten sacxken versekert toe gebonden, stelt het te wecken
-<lb/>in regen of fonteijne waeter, men wast een weijnig het sanfloūr
-<lb/>t’selve twee keeren van waeter veranderende; en dan laeten wecken
+<lb/>te <seg ana="#dyeing">verwen</seg>, soo als hier volgt
+<lb/>neemt een <seg ana="#vierendeel">vierendeel</seg> of alf <seg ana="#pound">pont</seg> <seg ana="#safflower">sanfloūr</seg>, doet het in een <seg ana="#bag">wit
+<lb/>linwaten sacxken</seg> versekert toe gebonden, stelt het te <seg ana="#soaking">wecken</seg>
+<lb/>in <seg ana="#rainwater">regen</seg> of <seg ana="#fountain_water">fonteijne waeter</seg>, men <seg ana="#washing">wast</seg> een weijnig het <seg ana="#safflower">sanfloūr</seg>
+<lb/>t’selve twee keeren van waeter veranderende; en dan laeten <seg ana="#soaking">wecken</seg>
 <lb/>van den vijf heūren en-alf s’avonts tot den vijf uren en-alf s’mor
-<lb/>gens. en dan wort het gewaschen, en van tijdt, tot tijdt, van
+<lb/>gens. en dan wort het <seg ana="#washing">gewaschen</seg>, en van tijdt, tot tijdt, van
 <lb/>waeter verandert, tot dat het klaer wort, den sack en magh
-<lb/>niet gevrongen sijn, maer ūijtgedogen met de handen, ten sij
-<lb/>den laetsten keer, dan moet het sacxken soo sterck uijtgevrongen
+<lb/>niet <seg ana="#wringing">gevrongen</seg> sijn, maer ūijtgedogen met de handen, ten sij
+<lb/>den laetsten keer, dan moet het sacxken soo sterck <seg ana="#wringing">uijtgevrongen</seg>
 <lb/>sijn alst mogelijck is
 </ab>
+</div>
 
 </div></body></text>

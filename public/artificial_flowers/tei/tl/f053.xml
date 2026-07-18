@@ -1,23 +1,25 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f053"/>
+<div ana="#soap #rainwater #hide_glue #fish_glue #gamboge #saffron #cambric #cord #horsehair #washing #rinsing #pressing #drying #dipping #starching #soaking #boiling #dyeing">
 <ab>
-<lb/>throw it in the soapy wash of white soap; next one
-<lb/>washes it as clear, as one sees to be enough, then one 
-<lb/>needs to rinse it, in two rain waters, at the last
-<lb/>one needs to press the water out well; from there, dry it; and
-<lb/>being dry; one needs to plunge it well, and stiffen it in
-<lb/>hide glue; after that one needs to hang it in the attic
-<lb/>on a horsehair cord, and that as evenly as you can
+<lb/>throw it in the soapy wash of <seg ana="#soap">white soap</seg>; next one
+<lb/><seg ana="#washing">washes</seg> it as clear, as one sees to be enough, then one
+<lb/>needs to <seg ana="#rinsing">rinse</seg> it, in two <seg ana="#rainwater">rain waters</seg>, at the last
+<lb/>one needs to <seg ana="#pressing">press</seg> the water out well; from there, <seg ana="#drying">dry</seg> it; and
+<lb/>being <seg ana="#drying">dry</seg>; one needs to <seg ana="#dipping">plunge</seg> it well, and <seg ana="#starching">stiffen</seg> it in
+<lb/><seg ana="#hide_glue">hide glue</seg>; after that one needs to hang it in the attic
+<lb/>on a <seg ana="#horsehair">horsehair</seg> <seg ana="#cord">cord</seg>, and that as evenly as you can
 <lb/>one needs to take good care that the end, and the rest does not stick
-<lb/>together, for when it is dry, you would have to
+<lb/>together, for when it is <seg ana="#drying">dry</seg>, you would have to
 <lb/>tear it to detach one from the other; one does not need to
-<lb/>press the hide glue strongly out of your cambric etc. but 
+<lb/><seg ana="#pressing">press</seg> the <seg ana="#hide_glue">hide glue</seg> strongly out of your <seg ana="#cambric">cambric</seg> etc. but
 <lb/>leave it a little well wet; one needs to do the same with all
-<lb/>the colors you make with [it]; the same also with fish
-<lb/>glue; Note, when you would like to have a more
-<lb/>heightened color still, than the jonquil color, instead of leaving it to soak
-<lb/>for half an hour; one needs to leave it to soak three quarters of an hour, and one needs
-<lb/>to leave it to boil a longer time also; but if this is for making flowers;
-<lb/>gamboge, and saffron, is better still; as here above;
+<lb/>the colors you make with [it]; the same also with <seg ana="#fish_glue">fish
+<lb/>glue</seg>; Note, when you would like to have a more
+<lb/>heightened color still, than the jonquil color, instead of leaving it to <seg ana="#soaking">soak</seg>
+<lb/>for half an hour; one needs to leave it to <seg ana="#soaking">soak</seg> three quarters of an hour, and one needs
+<lb/>to leave it to <seg ana="#boiling">boil</seg> a longer time also; but if this is for making flowers;
+<lb/><seg ana="#gamboge">gamboge</seg>, and <seg ana="#saffron">saffron</seg>, is better still; as here above;
 </ab>
+</div>
 
 </div></body></text>

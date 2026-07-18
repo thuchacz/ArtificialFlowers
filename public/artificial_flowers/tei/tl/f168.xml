@@ -1,25 +1,27 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f168"/>
+<div ana="#vierendeel #copperas #boiling #bucket #urine #vat #ounce #indigo #potash #grinding #pot #pint #rainwater #madder #handful #lime #brandy #stuiver #weit #pound #gallnut #sumac #wool #provence_wood">
 <ab>
-<lb/>and a quarter of copper-red and let
-<lb/>it [be] seen for your uses.
+<lb/>and a <seg ana="#vierendeel">quarter</seg> of <seg ana="#copperas">copper-red</seg> and let
+<lb/>it [be] <seg ana="#boiling">seen</seg> for your uses.
 <lb/>for blue
-<lb/>Pour three buckets of warm urine 
-<lb/>into a vat that is very clean. 
-<lb/>Then take ten ounces of indigo and three
-<lb/>fourths of a pot of finely pounded [gestoken?]
-<lb/>ashes, pull it ["troocken"=troken?] into a new pot, with
-<lb/>two pints of rainwater, then pour in
-<lb/>six ounces of madder and two handfuls of chalk, 
+<lb/>Pour three <seg ana="#bucket">buckets</seg> of warm <seg ana="#urine">urine</seg> 
+<lb/>into a <seg ana="#vat">vat</seg> that is very clean. 
+<lb/>Then take ten <seg ana="#ounce">ounces</seg> of <seg ana="#indigo">indigo</seg> and three
+<lb/><seg ana="#vierendeel">fourths</seg> of a pot of finely <seg ana="#grinding">pounded</seg> [gestoken?]
+<lb/><seg ana="#potash">ashes</seg>, pull it ["troocken"=troken?] into a new <seg ana="#pot">pot</seg>, with
+<lb/>two <seg ana="#pint">pints</seg> of <seg ana="#rainwater">rainwater</seg>, then pour in
+<lb/>six <seg ana="#ounce">ounces</seg> of <seg ana="#madder">madder</seg> and two <seg ana="#handful">handfuls</seg> of <seg ana="#lime">chalk</seg>, 
 <lb/>and let it sit for eight or nine days, it does not matter.
-<lb/>Then a half pint of brandy and a stuiver of [animal intestine or, more likely, bran?]
+<lb/>Then a half <seg ana="#pint">pint</seg> of <seg ana="#brandy">brandy</seg> and a <seg ana="#stuiver">stuiver</seg> of [animal intestine or, more likely, bran?]
 <lb/>for black
-<lb/>Take fourteen and a half pints of gall nuts, a half
-<lb/>pint of madder, and two pounds of sumac [smack]. Let it
-<lb/>cook for an hour. Cool it down quickly.
+<lb/>Take fourteen and a half <seg ana="#pound">pints</seg> of <seg ana="#gallnut">gall nuts</seg>, a half
+<lb/><seg ana="#pound">pint</seg> of <seg ana="#madder">madder</seg>, and two <seg ana="#pound">pounds</seg> of <seg ana="#sumac">sumac</seg> [smack]. Let it
+<lb/><seg ana="#boiling">cook</seg> for an hour. Cool it down quickly.
 <lb/>Add to the same
-<lb/>water a half pound of Proveçal wood
-<lb/>with three pounds of copperas and let it cook
+<lb/>water a half <seg ana="#pound">pound</seg> of <seg ana="#provence_wood">Proveçal wood</seg>
+<lb/>with three <seg ana="#pound">pounds</seg> of <seg ana="#copperas">copperas</seg> and let it <seg ana="#boiling">cook</seg>
 <lb/>another half hour.
 </ab>
+</div>
 
 </div></body></text>

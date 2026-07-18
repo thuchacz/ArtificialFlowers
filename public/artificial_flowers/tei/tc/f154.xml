@@ -1,15 +1,19 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f154"/>
+<div ana="#oyster_shell #dyeing #lime">
 <ab>
 <lb/>nota alsmen schoon violet
 <lb/>wilt hebben, moet men in de
-<lb/>oūester schelpe bij de verwe wat
-<lb/>ongheblūghsche calken doen ~
+<lb/><seg ana="#oyster_shell">oūester schelpe</seg> bij de <seg ana="#dyeing">verwe</seg> wat
+<lb/>ongheblūghsche <seg ana="#lime">calken</seg> doen ~
 </ab>
+</div>
+<div ana="#oyster_shell #dyeing #lemon">
 <ab>
-<lb/>nota, ende inde root oūester
-<lb/>schelpe inde verwe wat
-<lb/>sijtroon sop doen, dat machken
+<lb/>nota, ende inde root <seg ana="#oyster_shell">oūester
+<lb/>schelpe</seg> inde <seg ana="#dyeing">verwe</seg> wat
+<lb/><seg ana="#lemon">sijtroon</seg> sop doen, dat machken
 <lb/>schoon hoogh geelūe
 </ab>
+</div>
 
 </div></body></text>

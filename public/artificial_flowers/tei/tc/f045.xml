@@ -1,32 +1,34 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f045"/>
+<div ana="#vermilion #gum_tragacanth #carmine #english_ash #verdigris #vinegar #paper #parchment #leaf #stem #paintbrush #pot #ounce #drop #painting #tracing #soaking #dipping #dyeing">
 <ab>
-<lb/>Le vermilion se demelle, aūec de la claire 
-<lb/>gomme, estant bien demelaij, on verse dessūs un 
-<lb/>petit peūt d’eaū, et qūelqūe goūtes de gomme ~ 
-<lb/>pūis on le laisse, deūx, oū trois heūrs, comme sa, 
-<lb/>ensūite on paintūre, aūec le pincaūx, sūr les papier, 
-<lb/>me qūand le vermilion deūient trop espez, il faūt 
+<lb/>Le <seg ana="#vermilion">vermilion</seg> se demelle, aūec de la claire
+<lb/><seg ana="#gum_tragacanth">gomme</seg>, estant bien demelaij, on verse dessūs un
+<lb/>petit peūt d’eaū, et qūelqūe <seg ana="#drop">goūtes</seg> de <seg ana="#gum_tragacanth">gomme</seg> ~
+<lb/>pūis on le laisse, deūx, oū trois heūrs, comme sa,
+<lb/>ensūite on <seg ana="#painting">paintūre</seg>, aūec le <seg ana="#paintbrush">pincaūx</seg>, sūr les <seg ana="#paper">papier</seg>,
+<lb/>me qūand le <seg ana="#vermilion">vermilion</seg> deūient trop espez, il faūt
 <lb/>toūjoūrs le d’epecir aūec un peūt d’eaū, et de la ~
-<lb/>claire gomme. ~~~
-<lb/>Le carmin se demelle, comme jaij die cij deūant, 
-<lb/>a la quatrieme feūlles, aū commencement de ce 
-<lb/>liūre, a cette marqūe, ✹ on retoūrne la feūille, 
+<lb/>claire <seg ana="#gum_tragacanth">gomme</seg>. ~~~
+<lb/>Le <seg ana="#carmine">carmin</seg> se demelle, comme jaij die cij deūant,
+<lb/>a la quatrieme feūlles, aū commencement de ce
+<lb/>liūre, a cette marqūe, ✹ on retoūrne la feūille,
 <lb/>et long voie la maniere, de demeler le bleu qūe
-<lb/>lons appelle de cendre d’angleter, cette tintūre ser, 
-<lb/>poūr pintūrer des fleūrs bleūse, et violet aūsij, 
-<lb/>poūr sa, il sūfie de passer le pincaūx roūge, sūr la fleūr bleūse
-<lb/>Poūr accomoder le ver, poūr pintūrer les feūlles 
-<lb/>et les qūeūs des fleūrs, sūr le papier, oū parche=
-<lb/>=min, lons prend dū ver de gris preparez, la
-<lb/>valeūr d’ūne demie onsse, plūs, oū moin, a la=
-<lb/>=venant qūe lons veūx beaūcoūp, oū peūt tracer, on 
-<lb/>le met tramper dans un petit pot aūec un 
-<lb/>peūt de vinaigre, il sūfie qūand le vinaigre, 
-<lb/>et un peūt aū dessūs dū ver, ensūite on le ~ 
-<lb/>laisse tremper un joūr, et une nūit, de la on 
-<lb/>sans ser aūec le pincaūx, en le plongent a 
-<lb/>chaqūe fois, un peūt dans l’epez de la tintūre, 
-<lb/>qūand la tintūre deūient trop espesse, il faūt ij
+<lb/>lons appelle de <seg ana="#english_ash">cendre d’angleter</seg>, cette <seg ana="#dyeing">tintūre</seg> ser,
+<lb/>poūr <seg ana="#painting">pintūrer</seg> des fleūrs bleūse, et violet aūsij,
+<lb/>poūr sa, il sūfie de passer le <seg ana="#paintbrush">pincaūx</seg> roūge, sūr la fleūr bleūse
+<lb/>Poūr accomoder le <seg ana="#verdigris">ver</seg>, poūr <seg ana="#painting">pintūrer</seg> les <seg ana="#leaf">feūlles</seg>
+<lb/>et les <seg ana="#stem">qūeūs</seg> des fleūrs, sūr le <seg ana="#paper">papier</seg>, oū <seg ana="#parchment">parche=
+<lb/>=min</seg>, lons prend dū <seg ana="#verdigris">ver de gris</seg> preparez, la
+<lb/>valeūr d’ūne demie <seg ana="#ounce">onsse</seg>, plūs, oū moin, a la=
+<lb/>=venant qūe lons veūx beaūcoūp, oū peūt <seg ana="#tracing">tracer</seg>, on
+<lb/>le met <seg ana="#soaking">tramper</seg> dans un petit <seg ana="#pot">pot</seg> aūec un
+<lb/>peūt de <seg ana="#vinegar">vinaigre</seg>, il sūfie qūand le <seg ana="#vinegar">vinaigre</seg>,
+<lb/>et un peūt aū dessūs dū <seg ana="#verdigris">ver</seg>, ensūite on le ~
+<lb/>laisse <seg ana="#soaking">tremper</seg> un joūr, et une nūit, de la on
+<lb/>sans ser aūec le <seg ana="#paintbrush">pincaūx</seg>, en le <seg ana="#dipping">plongent</seg> a
+<lb/>chaqūe fois, un peūt dans l’epez de la <seg ana="#dyeing">tintūre</seg>,
+<lb/>qūand la <seg ana="#dyeing">tintūre</seg> deūient trop espesse, il faūt ij
 </ab>
+</div>
 
 </div></body></text>

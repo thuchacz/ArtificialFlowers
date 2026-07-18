@@ -1,32 +1,34 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f030"/>
+<div ana="#dyeing #printing #washing #soaking #scraping #parchment #rainwater #fountain_water #paper #bottle_green #knife #board">
 <ab>
-<lb/>and printing parchment, is the month of
+<lb/>and <seg ana="#printing">printing</seg> <seg ana="#parchment">parchment</seg>, is the month of
 <lb/>May, or just as well the start of the month of
 <lb/>June, and like [this] too, the start of the month of + August and
-<lb/>of September, also for making velum green,
-<lb/>or otherwise said, parchment. ~~
-<lb/>Way to wash the velum. One needs to
-<lb/>put to soak in the evening, and the next day, one
-<lb/>washes it, as one washes the laundry, piece by piece,
-<lb/>in rain water or fountain water, entirely
+<lb/>of September, also for making <seg ana="#parchment">velum</seg> <seg ana="#dyeing">green</seg>,
+<lb/>or otherwise said, <seg ana="#parchment">parchment</seg>. ~~
+<lb/>Way to <seg ana="#washing">wash</seg> the <seg ana="#parchment">velum</seg>. One needs to
+<lb/>put to <seg ana="#soaking">soak</seg> in the evening, and the next day, one
+<lb/><seg ana="#washing">washes</seg> it, as one <seg ana="#washing">washes</seg> the laundry, piece by piece,
+<lb/>in <seg ana="#rainwater">rain water</seg> or <seg ana="#fountain_water">fountain water</seg>, entirely
 <lb/>cold, without ever heating it. Nor
-<lb/>for the soaking, because the velum or parchment,
+<lb/>for the <seg ana="#soaking">soaking</seg>, because the <seg ana="#parchment">velum</seg> or <seg ana="#parchment">parchment</seg>,
 <lb/>will become as easy to tear
-<lb/>as paper in heating the water. One washes it
+<lb/>as <seg ana="#paper">paper</seg> in heating the water. One <seg ana="#washing">washes</seg> it
 <lb/>in this way, twice a day, changing
 <lb/>the water each time, and this thusly eight days in
-<lb/>a row. But when the parchment is written [upon] with
-<lb/>red letters, one needs to scrape the said letter. After ~
-<lb/>having washed the parchment, two or three days, one
+<lb/>a row. But when the <seg ana="#parchment">parchment</seg> is written [upon] with
+<lb/>red letters, one needs to <seg ana="#scraping">scrape</seg> the said letter. After ~
+<lb/>having <seg ana="#washing">washed</seg> the <seg ana="#parchment">parchment</seg>, two or three days, one
 <lb/>takes it out of the water, and one spreads it out on a
-<lb/>very smooth board, all wet like it is, one scrapes the
-<lb/>red letters with the sharp edge of a pen-knife or a knife,
-<lb/>grating [it]. One needs to hold one's hand very lightly, and
-<lb/>turn the parchment on both sides. If there are ~
-<lb/>red letters there too, one needs to scrape so well that one
-<lb/>cannot see anything of the red, because the green doesn't have enough strength
+<lb/>very smooth <seg ana="#board">board</seg>, all wet like it is, one <seg ana="#scraping">scrapes</seg> the
+<lb/>red letters with the sharp edge of a <seg ana="#knife">pen-knife</seg> or a <seg ana="#knife">knife</seg>,
+<lb/><seg ana="#scraping">grating</seg> [it]. One needs to hold one's hand very lightly, and
+<lb/>turn the <seg ana="#parchment">parchment</seg> on both sides. If there are ~
+<lb/>red letters there too, one needs to <seg ana="#scraping">scrape</seg> so well that one
+<lb/>cannot see anything of the red, because the <seg ana="#bottle_green">green</seg> doesn't have enough strength
 <lb/>to cover the red, nor musical notes,
-<lb/>as it is not appropriate for making green. . ~~~
+<lb/>as it is not appropriate for <seg ana="#dyeing">making green</seg>. . ~~~
 </ab>
+</div>
 
 </div></body></text>

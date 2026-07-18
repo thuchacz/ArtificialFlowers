@@ -1,19 +1,20 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f064"/>
+<div ana="#chamomile #cambric #gamboge #vermilion #fish_glue #hide_glue #starch_blue #pint #dyeing #undyeing #rinsing">
 <ab>
-<lb/>well as jonquil colors, and yellow, dyed
-<lb/>with baker's chamomile. ~~~
-<lb/>But jonquil cambric, and yellow dyed
-<lb/>with gamboge do not undye, but
+<lb/>well as jonquil colors, and yellow, <seg ana="#dyeing">dyed</seg>
+<lb/>with <seg ana="#chamomile">baker's chamomile</seg>. ~~~
+<lb/>But jonquil <seg ana="#cambric">cambric</seg>, and yellow <seg ana="#dyeing">dyed</seg>
+<lb/>with <seg ana="#gamboge">gamboge</seg> do not <seg ana="#undyeing">undye</seg>, but
 <lb/>when it is spoiled, or just as well not beautiful
-<lb/>enough to use, one can dye it
-<lb/>red, with vermillion, and fish
-<lb/>glue, or with hide glue.
+<lb/>enough to use, one can <seg ana="#dyeing">dye</seg> it
+<lb/>red, with <seg ana="#vermilion">vermillion</seg>, and <seg ana="#fish_glue">fish
+<lb/>glue</seg>, or with <seg ana="#hide_glue">hide glue</seg>.
 <lb/>return here above to the 3. folio, at the beginning.
-<lb/>Blue dyed with brown, and
-<lb/>pale starch blue, cambric is undyed
+<lb/>Blue <seg ana="#dyeing">dyed</seg> with brown, and
+<lb/><seg ana="#starch_blue">pale starch blue</seg>, <seg ana="#cambric">cambric</seg> is <seg ana="#undyeing">undyed</seg>
 <lb/>with very hot water, the amount of a
-<lb/>pint, one needs to change it in three or
-<lb/>four hot waters, and one rinses it one
+<lb/><seg ana="#pint">pint</seg>, one needs to change it in three or
+<lb/>four hot waters, and one <seg ana="#rinsing">rinses</seg> it one
 <lb/>time in cold water, next one pours
 <lb/>all the water together stirring them ~
 <lb/>vigorously while pouring, in order that the blue will be ~
@@ -25,5 +26,6 @@
 <lb/>at the end, when one sees that the blue
 <lb/>comes with the water, before throwing it all away
 </ab>
+</div>
 
 </div></body></text>

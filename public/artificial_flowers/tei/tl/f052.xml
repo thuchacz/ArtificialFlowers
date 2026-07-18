@@ -1,20 +1,22 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f052"/>
+<div ana="#toile #silk #taffeta #satin #cambric #muslin #verjuice #dyeing #soaking #boiling #pressing #dipping #drying">
 <ab>
-<lb/>Note jonquil cloth, and other paler yellow
-<lb/>colors; are made as one makes with silk, or
-<lb/>taffeta, and white satin; being clean and tidy,
-<lb/>and well dried as well; one needs to put to soak in the
-<lb/>dye, etc. but when it is boiled enough, and that the color
-<lb/>is good; one needs to take [it] out of the dye, and and press
-<lb/>the dye out well; next if you like, or if you find it
-<lb/>good, after having tested plunging a few pieces in the
-<lb/>verjus, and by that, that the color is more agreeable, to your
-<lb/>liking +  but it is not lasting with the verjus, it changes colors + put also piece, by piece, opening it up well
-<lb/>in the verjus, all the rest of the cambric, muslin,
-<lb/>and cloth that you have boiled in the dye; after
-<lb/>that; after having pressed it, and opened two or three times, in
-<lb/>the verjus, as one does the pink colors, one needs to
-<lb/>press out the verjus well; immediately next, one needs
+<lb/>Note jonquil <seg ana="#toile">cloth</seg>, and other paler yellow
+<lb/>colors; are made as one makes with <seg ana="#silk">silk</seg>, or
+<lb/><seg ana="#taffeta">taffeta</seg>, and white <seg ana="#satin">satin</seg>; being clean and tidy,
+<lb/>and well <seg ana="#drying">dried</seg> as well; one needs to put to <seg ana="#soaking">soak</seg> in the
+<lb/><seg ana="#dyeing">dye</seg>, etc. but when it is <seg ana="#boiling">boiled</seg> enough, and that the color
+<lb/>is good; one needs to take [it] out of the <seg ana="#dyeing">dye</seg>, and and <seg ana="#pressing">press</seg>
+<lb/>the <seg ana="#dyeing">dye</seg> out well; next if you like, or if you find it
+<lb/>good, after having tested <seg ana="#dipping">plunging</seg> a few pieces in the
+<lb/><seg ana="#verjuice">verjus</seg>, and by that, that the color is more agreeable, to your
+<lb/>liking +  but it is not lasting with the <seg ana="#verjuice">verjus</seg>, it changes colors + put also piece, by piece, opening it up well
+<lb/>in the <seg ana="#verjuice">verjus</seg>, all the rest of the <seg ana="#cambric">cambric</seg>, <seg ana="#muslin">muslin</seg>,
+<lb/>and <seg ana="#toile">cloth</seg> that you have <seg ana="#boiling">boiled</seg> in the <seg ana="#dyeing">dye</seg>; after
+<lb/>that; after having <seg ana="#pressing">pressed</seg> it, and opened two or three times, in
+<lb/>the <seg ana="#verjuice">verjus</seg>, as one does the pink colors, one needs to
+<lb/><seg ana="#pressing">press</seg> out the <seg ana="#verjuice">verjus</seg> well; immediately next, one needs
 </ab>
+</div>
 
 </div></body></text>

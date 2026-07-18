@@ -1,36 +1,38 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f042"/>
+<div ana="#dyeing #soaking #boiling #grinding #painting #tracing #paper #gamboge #saffron #egg_white #fountain_water #rainwater #nut_size #liard #pot #paintbrush">
 <ab>
-<lb/>For making paper yellow, one takes the
-<lb/>size of two, or three big nuts, of
-<lb/>gamboge that one puts to soak in a little
-<lb/>pot with fountain, or rain, water ~
-<lb/>and that [is] the quantity for covering in yellow
+<lb/>For making <seg ana="#paper">paper</seg> yellow, one takes the
+<lb/>size of two, or three <seg ana="#nut_size">big nuts</seg>, of
+<lb/><seg ana="#gamboge">gamboge</seg> that one puts to <seg ana="#soaking">soak</seg> in a little
+<lb/><seg ana="#pot">pot</seg> with <seg ana="#fountain_water">fountain</seg>, or <seg ana="#rainwater">rain</seg>, water ~
+<lb/>and that [is] the quantity for covering in <seg ana="#gamboge">yellow</seg>
 <lb/>well, and a bit on top [of that]; one puts there also
-<lb/>to soak for five, or six liards, of saffron,
-<lb/>whole, without being pestled, being well soaked
-<lb/>one could boil it if one wanted, next
+<lb/>to <seg ana="#soaking">soak</seg> for five, or six <seg ana="#liard">liards</seg>, of <seg ana="#saffron">saffron</seg>,
+<lb/>whole, without being <seg ana="#grinding">pestled</seg>, being well <seg ana="#soaking">soaked</seg>
+<lb/>one could <seg ana="#boiling">boil</seg> it if one wanted, next
 <lb/>one pours a little of this soup, in the
-<lb/>gamboge, which one mixes well together; from there
-<lb/>one yellows the paper, but if one sees that the ~
-<lb/>paper is not beautiful, or high yellow enough, one ~
-<lb/>there pours again some saffron soup, until such
+<lb/><seg ana="#gamboge">gamboge</seg>, which one mixes well together; from there
+<lb/>one <seg ana="#dyeing">yellows</seg> the <seg ana="#paper">paper</seg>, but if one sees that the ~
+<lb/><seg ana="#paper">paper</seg> is not beautiful, or high yellow enough, one ~
+<lb/>there pours again some <seg ana="#saffron">saffron</seg> soup, until such
 <lb/>time as, that the whole is to your liking, but
 <lb/>when the soup is too thick, one needs to put there
-<lb/>a little more water, the paper yellowed two
+<lb/>a little more water, the <seg ana="#paper">paper</seg> <seg ana="#dyeing">yellowed</seg> two
 <lb/>times, on each side, when the colors are good;
-<lb/>makes a very beautiful paper,
+<lb/>makes a very beautiful <seg ana="#paper">paper</seg>,
 <lb/>and even once also; ~
-<lb/>note that the egg white must
+<lb/>note that the <seg ana="#egg_white">egg white</seg> must
 <lb/>be well beaten before
 <lb/>you use it; ~
-<lb/>Way for accommodating dye, for 
-<lb/>painting flowers on paper, gamboge ~
-<lb/>mixes itself, and one puts it to soak in the same
+<lb/>Way for accommodating <seg ana="#dyeing">dye</seg>, for 
+<lb/><seg ana="#painting">painting</seg> flowers on <seg ana="#paper">paper</seg>, <seg ana="#gamboge">gamboge</seg> ~
+<lb/>mixes itself, and one puts it to <seg ana="#soaking">soak</seg> in the same
 <lb/>way, as I said here before, but instead of
-<lb/>taking so large a quantity of gamboge, one
-<lb/>only puts to soak the size of one + big nut; and
-<lb/>water. In hauling it out; next one traces with the
-<lb/>paintbrush, without the use of saffron. ~
+<lb/>taking so large a quantity of <seg ana="#gamboge">gamboge</seg>, one
+<lb/>only puts to <seg ana="#soaking">soak</seg> the size of one + <seg ana="#nut_size">big nut</seg>; and
+<lb/>water. In hauling it out; next one <seg ana="#tracing">traces</seg> with the
+<lb/><seg ana="#paintbrush">paintbrush</seg>, without the use of <seg ana="#saffron">saffron</seg>. ~
 </ab>
+</div>
 
 </div></body></text>

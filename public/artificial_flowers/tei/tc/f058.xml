@@ -1,32 +1,34 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f058"/>
+<div ana="#rainwater #vinegar #toile #beer #fish_glue #fountain_water #hammer #pot #earthenware_pot #cloth #quarter_pound #pint #drop #starching #cutting #soaking #boiling #straining #dyeing">
 <ab>
-<lb/>plūis, si l’ons troūūe bon, car aūterment
-<lb/>le vinaigre et bon aūsi, il faūt l’enpeser 
-<lb/>et faire en toūs, comme la toille jonne. 
+<lb/><seg ana="#rainwater">plūis</seg>, si l’ons troūūe bon, car aūterment
+<lb/>le <seg ana="#vinegar">vinaigre</seg> et bon aūsi, il faūt l’<seg ana="#starching">enpeser</seg> 
+<lb/>et faire en toūs, comme la <seg ana="#toile">toille</seg> jonne. 
 <lb/>cette sorte de toille, ne pas bonne poūr
-<lb/>faire de fleūrs. ~ la vielle bier, et encorre mieū,
+<lb/>faire de fleūrs. ~ la <seg ana="#beer">vielle bier</seg>, et encorre mieū,
 <lb/>qūand elle seroit 8. et 20. ans vielle; 
-<lb/>me il faūt qūe ce soit bonne bier, il ne faūt pas qūe se soit petit bier;
-<lb/>Maniere poūr faire de la colle de pois=
-<lb/>=son il faūt prendre une demie cartron 
-<lb/>de colle de poisson, il faūt le bien fraper
-<lb/>aūec le marteaū, estant bien d’ecarpiliez
-<lb/>on le coūpe, par petit morcaū, ensūite
-<lb/>l’ons prend trois pinte d’eaū de plūis, oū
-<lb/>de fontainne, plūtot moin, qūe plūs; dela
-<lb/>on le met tremper un joūr, apres sa :+:
-<lb/>:+: on le met boūlier dans un pot oū bien
-<lb/>dans un coūez de terre bien net, et ~
+<lb/>me il faūt qūe ce soit <seg ana="#beer">bonne bier</seg>, il ne faūt pas qūe se soit <seg ana="#beer">petit bier</seg>;
+<lb/>Maniere poūr faire de la <seg ana="#fish_glue">colle de pois=
+<lb/>=son</seg> il faūt prendre une demie <seg ana="#quarter_pound">cartron</seg> 
+<lb/>de <seg ana="#fish_glue">colle de poisson</seg>, il faūt le bien fraper
+<lb/>aūec le <seg ana="#hammer">marteaū</seg>, estant bien d’ecarpiliez
+<lb/>on le <seg ana="#cutting">coūpe</seg>, par petit morcaū, ensūite
+<lb/>l’ons prend trois <seg ana="#pint">pinte</seg> d’eaū de <seg ana="#rainwater">plūis</seg>, oū
+<lb/>de <seg ana="#fountain_water">fontainne</seg>, plūtot moin, qūe plūs; dela
+<lb/>on le met <seg ana="#soaking">tremper</seg> un joūr, apres sa :+:
+<lb/>:+: on le met <seg ana="#boiling">boūlier</seg> dans un <seg ana="#pot">pot</seg> oū bien
+<lb/>dans un <seg ana="#earthenware_pot">coūez de terre</seg> bien net, et ~
 <lb/>noūūeaū sans aūoir serūie a aūtre chose, 
 <lb/>il faūt le toūllier fort soūūent, affin
 <lb/>qūe la colle ne brūlle pas aū fons
-<lb/>dū pot, il faūt le leser boūlier, jūsqūa
+<lb/>dū pot, il faūt le leser <seg ana="#boiling">boūlier</seg>, jūsqūa
 <lb/>temp, qūe l’eaū soit diminūez aū’senūiron
-<lb/>de la moitiez, lons prend qūelqūe goūte
+<lb/>de la moitiez, lons prend qūelqūe <seg ana="#drop">goūte</seg>
 <lb/>en boūlan aūec les dois, poūr voire, si la 
 <lb/>soūpe, est crasse assez, si elle attache 
 <lb/>aū dois, ensūite on le prend dū fūe, et 
-<lb/>on le passe aūsitot par un linge, dans
+<lb/>on le <seg ana="#straining">passe</seg> aūsitot par un <seg ana="#cloth">linge</seg>, dans
 </ab>
+</div>
 
 </div></body></text>

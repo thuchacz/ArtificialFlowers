@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f038"/>
+<div ana="#dyeing #grinding #wringing #straining #parchment #paper #gamboge #cauliflower #verdigris #leaf #rose #anemone #ranunculus #drop #spoon #pint #quarter_pound #mortar #bag #press #saucer">
 <ab>
 <lb/>sūfie, de faire sa une fois a chaqūe
-<lb/>côté. notez, qūil faūt, verdir, le parchemien, 
-<lb/>et le papiez, cinq, oū 6. fois, a chaqūe coté, p[ou]r estre bien
-<lb/>Maniere, poūr verdir le velin, oū parchemin, 
-<lb/>poūr les feūille de rose, les alimon, rononcūl, 
+<lb/>côté. notez, qūil faūt, <seg ana="#dyeing">verdir</seg>, le <seg ana="#parchment">parchemien</seg>, 
+<lb/>et le <seg ana="#paper">papiez</seg>, cinq, oū 6. fois, a chaqūe coté, p[ou]r estre bien
+<lb/>Maniere, poūr <seg ana="#dyeing">verdir</seg> le <seg ana="#parchment">velin</seg>, oū <seg ana="#parchment">parchemin</seg>, 
+<lb/>poūr les <seg ana="#leaf">feūille</seg> de <seg ana="#rose">rose</seg>, les <seg ana="#anemone">alimon</seg>, <seg ana="#ranunculus">rononcūl</seg>, 
 <lb/>et aūtres fleūrs, long fait comme jaij die, cij
-<lb/>deūant, me en place de cinq, oū six goūte, 
-<lb/>de gommegūt, lons prend la valeūr de deūx 
-<lb/>petit cūlier de la dit gom[me]gūt, plūs, oū moin, 
+<lb/>deūant, me en place de cinq, oū six <seg ana="#drop">goūte</seg>, 
+<lb/>de <seg ana="#gamboge">gommegūt</seg>, lons prend la valeūr de deūx 
+<lb/>petit <seg ana="#spoon">cūlier</seg> de la dit <seg ana="#gamboge">gom[me]gūt</seg>, plūs, oū moin, 
 <lb/>a l’aūenant qūon veūx aūoir le ver jonnat, 
-<lb/>me la jonne doit estre for claire. le pa=
-<lb/>=piez ver, se fait de la meme maniere aūsi, 
-<lb/>Le papier ver, se fait encorre, de cette 
-<lb/>maniere, l’ons prendre de foeūlles des choūsfleūrs, 
-<lb/>lons otte les costes, de la on les estampe dans 
-<lb/>un mortiez, pūis on les mest dans un petit
-<lb/>sacqūe, ensūite, on mest le dit sac, dans 
-<lb/>un pressoir, aūec une telle dessoūs poūr ~
-<lb/>receūoir la soūp, me si lons na pas de pressoir
-<lb/>on tor le petit sac de toille aūec les mains, 
+<lb/>me la <seg ana="#gamboge">jonne</seg> doit estre for claire. le <seg ana="#paper">pa=
+<lb/>=piez</seg> ver, se fait de la meme maniere aūsi, 
+<lb/>Le <seg ana="#paper">papier</seg> ver, se fait encorre, de cette 
+<lb/>maniere, l’ons prendre de <seg ana="#cauliflower">foeūlles des choūsfleūrs</seg>, 
+<lb/>lons otte les costes, de la on les <seg ana="#grinding">estampe</seg> dans 
+<lb/>un <seg ana="#mortar">mortiez</seg>, pūis on les mest dans un petit
+<lb/><seg ana="#bag">sacqūe</seg>, ensūite, on mest le dit <seg ana="#bag">sac</seg>, dans 
+<lb/>un <seg ana="#press">pressoir</seg>, aūec une <seg ana="#saucer">telle</seg> dessoūs poūr ~
+<lb/>receūoir la soūp, me si lons na pas de <seg ana="#press">pressoir</seg>
+<lb/>on <seg ana="#wringing">tor</seg> le petit <seg ana="#bag">sac de toille</seg> aūec les mains, 
 <lb/>+ fort 
-<lb/>aūsi + qūe long peūt, lon prend une pinte 
+<lb/>aūsi + qūe long peūt, lon prend une <seg ana="#pint">pinte</seg> 
 <lb/>de cette soūpe, et lons tulle dans ditte
-<lb/>soūpe une demie cartron, de ver de grie
-<lb/>bien pille; et si long veū, apres qūe la ver ~ 
-<lb/>et bien estampe, on la passe encorre par un
+<lb/>soūpe une demie <seg ana="#quarter_pound">cartron</seg>, de <seg ana="#verdigris">ver de grie</seg>
+<lb/>bien <seg ana="#grinding">pille</seg>; et si long veū, apres qūe la <seg ana="#verdigris">ver</seg> ~ 
+<lb/>et bien <seg ana="#grinding">estampe</seg>, on la <seg ana="#straining">passe</seg> encorre par un
 </ab>
+</div>
 
 </div></body></text>

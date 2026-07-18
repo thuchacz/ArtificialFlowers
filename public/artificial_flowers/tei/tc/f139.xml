@@ -1,22 +1,24 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f139"/>
+<div ana="#table #painting #paper #cord #drying #egg_white #silk #dyeing #washing #ribbon #boiling #wood #wax #brazilwood #alum #bucket">
 <ab>
-<lb/>een tafel begint te schilderen maer moet sleghte
+<lb/>een <seg ana="#table">tafel</seg> begint te <seg ana="#painting">schilderen</seg> maer moet sleghte
 <lb/>of jets dat niet bederven can onder leggen en jder
-<lb/>bladt op een cordeken hangen alwaert maer een
-<lb/>pack cordeken dan laeten drogen en soo continueren
+<lb/><seg ana="#paper">bladt</seg> op een <seg ana="#cord">cordeken</seg> hangen alwaert maer een
+<lb/>pack <seg ana="#cord">cordeken</seg> dan laeten <seg ana="#drying">drogen</seg> en soo continueren
 <lb/>tot dat het root genogh is naer uw gouste alwaert
 <lb/>tot ses a seven mal wilt gij het blinckende
-<lb/>hebben gaet het eens over met wijt van heyeren fijn
-<lb/>geslegen dit sop is oock goedt om sijde root te maeken
+<lb/>hebben gaet het eens over met <seg ana="#egg_white">wijt van heyeren</seg> fijn
+<lb/>geslegen dit sop is oock goedt om <seg ana="#silk">sijde</seg> <seg ana="#dyeing">root te maeken</seg>
 <lb/>besonderlijck witten gront of gelve maer moet eerst suijver
-<lb/>gewasschen sijn of linten maer moet een weijnigh hier
-<lb/>in kocken tis oock goet om wit hout root te maeken
-<lb/>en als het root genog is met wasch gevreven dat blinckt
+<lb/><seg ana="#washing">gewasschen</seg> sijn of <seg ana="#ribbon">linten</seg> maer moet een weijnigh hier
+<lb/>in <seg ana="#boiling">kocken</seg> tis oock goet om wit <seg ana="#wood">hout</seg> <seg ana="#dyeing">root te maeken</seg>
+<lb/>en als het root genog is met <seg ana="#wax">wasch</seg> gevreven dat blinckt
 <lb/>en is gelijck Bois d’acasou de gront van dit can meer
-<lb/>als eens dienen met ander waeter en nog weijnig hout
-<lb/>daer in en allun is wederan goet sap
-<lb/>maer de groote van den allum soo een dobbelen
-<lb/>bocket jmers het leert sijn selven
+<lb/>als eens dienen met ander waeter en nog weijnig <seg ana="#brazilwood">hout</seg>
+<lb/>daer in en <seg ana="#alum">allun</seg> is wederan goet sap
+<lb/>maer de groote van den <seg ana="#alum">allum</seg> soo een dobbelen
+<lb/><seg ana="#bucket">bocket</seg> jmers het leert sijn selven
 </ab>
+</div>
 
 </div></body></text>

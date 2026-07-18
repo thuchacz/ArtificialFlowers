@@ -2,32 +2,34 @@
 <ab>
 <lb/>Notez les non de taintūre en flament;
 </ab>
+<div ana="#starch #starch_blue #red_lead #gamboge #saffron #vermilion #safflower #vinegar #tartar #cauliflower #verdigris #brazilwood #logwood #english_ash #carmine #alum #fish_glue #hide_glue #vine_ash">
 <ab>
-<lb/>de la fleūrs d’amidon.			stijfpap bloom;
-<lb/>de lanpois,. stijfpap 		|,.	roomenie .~*
-<lb/>dū brūn bleū d’empois.	|	brūne blaū van 
-<lb/>				|	stijfpap.
-<lb/>dū palle bleū d’empois.	|	bleck blaū van 
-<lb/>de la menie.~*			|	stijfpap.
-<lb/>de la gomme gūte.		|	gūitte gomme.
-<lb/>dū safran entiere.		|	gheheel saūfraen.
-<lb/>dū vermilion.			|	vermelioen.
-<lb/>dū sanfloūr.			|	sanfloūr.
-<lb/>dū vinaigre de vin		|	wit wijn asijn.
-<lb/>blan. De tartre crūe.		|	raūwe wit wijnsteen.
-<lb/>de feūlles de choūs=		|	blaeren van bloom
-<lb/>=fleūrs, sans les cottes.	|	coolen, sonder de
+<lb/>de la <seg ana="#starch">fleūrs d’amidon</seg>.			<seg ana="#starch">stijfpap bloom</seg>;
+<lb/>de <seg ana="#starch">lanpois</seg>,. <seg ana="#starch">stijfpap</seg> 		|,.	<seg ana="#red_lead">roomenie</seg> .~*
+<lb/>dū <seg ana="#starch_blue">brūn bleū d’empois</seg>.	|	<seg ana="#starch_blue">brūne blaū van</seg> 
+<lb/>				|	<seg ana="#starch_blue">stijfpap</seg>.
+<lb/>dū <seg ana="#starch_blue">palle bleū d’empois</seg>.	|	<seg ana="#starch_blue">bleck blaū van</seg> 
+<lb/>de la <seg ana="#red_lead">menie</seg>.~*			|	<seg ana="#starch_blue">stijfpap</seg>.
+<lb/>de la <seg ana="#gamboge">gomme gūte</seg>.		|	<seg ana="#gamboge">gūitte gomme</seg>.
+<lb/>dū <seg ana="#saffron">safran</seg> entiere.		|	gheheel <seg ana="#saffron">saūfraen</seg>.
+<lb/>dū <seg ana="#vermilion">vermilion</seg>.			|	<seg ana="#vermilion">vermelioen</seg>.
+<lb/>dū <seg ana="#safflower">sanfloūr</seg>.			|	<seg ana="#safflower">sanfloūr</seg>.
+<lb/>dū <seg ana="#vinegar">vinaigre de vin</seg>		|	<seg ana="#vinegar">wit wijn asijn</seg>.
+<lb/>blan. De <seg ana="#tartar">tartre</seg> crūe.		|	raūwe wit <seg ana="#tartar">wijnsteen</seg>.
+<lb/>de <seg ana="#cauliflower">feūlles de choūs=</seg>		|	<seg ana="#cauliflower">blaeren van bloom</seg>
+<lb/><seg ana="#cauliflower">=fleūrs</seg>, sans les cottes.	|	<seg ana="#cauliflower">coolen</seg>, sonder de
 <lb/>				|	ribben.
-<lb/>dū ver de gris.			|	spaens groen.
-<lb/>dū bois de ferne=		|	fernebockx hoūdt.
-<lb/>=boūcqūe.			|
-<lb/>dū bois de bersil.		|	bresil hoūdt.
-<lb/>des cendre d’angleter.	|	inghelschen asschen.
-<lb/>~carmin. olūn.			|	carmin. olūn.
-<lb/>de la colle des poisson.	|	vieslim.
-<lb/>de la colle de cūire.		|	lim van-leer.
-<lb/>de cendre, des branche, des	|	asschen van wingar rancken.
-<lb/>vinnes				|
+<lb/>dū <seg ana="#verdigris">ver de gris</seg>.			|	<seg ana="#verdigris">spaens groen</seg>.
+<lb/>dū <seg ana="#brazilwood">bois de ferne=</seg>		|	<seg ana="#brazilwood">fernebockx hoūdt</seg>.
+<lb/><seg ana="#brazilwood">=boūcqūe</seg>.			|
+<lb/>dū <seg ana="#logwood">bois de bersil</seg>.		|	<seg ana="#logwood">bresil hoūdt</seg>.
+<lb/>des <seg ana="#english_ash">cendre d’angleter</seg>.	|	<seg ana="#english_ash">inghelschen asschen</seg>.
+<lb/>~<seg ana="#carmine">carmin</seg>. <seg ana="#alum">olūn</seg>.			|	<seg ana="#carmine">carmin</seg>. <seg ana="#alum">olūn</seg>.
+<lb/>de la <seg ana="#fish_glue">colle des poisson</seg>.	|	<seg ana="#fish_glue">vieslim</seg>.
+<lb/>de la <seg ana="#hide_glue">colle de cūire</seg>.		|	<seg ana="#hide_glue">lim van-leer</seg>.
+<lb/>de <seg ana="#vine_ash">cendre, des branche</seg>, des	|	<seg ana="#vine_ash">asschen van wingar rancken</seg>.
+<lb/><seg ana="#vine_ash">vinnes</seg>				|
 </ab>
+</div>
 
 </div></body></text>

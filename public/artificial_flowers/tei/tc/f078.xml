@@ -1,32 +1,34 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f078"/>
+<div ana="#gilding #gold #silver #burnishing #glue #ceruse #drying #wolfs_tooth #soap #polishing #paint #eel_gall #brandy #illuminating #tracing #paintbrush">
 <ab>
-<lb/>Maniere om te vergūlden, met goūdt, ofte silūer.
-<lb/>het geene datmen brūneeren wilt, t’sij goūdt,
-<lb/>ofte silūer, moet voor eerst den gront doen,
-<lb/>met stercken lijm, drooge sijnde leght daen
-<lb/>een laeghe lijm met wit cerūse, onderhoūdende
+<lb/>Maniere om te <seg ana="#gilding">vergūlden</seg>, met <seg ana="#gold">goūdt</seg>, ofte <seg ana="#silver">silūer</seg>.
+<lb/>het geene datmen <seg ana="#burnishing">brūneeren</seg> wilt, t’sij <seg ana="#gold">goūdt</seg>,
+<lb/>ofte <seg ana="#silver">silūer</seg>, moet voor eerst den gront doen,
+<lb/>met stercken <seg ana="#glue">lijm</seg>, drooge sijnde leght daen
+<lb/>een laeghe <seg ana="#glue">lijm</seg> met <seg ana="#ceruse">wit cerūse</seg>, onderhoūdende
 <lb/>altijdt dat ghij de t’weede laeghe noijt en leght,
 <lb/>ten sij dat de eerste gheheel drooghe is, ende en
-<lb/>leght het noijt te drooghen daer het groote sonne
+<lb/>leght het noijt te <seg ana="#drying">drooghen</seg> daer het groote sonne
 <lb/>maeckt, en leght het wit niet te dicke, men
 <lb/>moet het legghen tot 9. oft 10. keeren, sūijūer=
 <lb/>=et alsdaen, en maecket wel effūen met een
-<lb/>wūlfs tant, oft met water van spaensche
-<lb/>seepe, ende vrift het daer mede tot dat het
+<lb/><seg ana="#wolfs_tooth">wūlfs tant</seg>, oft met water van <seg ana="#soap">spaensche
+<lb/>seepe</seg>, ende <seg ana="#polishing">vrift</seg> het daer mede tot dat het
 <lb/>effen is, doen moet men ten minsten eenen
-<lb/>dagh laeten rūsten, eer ghij het gaet vergūlden,
-<lb/>ofte versilūeren, Maer onder het goūt, doetmen
-<lb/>de t’wee laest keeren met lijm, wat witte
-<lb/>cerūse en orannie verweijen, om den gront,
+<lb/>dagh laeten rūsten, eer ghij het gaet <seg ana="#gilding">vergūlden</seg>,
+<lb/>ofte <seg ana="#gilding">versilūeren</seg>, Maer onder het <seg ana="#gold">goūt</seg>, doetmen
+<lb/>de t’wee laest keeren met <seg ana="#glue">lijm</seg>, wat <seg ana="#ceruse">witte
+<lb/>cerūse</seg> en <seg ana="#paint">orannie verweijen</seg>, om den gront,
 <lb/>goūdt coūleūr te hebben ~~~~
-<lb/>Gal van een palinck, in wat brandewijn ghe=
-<lb/>smolten, is goet voor te verlichten, goūdt, oft silūer,
+<lb/><seg ana="#eel_gall">Gal van een palinck</seg>, in wat <seg ana="#brandy">brandewijn</seg> ghe=
+<lb/>smolten, is goet voor te <seg ana="#illuminating">verlichten</seg>, <seg ana="#gold">goūdt</seg>, oft <seg ana="#silver">silūer</seg>,
 <lb/>inde naervolghende coūleūrs, groeūn, swart, grise,
 <lb/>en geelūe,
-<lb/>het doet de verweijen vloeijen, en maecht dat sij
+<lb/>het doet de <seg ana="#paint">verweijen</seg> vloeijen, en maecht dat sij
 <lb/>niet afschelferen; dit klienne cantiteijdt van het
-<lb/>gal van eennen palinck en is maer om te traceren
-<lb/>met eennen peinceelle op beeldekens, maer als sij grooter
+<lb/><seg ana="#eel_gall">gal van eennen palinck</seg> en is maer om te <seg ana="#tracing">traceren</seg>
+<lb/>met eennen <seg ana="#paintbrush">peinceelle</seg> op beeldekens, maer als sij grooter
 </ab>
+</div>
 
 </div></body></text>

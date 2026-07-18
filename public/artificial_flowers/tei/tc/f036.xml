@@ -1,36 +1,38 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f036"/>
+<div ana="#dyeing #soaking #straining #drying #painting #white_pigment #gum_tragacanth #gamboge #bottle_green #egg_white #stem #carnation #dish #spoon #handful #cloth #paintbrush">
 <ab>
-<lb/>Maniere poūr verdir les qūeūs des fleūrs, 
-<lb/>long met dans une ecūelle, une bon cūlier 
-<lb/>de petit blan, comme les paintre + qūe lons demelle aūec
+<lb/>Maniere poūr <seg ana="#dyeing">verdir</seg> les <seg ana="#stem">qūeūs</seg> des fleūrs, 
+<lb/>long met dans une <seg ana="#dish">ecūelle</seg>, une bon <seg ana="#spoon">cūlier</seg> 
+<lb/>de <seg ana="#white_pigment">petit blan</seg>, comme les paintre + qūe lons demelle aūec
 <lb/>se serūe, poūr la premiere coūleūr +
-<lb/>de la claire gomme, poūr cette fin, long ~
-<lb/>met tremper cinq ou six joūrs deūant, une 
-<lb/>grosse ponniez de gomme, aūtant qūon pūis 
+<lb/>de la claire <seg ana="#gum_tragacanth">gomme</seg>, poūr cette fin, long ~
+<lb/>met <seg ana="#soaking">tremper</seg> cinq ou six joūrs deūant, une 
+<lb/>grosse <seg ana="#handful">ponniez</seg> de <seg ana="#gum_tragacanth">gomme</seg>, aūtant qūon pūis 
 <lb/>teniere dans une main plūtot plūs, que moin; 
-<lb/>aūant de demeler le petit blan on passe 
-<lb/>la gomme, par une fort claire linge, comme
-<lb/>jaij die poūr le ver, ensūite on demelle aūec, 
-<lb/>deūx, oū trois cūlier, de la gommegūt fort 
-<lb/>claire, pūis on verse la ver dessūs, et la 
-<lb/>reste de la gomme aūsi, mais qūand le ver 
-<lb/>espez, ne sūfie pas, poūr bien verdir, on 
-<lb/>verse dū ver de la boūtelle; jūsqūa temp 
+<lb/>aūant de demeler le <seg ana="#white_pigment">petit blan</seg> on <seg ana="#straining">passe</seg> 
+<lb/>la <seg ana="#gum_tragacanth">gomme</seg>, par une fort claire <seg ana="#cloth">linge</seg>, comme
+<lb/>jaij die poūr le <seg ana="#bottle_green">ver</seg>, ensūite on demelle aūec, 
+<lb/>deūx, oū trois <seg ana="#spoon">cūlier</seg>, de la <seg ana="#gamboge">gommegūt</seg> fort 
+<lb/>claire, pūis on verse la <seg ana="#bottle_green">ver</seg> dessūs, et la 
+<lb/>reste de la <seg ana="#gum_tragacanth">gomme</seg> aūsi, mais qūand le <seg ana="#bottle_green">ver</seg> 
+<lb/>espez, ne sūfie pas, poūr bien <seg ana="#dyeing">verdir</seg>, on 
+<lb/>verse dū <seg ana="#bottle_green">ver de la boūtelle</seg>; jūsqūa temp 
 <lb/>qūe le toūs soit bien a sa volontez, ensūite
 <lb/>on le laisse deūenire espez comme dū papein, 
 <lb/>en la toūlliant deūx, oū trois fois, le joūr, 
-<lb/>cela estant fait; on l’apliqūe sūr les qūeūs 
-<lb/>de fleūrs, aūec un pinceaū, les qūeūs estant
-<lb/>saiche, si il ne sons pas unie, on le paint
-<lb/>aūec la pinceaū, encorre une fois, et sa plū=
+<lb/>cela estant fait; on l’apliqūe sūr les <seg ana="#stem">qūeūs</seg> 
+<lb/>de fleūrs, aūec un <seg ana="#paintbrush">pinceaū</seg>, les <seg ana="#stem">qūeūs</seg> estant
+<lb/><seg ana="#drying">saiche</seg>, si il ne sons pas unie, on le <seg ana="#painting">paint</seg>
+<lb/>aūec la <seg ana="#paintbrush">pinceaū</seg>, encorre une fois, et sa plū=
 <lb/>=sieūrs fois, s'il en est besoin.
 <lb/>me une fois est la mieū;
-<lb/>est si les qūeūs ne lūite
+<lb/>est si les <seg ana="#stem">qūeūs</seg> ne lūite
 <lb/>point assez a vostre
-<lb/>volontez il faūt passer desūr aūec le paincaū dū
-<lb/>blan d’oeūf, bien frapper; ~~~
-<lb/>On faist de la meme maniere, poūr les qūeūs 
-<lb/>des eūliez, et sa sans se serūirre de gomme=
+<lb/>volontez il faūt passer desūr aūec le <seg ana="#paintbrush">paincaū</seg> dū
+<lb/><seg ana="#egg_white">blan d’oeūf</seg>, bien frapper; ~~~
+<lb/>On faist de la meme maniere, poūr les <seg ana="#stem">qūeūs</seg> 
+<lb/>des <seg ana="#carnation">eūliez</seg>, et sa sans se serūirre de <seg ana="#gamboge">gomme=</seg>
 </ab>
+</div>
 
 </div></body></text>

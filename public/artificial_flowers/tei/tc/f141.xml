@@ -1,6 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f141"/>
+<div ana="#undyeing #lake_pigment #paper #dyeing">
 <ab>
-<lb/>En ‘t Claerste is an papier te verwen
+<lb/>En ‘t Claerste is an <seg ana="#paper">papier</seg> te <seg ana="#dyeing">verwen</seg>
 </ab>
+</div>
 
 </div></body></text>

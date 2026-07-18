@@ -1,32 +1,34 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f016"/>
+<div ana="#gamboge #saffron #escalin #liard #alum #grinding #fish_glue #tracing #hide_glue #carmine #cambric #vermilion #starching #rainwater #soaking #oyster_shell #glass_vessel">
 <ab>
-<lb/>ij mettre de la gommegūte, dans la meme
+<lb/>ij mettre de la <seg ana="#gamboge">gommegūte</seg>, dans la meme
 <lb/>soūpe, jūsqūa tent qūel soit bien, et ~ 
 <lb/>qūand la coūloeūr et trop pal jonne; il faūt 
-<lb/>ij mettre plūs de soūpe de safran, et faire 
+<lb/>ij mettre plūs de soūpe de <seg ana="#saffron">safran</seg>, et faire 
 <lb/>comme cij deūant, comme aūsij aūec un peūt 
-<lb/>de colle; Poūr un esqūelein de gommegūte, aūec
-<lb/>poūr six liars, de safran, fait une belle
-<lb/>coūloeūrs, il faūt mettre aussi pour deux liar olūn 
-<lb/>etanpez, et le bien, rompe, et toūlier ensembles, aūec de l’aeū; ~
+<lb/>de colle; Poūr un <seg ana="#escalin">esqūelein</seg> de <seg ana="#gamboge">gommegūte</seg>, aūec
+<lb/>poūr six <seg ana="#liard">liars</seg>, de <seg ana="#saffron">safran</seg>, fait une belle
+<lb/>coūloeūrs, il faūt mettre aussi pour deux <seg ana="#liard">liar</seg> <seg ana="#alum">olūn</seg> 
+<lb/><seg ana="#grinding">etanpez</seg>, et le bien, rompe, et toūlier ensembles, aūec de l’aeū; ~
 <lb/>Poūr le palle jonne, il ne faūt prendre
-<lb/>qūe de la gommegūte, aūec de la colle de 
-<lb/>poisson; me si le jonne est poūr tracer, il 
-<lb/>faūt prendre de la colle de cūire; parce=
-<lb/>=qūe le cermin, se trace plūs facillement
-<lb/>sūr le cambraij, aūec cette sorte de colle.
-<lb/>notez, qūe la gomgūte, et la soūpe de safran ensemble est belle
-<lb/>sans olūn aūssi, de meme la gomgūte +seulle sans olūn dedans, elle est plūs pūrre;
+<lb/>qūe de la <seg ana="#gamboge">gommegūte</seg>, aūec de la <seg ana="#fish_glue">colle de 
+<lb/>poisson</seg>; me si le jonne est poūr <seg ana="#tracing">tracer</seg>, il 
+<lb/>faūt prendre de la <seg ana="#hide_glue">colle de cūire</seg>; parce=
+<lb/>=qūe le <seg ana="#carmine">cermin</seg>, se <seg ana="#tracing">trace</seg> plūs facillement
+<lb/>sūr le <seg ana="#cambric">cambraij</seg>, aūec cette sorte de <seg ana="#hide_glue">colle</seg>.
+<lb/>notez, qūe la <seg ana="#gamboge">gomgūte</seg>, et la soūpe de <seg ana="#saffron">safran</seg> ensemble est belle
+<lb/>sans <seg ana="#alum">olūn</seg> aūssi, de meme la <seg ana="#gamboge">gomgūte</seg> +seulle sans <seg ana="#alum">olūn</seg> dedans, elle est plūs pūrre;
 <lb/>Notez, toūtes les coūloeūrs jonne, et jonnate, 
-<lb/>comme aūsij la coūloeūrs roūge de vermilion, 
-<lb/>qūand ce poūr tracer, il faūt toūjoūr l’ampeser
-<lb/>aūec la colle de cūire, ~~~
-<lb/>✹Le cermin se demelle aūec un peūt d’aū de 
-<lb/>plūis, oū de fontaine, pūis,ilfaūt le leser 
-<lb/>tremper un joūr, et une nūit, aūant de 
-<lb/>senserūire poūr tracer; le cermin doit estre
-<lb/>rompūe, oū demelez, dans une ecail d’oūstre, oū
-<lb/>bien dans un ver, for plas, aūec la valeūrs d’ūne
+<lb/>comme aūsij la coūloeūrs roūge de <seg ana="#vermilion">vermilion</seg>, 
+<lb/>qūand ce poūr <seg ana="#tracing">tracer</seg>, il faūt toūjoūr l’<seg ana="#starching">ampeser</seg>
+<lb/>aūec la <seg ana="#hide_glue">colle de cūire</seg>, ~~~
+<lb/>✹Le <seg ana="#carmine">cermin</seg> se demelle aūec un peūt d’<seg ana="#rainwater">aū de 
+<lb/>plūis</seg>, oū de fontaine, pūis,ilfaūt le leser 
+<lb/><seg ana="#soaking">tremper</seg> un joūr, et une nūit, aūant de 
+<lb/>senserūire poūr <seg ana="#tracing">tracer</seg>; le <seg ana="#carmine">cermin</seg> doit estre
+<lb/>rompūe, oū demelez, dans une <seg ana="#oyster_shell">ecail d’oūstre</seg>, oū
+<lb/>bien dans un <seg ana="#glass_vessel">ver</seg>, for plas, aūec la valeūrs d’ūne
 </ab>
+</div>
 
 </div></body></text>

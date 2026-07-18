@@ -1,59 +1,61 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f142"/>
+<div ana="#paper #dyeing #ounce #potash #earthenware_pot #boiling #stoop #rainwater #lye #pot #kanne #pound #crimson_fabric #soaking #wringing #susijn #alum #skimming #tartar #starch">
 <ab>
-<lb/>Manire om rood pampier
-<lb/>te verwen
-<lb/>Doet een onse pottasschen in
-<lb/>eenen aerden pot, kokt dan
-<lb/>een stoop regen waeter en|
+<lb/>Manire om rood <seg ana="#paper">pampier</seg>
+<lb/>te <seg ana="#dyeing">verwen</seg>
+<lb/>Doet een <seg ana="#ounce">onse</seg> <seg ana="#potash">pottasschen</seg> in
+<lb/>eenen <seg ana="#earthenware_pot">aerden pot</seg>, <seg ana="#boiling">kokt</seg> dan
+<lb/>een <seg ana="#stoop">stoop</seg> <seg ana="#rainwater">regen waeter</seg> en|
 <lb/>giet dat al kockende op de
 <lb/>pottasschen, laet dit stille
 <lb/>staen tot s’aenderdags giet dan
 <lb/>stillekens sonder roeren de claere
-<lb/>looge af in eenen aenderen pot,
-<lb/>die suyver is, nemt dan een kanne
-<lb/>van dese looge stelt die te kocken
-<lb/>en nemt een pont rood lacken
-<lb/>doet dit in een suyver pot en als
+<lb/><seg ana="#lye">looge</seg> af in eenen aenderen <seg ana="#pot">pot</seg>,
+<lb/>die suyver is, nemt dan een <seg ana="#kanne">kanne</seg>
+<lb/>van dese looge stelt die te <seg ana="#boiling">kocken</seg>
+<lb/>en nemt een <seg ana="#pound">pont</seg> <seg ana="#crimson_fabric">rood lacken</seg>
+<lb/>doet dit in een suyver <seg ana="#pot">pot</seg> en als
 <lb/>de looge kokt giet die op het
-<lb/>laecken, laet dit wat trecken
+<lb/>laecken, laet dit wat <seg ana="#soaking">trecken</seg>
 <lb/>op het vier van tijd tot tijd
 <lb/>keerende het laeken als het al
 <lb/>wel dordronken is stelt het af
 <lb/>en laet het wat verkoelen steld
-<lb/>dan de aender kanne looge op het
-<lb/>vier laet het kooken douwd dan
+<lb/>dan de aender <seg ana="#kanne">kanne</seg> looge op het
+<lb/>vier laet het <seg ana="#boiling">kooken</seg> <seg ana="#wringing">douwd</seg> dan
 <lb/>het laeken uijt soo stijf als gij
 <lb/>kont en als de looge kokt doet
 <lb/>dan het laeken daer in, keert
 <lb/>en wend het wel laet een quar-
-<lb/>-tier koken laet het dan wat
-<lb/>verkoelen douwt het wederom
+<lb/>-tier <seg ana="#boiling">koken</seg> laet het dan wat
+<lb/>verkoelen <seg ana="#wringing">douwt</seg> het wederom
 <lb/>uijt, doet dan al het sop bij een
 <lb/>stelt dit op het vier doet daer
-<lb/>een susijn witten alluijn in
-<lb/>laet dit een weijnig koken het
-<lb/>moet wel geschuijmt, worden, ze
+<lb/>een <seg ana="#susijn">susijn</seg> witten <seg ana="#alum">alluijn</seg> in
+<lb/>laet dit een weijnig <seg ana="#boiling">koken</seg> het
+<lb/>moet wel <seg ana="#skimming">geschuijmt</seg>, worden, ze
 <lb/>en moght het schuijm niet wegh
 <lb/>worpen want daer komt noch
-<lb/>goede verwe van, doet dan wat
-<lb/>witten wijnsteen in eenen pot
-<lb/>en giet de kokende verwe daer op,
+<lb/>goede <seg ana="#dyeing">verwe</seg> van, doet dan wat
+<lb/>witten <seg ana="#tartar">wijnsteen</seg> in eenen <seg ana="#pot">pot</seg>
+<lb/>en giet de kokende <seg ana="#dyeing">verwe</seg> daer op,
 <lb/>als ze siet dat daer noch schuijm
 <lb/>op komt nemt het af, en doet
 <lb/>niet bij het aender schuijm laet
 <lb/>het dan twee a drij daegen staen
 <lb/>sonder roeren, giet dan al stille-
-<lb/>-kens de verwe af, en siet of den
+<lb/>-kens de <seg ana="#dyeing">verwe</seg> af, en siet of den
 <lb/>gront vuijl is offer swaerte brox-
 <lb/>-kens in sijn, alser in sijn ten
 <lb/>is niet goet, als den gront suij-
-<lb/>-ver is doet het bij de verwe, stelt
+<lb/>-ver is doet het bij de <seg ana="#dyeing">verwe</seg>, stelt
 <lb/>dan werderom op het vier, als het
-<lb/>violet is, het is dat’er geen wijn-
-<lb/>-steen genoegh in is, ook alser
-<lb/>te veel wijnsteen in is, is het
-<lb/>te bleek doet dan wat stijf blome
-<lb/>of ameldonk in eenen pot brekt
+<lb/>violet is, het is dat’er geen <seg ana="#tartar">wijn-
+<lb/>-steen</seg> genoegh in is, ook alser
+<lb/>te veel <seg ana="#tartar">wijnsteen</seg> in is, is het
+<lb/>te bleek doet dan wat <seg ana="#starch">stijf blome</seg>
+<lb/>of <seg ana="#starch">ameldonk</seg> in eenen <seg ana="#pot">pot</seg> brekt
 </ab>
+</div>
 
 </div></body></text>

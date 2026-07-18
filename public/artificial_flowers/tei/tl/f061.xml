@@ -1,17 +1,19 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f061"/>
+<div ana="#hide_glue #fish_glue #leather #cloth #knife #pound #straining #starching #cutting">
 <ab>
-<lb/>after that; one needs to pass it through a linen cloth also, and
-<lb/>mix it with the first glue; next one needs to stiffen, and
+<lb/>after that; one needs to <seg ana="#straining">pass</seg> it through a <seg ana="#cloth">linen cloth</seg> also, and
+<lb/>mix it with the first glue; next one needs to <seg ana="#starching">stiffen</seg>, and
 <lb/>make colors with [it], as you wish to do; But
-<lb/>before passing either one through the linen cloth, one needs to leave it
+<lb/>before <seg ana="#straining">passing</seg> either one through the <seg ana="#cloth">linen cloth</seg>, one needs to leave it
 <lb/>to cool, to see if it is congealed enough, such that one could
-<lb/>cut it with a knife; if that is not [the case], one needs to again
+<lb/><seg ana="#cutting">cut</seg> it with a <seg ana="#knife">knife</seg>; if that is not [the case], one needs to again
 <lb/>leave it to draw [itself out] over the fire; all until such time that it is good; but the 2.nd 
 <lb/>glue is not ordinarily as strong, as the first, that is why,
 <lb/>one needs to mix them together; But when you have need of a greater
-<lb/>quantity, instead of a half pound; one needs to take a pound of leather,
+<lb/>quantity, instead of a half <seg ana="#pound">pound</seg>; one needs to take a <seg ana="#pound">pound</seg> of <seg ana="#leather">leather</seg>,
 <lb/>and more still if there is need; and one needs to take water by hauling it out;
-<lb/>one needs to do the same, with fish glue also; ~
+<lb/>one needs to do the same, with <seg ana="#fish_glue">fish glue</seg> also; ~
 </ab>
+</div>
 
 </div></body></text>

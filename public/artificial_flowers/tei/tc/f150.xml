@@ -1,9 +1,11 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f150"/>
+<div ana="#alum #cochineal #tartar #grinding #dyeing #horn">
 <ab>
-<lb/>l olun rouge, consenille tarte, le toūs bien etanpez
-<lb/>p[ou]r taindre la coūleūr de
-<lb/>rosse desūr lhorne blanche qūe voūs voiez icij
+<lb/>l <seg ana="#alum">olun</seg> rouge, <seg ana="#cochineal">consenille</seg> <seg ana="#tartar">tarte</seg>, le toūs bien <seg ana="#grinding">etanpez</seg>
+<lb/>p[ou]r <seg ana="#dyeing">taindre</seg> la coūleūr de
+<lb/>rosse desūr l<seg ana="#horn">horne</seg> blanche qūe voūs voiez icij
 <lb/>cela se van ordinairement chez le marchan ~
 </ab>
+</div>
 
 </div></body></text>

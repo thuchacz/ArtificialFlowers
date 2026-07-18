@@ -1,39 +1,41 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f143"/>
+<div ana="#dyeing #boiling #tartar #pot #skimming #starch #painting #rainwater">
 <ab>
 <lb/>die met het koudt sop dat van
-<lb/>het schuijm komt en als de ver-
-<lb/>-we kokt doet die dan in den pot 
+<lb/>het schuijm komt en als de <seg ana="#dyeing">ver-
+<lb/>-we</seg> <seg ana="#boiling">kokt</seg> doet die dan in den pot 
 <lb/>daer de blome in is al roerende
 <lb/>dat de blomme niet en klontert
-<lb/>als de verwe te violet is doet dan
-<lb/>nog wat wijnsteen bij de blomme
+<lb/>als de <seg ana="#dyeing">verwe</seg> te violet is doet dan
+<lb/>nog wat <seg ana="#tartar">wijnsteen</seg> bij de blomme
 <lb/>tot dat ze siet dat het schoon
-<lb/>van coleur is, noteert dat de verwe
+<lb/>van coleur is, noteert dat de <seg ana="#dyeing">verwe</seg>
 <lb/>niet en mag gestopt zijn ook en
 <lb/>kan niet lang bewaeren, maer
-<lb/>kan erkokt zijn als sij violet
+<lb/>kan <seg ana="#boiling">erkokt</seg> zijn als sij violet
 <lb/>geworden is laet die een weijnig
-<lb/>koken doet dan wat wijnsteen in
-<lb/>een aender pot, giet de verwe daer
-<lb/>op doet het schuijm af en als
+<lb/><seg ana="#boiling">koken</seg> doet dan wat <seg ana="#tartar">wijnsteen</seg> in
+<lb/>een aender <seg ana="#pot">pot</seg>, giet de <seg ana="#dyeing">verwe</seg> daer
+<lb/>op <seg ana="#skimming">doet het schuijm af</seg> en als
 <lb/>het nog te violet is doet'er nog
-<lb/>wat wijnsteen bij tot dat ze siet
+<lb/>wat <seg ana="#tartar">wijnsteen</seg> bij tot dat ze siet
 <lb/>dat het schoon is en alsser geen
 <lb/>schuijm op en komt moet het
 <lb/>laeten staen tot dat het geson-
 <lb/>-ken is, giet het dan stillekens
 <lb/>af siet op den gront goet is als
-<lb/>vooren, en doet het in eenen pot
-<lb/>laet het tot kooken kommen
-<lb/>nemt wat blome als vooren
+<lb/>vooren, en doet het in eenen <seg ana="#pot">pot</seg>
+<lb/>laet het tot <seg ana="#boiling">kooken</seg> kommen
+<lb/>nemt wat <seg ana="#starch">blome</seg> als vooren
 <lb/>geseijt is, hoe drooger de plaet-
-<lb/>-se is daer de verwe staet hoe
+<lb/>-se is daer de <seg ana="#dyeing">verwe</seg> staet hoe
 <lb/>beter sij kan bewaeren,
-<lb/>men kan daer mede ook schil-
-<lb/>-deren en als men geel bleek
+<lb/>men kan daer mede ook <seg ana="#painting">schil-
+<lb/>-deren</seg> en als men geel bleek
 <lb/>wilt hebben moet men wat
-<lb/>regen watter daer bij doen
+<lb/><seg ana="#rainwater">regen watter</seg> daer bij doen
 <lb/>~~~~~~~
 </ab>
+</div>
 
 </div></body></text>

@@ -1,19 +1,20 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f064"/>
+<div ana="#chamomile #cambric #gamboge #vermilion #fish_glue #hide_glue #starch_blue #pint #dyeing #undyeing #rinsing">
 <ab>
-<lb/>aūsi les coūleūrs jonqūille, et jonne, tain 
-<lb/>aūec dū ganez de boūlangez. ~~~
-<lb/>Me le cambraij jonqūille, et jonne tain 
-<lb/>aūec de la gommegūt me se detain pas, me 
+<lb/>aūsi les coūleūrs jonqūille, et jonne, <seg ana="#dyeing">tain</seg> 
+<lb/>aūec dū <seg ana="#chamomile">ganez de boūlangez</seg>. ~~~
+<lb/>Me le <seg ana="#cambric">cambraij</seg> jonqūille, et jonne <seg ana="#dyeing">tain</seg> 
+<lb/>aūec de la <seg ana="#gamboge">gommegūt</seg> me se <seg ana="#undyeing">detain</seg> pas, me 
 <lb/>qūand elle est gattez, oū bien pas belle
-<lb/>assez a sans serūire, on le pūis tindre
-<lb/>roūge, aūec dū vermilion, et de la colle
-<lb/>de poisson, oū aūec de la colle de cūire.
+<lb/>assez a sans serūire, on le pūis <seg ana="#dyeing">tindre</seg>
+<lb/>roūge, aūec dū <seg ana="#vermilion">vermilion</seg>, et de la <seg ana="#fish_glue">colle
+<lb/>de poisson</seg>, oū aūec de la <seg ana="#hide_glue">colle de cūire</seg>.
 <lb/>retoūrnez cij deūant a la 3. feūls, aū commancement. 
-<lb/>Les bleū tain aūec dū breūn, et dū 
-<lb/>palle bleū dempois, le cambraij se detain 
+<lb/>Les bleū <seg ana="#dyeing">tain</seg> aūec dū breūn, et dū 
+<lb/><seg ana="#starch_blue">palle bleū dempois</seg>, le <seg ana="#cambric">cambraij</seg> se <seg ana="#undyeing">detain</seg> 
 <lb/>aūec de l’eaū for chaūde, la valeūr dūne
-<lb/>pinte, il faūt le changer dans trois oū 
-<lb/>qūatre eaū chaūde, et on le raince une
+<lb/><seg ana="#pint">pinte</seg>, il faūt le changer dans trois oū 
+<lb/>qūatre eaū chaūde, et on le <seg ana="#rinsing">raince</seg> une
 <lb/>foie dans l’eaū froide, ensūite on verse
 <lb/>toūs le eaū ensemble en les toūlliant ~
 <lb/>for en versent, affin qūe le bleū soit ~
@@ -25,5 +26,6 @@
 <lb/>sūr la fin, qūand l’ong voie qūe le bleū 
 <lb/>vien aūec l’eaū, aūant de la toūs jetter enūoie
 </ab>
+</div>
 
 </div></body></text>

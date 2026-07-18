@@ -1,22 +1,24 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f158"/>
+<div ana="#paper #celery #grinding #mortar #wringing #verdigris #boiling #melting #tartar #table #board #knife #painting #drying #egg_white">
 <ab>
-<lb/>om groen Papier te maeken
-<lb/>Nemt het groen van siederi het jeugdigste al de rebben
-<lb/>uyt gedaen dan gestampt in Mortier dan uyt
-<lb/>gevrongen en dan wederom gestampt toe drye mal
-<lb/>toe, nemt dan spaens groen en doet het in het sop
-<lb/>tot dat het gesmoltens is, doet daer soo veele in als
+<lb/>om groen <seg ana="#paper">Papier</seg> te maeken
+<lb/>Nemt het groen van <seg ana="#celery">siederi</seg> het jeugdigste al de rebben
+<lb/>uyt gedaen dan <seg ana="#grinding">gestampt</seg> in <seg ana="#mortar">Mortier</seg> dan <seg ana="#wringing">uyt
+<lb/>gevrongen</seg> en dan wederom <seg ana="#grinding">gestampt</seg> toe drye mal
+<lb/>toe, nemt dan <seg ana="#verdigris">spaens groen</seg> en doet het in het sop
+<lb/>tot dat het <seg ana="#melting">gesmoltens</seg> is, doet daer soo veele in als
 <lb/>dat het ue wilt groene hebben hoe meer groen hoe
-<lb/>ooger couleur ook een weinig wijn steen van tyd
-<lb/>tot tyd roeren tot dat het heel gesmolten is, nemt
-<lb/>dan het papier en legt het op een tafel of bert, nemt
-<lb/>dan een schilder c[ou]s[t]elken en strick het daer over
-<lb/>den eenen kant gedaen sijnde ank het te drogen
+<lb/>ooger couleur ook een weinig <seg ana="#tartar">wijn steen</seg> van tyd
+<lb/>tot tyd roeren tot dat het heel <seg ana="#melting">gesmolten</seg> is, nemt
+<lb/>dan het <seg ana="#paper">papier</seg> en legt het op een <seg ana="#table">tafel</seg> of <seg ana="#board">bert</seg>, nemt
+<lb/>dan een schilder <seg ana="#knife">c[ou]s[t]elken</seg> en <seg ana="#painting">strick</seg> het daer over
+<lb/>den eenen kant gedaen sijnde ank het te <seg ana="#drying">drogen</seg>
 <lb/>en wel droge synde doet dan en anderen kant en
 <lb/>dat soo dikmals tot dat het groene genoeg is
-<lb/>volgens ue gouste d nemt dan wit van eyeren en
-<lb/>strikt het daer over om den glans te geven als
+<lb/>volgens ue gouste d nemt dan <seg ana="#egg_white">wit van eyeren</seg> en
+<lb/><seg ana="#painting">strikt</seg> het daer over om den glans te geven als
 <lb/>het wel drooge is
 </ab>
+</div>
 
 </div></body></text>

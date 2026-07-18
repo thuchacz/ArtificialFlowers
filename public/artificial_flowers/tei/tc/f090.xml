@@ -1,6 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f090"/>
+<div ana="#pattern">
 <ab>
-<lb/>patron
+<lb/><seg ana="#pattern">patron</seg>
 </ab>
+</div>
 
 </div></body></text>

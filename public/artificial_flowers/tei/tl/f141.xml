@@ -1,6 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f141"/>
+<div ana="#undyeing #lake_pigment #paper #dyeing">
 <ab>
-<lb/>And the brightest is for dyeing paper
+<lb/>And the brightest is for <seg ana="#dyeing">dyeing</seg> <seg ana="#paper">paper</seg>
 </ab>
+</div>
 
 </div></body></text>

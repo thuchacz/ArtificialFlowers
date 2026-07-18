@@ -1,23 +1,25 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f012"/>
+<div ana="#anemone #ranunculus #mussel_shell #red_lead #grinding #marble_slab #glass_vessel #hide_glue #vermilion #cambric #pressing #dyeing #muslin #toile #drying #cutting #leaf #carmine">
 <ab>
-<lb/>For making more pansy; for making alimon,
-<lb/>and ranunculus; one needs to take, three mussel shells
-<lb/>full of mien rouge [my red? Same red?], one needs to rub it well
-<lb/>with a piece of marble, on top of some marble or some gres [sandstone?];
-<lb/>being well rubbed; one needs to throw it in a glass, or the 
-<lb/>third part of a glass, of the hide glue, with a 
-<lb/>mussel shell full of vermillion, one needs to 
+<lb/>For making more pansy; for making <seg ana="#anemone">alimon</seg>,
+<lb/>and <seg ana="#ranunculus">ranunculus</seg>; one needs to take, three <seg ana="#mussel_shell">mussel shells</seg>
+<lb/>full of <seg ana="#red_lead">mien rouge</seg> [my red? Same red?], one needs to <seg ana="#grinding">rub</seg> it well
+<lb/>with a piece of <seg ana="#marble_slab">marble</seg>, on top of some <seg ana="#marble_slab">marble</seg> or some gres [sandstone?];
+<lb/>being well <seg ana="#grinding">rubbed</seg>; one needs to throw it in a <seg ana="#glass_vessel">glass</seg>, or the 
+<lb/>third part of a <seg ana="#glass_vessel">glass</seg>, of the <seg ana="#hide_glue">hide glue</seg>, with a 
+<lb/><seg ana="#mussel_shell">mussel shell</seg> full of <seg ana="#vermilion">vermillion</seg>, one needs to 
 <lb/>stir it well, and to mix it together; next on needs to throw
-<lb/>the white cambric into the glue, and turn it well, and
-<lb/>press it well, and return it in the hands, rubbing it a 
-<lb/>little, in order that the dye will be well penetrated, and that
-<lb/>the cambric, muslin; and toile will be a good red;
-<lb/>after that, one needs to squeeze the glue, and dye
+<lb/>the white <seg ana="#cambric">cambric</seg> into the <seg ana="#hide_glue">glue</seg>, and turn it well, and
+<lb/><seg ana="#pressing">press</seg> it well, and return it in the hands, rubbing it a 
+<lb/>little, in order that the <seg ana="#dyeing">dye</seg> will be well penetrated, and that
+<lb/>the <seg ana="#cambric">cambric</seg>, <seg ana="#muslin">muslin</seg>; and <seg ana="#toile">toile</seg> will be a good red;
+<lb/>after that, one needs to <seg ana="#pressing">squeeze</seg> the <seg ana="#hide_glue">glue</seg>, and <seg ana="#dyeing">dye</seg>
 <lb/>within, so well that it stays reasonably well wetted,
-<lb/>then one needs to hang in the attic; and being dry,
-<lb/>the toile, cambric, and muslin; being cut into
-<lb/>leaves, one needs to put a clear carmine on it; that 
+<lb/>then one needs to hang in the attic; and being <seg ana="#drying">dry</seg>,
+<lb/>the <seg ana="#toile">toile</seg>, <seg ana="#cambric">cambric</seg>, and <seg ana="#muslin">muslin</seg>; being <seg ana="#cutting">cut</seg> into
+<lb/><seg ana="#leaf">leaves</seg>, one needs to put a clear <seg ana="#carmine">carmine</seg> on it; that 
 <lb/>you see to be a very beautiful color to your liking;
 </ab>
+</div>
 
 </div></body></text>

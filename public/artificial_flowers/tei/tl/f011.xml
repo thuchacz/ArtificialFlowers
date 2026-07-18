@@ -1,28 +1,30 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f011"/>
+<div ana="#starch_blue #anemone #cutting #tracing #carmine #lacmus #grinding #cloth #soaking #boiling #pint #rainwater #pressing #stick #cambric #toile #cord #drying #fish_glue #hide_glue">
 <ab>
-<lb/>The brown-blue and pale blue for
-<lb/>archbishops, once cut, one needs to trace
-<lb/>them with carmine.
+<lb/>The <seg ana="#starch_blue">brown-blue</seg> and <seg ana="#starch_blue">pale blue</seg> for
+<lb/><seg ana="#anemone">archbishops</seg>, once <seg ana="#cutting">cut</seg>, one needs to <seg ana="#tracing">trace</seg>
+<lb/>them with <seg ana="#carmine">carmine</seg>.
 <lb/>Another blue that one uses for
-<lb/>the underside of archbishops, which one sees
+<lb/>the underside of <seg ana="#anemone">archbishops</seg>, which one sees
 <lb/>hardly at all because the colors are not worth anything
 <lb/>even though they are beautiful in appearance. 
-<lb/>One needs to take a square or two of lacmus
-<lb/>that one pounds, well bound in a good
-<lb/>cloth, then put it to soak for one day and one
-<lb/>night. Next, you boil it with a
-<lb/>pint and a half of rainwater, better too little than
-<lb/>too much. Pressing the cloth with a stick
+<lb/>One needs to take a square or two of <seg ana="#lacmus">lacmus</seg>
+<lb/>that one <seg ana="#grinding">pounds</seg>, well bound in a good
+<lb/><seg ana="#cloth">cloth</seg>, then put it to <seg ana="#soaking">soak</seg> for one day and one
+<lb/>night. Next, you <seg ana="#boiling">boil</seg> it with a
+<lb/><seg ana="#pint">pint</seg> and a half of <seg ana="#rainwater">rainwater</seg>, better too little than
+<lb/>too much. <seg ana="#pressing">Pressing</seg> the <seg ana="#cloth">cloth</seg> with a <seg ana="#stick">stick</seg>
 <lb/>where it is blue, and inside, so that all of the blue
-<lb/>leaves it. Then one needs to put the cambric or
-<lb/>the cloths in the soup to boil together.
-<lb/>Being boiled a little, one needs to take it
-<lb/>out of the soup and hang it over cords.
-<lb/>Being dry, if they are plainly not blue
+<lb/>leaves it. Then one needs to put the <seg ana="#cambric">cambric</seg> or
+<lb/>the <seg ana="#toile">cloths</seg> in the soup to <seg ana="#boiling">boil</seg> together.
+<lb/>Being <seg ana="#boiling">boiled</seg> a little, one needs to take it
+<lb/>out of the soup and hang it over <seg ana="#cord">cords</seg>.
+<lb/>Being <seg ana="#drying">dry</seg>, if they are plainly not blue
 <lb/>enough, one can plunge them again
 <lb/>in the same soup, and that several times
-<lb/>if there is need. Being dry, one
-<lb/>puts them in fish glue or hide glue.
+<lb/>if there is need. Being <seg ana="#drying">dry</seg>, one
+<lb/>puts them in <seg ana="#fish_glue">fish glue</seg> or <seg ana="#hide_glue">hide glue</seg>.
 </ab>
+</div>
 
 </div></body></text>

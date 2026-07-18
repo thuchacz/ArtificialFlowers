@@ -1,8 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f086"/>
+<div ana="#tracing #branch">
 <ab>
-<lb/>chaqūe sorte de fleūres doit estres tirez dans sa branche, et le
+<lb/>chaqūe sorte de fleūres doit estres <seg ana="#tracing">tirez</seg> dans sa <seg ana="#branch">branche</seg>, et le
 <lb/>St. non de jesūs de l’aūtres coté dū tabelaūx, egallement
 <lb/>MR
 </ab>
+</div>
 
 </div></body></text>

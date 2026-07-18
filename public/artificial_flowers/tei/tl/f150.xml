@@ -1,8 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f150"/>
+<div ana="#alum #cochineal #tartar #grinding #dyeing #horn">
 <ab>
-<lb/>Red alum, [illeg.], cochenille tartar, all well pounded,
-<lb/>to dye the color pink on white horn that you see here,
+<lb/>Red <seg ana="#alum">alum</seg>, [illeg.], <seg ana="#cochineal">cochenille</seg> <seg ana="#tartar">tartar</seg>, all well <seg ana="#grinding">pounded</seg>,
+<lb/>to <seg ana="#dyeing">dye</seg> the color pink on white <seg ana="#horn">horn</seg> that you see here,
 <lb/>that is ordinarily sold by the merchant. ~
 </ab>
+</div>
 
 </div></body></text>

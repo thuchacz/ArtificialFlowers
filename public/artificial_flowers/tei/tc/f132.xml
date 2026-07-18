@@ -1,7 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f132"/>
+<div ana="#stone_weight #butter">
 <ab>
 <lb/>St godelieve
-<lb/>17 ½ 	Steen Boter.
+<lb/>17 ½ 	<seg ana="#stone_weight">Steen</seg> <seg ana="#butter">Boter</seg>.
 </ab>
+</div>
 
 </div></body></text>

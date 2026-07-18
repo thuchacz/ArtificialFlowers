@@ -1,28 +1,30 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f168"/>
+<div ana="#vierendeel #copperas #boiling #bucket #urine #vat #ounce #indigo #potash #grinding #pot #pint #rainwater #madder #handful #lime #brandy #stuiver #weit #pound #gallnut #sumac #wool #provence_wood">
 <ab>
 <lb/>[NB: top line has been cut off; descenders visible]
-<lb/>en een vierendeel Cooperoot en laet
-<lb/>het sien naer ū ghenoegen
+<lb/>en een <seg ana="#vierendeel">vierendeel</seg> <seg ana="#copperas">Cooperoot</seg> en laet
+<lb/>het <seg ana="#boiling">sien</seg> naer ū ghenoegen
 <lb/>om Blaūw
-<lb/>Doet drije hemers pisse warme gietet
-<lb/>het dan in een vat dat wel schoon is
-<lb/>neemt dan thien oncen Indigo en drije
-<lb/>vierendeel pot asschen fin gestooten
-<lb/>doet het troocken in een nieūwe pot, met
-<lb/>twee pinten regen waeter, giet het daen
-<lb/>in, doet daer ses oncen crap in doet daer
-<lb/>twee handen vol calck in laet het daen
+<lb/>Doet drije <seg ana="#bucket">hemers</seg> <seg ana="#urine">pisse</seg> warme gietet
+<lb/>het dan in een <seg ana="#vat">vat</seg> dat wel schoon is
+<lb/>neemt dan thien <seg ana="#ounce">oncen</seg> <seg ana="#indigo">Indigo</seg> en drije
+<lb/><seg ana="#vierendeel">vierendeel</seg> <seg ana="#potash">pot asschen</seg> fin <seg ana="#grinding">gestooten</seg>
+<lb/>doet het troocken in een nieūwe <seg ana="#pot">pot</seg>, met
+<lb/>twee <seg ana="#pint">pinten</seg> <seg ana="#rainwater">regen waeter</seg>, giet het daen
+<lb/>in, doet daer ses <seg ana="#ounce">oncen</seg> <seg ana="#madder">crap</seg> in doet daer
+<lb/>twee <seg ana="#handful">handen vol</seg> <seg ana="#lime">calck</seg> in laet het daen
 <lb/>rūsten acht of neghen daghen, soo het
 <lb/>dan niet en weercht doeter dan een
-<lb/>alf pinte Brandwin en een stūijver weit
+<lb/>alf <seg ana="#pint">pinte</seg> <seg ana="#brandy">Brandwin</seg> en een <seg ana="#stuiver">stūijver</seg> <seg ana="#weit">weit</seg>
 <lb/>om swaert
-<lb/>tot 14 een alf pont galnooten, een alf
-<lb/>pont crap en 2 pont smack laet het
-<lb/>koocke en heūr, ~ Neemt de wollen vyt
+<lb/>tot 14 een alf <seg ana="#pound">pont</seg> <seg ana="#gallnut">galnooten</seg>, een alf
+<lb/><seg ana="#pound">pont</seg> <seg ana="#madder">crap</seg> en 2 <seg ana="#pound">pont</seg> <seg ana="#sumac">smack</seg> laet het
+<lb/><seg ana="#boiling">koocke</seg> en heūr, ~ Neemt de <seg ana="#wool">wollen</seg> vyt
 <lb/>om te vercoelen, neemt met het selfde
-<lb/>waeter een alf pont provintie hoūdt
-<lb/>met 3 pont cooperoot en laet het noch
-<lb/>ander alūe heūre kocke ~~
+<lb/>waeter een alf <seg ana="#pound">pont</seg> <seg ana="#provence_wood">provintie hoūdt</seg>
+<lb/>met 3 <seg ana="#pound">pont</seg> <seg ana="#copperas">cooperoot</seg> en laet het noch
+<lb/>ander alūe heūre <seg ana="#boiling">kocke</seg> ~~
 </ab>
+</div>
 
 </div></body></text>

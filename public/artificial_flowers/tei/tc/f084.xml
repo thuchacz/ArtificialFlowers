@@ -1,11 +1,13 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f084"/>
+<div ana="#pattern #painting">
 <ab>
-<lb/>patron
+<lb/><seg ana="#pattern">patron</seg>
 <lb/>MR
 <lb/>le saint non de jesūs, pūis
-<lb/>estre pintūrez, a l’aūtre coté dū tablaū, de
+<lb/>estre <seg ana="#painting">pintūrez</seg>, a l’aūtre coté dū tablaū, de
 <lb/>la meme maniere, aūec d’aūtres fleūrs s’il en et
 <lb/>besoin..~
 </ab>
+</div>
 
 </div></body></text>

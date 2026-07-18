@@ -1,0 +1,30 @@
+#cloud-config
+# Provisions the ArtificialFlowers test-site droplet at creation time.
+package_update: true
+packages:
+  - nginx
+write_files:
+  - path: /etc/nginx/sites-available/artificialflowers
+    content: |
+      server {
+          listen 80 default_server;
+          listen [::]:80 default_server;
+          server_name _;
+
+          root /var/www;
+
+          location = / {
+              return 302 /ArtificialFlowers/;
+          }
+
+          location /ArtificialFlowers/ {
+              alias /var/www/ArtificialFlowers/;
+              index index.html;
+              try_files $uri $uri/ =404;
+          }
+      }
+runcmd:
+  - mkdir -p /var/www/ArtificialFlowers
+  - rm -f /etc/nginx/sites-enabled/default
+  - ln -sf /etc/nginx/sites-available/artificialflowers /etc/nginx/sites-enabled/artificialflowers
+  - nginx -t && systemctl reload nginx

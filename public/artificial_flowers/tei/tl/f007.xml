@@ -1,34 +1,36 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f007"/>
+<div ana="#glass_vessel #fish_glue #starch #starch_blue #cambric #pressing #cord #pin #toile #jasmine #drop #gamboge #carmine #carnation #bottle_green">
 <ab>
-<lb/>half a glass of fish glue, then
-<lb/>mix well and break the starch white into the glue. Next one
-<lb/>needs to put the starch brown-blue in it, and mix it well. Then plunge
-<lb/>the cambric immediately into the soup, until the soup becomes completely penetrated
-<lb/>into the cambric but very well wet. One needs to open it well, and press, and
-<lb/>turn it over, and rub it a bit, many times, so that the white becomes well
-<lb/>penetrated into the cambric. From there, attach it to a cord with pins.~~
-<lb/>but if the cord is made of horse hair, it is enough to
+<lb/>half a <seg ana="#glass_vessel">glass</seg> of <seg ana="#fish_glue">fish glue</seg>, then
+<lb/>mix well and break the <seg ana="#starch">starch white</seg> into the <seg ana="#fish_glue">glue</seg>. Next one
+<lb/>needs to put the <seg ana="#starch_blue">starch brown-blue</seg> in it, and mix it well. Then plunge
+<lb/>the <seg ana="#cambric">cambric</seg> immediately into the soup, until the soup becomes completely penetrated
+<lb/>into the <seg ana="#cambric">cambric</seg> but very well wet. One needs to open it well, and <seg ana="#pressing">press</seg>, and
+<lb/>turn it over, and rub it a bit, many times, so that the <seg ana="#starch">white</seg> becomes well
+<lb/>penetrated into the <seg ana="#cambric">cambric</seg>. From there, attach it to a <seg ana="#cord">cord</seg> with <seg ana="#pin">pins</seg>.~~
+<lb/>but if the <seg ana="#cord">cord</seg> is made of horse hair, it is enough to
 <lb/>hang it, taking care that the end from which it hangs
 <lb/>does not attach itself together. This command must be
 <lb/>observed for all other colors.
-<lb/>To make yellowish cloths for 
-<lb/>jasmine and other flowers, one needs to put
-<lb/>with this starch white and fish glue
-<lb/>three or four drops of gamboge
+<lb/>To make yellowish <seg ana="#toile">cloths</seg> for 
+<lb/><seg ana="#jasmine">jasmine</seg> and other flowers, one needs to put
+<lb/>with this <seg ana="#starch">starch white</seg> and <seg ana="#fish_glue">fish glue</seg>
+<lb/>three or four <seg ana="#drop">drops</seg> of <seg ana="#gamboge">gamboge</seg>
 <lb/>To make some reddish ones
 <lb/>One needs
-<lb/>to take starch white, fish glue,
-<lb/>and three or four drops of carmine. This
-<lb/>kind of cambric is used to make carnations
+<lb/>to take <seg ana="#starch">starch white</seg>, <seg ana="#fish_glue">fish glue</seg>,
+<lb/>and three or four <seg ana="#drop">drops</seg> of <seg ana="#carmine">carmine</seg>. This
+<lb/>kind of <seg ana="#cambric">cambric</seg> is used to make <seg ana="#carnation">carnations</seg>
 <lb/>and other flowers
-<lb/>Cloths of this sort can be green
+<lb/><seg ana="#toile">Cloths</seg> of this sort can be green
 <lb/>One makes them
-<lb/>as above, by pouring a few drops from
-<lb/>the bottle in which there is green. And if
+<lb/>as above, by pouring a few <seg ana="#drop">drops</seg> from
+<lb/>the bottle in which there is <seg ana="#bottle_green">green</seg>. And if
 <lb/>you want to have yellowish color, you put throughout
-<lb/>the glue and the green one drop or two of
-<lb/>gamboge.
-<lb/>Blue cambric is made with starch brown-blue
+<lb/>the <seg ana="#fish_glue">glue</seg> and the <seg ana="#bottle_green">green</seg> one <seg ana="#drop">drop</seg> or two of
+<lb/><seg ana="#gamboge">gamboge</seg>.
+<lb/>Blue <seg ana="#cambric">cambric</seg> is made with <seg ana="#starch_blue">starch brown-blue</seg>
 </ab>
+</div>
 
 </div></body></text>

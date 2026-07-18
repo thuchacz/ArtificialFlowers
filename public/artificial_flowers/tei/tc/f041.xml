@@ -1,25 +1,27 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f041"/>
+<div ana="#dyeing #drying #painting #paper #vermilion #egg_white #red_lead #sponge">
 <ab>
-<lb/>petit morcaūx. d’eponge, et roūgir le papiez aūec; 
-<lb/>il faūt faire vostre posible, afin qūe le papiez
-<lb/>soit baūx roūge assez, estant roūgie deūx fois, 
+<lb/>petit morcaūx. <seg ana="#sponge">d’eponge</seg>, et <seg ana="#dyeing">roūgir</seg> le <seg ana="#paper">papiez</seg> aūec; 
+<lb/>il faūt faire vostre posible, afin qūe le <seg ana="#paper">papiez</seg>
+<lb/>soit baūx roūge assez, estant <seg ana="#dyeing">roūgie</seg> deūx fois, 
 <lb/>a chaqūe cotez; lons passe desūr aūssi, estant 
-<lb/>sesqūe, aūec un petit morcaūx d’eponge le blan
-<lb/>d’oeūf; for legerrement, deūx fois a chaqūe
-<lb/>côtez; le blan d’oeūf, doit estre bien batūe, aūant
+<lb/><seg ana="#drying">sesqūe</seg>, aūec un petit morcaūx <seg ana="#sponge">d’eponge</seg> le <seg ana="#egg_white">blan
+<lb/>d’oeūf</seg>; for legerrement, deūx fois a chaqūe
+<lb/>côtez; le <seg ana="#egg_white">blan d’oeūf</seg>, doit estre bien batūe, aūant
 <lb/>de voūs en serūir; et sa generallement poūr toūtes
 <lb/>les coūleūrs, qūe voūs faite aūec; ~~
 <lb/>Notez qūand voūs voiez, qūe la taintūr deūien
 <lb/>trop epess, il faūt verser un peūt d’eaū desūr; 
 <lb/>et faire comme sa de tans, en tans; si voūs le 
 <lb/>troūūez necessaire; il faūt faire comme sa aūssi 
-<lb/>aūec le papiez fait aūec dū vermillion seūlle; 
+<lb/>aūec le <seg ana="#paper">papiez</seg> fait aūec dū <seg ana="#vermilion">vermillion</seg> seūlle; 
 <lb/>Notez a cette ✠ ce qūils est ecrie dans les neūf 
-<lb/>premiere ling, poūr faire dū papiez roūge aūec dū
-<lb/>vermilion; cela est poūr paintūrer de fleūrs desūr le 
-<lb/>papiez et cela sans sa serūirre de blan d’oeūf; Me
-<lb/>poūr faire le papiez roūge aūec dū vermilion seūlle;
-<lb/>il faūt faire toūs comme il est melez, aūec de la mein ◆
+<lb/>premiere ling, poūr faire dū <seg ana="#paper">papiez</seg> roūge aūec dū
+<lb/><seg ana="#vermilion">vermilion</seg>; cela est poūr <seg ana="#painting">paintūrer</seg> de fleūrs desūr le 
+<lb/><seg ana="#paper">papiez</seg> et cela sans sa serūirre de <seg ana="#egg_white">blan d’oeūf</seg>; Me
+<lb/>poūr faire le <seg ana="#paper">papiez</seg> roūge aūec dū <seg ana="#vermilion">vermilion</seg> seūlle;
+<lb/>il faūt faire toūs comme il est melez, aūec de la <seg ana="#red_lead">mein</seg> ◆
 </ab>
+</div>
 
 </div></body></text>

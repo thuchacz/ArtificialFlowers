@@ -1,19 +1,21 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f023"/>
+<div ana="#dyeing #washing #pressing #rinsing #cambric #earthenware_pot">
 <ab>
-<lb/>the soup that has been pressed outside of it, and 
-<lb/>that into an earthenware pot also; next
+<lb/>the soup that has been <seg ana="#pressing">pressed</seg> outside of it, and 
+<lb/>that into an <seg ana="#earthenware_pot">earthenware pot</seg> also; next
 <lb/>one needs to do with [this], as you have
 <lb/>done at first; that sometimes gives
-<lb/>color; after you have washed
-<lb/>the cambric in this soup; one needs to 
+<lb/>color; after you have <seg ana="#washing">washed</seg>
+<lb/>the <seg ana="#cambric">cambric</seg> in this soup; one needs to 
 <lb/>throw it, in the soup of the first color;
 <lb/>but only, when all the
 <lb/>first colors have been removed; likewise
-<lb/>also, all of the rinse : ~~
+<lb/>also, all of the <seg ana="#rinsing">rinse</seg> : ~~
 <lb/>so well, that this color there, does
-<lb/>not need to be rinsed until after all the
+<lb/>not need to be <seg ana="#rinsing">rinsed</seg> until after all the
 <lb/>other pink colors, also;~
-<lb/>one needs to wash it well, in the rinse;~
+<lb/>one needs to <seg ana="#washing">wash</seg> it well, in the <seg ana="#rinsing">rinse</seg>;~
 </ab>
+</div>
 
 </div></body></text>

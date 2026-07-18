@@ -1,13 +1,15 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl"><body><div><pb facs="#f026"/>
+<div ana="#dyeing #dipping #pressing #soaking #rinsing #cambric #verjuice #lemon #pint">
 <ab>
-<lb/>Note a half pint of verjus, more or less; ∞&amp;
-<lb/>in hauling it up, so that one sees the quantity of cambric, is ~
-<lb/>enough to plunge the cambric of the pink color;∞
-<lb/>and if you have the soup of a lemon, or two, you∞
-<lb/>can press the soup all out of it, into the verjus~
-<lb/>also; ( but one needs to take care to never soak the 
-<lb/>cambric in verjus after it is rinsed, for reason
+<lb/>Note a half <seg ana="#pint">pint</seg> of <seg ana="#verjuice">verjus</seg>, more or less; ∞&amp;
+<lb/>in hauling it up, so that one sees the quantity of <seg ana="#cambric">cambric</seg>, is ~
+<lb/>enough to <seg ana="#dipping">plunge</seg> the <seg ana="#cambric">cambric</seg> of the pink color;∞
+<lb/>and if you have the soup of a <seg ana="#lemon">lemon</seg>, or two, you∞
+<lb/>can <seg ana="#pressing">press</seg> the soup all out of it, into the <seg ana="#verjuice">verjus</seg>~
+<lb/>also; ( but one needs to take care to never <seg ana="#soaking">soak</seg> the 
+<lb/><seg ana="#cambric">cambric</seg> in <seg ana="#verjuice">verjus</seg> after it is <seg ana="#rinsing">rinsed</seg>, for reason
 <lb/>that this spoils the colors in little time; ( I believe =
 </ab>
+</div>
 
 </div></body></text>

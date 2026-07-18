@@ -1,34 +1,36 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f160"/>
+<div ana="#dyeing #pound #verdigris #kanne #rainwater #vierendeel #tartar #spoon #grinding #alum #soaking #bucket #pan #skimming #boiling #sap_green #knife #paper #dish">
 <ab>
 <lb/>w
-<lb/>om Groene Verwe te macken
-<lb/>Voor een alf pont spans groen
-<lb/>men nempt twee kannen reghen
-<lb/>water, en doet daer in, een alf
-<lb/>vierendeel witte wijnsteen, en
-<lb/>een teenne lepel gestamten olūn
-<lb/>laet dat soo eenen nacht wecken
-<lb/>in eenen coperen acker ofte panne, en het
-<lb/>moet geschūmt wesen, het
-<lb/>moet vercoken tot op den helft,
-<lb/>en men doet het sap groen daer
+<lb/>om Groene <seg ana="#dyeing">Verwe</seg> te macken
+<lb/>Voor een alf <seg ana="#pound">pont</seg> <seg ana="#verdigris">spans groen</seg>
+<lb/>men nempt twee <seg ana="#kanne">kannen</seg> <seg ana="#rainwater">reghen
+<lb/>water</seg>, en doet daer in, een alf
+<lb/><seg ana="#vierendeel">vierendeel</seg> witte <seg ana="#tartar">wijnsteen</seg>, en
+<lb/>een teenne <seg ana="#spoon">lepel</seg> <seg ana="#grinding">gestamten</seg> <seg ana="#alum">olūn</seg>
+<lb/>laet dat soo eenen nacht <seg ana="#soaking">wecken</seg>
+<lb/>in eenen coperen <seg ana="#bucket">acker</seg> ofte <seg ana="#pan">panne</seg>, en het
+<lb/>moet <seg ana="#skimming">geschūmt</seg> wesen, het
+<lb/>moet <seg ana="#boiling">vercoken</seg> tot op den helft,
+<lb/>en men doet het <seg ana="#sap_green">sap groen</seg> daer
 <lb/>in als het maer bloet waerme
 <lb/>en is
-<lb/>het spans groen is van sij selven
-<lb/>bloūw men nemt het sap groen op den
-<lb/>point van een mes,
+<lb/>het <seg ana="#verdigris">spans groen</seg> is van sij selven
+<lb/>bloūw men nemt het <seg ana="#sap_green">sap groen</seg> op den
+<lb/>point van een <seg ana="#knife">mes</seg>,
 <lb/>en vriest dat an den kant
-<lb/>van ū panne, in het spans groen tot dat
+<lb/>van ū <seg ana="#pan">panne</seg>, in het <seg ana="#verdigris">spans groen</seg> tot dat
 <lb/>het groene genouch is, maer en moght
 <lb/>daer niet te veele in doen, ghij moet
-<lb/>dat proberen op pampier tot dat het
+<lb/>dat proberen op <seg ana="#paper">pampier</seg> tot dat het
 <lb/>couleūr naer ul gouste is,
 <lb/>~~~~~~
-<lb/>en waertsacke dat in het verūwen
-<lb/>van ul pampier ghij saght dat het
+<lb/>en waertsacke dat in het <seg ana="#dyeing">verūwen</seg>
+<lb/>van ul <seg ana="#paper">pampier</seg> ghij saght dat het
 <lb/>wat te blouwendigh is ul en moet
-<lb/>maer wat groene verwe in een schote[-]
-<lb/>lken doen en wat laeten
+<lb/>maer wat groene <seg ana="#dyeing">verwe</seg> in een <seg ana="#dish">schote[-]
+<lb/>lken</seg> doen en wat laeten
 </ab>
+</div>
 
 </div></body></text>

@@ -1,31 +1,33 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="tc"><body><div><pb facs="#f171"/>
+<div ana="#safflower #bag #pot #rainwater #fountain_water #pint #lye #vine_ash #coverlet #soaking #kneading #handful #wringing #vinegar #dyeing #washing #verjuice #rinsing #drying">
 <ab>
-<lb/>daer naer men treckt het sanfloer ūijt den sack, en doet het
-<lb/>in eenen grooten platten pot, en alst al wel van een gepluckt
-<lb/>is men sproeijt er en weijnig regen of fonteijne waeter
-<lb/>over. dan giet me[n] int sanfloūr een pinte looghe gemachts
-<lb/>van afschen van wijngaert ranken; dan woort de pot ge=
+<lb/>daer naer men treckt het <seg ana="#safflower">sanfloer</seg> ūijt den <seg ana="#bag">sack</seg>, en doet het
+<lb/>in eenen grooten platten <seg ana="#pot">pot</seg>, en alst al wel van een gepluckt
+<lb/>is men sproeijt er en weijnig <seg ana="#rainwater">regen</seg> of <seg ana="#fountain_water">fonteijne waeter</seg>
+<lb/>over. dan giet me[n] int <seg ana="#safflower">sanfloūr</seg> een <seg ana="#pint">pinte</seg> <seg ana="#lye">looghe</seg> gemachts
+<lb/>van <seg ana="#vine_ash">afschen van wijngaert ranken</seg>; dan woort de pot ge=
 <lb/>deckt met eenen anderen van de selve groote, om dat hij
 <lb/>locht en soūde vatten stelt hem in een dūijster plaetse
-<lb/>uel noch een deckkleet daer op, en alsoo laeten trecken
-<lb/>2. heūren, en moet dan gekne[uz]t worden een quaertier lanck
-<lb/>men deūgt het met hantsvollen ūijt, als men niet meer 
-<lb/>nemen en kan giet de reste wederom in den sack, die ūijt
-<lb/>gevrongen wort, in eenen suijveren pot, men bereijt terstont
-<lb/>eenen anderen pot met wat asijn van witte win, daer de stoffe
+<lb/>uel noch een <seg ana="#coverlet">deckkleet</seg> daer op, en alsoo laeten <seg ana="#soaking">trecken</seg>
+<lb/>2. heūren, en moet dan <seg ana="#kneading">gekne[uz]t</seg> worden een quaertier lanck
+<lb/>men deūgt het met <seg ana="#handful">hantsvollen</seg> ūijt, als men niet meer 
+<lb/>nemen en kan giet de reste wederom in den sack, die <seg ana="#wringing">ūijt
+<lb/>gevrongen</seg> wort, in eenen suijveren <seg ana="#pot">pot</seg>, men bereijt terstont
+<lb/>eenen anderen <seg ana="#pot">pot</seg> met wat <seg ana="#vinegar">asijn van witte win</seg>, daer de stoffe
 <lb/>in wort nat gemackt, wel doordroncken sijnde, men neemt die
-<lb/>altesaemen, geeft die in handen van de persoone die t’sanfloer
-<lb/>gekne'et en ūijtgevrongen heeft; welcke geheel masse haette
-<lb/>lijck in de verwe steekt, de selve wel waschen en'van een
+<lb/>altesaemen, geeft die in handen van de persoone die t’<seg ana="#safflower">sanfloer</seg>
+<lb/><seg ana="#kneading">gekne'et</seg> en <seg ana="#wringing">ūijtgevrongen</seg> heeft; welcke geheel masse haette
+<lb/>lijck in de <seg ana="#dyeing">verwe</seg> steekt, de selve wel <seg ana="#washing">waschen</seg> en'van een
 <lb/>trecken, met eene lichte hant soo gaūw alst mogelijck is.
 <lb/>de stoffe haer coleūr hebbende, wort wederom van stūck tot stūk
-<lb/>gewaschen naer die wel ūijtgedogen t’hebben, steekt ^ die in verjūis 
-<lb/>naer alsvooren uijt gedoūwen sijnde, wort gespoelt in drie of 4. 
-<lb/>potten vervolgende te vooren bereijt met 2. of 3. pinten schoon
-<lb/>regen of fonteine waeter; waer naer men eenige stūcken stoffe
-<lb/>wascht daert t’eeste coleūr in gespoelt is, t’welcke dient
-<lb/>voor bleek coleūr, en wort dan samen gedroogt op den solder.
+<lb/><seg ana="#washing">gewaschen</seg> naer die wel ūijtgedogen t’hebben, steekt ^ die in <seg ana="#verjuice">verjūis</seg> 
+<lb/>naer alsvooren <seg ana="#wringing">uijt gedoūwen</seg> sijnde, wort <seg ana="#rinsing">gespoelt</seg> in drie of 4. 
+<lb/><seg ana="#pot">potten</seg> vervolgende te vooren bereijt met 2. of 3. <seg ana="#pint">pinten</seg> schoon
+<lb/><seg ana="#rainwater">regen</seg> of <seg ana="#fountain_water">fonteine waeter</seg>; waer naer men eenige stūcken stoffe
+<lb/><seg ana="#washing">wascht</seg> daert t’eeste coleūr in <seg ana="#rinsing">gespoelt</seg> is, t’welcke dient
+<lb/>voor bleek coleūr, en wort dan samen <seg ana="#drying">gedroogt</seg> op den solder.
 </ab>
+</div>
 
   </div></body>
       </text>
